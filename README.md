@@ -100,9 +100,9 @@ MIT License
 
 ## 👥 Tác giả
 
-[Đỗ Thanh Tú] - [52200240@student.tdtu.edu.vn]
-[Lê Thành Khang] - [52200161@student.tdtu.edu.vn]
-[Nguyễn Châu Chí Hải] - [52200176@student.tdtu.edu.vn]
+- [Đỗ Thanh Tú] - [52200240@student.tdtu.edu.vn]
+- [Lê Thành Khang] - [52200161@student.tdtu.edu.vn]
+- [Nguyễn Châu Chí Hải] - [52200176@student.tdtu.edu.vn]
 
 ## 🙏 Lời cảm ơn
 
