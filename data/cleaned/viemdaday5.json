@@ -1,0 +1,116 @@
+{
+  "title": "Viêm dạ dày tá tràng",
+  "type": "disease",
+  "topic": "tiêu hóa - dạ dày",
+  "definition": "Viêm dạ dày tá tràng là bệnh lý đường tiêu hóa biểu hiện tình trạng viêm ở niêm mạc ống tiêu hóa đoạn dạ dày và tá tràng. Bệnh xảy ra do sự sụt giảm lớp nhầy bảo vệ, khiến niêm mạc bị acid dịch vị tấn công.",
+  "classification": [
+    "Viêm dạ dày tá tràng cấp tính",
+    "Viêm dạ dày tá tràng mạn tính",
+    "Viêm dạ dày mạn tuýp A (viêm phình vị, liên quan tự miễn)",
+    "Viêm dạ dày mạn tuýp B (viêm phình vị và hang vị, liên quan trào ngược dịch mật)"
+  ],
+  "pathophysiology": [
+    "Giảm thành phần lớp nhầy bảo vệ niêm mạc",
+    "Niêm mạc bị tấn công bởi môi trường acid dịch vị và pepsin",
+    "Vi khuẩn HP làm mỏng lớp nhầy và kích thích tăng tiết acid",
+    "Giảm sản xuất prostaglandin E2 do thuốc kháng viêm",
+    "Dịch mật trào ngược bào mòn bề mặt niêm mạc"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm khuẩn Helicobacter pylori (HP) cấp",
+      "Sử dụng rượu bia, đồ uống có cồn",
+      "Stress bệnh tật nặng (sau phẫu thuật, bỏng, đa chấn thương)",
+      "Ngộ độc thực phẩm hoặc chất kích ứng"
+    ],
+    "chronic": [
+      "Nhiễm vi khuẩn Helicobacter pylori kéo dài",
+      "Lạm dụng thuốc giảm đau NSAIDs và Corticoid thường xuyên",
+      "Căng thẳng thần kinh, stress kéo dài",
+      "Trào ngược dịch mật từ tá tràng lên dạ dày",
+      "Bệnh tự miễn (kháng thể tấn công tế bào niêm mạc)",
+      "Chế độ ăn uống thiếu khoa học (không nhai kỹ, ăn đồ chua cay)",
+      "Tác dụng phụ của xạ trị hoặc hóa trị ung thư"
+    ]
+  },
+  "symptoms": [
+    "Đau vùng thượng vị (trên rốn hoặc dưới xương ức)",
+    "Nóng rát lồng ngực dọc theo xương ức",
+    "Ợ hơi, ợ chua",
+    "Buồn nôn, nôn khan hoặc nôn ra thức ăn lẫn dịch vị",
+    "Xuất huyết tiêu hóa (nôn máu, đi ngoài phân đen, nát, mùi khắm)",
+    "Mệt mỏi, chán ăn, đầy hơi",
+    "Biểu hiện khó tiêu, đầy bụng âm ỉ"
+  ],
+  "complications": [
+    "Thiếu máu thiếu sắt (do giảm hấp thu dinh dưỡng)",
+    "Thiếu máu ác tính (do thiếu vitamin B12 trong viêm tự miễn)",
+    "Xuất huyết tiêu hóa cao",
+    "Loét dạ dày tá tràng",
+    "Thủng dạ dày và viêm phúc mạc",
+    "Nhiễm trùng huyết",
+    "Ung thư dạ dày"
+  ],
+  "diagnosis": [
+    "Nội soi đường tiêu hóa trên (phương pháp quan trọng nhất)",
+    "Test urease và bấm sinh thiết giải phẫu bệnh",
+    "Xét nghiệm máu (tìm kháng thể HP, đánh giá thiếu máu)",
+    "Xét nghiệm phân (tìm kháng nguyên HP, tìm máu ẩn trong phân)",
+    "Xét nghiệm hơi thở (C14UBT) tìm vi khuẩn HP"
+  ],
+  "risk_groups": [
+    "Người nhiễm vi khuẩn HP",
+    "Người lạm dụng thuốc giảm đau NSAIDs, Corticoid",
+    "Người nghiện rượu bia, thuốc lá",
+    "Người bị stress kéo dài hoặc mắc các bệnh tự miễn (Lupus)",
+    "Người sau phẫu thuật lớn, bỏng nặng, đa chấn thương",
+    "Người có tiền sử gia đình mắc ung thư dạ dày"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn uống đúng giờ, không bỏ bữa (đặc biệt bữa sáng)",
+      "Ăn chậm, nhai kỹ, tránh làm việc ngay sau khi ăn",
+      "Giảm stress qua tập yoga, thiền, sắp xếp công việc hợp lý",
+      "Tránh thực phẩm kích thích (ớt, tiêu, giấm, hoa quả quá chua)"
+    ],
+    "medication": [
+      "Thuốc kháng axit (chứa nhôm, magie trung hòa acid)",
+      "Thuốc chống bài tiết acid (kháng histamin H2)",
+      "Thuốc ức chế bơm proton (PPI) như omeprazole, esomeprazole",
+      "Thuốc bảo vệ niêm mạc dạ dày (sucralfat, bismuth)",
+      "Phác đồ kháng sinh diệt HP (phối hợp nhiều loại trong ít nhất 2 tuần)"
+    ],
+    "psychotherapy": [
+      "Điều trị các rối loạn tâm lý liên quan đến stress",
+      "Thư giãn thần kinh để ổn định bài tiết acid"
+    ]
+  },
+  "prevention": [
+    "Hạn chế đồ uống có cồn và thuốc lá",
+    "Xây dựng chế độ ăn uống khoa học, điều độ",
+    "Thận trọng khi dùng thuốc giảm đau, chỉ dùng khi có chỉ dẫn",
+    "Quản lý căng thẳng và sắp xếp thời gian nghỉ ngơi hợp lý",
+    "Vệ sinh ăn uống để tránh nhiễm vi khuẩn HP"
+  ],
+  "when_to_see_doctor": [
+    "Cơn đau thường xuyên, kéo dài gây gầy sút cân",
+    "Đau dữ dội, đột ngột tăng mạnh",
+    "Nôn ra máu hoặc đi ngoài phân đen, phân lẫn máu đỏ",
+    "Có dấu hiệu thiếu máu (chóng mặt, da xanh xao)",
+    "Gia đình có nhiều người mắc bệnh lý dạ dày hoặc ung thư"
+  ],
+  "care_notes": [
+    "Viêm dạ dày cấp có thể biến mất sau vài ngày nên cần nội soi sớm",
+    "Viêm dạ dày mạn tuýp A thường do tự miễn và gây thiếu máu ác tính",
+    "Điều trị HP cần kiên trì theo phác đồ kháng sinh để tránh kháng thuốc",
+    "Thuốc kháng acid chỉ nên dùng hỗ trợ, không thay thế thuốc điều trị đặc hiệu",
+    "Nội soi là tiêu chuẩn vàng để xác định mức độ tổn thương và sàng lọc ung thư"
+  ],
+  "epidemiology": [
+    "Bệnh ngày càng phổ biến ở cả người lớn và trẻ em",
+    "Tỷ lệ biến chứng ung thư cao ở bệnh nhân nhiễm HP lâu ngày",
+    "Gia tăng ở đối tượng có lối sống hiện đại, nhiều áp lực thần kinh"
+  ],
+  "source": "Bệnh viện 30-4 & Nhà thuốc An Khang",
+  "url": "https://www.nhathuocankhang.com/benh/viem-da-day-ta-trang"
+}

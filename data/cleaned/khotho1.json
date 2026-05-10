@@ -1,0 +1,121 @@
+{
+  "title": "Khó thở",
+  "type": "symptom",
+  "topic": "hô hấp - tim mạch",
+  "definition": "Khó thở là cảm giác thở không đủ hơi, thở nặng nhọc hoặc phải gắng sức khi thở, có thể xảy ra khi nghỉ ngơi hoặc khi hoạt động.",
+  "classification": [
+    "Khó thở cấp tính",
+    "Khó thở mạn tính",
+    "Khó thở khi gắng sức",
+    "Khó thở khi nằm",
+    "Khó thở kịch phát"
+  ],
+  "pathophysiology": [
+    "Giảm trao đổi khí tại phổi",
+    "Tắc nghẽn hoặc hẹp đường thở",
+    "Giảm cung lượng tim",
+    "Thiếu oxy trong máu",
+    "Tăng nhu cầu oxy của cơ thể",
+    "Rối loạn điều hòa hô hấp"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn lo âu",
+      "Nhiễm trùng đường hô hấp",
+      "Dị ứng",
+      "Thiếu máu"
+    ],
+    "secondary": [
+      "Viêm phổi",
+      "Hen suyễn",
+      "Bệnh phổi tắc nghẽn mạn tính",
+      "Ung thư phổi",
+      "Thuyên tắc phổi",
+      "Suy tim",
+      "Bệnh mạch vành",
+      "Bệnh lao"
+    ]
+  },
+  "symptoms": [
+    "Khó thở khi nghỉ ngơi hoặc gắng sức",
+    "Thở gấp",
+    "Thở khò khè",
+    "Đau ngực",
+    "Mệt mỏi",
+    "Chóng mặt",
+    "Đổ mồ hôi",
+    "Ho có đờm hoặc ho ra máu",
+    "Sưng chân",
+    "Môi hoặc đầu chi tím tái"
+  ],
+  "complications": [
+    "Suy hô hấp",
+    "Thiếu oxy máu",
+    "Nguy cơ tử vong nếu nặng",
+    "Biến chứng tim phổi",
+    "Ảnh hưởng nghiêm trọng đến chất lượng sống"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Đánh giá mức độ khó thở",
+    "Xét nghiệm máu",
+    "Chụp X-quang phổi",
+    "Đo chức năng hô hấp",
+    "Điện tim"
+  ],
+  "risk_groups": [
+    "Người cao tuổi",
+    "Người hút thuốc",
+    "Người mắc bệnh tim phổi",
+    "Người béo phì",
+    "Người có bệnh mạn tính",
+    "Người ít vận động"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Bỏ thuốc lá",
+      "Tập thể dục đều đặn",
+      "Duy trì cân nặng hợp lý",
+      "Tránh môi trường ô nhiễm",
+      "Ăn uống lành mạnh",
+      "Giảm muối nếu có bệnh tim"
+    ],
+    "medical": [
+      "Thuốc giãn phế quản",
+      "Thuốc chống viêm",
+      "Thuốc điều trị suy tim",
+      "Kháng sinh khi nhiễm trùng",
+      "Liệu pháp oxy",
+      "Phẫu thuật khi cần"
+    ]
+  },
+  "prevention": [
+    "Không hút thuốc",
+    "Tránh tiếp xúc chất độc hại",
+    "Tập luyện thường xuyên",
+    "Kiểm soát cân nặng",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở đột ngột và nặng",
+    "Khó thở khi nghỉ ngơi",
+    "Đau ngực",
+    "Ho ra máu",
+    "Môi hoặc móng tay tím",
+    "Chóng mặt hoặc ngất"
+  ],
+  "care_notes": [
+    "Khó thở có thể là dấu hiệu bệnh nghiêm trọng",
+    "Cần theo dõi triệu chứng đi kèm",
+    "Không tự ý điều trị khi chưa rõ nguyên nhân",
+    "Khám sớm giúp phát hiện bệnh kịp thời"
+  ],
+  "epidemiology": [
+    "Khó thở là triệu chứng phổ biến",
+    "Thường gặp trong bệnh tim và phổi",
+    "Tăng ở người lớn tuổi và người có bệnh nền",
+    "Liên quan đến lối sống và môi trường"
+  ],
+  "source": "Medlatec",
+  "url": "https://medlatec.vn/tin-tuc/kho-tho-la-bieu-hien-cua-nhung-benh-gi-s195-n18268"
+}

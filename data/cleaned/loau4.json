@@ -1,0 +1,128 @@
+{
+  "title": "Rối loạn lo âu",
+  "type": "disorder",
+  "topic": "bệnh tâm thần - tâm lý",
+  "definition": "Rối loạn lo âu là một nhóm các rối loạn tâm thần đặc trưng bởi cảm giác lo âu và sợ hãi quá mức, kéo dài, không tương xứng với mức độ đe dọa thực tế. Tình trạng này gây ảnh hưởng nghiêm trọng đến khả năng thích nghi, sinh hoạt, học tập và làm việc, thường đi kèm với các triệu chứng thần kinh thực vật như hồi hộp, tim đập nhanh và rối loạn giấc ngủ.",
+  "classification": [
+    "Rối loạn lo âu lan tỏa (Generalized Anxiety Disorder - GAD)",
+    "Rối loạn hoảng sợ (Panic Disorder)",
+    "Rối loạn lo âu xã hội (Social Anxiety Disorder)",
+    "Rối loạn ám ảnh sợ hãi đặc hiệu (Specific Phobias)",
+    "Ám ảnh sợ khoảng trống (Agoraphobia)",
+    "Rối loạn lo âu do bệnh lý cơ thể hoặc chất gây nghiện",
+    "Phân biệt với lo âu bình thường: Lo âu bệnh lý thường vô lý, kéo dài và gây suy giảm chức năng xã hội rõ rệt."
+  ],
+  "pathophysiology": [
+    "Rối loạn điều hòa cảm xúc tại hạch hạnh nhân (amygdala) và vỏ nảo trước trán",
+    "Sự mất cân bằng các chất dẫn truyền thần kinh (Serotonin, Norepinephrine, GABA)",
+    "Tăng hoạt động quá mức của hệ thống trục dưới đồi - tuyến yên - tuyến thượng thận (HPA)",
+    "Tăng kích thích hệ thần kinh giao cảm gây ra các triệu chứng cơ thể",
+    "Tăng nhạy cảm với các tín hiệu đe dọa từ môi trường và nội tại cơ thể"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền (gia đình có tiền sử rối loạn tâm thần)",
+      "Đặc điểm nhân cách dễ lo âu, nhạy cảm hoặc cầu toàn",
+      "Sự thay đổi cấu trúc và chức năng các vùng não điều soát cảm xúc"
+    ],
+    "secondary": [
+      "Stress kéo dài do áp lực công việc, tài chính hoặc biến cố gia đình",
+      "Sang chấn tâm lý thời thơ ấu hoặc các sự kiện gây sốc (PTSD)",
+      "Bệnh lý cơ thể mạn tính (Cường giáp, bệnh tim mạch, hen phế quản)",
+      "Sử dụng hoặc cai các chất kích thích (Rượu, ma túy, caffeine liều cao)",
+      "Tác dụng phụ của một số loại thuốc điều trị (Thuốc giãn phế quản, thuốc nội tiết)"
+    ]
+  },
+  "symptoms": {
+    "psychological": [
+      "Lo âu, bồn chồn, cảm giác 'luôn đứng ngồi không yên'",
+      "Khó tập trung, đầu óc đôi khi trống rỗng",
+      "Dễ cáu gắt, nhạy cảm với âm thanh hoặc ánh sáng",
+      "Sợ mất kiểm soát hoặc sợ chết (trong cơn hoảng sợ)",
+      "Ám ảnh về các tình huống xấu có thể xảy ra",
+      "Rối loạn giấc ngủ (khó đi vào giấc ngủ, ngủ không sâu)"
+    ],
+    "physical": [
+      "Hồi hộp, đánh trống ngực, nhịp tim nhanh",
+      "Khó thở, cảm giác nghẹn ở cổ họng hoặc tức ngực",
+      "Vã mồ hôi, run rẩy tay chân",
+      "Căng cứng cơ, đau mỏi vai gáy hoặc đau đầu do căng thẳng",
+      "Rối loạn tiêu hóa (buồn nôn, đau bụng, hội chứng ruột kích thích)",
+      "Chóng mặt, tê bì chân tay hoặc cảm giác châm chích",
+      "Khô miệng và đi tiểu nhiều lần"
+    ]
+  },
+  "complications": [
+    "Trầm cảm thứ phát (chiếm tỷ lệ cao trong các ca lo âu)",
+    "Mất ngủ mạn tính gây suy nhược cơ thể",
+    "Lạm dụng chất gây nghiện (rượu, thuốc an thần) để tự trấn tĩnh",
+    "Rối loạn tiêu hóa và các bệnh lý tim mạch mạn tính",
+    "Cô lập xã hội, mất khả năng duy trì các mối quan hệ và công việc",
+    "Nguy cơ tự sát khi tình trạng lo âu đi kèm trầm cảm nặng"
+  ],
+  "diagnosis": [
+    "Phỏng vấn lâm sàng tâm lý dựa trên tiêu chuẩn DSM-5 hoặc ICD-10",
+    "Đánh giá thời gian: Triệu chứng lo âu kéo dài ít nhất 6 tháng (với GAD)",
+    "Sử dụng các thang đo tâm lý (GAD-7, HAM-A, Zung Anxiety Scale)",
+    "Khám thực thể và xét nghiệm máu để loại trừ bệnh lý nội tiết (cường giáp) hoặc tim mạch",
+    "Đánh giá tiền sử sử dụng thuốc và chất kích thích"
+  ],
+  "risk_groups": [
+    "Phụ nữ (có tỷ lệ mắc cao hơn nam giới)",
+    "Người trải qua các biến cố lớn hoặc sang chấn tâm lý",
+    "Người có bệnh lý mạn tính gây đau đớn hoặc hạn chế vận động",
+    "Người có người thân trực hệ mắc các rối loạn lo âu hoặc trầm cảm",
+    "Người lạm dụng rượu, ma túy hoặc thường xuyên chịu áp lực cao"
+  ],
+  "treatment": {
+    "psychotherapy": [
+      "Liệu pháp Nhận thức Hành vi (CBT) - là tiêu chuẩn vàng",
+      "Liệu pháp phơi nhiễm (Exposure therapy) cho các ám ảnh sợ hãi",
+      "Liệu pháp thư giãn, tập thở sâu và chánh niệm (Mindfulness)",
+      "Giáo dục tâm lý cho bệnh nhân và gia đình về bản chất rối loạn"
+    ],
+    "medication": [
+      "Thuốc chống trầm cảm nhóm SSRI (Sertraline, Escitalopram) hoặc SNRI",
+      "Benzodiazepine (Dùng ngắn hạn trong giai đoạn lo âu cấp tính)",
+      "Thuốc chẹn Beta (Propranolol) để kiểm soát triệu chứng tim đập nhanh",
+      "Buspirone để điều trị lo âu lan tỏa kéo dài",
+      "Bổ sung các vi chất hỗ trợ thần kinh (Magie, Vitamin nhóm B)"
+    ],
+    "acute_management": [
+      "Kỹ thuật thở bụng (thở chậm) để giảm tình trạng tăng thông khí",
+      "Trấn an tinh thần, giải thích rằng cơn hoảng sợ sẽ tự qua đi",
+      "Sử dụng thuốc giải lo âu đường uống theo chỉ dẫn cấp bách"
+    ]
+  },
+  "prevention": [
+    "Học kỹ năng quản lý stress và cân bằng công việc - cuộc sống",
+    "Duy trì hoạt động thể chất đều đặn (đi bộ, yoga, bơi lội)",
+    "Đảm bảo vệ sinh giấc ngủ tốt",
+    "Hạn chế các chất kích thích như caffeine, rượu và thuốc lá",
+    "Tham gia các hoạt động xã hội, tránh tự cô lập bản thân",
+    "Khám tâm lý sớm khi có những lo âu vượt quá tầm kiểm soát"
+  ],
+  "when_to_see_doctor": [
+    "Lo lắng quá mức ảnh hưởng đến công việc hoặc các mối quan hệ",
+    "Thường xuyên gặp các cơn hoảng sợ đột ngột (tim đập nhanh, sợ chết)",
+    "Mất ngủ kéo dài do không thể ngừng suy nghĩ",
+    "Có ý nghĩ tự gây hại hoặc cảm thấy tuyệt vọng",
+    "Các triệu chứng cơ thể (đau ngực, chóng mặt) không tìm ra nguyên nhân thực thể"
+  ],
+  "care_notes": [
+    "Rối loạn lo âu là bệnh có thể điều trị hiệu quả, không phải là sự yếu đuối về nhân cách",
+    "Tuân thủ lộ trình thuốc: Không tự ý ngưng thuốc vì nguy cơ triệu chứng bùng phát",
+    "Gia đình nên kiên trì, không nên phán xét hay yêu cầu bệnh nhân 'đừng lo nữa' một cách cưỡng ép",
+    "Kiên trì với liệu pháp tâm lý vì kết quả thường đến sau vài tuần hoặc vài tháng",
+    "Kết hợp vận động và dinh dưỡng đầy đủ để tăng cường sức mạnh hệ thần kinh"
+  ],
+  "epidemiology": [
+    "Là rối loạn tâm thần phổ biến nhất trên toàn thế giới",
+    "Ước tính khoảng 3,7% - 5% dân số toàn cầu mắc rối loạn lo âu lan tỏa",
+    "Bệnh thường khởi phát ở độ tuổi thanh thiếu niên hoặc đầu tuổi trưởng thành",
+    "Có mối liên quan mật thiết đến tình trạng đô thị hóa và áp lực xã hội hiện đại",
+    "Tỷ lệ điều trị đúng chuyên khoa tại các nước đang phát triển còn thấp do rào cản về nhận thức"
+  ],
+  "source": "Bệnh viện Tâm thần Trung ương 1",
+  "url": "https://bvtttw1.gov.vn/roi-loan-lo-au/"
+}

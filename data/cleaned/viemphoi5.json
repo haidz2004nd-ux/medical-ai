@@ -1,0 +1,94 @@
+{
+  "title": "Viêm phổi",
+  "type": "disease",
+  "topic": "hô hấp - phổi",
+  "definition": "Viêm phổi là bệnh lý nhiễm trùng tại nhu mô phổi do các căn nguyên vi khuẩn, virus, nấm gây nên. Bệnh gây ảnh hưởng đến hàng trăm triệu người trên toàn cầu với tỉ lệ tử vong hàng năm khoảng 7%.",
+  "classification": [
+    "Viêm phổi cộng đồng: Các loại viêm phổi mắc phải ngoài môi trường bệnh viện",
+    "Viêm phổi bệnh viện: Xảy ra sau 48 giờ nhập viện mà trước đó không có triệu chứng",
+    "Viêm phổi hít: Do hóa chất hoặc dị vật rơi vào phổi"
+  ],
+  "pathophysiology": [
+    "Nhiễm trùng gây tổn thương nhu mô phổi",
+    "Tác nhân gây bệnh xâm nhập qua đường giọt bắn hoặc hít phải bào tử",
+    "Phản ứng viêm dẫn đến tích tụ đờm, dịch, cản trở hô hấp"
+  ],
+  "causes": {
+    "acute": [
+      "Vi khuẩn: Nguyên nhân phổ biến nhất ở người trưởng thành (lây qua giọt bắn)",
+      "Virus: Có khả năng lây truyền cao giữa người với người",
+      "Nấm: Do hít phải bào tử nấm từ môi trường bụi bẩn, ẩm mốc (không lây giữa người với người)",
+      "Hóa chất: Do hít phải hóa chất độc hại, gây hại đa cơ quan"
+    ],
+    "chronic": [
+      "Vi khuẩn bệnh viện kháng thuốc: P. Aeruginosa, Acinetobacter spp, Enterobacteriacae, S. Aureus, Streptococcus spp",
+      "Người có bệnh nền mạn tính (hen, suy tim, tiểu đường) dễ mắc bệnh hơn"
+    ]
+  },
+  "symptoms": [
+    "Ho: Xuất hiện sớm, ho thành cơn hoặc thúng thắng, thường có đờm",
+    "Màu sắc đờm: Màu rỉ sắt (điển hình), vàng xanh, hoặc có mùi hôi, thối",
+    "Sốt: Từ 38-40 độ C, có thể rét run. Người già và trẻ em có thể hạ thân nhiệt",
+    "Đau ngực và khó thở: Tùy thuộc vào mức độ nặng của bệnh",
+    "Suy hô hấp (nặng): Tím tái, thở nhanh nông, co kéo cơ hô hấp",
+    "Mệt mỏi, khó chịu kéo dài"
+  ],
+  "complications": [
+    "Suy hô hấp cấp và nguy kịch",
+    "Giảm oxy máu",
+    "Tổn thương các cơ quan khác do hóa chất hoặc nhiễm trùng lan tỏa"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng: Đánh giá triệu chứng ho, sốt, đau ngực và nhịp thở",
+    "Chẩn đoán phân biệt: Xác định viêm phổi cộng đồng hay bệnh viện"
+  ],
+  "risk_groups": [
+    "Trẻ em và người cao tuổi",
+    "Người có hệ miễn dịch suy yếu",
+    "Người mắc bệnh lý nền mạn tính: Hen phế quản, suy tim, tiểu đường",
+    "Người hút thuốc lá, làm việc trong môi trường bụi bẩn, ẩm mốc"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi đầy đủ để hồi phục năng lượng",
+      "Vận động vừa sức và hợp lý",
+      "Uống đủ nước và bổ sung vi chất (vitamin, khoáng chất)",
+      "Vệ sinh hầu họng, mũi miệng thường xuyên bằng nước muối sinh lý"
+    ],
+    "medication": [
+      "Kháng sinh: Dùng cho nguyên nhân vi khuẩn",
+      "Kháng virus: Dùng cho viêm phổi do cúm hoặc SARS-CoV-2",
+      "Kháng nấm: Dùng cho trường hợp nhiễm nấm",
+      "Thuốc triệu chứng: Hạ sốt, thuốc long đờm, bồi phụ nước điện giải"
+    ],
+    "surgery": [
+      "Hỗ trợ oxy trong trường hợp giảm oxy máu",
+      "Thở máy trong trường hợp suy hô hấp nguy kịch"
+    ]
+  },
+  "prevention": [
+    "Tiêm vaccine: Phòng phế cầu và phòng cúm",
+    "Giữ ấm đường thở: Quàng khăn, đội mũ, đeo khẩu trang, dùng nước ấm khi trời lạnh",
+    "Rửa tay thường xuyên bằng xà phòng: Cách hữu hiệu ngăn chặn lây lan qua bàn tay nhiễm bẩn",
+    "Luyện tập thể dục thể thao đều đặn để tăng hệ miễn dịch",
+    "Kiểm soát tốt các bệnh mạn tính hiện có"
+  ],
+  "when_to_see_doctor": [
+    "Có dấu hiệu khó thở hoặc tím tái",
+    "Sốt cao không hạ mặc dù đã dùng thuốc",
+    "Cảm giác mệt mỏi cực độ hoặc đau ngực dữ dội"
+  ],
+  "care_notes": [
+    "Viêm phổi do nấm, ký sinh trùng hoặc bụi kim loại không lây truyền giữa người với người",
+    "Virus gây viêm phổi có khả năng lây lan rất cao qua đường hô hấp",
+    "Cần tuân thủ đúng lịch hẹn tái khám và đơn thuốc của bác sĩ",
+    "Tránh xa môi trường có khói thuốc lá"
+  ],
+  "epidemiology": [
+    "Khoảng 450 triệu người mắc mỗi năm trên toàn thế giới",
+    "Tỉ lệ tử vong hàng năm chiếm khoảng 7%",
+    "Viêm phổi bệnh viện khởi phát sau 48 giờ nhập viện"
+  ],
+  "source": "Sở Y tế Nghệ An",
+  "url": "https://yte.nghean.gov.vn/tin-chuyen-nganh/viem-phoi-bieu-hien-nguyen-nhan-chan-doan-va-dieu-tri-627381"
+}

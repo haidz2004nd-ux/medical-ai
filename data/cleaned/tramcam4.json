@@ -1,0 +1,135 @@
+{
+  "title": "Trầm cảm",
+  "type": "disease",
+  "topic": "tâm thần - thần kinh",
+  "definition": "Trầm cảm là một rối loạn tâm thần phổ biến, đặc trưng bởi khí sắc buồn kéo dài, mất hứng thú, giảm năng lượng, rối loạn giấc ngủ, suy giảm chức năng sống và có thể kèm theo ý nghĩ hoặc hành vi tự sát, ảnh hưởng nghiêm trọng đến tinh thần, thể chất và chất lượng cuộc sống của người bệnh.",
+  "classification": [
+    "Trầm cảm nhẹ",
+    "Trầm cảm vừa",
+    "Trầm cảm nặng",
+    "Trầm cảm nội sinh",
+    "Trầm cảm sau sang chấn",
+    "Trầm cảm sau sinh",
+    "Trầm cảm có loạn thần"
+  ],
+  "pathophysiology": [
+    "Rối loạn chất dẫn truyền thần kinh như serotonin, dopamine và noradrenaline",
+    "Rối loạn hoạt động não bộ liên quan đến cảm xúc và hành vi",
+    "Rối loạn trục hạ đồi - tuyến yên - tuyến thượng thận (HPA axis)",
+    "Yếu tố di truyền làm tăng nguy cơ mắc bệnh",
+    "Tác động kéo dài của stress gây thay đổi cấu trúc não"
+  ],
+  "causes": {
+    "acute": [
+      "Mất người thân đột ngột",
+      "Phá sản hoặc mất tài sản lớn",
+      "Ly hôn hoặc tan vỡ quan hệ",
+      "Thất nghiệp hoặc biến cố công việc",
+      "Sang chấn tâm lý cấp tính"
+    ],
+    "chronic": [
+      "Stress kéo dài trong công việc hoặc học tập",
+      "Môi trường sống tiêu cực",
+      "Thiếu hỗ trợ xã hội",
+      "Bệnh lý mạn tính (tim mạch, ung thư, thần kinh)",
+      "Lạm dụng rượu bia hoặc chất kích thích",
+      "Rối loạn tâm lý kéo dài chưa được điều trị"
+    ]
+  },
+  "symptoms": [
+    "Khí sắc buồn bã kéo dài",
+    "Mất hứng thú với hoạt động thường ngày",
+    "Mệt mỏi, giảm năng lượng",
+    "Rối loạn giấc ngủ",
+    "Thay đổi cân nặng hoặc khẩu vị",
+    "Giảm khả năng tập trung",
+    "Cảm giác vô dụng hoặc tội lỗi",
+    "Bi quan về tương lai",
+    "Kích động hoặc chậm chạp tâm thần vận động",
+    "Ý nghĩ hoặc hành vi tự sát"
+  ],
+  "complications": [
+    "Suy giảm chức năng học tập và lao động",
+    "Rối loạn quan hệ xã hội",
+    "Tự gây hại hoặc tự sát",
+    "Suy giảm sức khỏe thể chất",
+    "Mất khả năng thích nghi cuộc sống",
+    "Gia tăng nguy cơ bệnh tâm thần khác"
+  ],
+  "diagnosis": [
+    "Đánh giá lâm sàng theo ICD-10 hoặc DSM-5",
+    "Khai thác triệu chứng kéo dài ít nhất 2 tuần",
+    "Sử dụng trắc nghiệm tâm lý hỗ trợ",
+    "Trò chuyện lâm sàng với bác sĩ tâm thần hoặc tâm lý",
+    "Chẩn đoán phân biệt với các rối loạn khác"
+  ],
+  "risk_groups": [
+    "Người từng trải qua sang chấn tâm lý",
+    "Phụ nữ sau sinh",
+    "Học sinh, sinh viên chịu áp lực học tập cao",
+    "Người có bệnh lý mạn tính hoặc chấn thương não",
+    "Người lạm dụng rượu bia hoặc chất kích thích",
+    "Người thiếu hỗ trợ xã hội",
+    "Người trong độ tuổi 18–45 và người cao tuổi"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Duy trì lối sống lành mạnh",
+      "Tập thể dục đều đặn",
+      "Ăn uống cân bằng dinh dưỡng",
+      "Ngủ đúng giờ và đủ giấc",
+      "Hạn chế rượu bia và chất kích thích",
+      "Tăng cường kết nối xã hội"
+    ],
+    "medication": [
+      "Thuốc ức chế tái hấp thu serotonin có chọn lọc (SSRI)",
+      "Thuốc chống trầm cảm 3 vòng (TCA)",
+      "Thuốc ức chế monoamine oxidase (MAOI)",
+      "Thuốc chống trầm cảm không điển hình",
+      "Dùng theo chỉ định và theo dõi của bác sĩ"
+    ],
+    "psychotherapy": [
+      "Liệu pháp nhận thức - hành vi (CBT)",
+      "Trị liệu nghệ thuật",
+      "Trị liệu gia đình",
+      "Trị liệu cá nhân hỗ trợ tâm lý"
+    ],
+    "advanced": [
+      "Kích thích từ trường xuyên sọ (TMS)",
+      "Các liệu pháp kích thích não hiện đại khác",
+      "Kết hợp đa mô thức điều trị trong trường hợp nặng"
+    ]
+  },
+  "prevention": [
+    "Xây dựng lối sống lành mạnh",
+    "Quản lý stress hiệu quả",
+    "Duy trì các mối quan hệ xã hội tích cực",
+    "Hạn chế rượu bia và chất kích thích",
+    "Tập thể dục thường xuyên",
+    "Tăng cường hoạt động tinh thần tích cực"
+  ],
+  "when_to_see_doctor": [
+    "Triệu chứng buồn bã kéo dài trên 2 tuần",
+    "Mất hứng thú với hầu hết hoạt động",
+    "Ảnh hưởng rõ rệt đến học tập hoặc công việc",
+    "Rối loạn giấc ngủ nghiêm trọng",
+    "Có ý nghĩ hoặc hành vi tự sát",
+    "Suy giảm chức năng xã hội"
+  ],
+  "care_notes": [
+    "Trầm cảm là bệnh lý có thể điều trị",
+    "Cần phát hiện và can thiệp sớm",
+    "Điều trị cần kết hợp thuốc và tâm lý",
+    "Gia đình đóng vai trò hỗ trợ quan trọng",
+    "Cần tuân thủ phác đồ điều trị của bác sĩ"
+  ],
+  "epidemiology": [
+    "Là một trong những rối loạn tâm thần phổ biến nhất thế giới",
+    "Ảnh hưởng khoảng 2% dân số toàn cầu (trầm cảm nặng)",
+    "Phụ nữ có tỷ lệ mắc cao hơn nam giới",
+    "Gặp nhiều ở độ tuổi 18–45 nhưng có thể xảy ra ở mọi lứa tuổi",
+    "Gia tăng do áp lực xã hội hiện đại"
+  ],
+  "source": "Bệnh viện Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/tram-cam/"
+}

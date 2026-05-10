@@ -1,0 +1,114 @@
+{
+  "title": "Viêm họng",
+  "type": "disease",
+  "topic": "hô hấp - tai mũi họng",
+  "definition": "Viêm họng là tình trạng lớp niêm mạc cổ họng bị viêm nhiễm và tổn thương do vi khuẩn, virus hoặc các yếu tố hóa chất độc hại. Bệnh gây đau rát cổ họng, đặc biệt khi nuốt, và có thể là dấu hiệu của Covid-19 hoặc đi kèm với các bệnh truyền nhiễm như bạch hầu, ho gà.",
+  "classification": [
+    "Viêm họng cấp tính (khởi phát đột ngột, triệu chứng điển hình cao)",
+    "Viêm họng mãn tính (khởi phát chậm, dai dẳng, triệu chứng mờ nhạt hơn)",
+    "Viêm họng teo (giai đoạn sau của quá phát, niêm mạc trắng bệch, mỏng nhẵn)",
+    "Viêm họng quá phát (thành họng dày, có các hạt màu đỏ nổi cộm)"
+  ],
+  "pathophysiology": [
+    "Niêm mạc họng xung huyết, phù nề và có màu đỏ",
+    "Amidan sưng, bề mặt phủ dịch nhầy hoặc bựa trắng",
+    "Sưng hạch cổ kèm đau nhức",
+    "Niêm mạc họng bị teo, đóng vảy dính khi chuyển sang thể teo",
+    "Tăng sinh các hạt lympho ở thành sau họng trong thể quá phát"
+  ],
+  "causes": {
+    "acute": [
+      "Virus (chiếm 90%): cảm lạnh, cúm, sởi, thủy đậu, tăng bạch cầu đơn nhân",
+      "Vi khuẩn: Liên cầu khuẩn Streptococcus nhóm A",
+      "Dị ứng thời tiết, phấn hoa, thức ăn"
+    ],
+    "chronic": [
+      "Không khí khô (đặc biệt vào mùa đông) làm kích ứng họng",
+      "Khói thuốc lá, ô nhiễm không khí và hóa chất tẩy rửa",
+      "Bệnh trào ngược dạ dày thực quản (GERD)",
+      "Khối u ở cổ họng (ung thư họng)",
+      "Dị hình vách ngăn, polyp mũi, viêm xoang sau"
+    ]
+  },
+  "symptoms": [
+    "Đau rát cổ họng, đau nhói tăng lên khi nuốt hoặc ho",
+    "Sốt cao (39 – 40 độ C), ăn uống kém, ớn lạnh",
+    "Ho khan, nghẹt mũi, chảy nước mũi",
+    "Khàn giọng, thay đổi giọng nói",
+    "Cảm giác vướng cổ họng, đặc biệt sau khi ngủ dậy",
+    "Thói quen đằng hắng, khạc nhổ dịch đờm đặc, dẻo",
+    "Buồn nôn hoặc nôn mửa",
+    "Nhức mỏi cơ thể, đau đầu dữ dội (nếu do vi khuẩn)"
+  ],
+  "complications": [
+    "Biến chứng tại chỗ: Viêm tấy xung quanh amidan, áp xe amidan",
+    "Biến chứng lân cận: Viêm tai, viêm mũi, viêm xoang, viêm thanh quản, viêm phế quản",
+    "Biến chứng xa: Viêm cầu thận, viêm hạch mủ, nhiễm trùng huyết",
+    "Biến chứng toàn thân: Suy nhược thần kinh, suy nhược cơ thể"
+  ],
+  "diagnosis": [
+    "Kiểm tra thực thể niêm mạc họng và hạch bạch huyết",
+    "Nuôi cấy mẫu mô (quết dịch tiết cổ họng tìm liên cầu khuẩn)",
+    "Xét nghiệm máu (xác định bệnh bạch cầu đơn nhân hoặc tình trạng mất máu)",
+    "Nội soi/kiểm tra lâm sàng để phân biệt Covid-19"
+  ],
+  "risk_groups": [
+    "Trẻ nhỏ dưới 7 tuổi",
+    "Người mắc bệnh hô hấp mãn tính hoặc suy giảm miễn dịch",
+    "Người sống trong môi trường ô nhiễm, nhiều khí độc",
+    "Người có cơ địa dị ứng",
+    "Người làm công việc giao tiếp nhiều, phải nói liên tục"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi, giữ ấm cơ thể, súc miệng nước muối sinh lý",
+      "Bổ sung Vitamin A, C, E qua rau xanh, trái cây (bơ, cam, xoài...)",
+      "Ăn thức ăn mềm, dễ nuốt, hạn chế đồ cay nóng, đá lạnh",
+      "Điều trị triệt để các ổ viêm lân cận (xoang, amidan, mũi)"
+    ],
+    "medication": [
+      "Thuốc hạ sốt, giảm đau: Paracetamol, Ibuprofen",
+      "Kháng sinh: Amikacin, Gentamicin, Cephalothin (khi do vi khuẩn)",
+      "Corticoid dạng khí dung xịt trực tiếp",
+      "Thuốc bôi SMC (Menthol và Salicylat Na), dung dịch kiềm BBM",
+      "Mỡ thủy ngân 1% hoặc Glycerin Iod 0.5% cho viêm họng teo"
+    ],
+    "psychotherapy": [
+      "Duy trì lối sống tích cực, hạn chế căng thẳng tâm lý",
+      "Giáo dục bệnh nhân về việc tuân thủ phác đồ tránh kháng thuốc"
+    ],
+    "surgery": [
+      "Phẫu thuật chỉnh hình vách ngăn hoặc cắt polyp mũi",
+      "Can thiệp thủ thuật xâm lấn: đốt điện, laser, nitơ lỏng loại bỏ hạt lympho"
+    ]
+  },
+  "prevention": [
+    "Hạn chế tiếp xúc bụi bẩn, khói thuốc và hóa chất kích ứng",
+    "Thường xuyên vệ sinh tai mũi họng bằng nước muối sinh lý",
+    "Rửa tay kỹ sau khi hắt hơi, ho hoặc đi vệ sinh",
+    "Tránh dùng chung đồ dùng cá nhân, ly uống nước",
+    "Giữ ấm cơ thể khi trời lạnh, hạn chế rượu bia",
+    "Tránh tiếp xúc gần với người đang bị bệnh"
+  ],
+  "when_to_see_doctor": [
+    "Đau họng dữ dội, dai dẳng không khỏi sau 1 tuần",
+    "Sốt cao, khó thở, cứng cổ",
+    "Chảy nước dãi không cầm được",
+    "Có máu trong dịch đờm hoặc nước bọt",
+    "Xuất hiện khối u ở vùng cổ"
+  ],
+  "care_notes": [
+    "Kháng sinh cần uống ít nhất 3 ngày sau khi hết triệu chứng để tránh tái nhiễm",
+    "Viêm họng mãn tính cần điều trị song song cả nguyên nhân (GERD, xoang) và triệu chứng",
+    "Corticoid có thể gây tác dụng phụ, chỉ dùng khi có chỉ định bác sĩ",
+    "Bệnh có thể tự khỏi sau 1 tuần nếu chăm sóc tại nhà đúng cách",
+    "Súc miệng nước muối giúp loại bỏ vi khuẩn thường trú và đờm ứ hiệu quả"
+  ],
+  "epidemiology": [
+    "Virus gây ra 90% các trường hợp viêm họng",
+    "Bệnh thường bùng phát mạnh vào mùa đông do không khí khô",
+    "Dễ nhầm lẫn với Covid-19 và các bệnh truyền nhiễm hô hấp khác"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/viem-hong-468.html"
+}

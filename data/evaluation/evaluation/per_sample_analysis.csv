@@ -1,0 +1,312 @@
+﻿stt,question,reference,answer_A,rouge_l_A,answer_B,rouge_l_B,answer_C,rouge_l_C,answer_D,rouge_l_D
+1,Nguồn thông tin chính về Táo bón từ đâu?,Nguồn: Bệnh viện Đa khoa Lãnh Bình Thăng. Tham khảo: https://benhviendakhoalanhbinhthang.vn/giao-duc-suc-khoe/tao-bon-dau-hieu-nguyen-nhan-dieu-tri-hi,"Thông tin về bệnh táo bón thường được tìm kiếm trên các trang web của WHO (World Health Organization), CDC (Centers for Disease Control and Prevention",0.1418,"Nguyên nguồn thông tin chính về Táo bón từ các tài liệu là:
+
+1. Tài liệu 1: ""Bệnh: Táo bón"" của Vinmec.
+2. Tài liệu 2: ""Bệnh: Táo bón"" của Bệnh viện Đ",0.16,"Thông tin chính thức đến từ các cơ quan y tế như WHO và CDC trong thế giới thực, cùng với các nghiên cứu khoa học uy tín.",0.122,Sách 1 của nhà xuất bản Vinmec.,0.1154
+2,Thuốc thường dùng để điều trị Viêm họng gồm những gì?,"Thuốc hạ sốt, giảm đau không kê đơn: Paracetamol, Ibuprofen; Thuốc kháng virus (cho trường hợp nhiễm virus cúm); Kháng sinh: Chỉ dùng cho liên cầu khu","Thuốc thường dùng để điều trị viêm họng bao gồm:
+
+1. Thuốc giảm đau: Ibuprofen (naproxen), acetaminophen.
+2. Thuốc kháng sinh nếu có nhiễm khuẩn.
+3. T",0.3143,"Thuốc thường dùng để điều trị Viêm họng bao gồm:
+
+- Thuốc hạ sốt: Paracetamol, Ibuprofen
+- Kháng sinh: Amikacin, Gentamicin, Cephalothin (nếu do vi kh",0.2577,"Đây có thể bao gồm thuốc giảm đau như ibuprofen hoặc acetaminophen, kháng sinh nếu nhiễm khuẩn, và các loại thuốc chống viêm như doxycycline hoặc azit",0.3366,"Phương pháp điều trị phổ biến gồm các loại thuốc như thuốc giảm đau, thuốc hạ sốt (như ibuprofen hoặc paracetamol), kháng sinh nếu cần thiết, cùng với",0.2992
+3,Những nhóm người nào có nguy cơ cao mắc Nhức đầu?,"Người làm việc căng thẳng; Người thiếu ngủ; Người có rối loạn tâm lý (lo âu, trầm cảm); Người sử dụng nhiều rượu bia, caffeine; Người hút thuốc lá; Ng","Người lớn tuổi thường có nguy cơ cao hơn về việc bị đau đầu do các yếu tố như lão hóa não và tăng huyết áp.
+
+Môi trường sống căng thẳng cũng làm tăng ",0.3049,"Người làm việc căng thẳng  
+Người thiếu ngủ  
+Người có rối loạn tâm lý (lo âu, trầm cảm)  
+Người sử dụng nhiều rượu bia, caffeine  
+Người hút thuốc lá",1.0,"Người lớn tuổi, người bị bệnh tim mạch hoặc huyết áp, người hút thuốc lá và những người thường xuyên làm việc với ánh sáng mạnh hoặc môi trường ô nhiễ",0.3796,"Người làm việc căng thẳng, thiếu ngủ, sử dụng nhiều caffeine hoặc rượu bia, làm việc máy tính nhiều, có tiền sử gia đình migraines và những người có m",0.4971
+4,Biến chứng của Khó thở là gì?,Thiếu oxy kéo dài; Tổn thương não do thiếu oxy; Suy giảm nhận thức; Đột quỵ; Hoại tử não; Giảm chất lượng cuộc sống; Mất ngủ và rối loạn giấc ngủ,"Khó thở có thể dẫn đến các biến chứng như: giảm oxy trong máu (nhiễm khí), viêm phổi do thiếu oxy, và thậm chí nguy hiểm hơn nếu không được điều trị k",0.25,"Khó thở có thể dẫn đến một số biến chứng như:
+
+- Thiếu oxy (oxytocin) ở não bộ do giảm lượng máu được输送到大脑。
+- Rối loạn nhịp tim (như nhịp tim nhanh ho",0.2134,"Khó thở có thể dẫn đến các biến chứng như viêm phổi nặng, suy tim hoặc thậm chí đột quỵ nếu không được điều trị kịp thời.",0.2581,"Khó thở có thể dẫn đến các biến chứng như suy giảm chức năng hô hấp (như viêm phổi mãn tính), tăng huyết áp do stress oxy, rối loạn nhịp tim, thậm chí",0.3077
+5,Khi nào cần đi khám bác sĩ nếu bị Viêm phổi?,"Đau họng sốt kéo dài trên 10 ngày hoặc khó thở; Trẻ dưới 2 tháng tuổi có dấu hiệu ho, sốt, bỏ bú (bắt buộc nhập viện); Trẻ 2-5 tuổi li bì, khó đánh th","Nếu bạn gặp bất kỳ triệu chứng nào sau đây thì nên đi khám bác sĩ:
+
+1. Khó thở hoặc khó inh
+2. Đau ngực dữ dội
+3. Sưng họng kéo dài 
+4. Thở hen pheo (",0.2646,"Dựa vào các nguồn thông tin về Viêm phổi từ các tài liệu, bạn nên đi khám bác sĩ khi:
+
+1. Đau họng kéo dài hơn 10 ngày hoặc có dấu hiệu sốt.
+2. Trẻ dư",0.4056,"Nếu có dấu hiệu nặng như ho kéo dài, sốt cao (>39°C), khó thở hoặc mệt mỏi nặng, nên đi khám ngay.",0.322,"Đây là những trường hợp cần đi khám bác sĩ ngay lập tức:
+
+- Đau họng kéo dài hơn 1 tuần và sốt kéo dài hơn 7 ngày;
+- Trẻ dưới 2 tháng tuổi có dấu hiệu",0.4686
+6,Làm thế nào để chẩn đoán Suy tim?,Điện tâm đồ (ECG) phát hiện rối loạn nhịp và dấu hiệu gián tiếp; X-quang ngực phát hiện tim to và sung huyết phổi; Siêu âm tim đánh giá phân suất tống,"Chẩn đoán suy tim thường dựa trên các triệu chứng và kết quả từ kiểm tra sức khỏe. Nếu bạn có bất kỳ triệu chứng như khó thở khi vận động, giảm cân nh",0.2892,"Để chẩn đoán suy tim, các bác sĩ sẽ thực hiện một số bước sau:
+
+1. Khám tổng quát: Xét nghiệm máu, chụp x-quang phổi, siêu âm tim...
+
+2. Phản ứng sinh",0.2292,"Chẩn đoán dựa trên triệu chứng (đau ngực, thở khó, mệt mỏi), kết quả xét nghiệm máu và siêu âm tim.",0.2169,"Suy tim được chẩn đoán dựa trên các xét nghiệm như siêu âm tim, chụp X-quang phổi, CT scan ngực, MRI, ECG (độ số) và đo áp lực động mạch.",0.2184
+7,Triệu chứng của Gout (gút) gồm những gì?,"Đau khớp dữ dội, thường về đêm; Sưng đỏ và nóng khớp; Đau tăng khi chạm; Hạn chế vận động; Cơn đau kéo dài 5-7 ngày; Sốt nhẹ; Ớn lạnh; Mệt mỏi","Gout có thể gây ra các triệu chứng như đau đớn ở khớp, đặc biệt là trong khu vực tia bẹt và bàn chân. Triệu chứng khác bao gồm:
+
+1. Đau: Đau thường xu",0.2587,"Dựa trên các tài liệu về triệu chứng của gout (gút), tôi có thể đưa ra một kết quả như sau:
+
+- Đau khớp đột ngột, dữ dội
+- Sưng, nóng, đỏ khớp
+- Đau t",0.337,"Gout gây đau khớp dữ dội ở lòng bàn chân hoặc tay, có thể kèm sốt và đỏ sưng khớp.",0.3544,"Đau khớp đột ngột, dữ dội; thường khởi phát về đêm hoặc sáng sớm; đau đạt đỉnh trong khoảng từ 12 đến 24 giờ; khớp sưng, nóng, đỏ, căng bóng; hạn chế ",0.4655
+8,Những nhóm người nào có nguy cơ cao mắc Khó thở?,"Người mắc bệnh tim mạch; Người mắc bệnh phổi mạn tính; Người hút thuốc lá; Người béo phì; Người cao tuổi; Người mắc bệnh mạn tính (đái tháo đường, ung","Người lớn tuổi, bệnh nhân tiểu đường, bệnh nhân ung thư, bệnh nhân bị suy giảm miễn dịch hoặc dị ứng thường có nguy cơ cao mắc khó thở.",0.2833,"Dựa trên các nguồn tài liệu được cung cấp, những nhóm người có nguy cơ cao mắc khó thở theo mục ""risk groups"" gồm:
+
+1. Người mắc bệnh hô hấp mạn tính
+",0.39,Người lớn tuổi (65+) và trẻ em dưới 12 tuổi; người bị bệnh tim mạch hoặc suy thận; người dùng thuốc gây tăng huyết áp như corticosteroid hoặc beta-blo,0.3867,"Người mắc bệnh hô hấp mạn tính, người mắc bệnh tim mạch, người béo phì, người lớn tuổi, người hút thuốc lá lâu năm, và những người khác có nguy cơ cao",0.4533
+9,Nguồn thông tin chính về Suy tim từ đâu?,Nguồn: Vinmec. Tham khảo: https://www.vinmec.com/vie/benh/suy-tim-3262,"Nếu bạn đang tìm kiếm nguồn thông tin chính xác về suy tim, có thể xem các trang web của Tổ chức Y tế Thế giới (WHO), Hiệp hội Tim mạch Quốc tế (AHA) ",0.1194,"Suy tim có nguồn thông tin chính từ các tài liệu như:
+
+1. Tài liệu 1 (UMC Clinic)
+2. Tài liệu 2 (Bệnh viện Vinmec)
+3. Tài liệu 3 (Vinmec)
+4. Tài liệu ",0.0667,"Thông tin chính thức đến từ các cơ quan y tế như WHO (World Health Organization), CDC (Centers for Disease Control and Prevention) và các tổ chức y tế",0.0727,"Suy tim được cung cấp thông tin chính từ các nguồn như: UMC Clinic (từ khóa: 'Suy tim', 'tim mạch'), Bệnh viện Vinmec (từ khóa: 'Suy tim', 'tiểu đường",0.1333
+10,Triệu chứng của Suy tim gồm những gì?,Khó thở khi gắng sức hoặc khi nằm; Khó thở kịch phát về đêm; Mệt mỏi kéo dài; Phù chân và mắt cá chân; Ho kéo dài hoặc ho có bọt hồng; Tim đập nhanh h,"Suy tim có thể gây ra các triệu chứng như: khó thở khi gắng gượng, suy nhược cơ bắp, giảm cân nhanh chóng, mệt mỏi thường xuyên, táo bón hoặc tiêu chả",0.351,"Triệu chứng của Suy tim bao gồm:
+
+1. Khó thở khi gắng sức hoặc khi nằm
+2. Khó thở kịch phát về đêm
+3. Mệt mỏi kéo dài
+4. Phù chân và mắt cá chân 
+5. H",0.8976,Đau ngực kéo dài hoặc xuất hiện mới; thở khó khi gắng sức; mệt mỏi thường xuyên; giảm năng lực vận động và khả năng di chuyển; sốt cao hơn 38°C; đau b,0.3222,Khó thở khi gắng sức hoặc khi nằm; khó thở kịch phát về đêm; mệt mỏi kéo dài; phù chân và mắt cá chân; ho kéo dài hoặc ho có bọt hồng; đánh trống ngực,0.9514
+11,Phân loại của Nhức đầu như thế nào?,Nhức đầu nguyên phát (không do bệnh lý nền); Nhức đầu thứ phát (do bệnh lý khác gây ra),"Nhức đầu có thể do nhiều nguyên nhân khác nhau, bao gồm:
+
+1. Nguyên nhân tự nhiên: Mất ngủ, căng thẳng, dị ứng.
+2. Nguyên nhân bệnh tật: Đột quỵ, viêm",0.2282,"Theo các tài liệu được cung cấp, Nhức đầu có thể phân loại theo nhiều tiêu chí:
+
+1. Theo nguyên nhân:
+   a) Bệnh",0.2769,Nhức đầu có thể phân thành đau đầu cấp tính (mild) và,0.383,"Nhức đầu được phân loại thành các nhóm gồm: đau đầu cấp tính (đau đầu đột ngột), đau đầu mãn tính (đau đầu kéo dài) và đau đầu do nguyên nhân đặc biệt",0.2637
+12,Những nhóm người nào có nguy cơ cao mắc Tăng huyết áp?,Người lớn tuổi; Nam giới; Phụ nữ sau mãn kinh; Người béo phì; Người có tiền sử gia đình; Người ít vận động,"Người lớn tuổi thường có nguy cơ cao hơn về tăng huyết áp do sức mạnh của quá trình lão hóa và các yếu tố di truyền.
+
+- Người thừa cân hoặc béo phì: K",0.1979,"Người lớn tuổi, nam giới, phụ nữ sau mãn kinh, người béo phì, người có tiền sử gia đình, và người ít vận động.",0.9855,"Người lớn tuổi (>65), người thừa cân hoặc béo phì, hút thuốc lá, ít vận động, uống rượu nhiều, stress thường xuyên và có tiền sử gia đình tăng huyết á",0.4762,"Người lớn tuổi, nam giới, phụ nữ sau mãn kinh, người béo phì, người có tiền sử gia đình và những người ít vận động.",0.9577
+13,Làm thế nào để phòng ngừa Rối loạn hỗn hợp lo âu và trầm cảm?,"Học kỹ năng quản lý cảm xúc và đối phó với stress hiệu quả; Duy trì lối sống năng động và mạng lưới hỗ trợ xã hội tích cực; Hạn chế sử dụng rượu bia, ","Để phòng ngừa rối loạn hỗn hợp lo âu và trầm cảm, bạn nên:
+
+1. Tập trung vào việc chăm sóc sức khỏe tâm thần hàng ngày.
+2. Tạo môi trường sống lành mạ",0.3423,"Để phòng ngừa Rối loạn hỗn hợp lo âu và trầm cảm, bạn nên thực hiện những biện pháp sau:
+
+1. Học kỹ năng quản lý cảm xúc và đối phó với stress hiệu qu",0.7456,"Phòng ngừa bằng việc duy trì lối sống lành mạnh như tập thể dục đều đặn, ăn uống balanced, ngủ đủ giấc, giảm stress và tìm kiếm sự giúp đỡ từ người kh",0.2667,Phòng ngừa gồm nhiều phương pháp như: học kỹ năng quản lý cảm xúc và đối phó với stress hiệu quả; duy trì lối sống năng động và mạng lưới hỗ trợ xã hộ,0.9509
+14,Khi nào cần đi khám bác sĩ nếu bị Tiêu chảy?,"Tiêu chảy kéo dài trên 2–3 ngày; Có dấu hiệu mất nước nặng; Phân có máu; Sốt cao không giảm; Nôn liên tục; Trẻ lừ đừ, bỏ bú","Nếu bạn gặp các triệu chứng tiêu chảy sau khi ăn hoặc liên tục trong một thời gian dài (ít nhất 3 ngày), nên đi khám bác sĩ.",0.3191,"Dựa vào các tài liệu về tiêu chảy được cung cấp, bạn nên đi khám bác sĩ khi:
+
+1. Tiêu chảy kéo dài hơn 2 ngày.
+2. Có máu trong phân.
+3. Sốt cao trên 3",0.3626,Nếu số lần đi ngoài tăng từ 5-7 lần/ ngày hoặc có máu trong phân; đau bụng dữ dội ở vùng đại tràng; mất nước nặng và khó thở sau khi đi ngoài nhiều lầ,0.297,"Đây là những trường hợp cần đi khám ngay lập tức:
+
+- Tiêu chảy kéo dài hơn 2 ngày và vẫn không đỡ;
+- Có máu trong phân;
+- Sốt cao trên 38.5°C;
+- Đau b",0.4172
+15,Rối loạn lo âu là gì?,"Rối loạn lo âu là một nhóm các rối loạn tâm thần đặc trưng bởi cảm giác lo âu và sợ hãi quá mức, kéo dài và không tương xứng với mức độ đe dọa thực tế","Rối loạn lo âu (lo lắng) là một tình trạng tâm lý khi bạn cảm thấy lo lắng, sợ hãi hoặc căng thẳng thường xuyên và kéo dài hơn 6 tháng. Tình trạng này",0.425,"Rối loạn lo âu là một tình trạng lo lắng, sợ hãi quá mức, kéo dài và không tương xứng với thực tế, gây khó chịu và ảnh hưởng đến sinh hoạt hàng ngày c",0.5514,"Rối loạn lo âu là tình trạng rối loạn tâm thần gây ra cảm giác sợ hãi hoặc lo lắng không kiểm soát được, thường xuyên và kéo dài hơn 4 tuần.",0.4134,"Rối loạn lo âu là tình trạng lo lắng, sợ hãi quá mức, kéo dài và không tương xứng với thực tế, gây khó chịu và ảnh hưởng đến sinh hoạt hàng ngày của n",0.5464
+16,Những lưu ý quan trọng khi xử trí Viêm phổi là gì?,"Tuân thủ đúng phác đồ kháng sinh để tránh kháng thuốc và tái phát; Dinh dưỡng cần bổ sung Vitamin C, A và Kẽm để tăng đề kháng; Hạn chế đồ ăn cay nóng","- Kiểm tra và theo dõi triệu chứng: sốt cao, khó thở, mệt mỏi.
+- Nên uống nhiều nước để tránh mất nước do ho.
+- Thực hiện vệ sinh cá nhân sạch sẽ.
+- N",0.3014,"Lưu ý quan trọng khi xử trí Viêm phổi:
+
+1. **Hô hấp**: 
+   - Nghiên cứu về hô hấp cần được chú trọng, như việc giữ ấm cơ thể, vệ sinh mũi họng bằng nư",0.2428,Điều trị đúng theo chỉ định của bác sĩ; dùng thuốc kháng sinh đầy đủ疗程; tránh xa người bệnh hoặc môi trường nhiễm khuẩn; tăng cường sức đề kháng và vệ,0.3256,"Để phòng ngừa và hỗ trợ điều trị hiệu quả, người bệnh cần tuân thủ theo hướng dẫn của bác sĩ về việc nghỉ ngơi đầy đủ, uống nhiều nước, vệ sinh cá nhâ",0.3265
+17,Những lưu ý quan trọng khi xử trí Tăng huyết áp là gì?,Theo dõi huyết áp thường xuyên; Uống thuốc đều đặn theo chỉ định; Không tự ý ngưng thuốc; Ăn nhạt (<5g muối/ngày); Duy trì lối sống lành mạnh; Kiểm tr,"Khi xử trí tăng huyết áp, bạn nên:
+
+1. Kiểm tra và theo dõi huyết áp thường xuyên.
+2. Giữ chế độ ăn uống lành mạnh:少吃 chất béo, đường, thực phẩm chứa ",0.2719,"Lưu ý quan trọng khi xử trí tăng huyết áp:
+
+1. Theo dõi huyết áp thường xuyên
+2. Uống thuốc đều đặn theo chỉ dẫn của bác sĩ
+3. Không tự ý ngưng thuốc
+",0.4973,Điều chỉnh chế độ ăn uống và tập thể dục đều đặn; giảm cân nếu thừa cân hoặc béo phì; tuân thủ thuốc theo chỉ định của bác sĩ; kiểm tra BP thường xuyê,0.3459,"Lưu ý sau đây giúp người bệnh tăng huyết áp phòng ngừa biến chứng và duy trì ổn định tốt nhất:
+
+1. Tuân thủ lịch sử uống thuốc theo chỉ định bác sĩ.
+2",0.2115
+18,Sốt là gì?,Sốt là tình trạng nhiệt độ cơ thể tăng cao hơn mức bình thường do trung tâm điều nhiệt ở vùng dưới đồi thiết lập lại điểm nhiệt độ cao hơn. Đây không ,Sốt là hiện tượng cơ thể tăng nhiệt do phản ứng miễn dịch hoặc nhiễm trùng.,0.3051,"Sốt là tình trạng nhiệt độ cơ thể tăng cao hơn mức bình thường (hoặc thường trên 37,5°C ở nách) do trung tâm điều nhiệt ở vùng dưới đồi thiết lập lại ",0.943,"Sốt là tình trạng nhiệt độ cơ thể tăng lên do phản ứng miễn dịch hoặc nhiễm khuẩn, thường kèm theo triệu chứng như đau đầu, mệt mỏi và sốt cao hơn 38°",0.3836,"Sốt là tình trạng nhiệt độ cơ thể tăng lên so với mức bình thường, thường từ 38-39°C, được kích thích bởi phản ứng bảo vệ của hệ miễn dịch.",0.4965
+19,Làm thế nào để chẩn đoán Viêm dạ dày?,"Thăm khám lâm sàng và khai thác tiền sử; Kiểm tra xác định vi khuẩn Hp (K29); Xác định các thể đặc hiệu (qua nội soi, sinh thiết); Phân biệt với u hạt","Việc chẩn đoán viêm dạ dày thường bao gồm các bước sau:
+
+1. Khám tổng quát: Xem xét triệu chứng và lịch sử bệnh.
+
+2. Phỏng vấn: Tìm hiểu về chế độ ăn ",0.2577,"Để chẩn đoán viêm dạ dày, bạn cần xem xét các triệu chứng cụ thể mà bạn đang trải qua. Một số triệu chứng phổ biến bao gồm:
+
+1. Đau thượng vị kéo dài ",0.2083,"Chẩn đoán dựa trên triệu chứng (đau bụng, buồn nôn), kết quả xét nghiệm (tissue biopsy hoặc nội soi) và hướng dẫn điều trị theo chỉ định của bác sĩ.",0.2243,"Viêm dạ dày được chẩn đoán dựa trên các triệu chứng như đau thượng vị kéo dài, nôn ra máu hoặc đi ngoài phân đen, cảm giác nóng rát dạ dày, đói dữ dội",0.197
+20,Triệu chứng của Mất ngủ gồm những gì?,Khó đi vào giấc ngủ; Thức giấc nhiều lần trong đêm; Thức dậy quá sớm; Không cảm thấy nghỉ ngơi sau khi ngủ; Mệt mỏi ban ngày; Buồn ngủ và giảm tập tru,"Mất ngủ có thể bao gồm các triệu chứng như: khó入睡, thức dậy sớm hơn so với bình thường, cảm giác mệt mỏi sau khi đi ngủ, giấc ngủ ngắn hoặc mơ nhiều t",0.3659,"Triệu chứng của Mất ngủ bao gồm:
+
+1. Khó đi vào giấc ngủ
+2. Thức giấc nhiều lần trong đêm 
+3. Thức dậy quá sớm
+4. Không cảm thấy nghỉ ngơi sau khi ngủ",0.8867,"Khó đi vào giấc, khó ngon giấc, thức dậy nhiều lần trong đêm hoặc ngủ ít hơn 7-8 giờ mỗi ngày.",0.3548,"Khó đi vào giấc ngủ, thức giấc nhiều lần trong đêm, thức dậy quá sớm, không cảm thấy nghỉ ngơi sau khi ngủ, buồn ngủ ban ngày, giảm tập trung và trí n",0.9101
+21,Làm thế nào để phòng ngừa Tiêu chảy?,Rửa tay thường xuyên; Ăn chín uống sôi; Sử dụng nước sạch; Tiêm vaccine rotavirus (trẻ em); Tránh thực phẩm không đảm bảo vệ sinh; Vệ sinh môi trường ,"Để phòng ngừa tiêu chảy, bạn nên:
+
+1. Ăn uống đầy đủ chất dinh dưỡng và nước.
+2. Hạn chế ăn thức ăn nhanh, đồ chiên xào nhiều dầu mỡ.
+3. Kiêng sử dụng",0.2513,"Phòng ngừa tiêu chảy:
+
+1. Ăn chín uống sôi.
+2. Rửa tay thường xuyên bằng xà phòng.
+3. Tiêm vaccine rotavirus cho trẻ em.
+4. Tránh tiếp xúc với người b",0.2297,"Phòng ngừa bằng vệ sinh cá nhân sạch sẽ, ăn uống đầy đủ chất dinh dưỡng và tránh tiếp xúc với người bệnh hoặc phân có vi khuẩn.",0.3261,"Phòng ngừa gồm việc ăn chín uống sôi, rửa tay thường xuyên bằng xà phòng, tiêm vaccine rotavirus cho trẻ em, tránh tiếp xúc với người bị bệnh, sử dụng",0.4404
+22,Cách chăm sóc và điều trị ban đầu cho Đái tháo đường là gì?,"Chế độ ăn cân bằng: Tăng xơ, giảm đường đơn và tinh bột nhanh; Duy trì hoạt động thể lực ít nhất 150 phút/tuần; Giảm cân và kiểm soát chỉ số BMI ở mức","Để chăm sóc và điều trị ban đầu cho người bị đái tháo đường:
+
+1. Kiểm tra huyết sugar định kỳ.
+2. Thay đổi lối sống: giảm cân nếu cần thiết, ăn nhiều ",0.2907,"+ Lifestyle: Chế độ ăn kiểm soát carbohydrate, ưu tiên thực phẩm có chỉ số GI thấp, Tăng cường chất xơ từ rau xanh và ngũ cốc nguyên hạt, Tập thể dục ",0.3478,"Điều chỉnh lối sống (thuốc giảm đường, ăn uống lành mạnh, tập thể dục), kiểm tra huyết sugar định kỳ, tuân thủ thuốc theo chỉ dẫn của bác sĩ.",0.2901,"Đây là những phương pháp cơ bản mà người bệnh cần thực hiện ngay khi phát hiện tình trạng này:
+
+1. Lập lịch theo dõi đường huyết thường xuyên tại nhà.",0.3128
+23,Đặc điểm dịch tễ của Viêm họng là gì?,"Bệnh phổ biến ở mọi lứa tuổi, thường gặp nhất vào mùa lạnh; Dễ lây lan qua tiếp xúc đồ vật cá nhân hoặc ăn uống chung; Tỉ lệ mắc bệnh cao trong thời đ","Dịch tợ viêm họng thường bao gồm các triệu chứng như:
+
+1. Đau nhức ở cổ và vai.
+2. Thở hen (thoát khí).
+3. Nôn mửa hoặc buồn nôn.
+4. Mệt mỏi.
+5. Đau đ",0.2917,"Dịch tợ của Viêm họng bao gồm:
+
+1. Triệu chứng cơ bản: đau rát cổ họng, khó nuốt, ngứa cổ họng, ho (dễ dàng phát triển thành sputum).
+
+2. Triệu chứng ",0.2,"Viêm họng có triệu chứng đau rát khi喝水 hoặc nuốt, ho và sốt nhẹ.",0.2,"Viêm họng là một loại viêm nhiễm trùng phổ biến, chủ yếu do vi khuẩn (như Streptococcus) hoặc virus (như Herpesvirus).",0.2
+24,Triệu chứng của Viêm dạ dày tá tràng gồm những gì?,"Đau vùng thượng vị (trên rốn hoặc dưới xương ức); Nóng rát lồng ngực dọc theo xương ức; Ợ hơi, ợ chua; Buồn nôn, nôn khan hoặc nôn ra thức ăn lẫn dịch","Viêm dạ dày tá tràng có thể gây ra các triệu chứng như:
+
+1. Đau ở vùng bụng dưới hoặc giữa (trong và ngoài)
+2. Nôn mửa
+3. Thói quen ăn uống nhanh chón",0.3099,"Để giúp bạn hiểu rõ hơn về triệu chứng của viêm dạ dày tá tràng, tôi sẽ tổng hợp các thông tin từ các nguồn:
+
+1. **Dạ Dày**: 
+   - Đau vùng thượng vị ",0.5053,"Đau bụng ở vị trí sau hoặc bên phải thường kéo dài và tăng khi ăn; có thể kèm buồn rít, khó tiêu, đầy hơi, xót rát vùng bụng dưới và sốt nhẹ.",0.3067,"Đau vùng thượng vị (trên rốn hoặc dưới xương ức), cảm giác nóng rát dạ dày, đói tức, buồn nôn, nôn ra máu, đi ngoài phân đen hoặc có máu, chán ăn, khó",0.6125
+25,Làm thế nào để phòng ngừa Mất ngủ?,"Duy trì giờ ngủ và thức cố định; Tăng hoạt động thể chất; Hạn chế caffeine, rượu và nicotine; Tránh ngủ trưa quá dài; Không ăn quá no hoặc uống nhiều ","Để phòng ngừa mất ngủ, bạn có thể thử các biện pháp sau:
+
+1. Đặt lịch作息 đều đặn: Mỗi ngày hãy cố gắng đi ngủ và thức dậy vào thời gian giống nhau.
+
+2.",0.2169,"Để phòng ngừa mất ngủ, bạn nên thực hiện các biện pháp sau:
+
+1. **Duy trì giờ ngủ và thức dậy**: Hãy duy trì lịch作息 đều đặn vào ban ngày và đêm.
+
+2. *",0.2492,"Phòng ngừa bằng việc duy trì thói quen sinh hoạt lành mạnh như đi ngủ và dậy đúng giờ, giảm stress, hạn chế caffeine và酒精 vào buổi tối, tập thể dục đề",0.2903,"Phòng ngừa mất ngủ gồm việc duy trì giờ ngủ và thức dậy đều đặn, tăng cường vận động thể chất, hạn chế các chất kích thích như caffeine, rượu và nicot",0.5205
+26,Biến chứng của Sốt ở người lớn là gì?,"Mất nước và rối loạn điện giải nặng; Co giật do sốt (ít gặp ở người lớn hơn trẻ em nhưng vẫn có thể xảy ra); Mê sảng, ảo giác và rối loạn ý thức; Suy ","Sốt ở người lớn có thể gây ra một số biến chứng như: tăng huyết áp, suy hô hấp (nếu nhiễm trùng), tổn thương não do nhiệt độ cao, và các vấn đề về tim",0.3506,"Triệu chứng của Sốt ở người lớn bao gồm:
+
+- Thân nhiệt tăng cao kèm theo đổ mồ hôi
+- Ớn lạnh và run rẩy
+- Đau đầu dữ dội hoặc âm ỉ
+- Đau mỏi cơ và các",0.3067,Sốt kéo dài > 7 ngày có thể dẫn đến suy thận cấp tính hoặc viêm phổi mạn tính nếu không điều trị kịp thời.,0.2623,"Sốt ở người lớn có thể dẫn đến biến chứng nghiêm trọng như tổn thương thần kinh ngoại biên do đột ngột hạ nhiệt độ, tăng nguy cơ tử vong nếu không đượ",0.2821
+27,Triệu chứng của Mất ngủ gồm những gì?,"Khó đi vào giấc ngủ; Thức giấc nhiều lần trong đêm; Thức dậy quá sớm; Không cảm thấy nghỉ ngơi sau khi ngủ; Mệt mỏi ban ngày; Buồn ngủ, giảm tập trung","Mất ngủ có thể bao gồm các triệu chứng như: khó入睡, thức dậy sớm hơn so với bình thường, cảm giác mệt mỏi sau khi đi ngủ, giấc ngủ ngắn hoặc mơ nhiều t",0.3975,"Triệu chứng của Mất ngủ bao gồm:
+
+1. Khó đi vào giấc ngủ
+2. Thức giấc nhiều lần trong đêm 
+3. Thức dậy quá sớm
+4. Không cảm thấy nghỉ ngơi sau khi ngủ",0.85,"Khó đi vào giấc, khó ngon giấc, thức dậy nhiều lần trong đêm hoặc ngủ ít hơn 7-8 giờ mỗi ngày.",0.3636,"Khó đi vào giấc ngủ, thức giấc nhiều lần trong đêm, thức dậy quá sớm, không cảm thấy nghỉ ngơi sau khi ngủ, buồn ngủ ban ngày, giảm tập trung và trí n",0.8686
+28,Gout (gút) là gì?,"Gout là bệnh viêm khớp do tăng acid uric trong máu, dẫn đến lắng đọng tinh thể urat tại khớp gây đau, sưng và viêm.",Gout là một bệnh lý về khớp do sự tích tụ quá nhiều urat trong máu gây ra. Urate là chất có thể kết hợp với protein tạo thành dạng hạt nhỏ gọi là urat,0.3188,Gout (gút) là một loại viêm khớp cấp tính do quá trình chuyển hóa của acid uric trong máu bị thay đổi. Acid uric là chất béo tự nhiên được sản xuất bở,0.2829,Đau khớp do tăng acid uric trong máu làm chất lỏng tiểu hóa xương và gây tổn thương mô mềm.,0.4857,"Gout là tình trạng viêm khớp cấp tính do tăng acid uric trong máu, dẫn đến hình thành tinh thể urat lắng đọng tại khớp và mô xung quanh, gây đau, sưng",0.6408
+29,Biến chứng của Suy tim là gì?,Phù phổi cấp; Rối loạn nhịp tim nguy hiểm; Đột tử do tim; Đột quỵ do huyết khối; Suy đa cơ quan; Giảm chất lượng sống; Tăng nguy cơ tử vong,"Suy tim có thể dẫn đến nhiều biến chứng như: suy giảm chức năng thận và gan do thiếu máu, tăng nguy cơ đột quỵ, rối loạn nhịp tim, nhồi máu não nếu xả",0.2114,"Biến chứng của Suy tim là việc tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể, dẫn đến thiếu oxy và dưỡng chất cho các cơ quan,",0.1982,"Suy tim có thể dẫn đến suy thận, đái tháo đường tự phát hoặc tăng huyết áp do giảm chức năng lọc máu và đào tạo mạch máu.",0.2989,"Suy tim có thể dẫn đến biến chứng như đột quỵ, viêm phổi, nhiễm trùng huyết, tăng áp lực tĩnh mạch (như varicocele) và thậm chí nguy hiểm đến tính mạn",0.2718
+30,Nguyên nhân gây Tiêu chảy cấp tính và mạn tính là gì?,"Cấp tính: Nhiễm virus (rotavirus, norovirus); Nhiễm vi khuẩn (salmonella, shigella, E. coli, C. difficile); Nhiễm ký sinh trùng (giardia, entamoeba hi","Tiêu chảy cấp tính thường do vi khuẩn (như Salmonella hoặc Shigella), virus (như norovirus hay rotavirus) hoặc các nguyên tố tự nhiên như thức ăn bị ẩ",0.3162,"Tiêu chảy cấp tính:
+
+- Nhiễm virus (Norovirus, Rotavirus)
+- Nhiễm vi khuẩn (E.coli, Salmonella, Shigella)
+- Nhiễm ký sinh trùng (Giardia)
+- Ngộ độc th",0.6493,"Tiêu chảy cấp tính do vi khuẩn (như Salmonella hoặc Shigella), virus, ký sinh trùng hoặc thức ăn nhiễm độc; mạn tính thường liên quan đến bệnh Crohn's",0.3511,"Tiêu chảy cấp tính do các yếu tố như nhiễm virus, vi khuẩn, ký sinh trùng, ngộ độc thực phẩm, thức ăn ôi thiu hoặc tác dụng phụ của thuốc; còn mạn tín",0.4786
+31,Thuốc thường dùng để điều trị Tiêu chảy gồm những gì?,Dung dịch bù nước và điện giải (ORS); Thuốc kháng sinh khi có nhiễm khuẩn theo chỉ định; Thuốc chống ký sinh trùng; Probiotic hỗ trợ hệ vi sinh; Loper,"Thuốc thường dùng để điều trị tiêu chảy bao gồm:
+
+1. Thuốc giảm đau: Diclofen (điều chỉnh nhịp tim) hoặc Paracetamol.
+
+2. Thuốc chống viêm: Ibuprofen ",0.3028,"+ ORS/Oresol,
++ Loperamide,
++ Diphenoxylate,
++ Codeine phosphat,
++ Psyllium hoặc methylcellulose,
++ Cao lanh, pectin, attapulgit hoạt hóa,
++ Eluxadoli",0.2545,"Đây có thể là thuốc kháng sinh (nếu nguyên nhân do vi khuẩn), chống viêm hoặc giảm đau, và trong một số trường hợp, cần bổ sung vitamin B12 nếu thiếu ",0.352,"Dung dịch bù nước và điện giải đường uống ORS/Oresol, truyền dịch natri clorua, kali clorua, glucose khi tiêu chảy nặng, Loperamide, Diphenoxylate, Co",0.4063
+32,Viêm phổi là gì?,"Viêm phổi là tình trạng nhiễm trùng nhu mô phổi (sưng) bao gồm phế nang, túi phế nang, ống phế nang, tổ chức liên kết khe kẽ và tiểu phế quản tận cùng","Viêm phổi là một tình trạng sức khỏe nghiêm trọng khi cơ quan hô hấp bị tổn thương do vi khuẩn, virus hoặc các yếu tố khác gây ra. Các triệu chứng thư",0.3394,"Viêm phổi là một tình trạng nhiễm trùng ở nhu mô phổi (bên trong phổi), thường do vi khuẩn, virus hay nấm gây ra. Các triệu chứng phổ biến bao gồm ho,",0.4023,"Viêm phổi là tình trạng viêm nhiễm ở niêm mạc phế quản và phổi gây ra các triệu chứng như ho, sốt, đau ngực và khó thở.",0.4098,"Viêm phổi là tình trạng viêm nhiễm của nhu mô phổi bao gồm phế nang, túi phế nang, ống phế nang, tổ chức liên kết khe kẽ và tiểu phế quản tận cùng.",0.7077
+33,Triệu chứng của Suy thận gồm những gì?,"Mệt mỏi, suy nhược; Buồn nôn, nôn; Chán ăn; Rối loạn giấc ngủ; Tiểu bất thường (ít, nhiều, tiểu đêm); Nước tiểu có bọt hoặc có máu; Phù chân, tay, mặt","Suy thận có thể gây ra các triệu chứng như:
+
+1. Khó thở hoặc khó thở khi nằm ngửa.
+2. Đau bụng dưới (đây thường là dấu hiệu cảnh báo).
+3. Mệt mỏi và s",0.2629,"- Mệt mỏi, suy nhược  
+- Buồn nôn, nôn  
+- Chán ăn  
+- Rối loạn giấc ngủ  
+- Tiểu bất thường (ít, nhiều, tiểu đêm)  
+- Nước tiểu có bọt hoặc có máu  
+",0.8764,"Khó thở, mệt mỏi, sụt cân bất thường, táo bón, đau lưng, sốt cao và giảm khả năng tập trung hoặc đi vệ sinh ít lần trong ngày.",0.3279,"- Mệt mỏi, suy nhược
+- Chán ăn, buồn nôn, nôn
+- Tiêu chảy hoặc tiêu chảy bất thường 
+- Thấy mảng trắng nhỏ trên phân
+- Có thể thấy các triệu chứng về ",0.402
+34,Suy tim là gì?,"Suy tim là tình trạng tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể. Đây là hậu quả cuối cùng của nhiều bệnh tim mạch, làm giả","""Suy tim"" trong y học thường được hiểu là tình trạng suy giảm chức năng của các cơ quan tim (như gan, thận) hoặc cả hai cùng lúc. Đây có thể là một tr",0.3805,"Suy tim là tình trạng tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể. Đây là hậu quả cuối cùng của nhiều bệnh tim mạch, làm giả",0.8324,"Suy tim là tình trạng chức năng thận trái suy giảm hoặc mất đi hoàn toàn, dẫn đến thiếu máu và các triệu chứng như khó thở, mệt mỏi và yếu cơ thể.",0.3377,"Suy tim là tình trạng tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể, dẫn đến thiếu oxy và dưỡng chất cho các cơ quan, gây các ",0.5276
+35,Thuốc thường dùng để điều trị Viêm dạ dày gồm những gì?,"Thuốc kháng sinh diệt vi khuẩn HP (phối hợp nhóm Imidazol và các nhóm khác); Thuốc kháng acid dịch vị (trung hòa acid, giảm đau nhanh); Thuốc ức chế b","Thuốc thường được sử dụng trong điều trị viêm dạ dày bao gồm:
+
+1. Thuốc kháng acid: Esomeprazole, Omeprazole
+
+2. Thuốc chống viêm: Metronidazol, Clari",0.2424,"Thuốc thường dùng để điều trị viêm dạ dày:
+
+1. Thuốc ức chế bơm proton (PPI): Omeprazole, Esomeprazole
+2. Thuốc chèn H2: Famotidine
+3. Thuốc kháng aci",0.2651,"Thuốc có thể bao gồm kháng acid (Erosive Gastritis), proton pump inhibitor (PPI) hoặc H2 receptor antagonist (H2RA).",0.2195,"OMEPRAZOLE, ESOMEPRAZOLE, FAMOTIDINE, OXTALOXIDE, AMLOXICIN, ENEOCLAST, PPI, CHLORPHENIRAMYL, DOLASIL, LIDOACETIC, ALCOHOL, NSAID, TRIMETHOPRINTONE, S",0.0155
+36,Biến chứng của Táo bón là gì?,"Viêm trực tràng; Trĩ nội; Trĩ ngoại; Nứt kẽ hậu môn; Sa trực tràng; Nguy cơ ung thư đại tràng (hiếm, kéo dài)","Biến chứng của táo bón có thể bao gồm: đau bụng, tiêu chảy, mất nước do nôn mửa, rối loạn nhịp tim, thậm chí suy kiệt nếu tình trạng kéo dài và nghiêm",0.2708,"Biến chứng của Táo bón chủ yếu liên quan đến việc giảm tần suất đi đại tiện và sự thô cứng của phân. Các vấn đề tiềm ẩn khác có thể xuất hiện như:
+
+1.",0.1605,"Đau bụng, chảy máu, sưng vùng hậu môn và viêm đại tràng.",0.3103,"Đây là câu hỏi về các tác hại tiềm ẩn mà bệnh táo bón có thể gây ra cho cơ thể như viêm loét niêm mạc hậu môn, sưng u tại chỗ, thậm chí nhiễm trùng ng",0.3091
+37,Cách chăm sóc và điều trị ban đầu cho Viêm phổi là gì?,"Nghỉ ngơi đầy đủ, vận động hợp lý; Uống nhiều nước để làm loãng đờm; Giữ ấm cơ thể, đặc biệt vùng cổ và ngực; Vệ sinh mũi họng bằng nước muối sinh lý","Để giúp bạn quản lý và điều trị viêm phổi hiệu quả:
+
+1. Nên nghỉ ngơi nhiều hơn.
+2. Hạn chế tiếp xúc với người khác để giảm khả năng lây nhiễm.
+3. Sử ",0.2365,"Để chăm sóc và điều trị ban đầu cho Viêm phổi, bạn nên thực hiện các phương pháp sau:
+
+1. **Lifestyle**: Nghiên cứu về việc nghỉ ngơi đầy đủ để hồi ph",0.2206,"Điều trị bằng thuốc kháng sinh theo chỉ định của bác sĩ, nghỉ ngơi đầy đủ, dùng thức ăn giàu protein để hỗ trợ hồi phục cơ quan hô hấp.",0.2697,"Đây là những phương pháp cần thực hiện ngay từ khi phát hiện bệnh: nghỉ ngơi đầy đủ, uống nhiều nước để làm loãng đờm, giữ ấm cơ thể, đặc biệt vùng cổ",0.7434
+38,Cách chăm sóc và điều trị ban đầu cho Mất ngủ là gì?,"Duy trì giờ ngủ cố định; Tập thể dục đều đặn; Tránh thiết bị điện tử trước ngủ; Tạo môi trường ngủ yên tĩnh, tối và mát; Hạn chế ngủ trưa dài; Giảm st","Để cải thiện tình trạng mất ngủ, bạn có thể thử các phương pháp sau:
+
+1. Tạo thói quen đi ngủ: Đặt lịch ngủ vào mỗi đêm và cố gắng theo nó.
+2. Xây dựn",0.2833,"Để giúp bạn hiểu rõ hơn về cách chăm sóc và điều trị ban đầu cho Mất ngủ, tôi sẽ tổng hợp các phương pháp được đề cập trong các tài liệu:
+
+1. **Lifest",0.2751,"Chăm sóc bao gồm tạo thói quen đi ngủ lành mạnh như ngủ trước 10 giờ đêm, giảm caffeine và tránh thức khuya. Điều trị ban đầu thường bao gồm việc làm ",0.2635,"Đầu tiên, người bệnh cần thực hiện các phương pháp điều trị như tăng cường luyện tập thể thao, duy trì lịch作息 ổn định, tránh xa chất kích thích và giả",0.3206
+39,Cách chăm sóc và điều trị ban đầu cho Mất ngủ là gì?,"Duy trì giờ ngủ cố định; Hạn chế thiết bị điện tử trước ngủ; Tập thể dục nhẹ nhàng; Thiền, yoga, thư giãn; Ngâm chân nước ấm; Tối ưu môi trường ngủ yê","Để cải thiện tình trạng mất ngủ, bạn có thể thử các phương pháp sau:
+
+1. Tạo thói quen đi ngủ: Đặt lịch ngủ vào mỗi đêm và cố gắng theo nó.
+2. Xây dựn",0.2544,"Để giúp bạn hiểu rõ hơn về cách chăm sóc và điều trị ban đầu cho Mất ngủ, tôi sẽ tổng hợp các phương pháp được đề cập trong các tài liệu:
+
+1. **Lifest",0.273,"Chăm sóc bao gồm tạo thói quen đi ngủ lành mạnh như ngủ trước 10 giờ đêm, giảm caffeine và tránh thức khuya. Điều trị ban đầu thường bao gồm việc làm ",0.271,"Đầu tiên, người bệnh cần thực hiện các phương pháp điều trị như tăng cường luyện tập thể thao, duy trì lịch作息 ổn định, tránh xa chất kích thích và giả",0.3193
+40,Cách chăm sóc và điều trị ban đầu cho Suy thận là gì?,"Kiểm soát huyết áp và đường huyết; Chế độ ăn giảm muối, giảm đạm; Uống đủ nước theo hướng dẫn; Tập thể dục đều đặn; Không hút thuốc lá; Duy trì cân nặ","Để chăm sóc và điều trị ban đầu cho suy thận:
+
+1. Kiểm tra sức khỏe định kỳ:定期检查肾功能，监测病情变化。
+
+2. Chế độ ăn uống cân đối:饮食中应包含足够的蛋白质、维生素和矿物质，并限制盐分摄入。
+
+",0.2511,"Để chăm sóc và điều trị ban đầu cho Suy thận, theo các tài liệu được cung cấp:
+
+1. Phát hiện sớm giúp làm chậm tiến triển bệnh.
+2. Kiểm soát bệnh nền ",0.2291,"Điều chỉnh chế độ ăn uống hợp lý, dùng thuốc bổ thận theo chỉ định của bác sĩ, giảm stress và duy trì hoạt động thể chất适量.",0.2889,"Điều chỉnh chế độ dinh dưỡng, kiểm soát bệnh nền, thực hành sinh hoạt lành mạnh như vận động, nghỉ ngơi đầy đủ, uống nước thường xuyên và tuân thủ the",0.3178
+41,Nguồn thông tin chính về Ho nhiều từ đâu?,Nguồn: Medlatec. Tham khảo: https://medlatec.vn/tin-tuc/ho-nhieu-la-dau-hieu-canh-bao-nhung-benh-gi-s195-n18155,"Nếu bạn đang tìm kiếm nguồn thông tin chính về ho (cough), có thể bạn muốn xem xét các nghiên cứu khoa học hoặc bài báo của các nhà vi sinh vật học và",0.0491,"Nguyên nguồn thông tin chính về ""Ho nhiều"" được cung cấp trong bài viết số 1 (Tài liệu 1) thuộc lĩnh vực Y học. Bài viết này cung cấp định nghĩa chi t",0.0633,"Thông tin chính có thể tìm thấy trên các trang web của Tổ chức Y tế Thế giới (WHO), Bệnh viện Cleveland Clinic và các chuyên gia y tế uy tín khác.",0.0571,Thông tin chính được cung cấp từ Tài liệu 1 (Mediatec).,0.0513
+42,Những lưu ý quan trọng khi xử trí Mất ngủ là gì?,Mất ngủ thường do nhiều nguyên nhân phối hợp; Ưu tiên điều chỉnh lối sống trước khi dùng thuốc; Không tự ý sử dụng thuốc ngủ kéo dài; CBT-I là phương ,"Khi xử trí mất ngủ, bạn nên:
+
+1. Xây dựng thói quen sinh hoạt hàng ngày đều đặn.
+2. Giúp cơ thể thích nghi với các giờ giấc khác nhau của ngày.
+3. Tạo",0.2638,"+ Lifestyle: 
+- Thiết lập giờ ngủ cố định
+- Giảm căng thẳng bằng các phương pháp như thiền, yoga
+- Hạn chế việc sử dụng thiết bị điện tử trước khi đi ",0.232,"Điều chỉnh thói quen sinh hoạt hợp lý (đúng giờ đi ngủ và thức dậy), giảm stress, tập thể dục đều đặn, hạn chế caffeine và酒精 vào buổi tối, tìm cách th",0.2899,"- Cần duy trì lịch作息 cố định;
+- Nâng cao chất lượng giấc ngủ bằng cách giảm tác dụng phụ của các loại thuốc như cafein, rượu bia, nicotine; 
+- Thực hi",0.2941
+43,Viêm dạ dày là gì?,"Viêm dạ dày là tình trạng niêm mạc dạ dày bị tổn thương, gây sưng hoặc viêm. Bệnh có thể xảy ra bất ngờ (cấp tính) hoặc diễn ra âm ỉ (mãn tính), gây r",Viêm dạ dày xảy ra khi lớp màng bên trong của ruột (dạ dày) bị tổn thương và viêm nhiễm do acid trong máu. Nguyên nhân thường liên quan đến việc tiêu ,0.3562,"Viêm dạ dày là tình trạng niêm mạc dạ dày bị tổn thương, gây sưng hoặc viêm. Bệnh có thể xảy ra bất ngờ (cấp tính) hoặc diễn ra âm ỉ (mãn tính), gây r",1.0,"Đau ở vùng bụng dưới kéo dài từ 3-6 ngày, có thể kèm buồn nôn hoặc sốt.",0.2149,"Viêm dạ dày là tình trạng niêm mạc dạ dày bị tổn thương, gây sưng hoặc viêm. Nó có thể xảy ra cấp tính hoặc mạn tính và gây ra nhiều triệu chứng như đ",0.7108
+44,Nguồn thông tin chính về Tăng huyết áp từ đâu?,Nguồn: Nhà thuốc Long Châu. Tham khảo: https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html,"Nếu bạn đang tìm kiếm nguồn thông tin chính xác về tăng huyết áp, có thể xem các trang web của Tổ chức Y tế Thế giới (WHO), Hiệp hội Y học Mỹ (AHA) ho",0.137,"Số liệu 1: [Tài liệu 1]  
+Số liệu 2: [Tài liệu 2]  
+Số liệu 3: [Tài liệu 3]  
+Số liệu 4: [Tài liệu 4]  
+Số liệu 5: [Tài liệu 5]
+
+Trong số các nguồn th",0.0971,"Thông tin chính thức đến từ các tổ chức y tế như WHO (World Health Organization), CDC (Centers for Disease Control and Prevention) và các cơ sở y tế c",0.1034,Sách giáo trình của nhà thuốc Long Châu.,0.3529
+45,Làm thế nào để phòng ngừa Trầm cảm?,Hỗ trợ tâm lý kịp thời khi gặp sang chấn; Duy trì môi trường sống tích cực; Giảm áp lực học tập và công việc; Phát hiện sớm dấu hiệu trầm cảm; Khám ch,"Trên thực tế, tôi không có khả năng cung cấp tư vấn y tế chuyên sâu hoặc hướng dẫn cụ thể về cách phòng ngừa trầm cảm. Tuy nhiên, một số gợi ý cho việ",0.2587,"Trên các tài liệu về phòng tránh trầm cảm được liệt kê một số cách:
+
+1. **Rửa tay thường xuyên**: Sử dụng xà phòng để giảm nguy cơ lây nhiễm vi-rút từ",0.2139,"Phòng ngừa bằng việc duy trì tâm trạng tích cực, tập thể dục đều đặn, ăn uống lành mạnh và có chế độ ngủ đủ giấc.",0.35,"Phòng ngừa trầm cảm cần tập trung vào việc duy trì một lối sống lành mạnh như tăng cường hoạt động thể chất, cải thiện hệ thống miễn dịch, giảm stress",0.28
+46,Phân loại của Suy thận như thế nào?,Suy thận cấp; Suy thận mạn; Giai đoạn 1 CKD; Giai đoạn 2 CKD; Giai đoạn 3a CKD; Giai đoạn 3b CKD; Giai đoạn 4 CKD; Giai đoạn 5 CKD (giai đoạn cuối),"Suy thận có thể được phân loại dựa trên mức độ suy giảm và nguyên nhân gây ra. Một số dạng chính thường gặp bao gồm:
+
+1. Suy thận mạn tính: Tình trạng",0.1818,Suy thận được phân loại dựa trên mức độ suy giảm chức năng thận và tình trạng sức khỏe tổng quát của người bệnh. Một số tiêu chuẩn phổ biến cho phân l,0.1368,"Suy thận có 3 cấp độ: mạn tính (mức nặng), tiến triển và hồi phục.",0.3188,Suy thận được phân loại thành 3 cấp độ từ nhẹ đến nặng dựa trên mức độ giảm lọc máu và triệu chứng xuất hiện.,0.2143
+47,Nguồn thông tin chính về Táo bón từ đâu?,Nguồn: Nhà thuốc Long Châu. Tham khảo: https://nhathuoclongchau.com.vn/benh/tao-bon-246.html,"Thông tin về bệnh táo bón thường được tìm kiếm trên các trang web của WHO (World Health Organization), CDC (Centers for Disease Control and Prevention",0.0833,"Nguyên nguồn thông tin chính về Táo bón từ các tài liệu là:
+
+1. Tài liệu 1: ""Bệnh: Táo bón"" của Vinmec.
+2. Tài liệu 2: ""Bệnh: Táo bón"" của Bệnh viện Đ",0.1006,"Thông tin chính thức đến từ các cơ quan y tế như WHO và CDC trong thế giới thực, cùng với các nghiên cứu khoa học uy tín.",0.1311,Sách 1 của nhà xuất bản Vinmec.,0.0645
+48,Khi nào cần đi khám bác sĩ nếu bị Rối loạn lo âu?,Lo âu kéo dài trên 6 tháng; Cơn hoảng sợ tái diễn; Ảnh hưởng nghiêm trọng đến sinh hoạt; Khó ngủ kéo dài; Có hành vi cưỡng chế hoặc ám ảnh mạnh; Kèm t,"Nếu bạn gặp các triệu chứng sau, nên đi khám bác sĩ:
+
+1. Lo lắng kéo dài hơn 6 tháng.
+2. Có suy nghĩ tự tử hoặc tự pha tinh.
+3. Đau đầu, mệt mỏi thườn",0.319,"- Lo âu kéo dài trên 6 tháng  
+- Cơn hoang sợ tái diễn  
+- Án hổng nghiêm trọng đến sinh hoạt  
+- Khô nóng kéo dài  
+- Có hành vi cưỡng chế hoặc ám ản",0.3488,"Nếu cảm thấy khó chịu kéo dài hơn 6 tháng hoặc có triệu chứng như rối loạn giấc ngủ, ăn uống tiêu cực, mất tập trung, hoảng loạn hay tự sát.",0.3448,"Người bệnh cần đi khám bác sĩ khi tình trạng lo âu kéo dài hơn 6 tháng, xuất hiện các cơn hoang mang như tim đập nhanh, đau ngực, mất ngủ kéo dài, có ",0.4156
+49,Đặc điểm dịch tễ của Suy tim là gì?,Là bệnh tim mạch phổ biến; Tỷ lệ tăng theo tuổi; Liên quan đến tăng huyết áp và bệnh mạch vành; Có xu hướng gia tăng trong cộng đồng; Ảnh hưởng lớn đế,"Dịch tợ (dịch tiết) của suy tim có thể bao gồm các triệu chứng như:
+
+1. Khó thở: Thường xuyên hoặc thường xuyên hơn.
+2. Đau ngực: Có thể xuất hiện ở m",0.2488,"Dịch tợ của Suy tim bao gồm:
+
+- Tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể.
+- Tình trạng này xảy ra khi tim không còn đủ kh",0.2473,"Suy tim có thể xuất hiện ở mọi độ tuổi và nguyên nhân đa dạng như đái tháo đường, bệnh mạch máu, viêm cơ tim hoặc tăng huyết áp kéo dài.",0.297,Suy tim có thể xuất hiện ở mọi độ tuổi nhưng phổ biến nhất là người già (từ 70 tuổi trở lên).,0.2824
+50,Những lưu ý quan trọng khi xử trí Viêm xoang (Viêm mũi xoang) là gì?,Sử dụng thuốc kháng sinh phải có sự hướng dẫn của bác sĩ chuyên khoa để tránh kháng thuốc.; Bệnh khó kiểm soát nếu yếu tố dị ứng vẫn tồn tại trong môi,"- Nên dùng thuốc giảm đau và chống viêm theo chỉ định của bác sĩ.
+- Cần tránh sử dụng chất kích thích như rượu bia, caffeine trong thời gian điều trị.",0.3154,"Lưu ý quan trọng khi xử trí viêm xoang (viêm mũi xoang):
+
+1. Nên thăm khám tại một cơ sở y tế uy tín để được tư vấn và điều trị phù hợp.
+
+2. Sử dụng t",0.2586,Điều trị bằng thuốc kháng sinh hoặc corticosteroid theo chỉ định của bác sĩ; tránh sử dụng chất kích thích như rượu bia và tránh làm tăng áp lực cho v,0.3358,"Đây là những điểm quan trọng:
+
+1. Cần khống chế viêm nhiễm từ sớm bằng kháng sinh hoặc corticosteroid.
+2. Phẫu thuật chỉ thực hiện sau khi hết viêm ho",0.2838

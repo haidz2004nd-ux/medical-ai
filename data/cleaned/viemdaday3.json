@@ -1,0 +1,111 @@
+{
+  "title": "Viêm dạ dày",
+  "type": "disease",
+  "topic": "tiêu hóa - dạ dày",
+  "definition": "Viêm dạ dày là tình trạng các niêm mạc dạ dày bị tổn thương, bào mòn do nhiễm khuẩn hoặc một số tác động khác gây nên viêm. Bệnh có thể gặp ở bất kỳ đối tượng nào, phổ biến nhất ở độ tuổi trưởng thành và trung niên.",
+  "classification": [
+    "Viêm dạ dày cấp tính",
+    "Viêm dạ dày mạn tính",
+    "Viêm dạ dày tự miễn",
+    "Viêm dạ dày do vi khuẩn HP",
+    "Viêm dạ dày do thuốc (NSAIDs, Corticoid)"
+  ],
+  "pathophysiology": [
+    "Niêm mạc dạ dày bị tổn thương bởi acid dịch vị hoặc vi khuẩn",
+    "Phá hủy chất nhầy bảo vệ niêm mạc bởi enzyme mucinase",
+    "Tăng tiết acid dạ dày do kích thích gastrin",
+    "Tăng tiết cortisol do stress gây tổn thương tế bào viền",
+    "Ức chế tổng hợp Prostaglandin (yếu tố bảo vệ) do dùng thuốc kháng viêm"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm vi khuẩn Helicobacter pylori (HP)",
+      "Sử dụng thuốc giảm đau NSAIDs và Corticoid",
+      "Sử dụng đồ uống có cồn, thuốc lá",
+      "Stress, căng thẳng kéo dài",
+      "Chế độ ăn uống thiếu khoa học (ăn quá nhanh, đồ chua cay)"
+    ],
+    "chronic": [
+      "Nhiễm vi khuẩn HP kéo dài (nguyên nhân chính)",
+      "Bệnh tự miễn (cơ thể tự tấn công tế bào niêm mạc)",
+      "Trào ngược dịch mật từ tá tràng lên dạ dày",
+      "Biến chứng sau xạ trị hoặc hóa trị ung thư"
+    ]
+  },
+  "symptoms": [
+    "Đau vùng thượng vị (đặc biệt khi ăn no)",
+    "Nóng rát ở lồng ngực",
+    "Ợ hơi, ợ chua",
+    "Buồn nôn hoặc nôn (nôn khan hoặc nôn ra thức ăn)",
+    "Mệt mỏi, chán ăn, ăn không ngon miệng"
+  ],
+  "complications": [
+    "Thiếu máu (thiếu máu thiếu sắt hoặc thiếu máu ác tính)",
+    "Xuất huyết tiêu hóa (nôn ra máu, đi ngoài phân đen)",
+    "Loét dạ dày",
+    "Thủng dạ dày và viêm phúc mạc",
+    "Nhiễm trùng huyết",
+    "Ung thư dạ dày"
+  ],
+  "diagnosis": [
+    "Nội soi đường tiêu hóa trên (quan sát trực tiếp niêm mạc)",
+    "Xét nghiệm hơi thở ure (tìm vi khuẩn HP)",
+    "Xét nghiệm máu (tìm kháng thể HP)",
+    "Xét nghiệm phân (tìm kháng thể HP)",
+    "Thăm khám lâm sàng các triệu chứng đau thượng vị, ợ chua"
+  ],
+  "risk_groups": [
+    "Người sống trong môi trường vệ sinh kém",
+    "Người có thói quen ăn uống, sinh hoạt không đúng giờ giấc",
+    "Người lớn tuổi (nhiễm HP lâu dài)",
+    "Bệnh nhân điều trị xương khớp bằng thuốc NSAIDs dài ngày",
+    "Người thường xuyên bị căng thẳng, stress",
+    "Người có người thân trong gia đình bị viêm loét dạ dày"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Thay đổi thói quen sinh hoạt lành mạnh",
+      "Chế độ dinh dưỡng hợp lý (nhai kỹ, ăn đúng giờ)",
+      "Bổ sung thực phẩm bảo vệ dạ dày: chuối, ngũ cốc, táo, bánh mì, sữa chua, đậu bắp",
+      "Kiêng đồ chiên xào, đồ cay nóng, đồ sống, đồ ngọt và rượu bia"
+    ],
+    "medication": [
+      "Thuốc kháng sinh diệt vi khuẩn HP (phối hợp nhóm Imidazol và các nhóm khác)",
+      "Thuốc kháng acid dịch vị (trung hòa acid, giảm đau nhanh)",
+      "Thuốc ức chế bơm proton PPI (như Omeprazol) giúp kiểm soát tiết acid"
+    ],
+    "psychotherapy": [
+      "Giảm căng thẳng, stress để hạn chế tiết acid do cortisol",
+      "Tư vấn điều chỉnh lối sống và thói quen ăn uống"
+    ]
+  },
+  "prevention": [
+    "Hạn chế rượu bia, thuốc lá và các chất kích thích",
+    "Tuân thủ đơn thuốc giảm đau NSAIDs theo hướng dẫn của bác sĩ",
+    "Hạn chế thực phẩm quá cay, nóng hoặc quá chua",
+    "Đảm bảo vệ sinh an toàn thực phẩm (ăn chín uống sôi)",
+    "Kiểm tra sức khỏe các thành viên trong gia đình nếu có người nhiễm HP"
+  ],
+  "when_to_see_doctor": [
+    "Đau thượng vị dữ dội, đột ngột hoặc tăng dần",
+    "Ảnh hưởng nghiêm trọng đến ăn uống, sụt cân nhanh",
+    "Nôn ra máu hoặc đi đại tiện ra máu, phân đen",
+    "Đau dạ dày kèm hoa mắt, chóng mặt, da xanh xao",
+    "Triệu chứng rối loạn tiêu hóa kéo dài không thuyên giảm"
+  ],
+  "care_notes": [
+    "Viêm dạ dày cấp tính có thể tự hồi phục sau 5-7 ngày nếu thay đổi lối sống",
+    "Viêm dạ dày mạn tính thường diễn biến thầm lặng, cần nội soi để phát hiện",
+    "Vi khuẩn HP là tác nhân gây ung thư nhóm 1, cần điều trị triệt để",
+    "Không nên lạm dụng thuốc kháng acid vì có thể gây loét tái phát",
+    "Thời điểm giao mùa (Thu - Đông) dễ làm bùng phát bệnh do sức đề kháng giảm"
+  ],
+  "epidemiology": [
+    "Là bệnh lý tiêu hóa rất phổ biến tại Việt Nam",
+    "Phổ biến nhất ở độ tuổi trưởng thành và trung niên",
+    "Người nhóm máu O có nguy cơ nhiễm HP cao hơn do kháng nguyên Lewis b",
+    "Tỷ lệ lây nhiễm chéo vi khuẩn HP trong gia đình rất cao"
+  ],
+  "source": "Hệ Thống Đa Khoa Quốc tế Sài Gòn",
+  "url": "https://taimuihongsg.com/viem-da-day/"
+}

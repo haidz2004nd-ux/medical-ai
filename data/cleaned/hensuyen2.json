@@ -1,0 +1,86 @@
+{
+  "title": "Bệnh hen suyễn (Hen phế quản)",
+  "type": "disease",
+  "topic": "Hô hấp",
+  "definition": "Hen suyễn là bệnh viêm niêm mạc phế quản mạn tính, đặc trưng bởi tình trạng tắc nghẽn đường thở do phù nề, tăng tiết đờm và co thắt cơ trơn phế quản khi gặp tác nhân kích thích.",
+  "classification": [
+    "Hen suyễn dị ứng (ngoại sinh): Do lông thú, phấn hoa, thực phẩm...",
+    "Hen suyễn không dị ứng (nội tại): Do khói thuốc, ô nhiễm, không khí lạnh...",
+    "Hen suyễn nghề nghiệp: Do bụi bặm, hóa chất tại nơi làm việc.",
+    "Hen suyễn do gắng sức (EIB): Xuất hiện khi tập thể dục, vận động mạnh.",
+    "Hen suyễn do Aspirin (AIA): Kích hoạt bởi thuốc chống viêm không steroid.",
+    "Hen suyễn về đêm: Triệu chứng trầm trọng hơn khi ngủ.",
+    "Hen phế quản dạng ho (CVA): Chỉ có biểu hiện ho khan dai dẳng.",
+    "Hen suyễn khởi phát ở người lớn: Thường xuất hiện sau tuổi 20.",
+    "Hen suyễn ở trẻ em: Triệu chứng thường xảy ra theo từng đợt."
+  ],
+  "pathophysiology": [
+    "Phù nề niêm mạc phế quản",
+    "Co thắt cơ trơn phế quản",
+    "Tăng tiết đờm nhầy gây bít tắc đường thở"
+  ],
+  "causes": {
+    "acute_triggers": [
+      "Dị nguyên: Mạt bụi, phấn hoa, nấm mốc, gián, lông thú nuôi.",
+      "Ô nhiễm: Khói thuốc lá, khói đốt gỗ/cỏ, hóa chất, bụi mịn.",
+      "Nhiễm trùng: Cảm cúm, cảm lạnh, virus hợp bào hô hấp.",
+      "Khác: Không khí lạnh, stress, trào ngược dạ dày (GERD), chất bảo quản thực phẩm (sulfite)."
+    ]
+  },
+  "symptoms": [
+    "Cơn hen điển hình: Khó thở chậm, tiếng khò khè/cò cử (thường về đêm).",
+    "Ho dai dẳng (tăng về đêm), ho khạc đờm trong/quánh khi hết cơn.",
+    "Tức ngực hoặc nặng ngực.",
+    "Thở nhanh, nông; lồng ngực co kéo (ở trẻ em).",
+    "Dấu hiệu trở nặng: Cơn hen lặp lại thường xuyên, phải sử dụng thuốc cắt cơn nhiều hơn."
+  ],
+  "complications": [
+    "Khí phế thũng, tâm phế mạn tính.",
+    "Biến dạng lồng ngực, suy hô hấp mạn tính.",
+    "Xẹp phổi (thường gặp ở trẻ em).",
+    "Tràn khí màng phổi (nguy cơ tử vong cao).",
+    "Hội chứng giả Cushing (do lạm dụng corticoid)."
+  ],
+  "diagnosis": [
+    "Khai thác bệnh sử và tiền sử dị ứng.",
+    "Khám lâm sàng: Nghe phổi tìm tiếng rít, khò khè.",
+    "Đo chức năng hô hấp: Hô hấp ký (Spirometry), đo lưu lượng đỉnh (Peak Flow).",
+    "Chẩn đoán hình ảnh: X-quang phổi, Chụp CT (để phân biệt với COPD, lao, polyp mũi).",
+    "Thăm dò khác: Test kích thích phế quản, đo FeNO, test lẩy da (dị ứng)."
+  ],
+  "risk_groups": [
+    "Người có cơ địa dị ứng (chàm, viêm mũi dị ứng).",
+    "Trẻ em có bố hoặc mẹ mắc hen suyễn.",
+    "Người thừa cân, béo phì.",
+    "Người làm việc trong môi trường khói bụi, hóa chất."
+  ],
+  "treatment": {
+    "medication": [
+      "Thuốc kiểm soát (dài hạn): Corticoid đường hít (ICS), thường kết hợp thuốc kích thích beta kéo dài.",
+      "Thuốc cắt cơn (tức thời): Dùng khi lên cơn khó thở cấp (SABA, bình xịt định liều)."
+    ],
+    "emergency_care": [
+      "Dùng thuốc tác dụng nhanh ngay tại chỗ.",
+      "Gọi cấp cứu nếu có biểu hiện trầm trọng (khó thở không nói được, tím tái)."
+    ]
+  },
+  "prevention": [
+    "Cai thuốc lá và tránh khói thuốc thụ động.",
+    "Tiêm vắc xin phòng cúm (hàng năm) và phế cầu (5 năm/lần).",
+    "Tránh các tác nhân gây dị ứng đã biết.",
+    "Chế độ ăn nhiều rau xanh, trái cây tươi; tránh thực phẩm chứa sulfite.",
+    "Giữ ấm cơ thể, tránh vận động quá sức trong không khí lạnh/khô."
+  ],
+  "when_to_see_doctor": [
+    "Khi có triệu chứng khó thở, khò khè tái diễn.",
+    "Khi cơn khó thở không đáp ứng với thuốc cắt cơn thông thường.",
+    "Cần tái khám định kỳ (3-4 tháng/lần) để điều chỉnh phác đồ."
+  ],
+  "care_notes": [
+    "Hen suyễn không lây nhiễm nhưng có tính di truyền.",
+    "Bệnh có tỷ lệ tử vong cao chỉ sau ung thư nếu không được kiểm soát.",
+    "Việc chẩn đoán ở trẻ em thường muộn do triệu chứng đôi khi không rõ ràng."
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/hen-suyen/"
+}

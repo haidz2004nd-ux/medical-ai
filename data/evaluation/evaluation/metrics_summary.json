@@ -1,0 +1,38 @@
+[
+  {
+    "config": "A (Base, No RAG)",
+    "use_rag": false,
+    "bleu_4": 0.0248,
+    "rouge_l": 0.2717,
+    "bertscore_f1": 0.8353,
+    "recall_at_5": "N/A",
+    "n_samples": 50
+  },
+  {
+    "config": "B (Base, RAG)",
+    "use_rag": true,
+    "bleu_4": 0.1373,
+    "rouge_l": 0.3993,
+    "bertscore_f1": 0.8634,
+    "recall_at_5": 0.84,
+    "n_samples": 50
+  },
+  {
+    "config": "C (Fine-tuned, No RAG)",
+    "use_rag": false,
+    "bleu_4": 0.0475,
+    "rouge_l": 0.2982,
+    "bertscore_f1": 0.8469,
+    "recall_at_5": "N/A",
+    "n_samples": 50
+  },
+  {
+    "config": "D (Fine-tuned, RAG)",
+    "use_rag": true,
+    "bleu_4": 0.2161,
+    "rouge_l": 0.4167,
+    "bertscore_f1": 0.8689,
+    "recall_at_5": 0.84,
+    "n_samples": 50
+  }
+]

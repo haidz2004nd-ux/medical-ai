@@ -1,0 +1,115 @@
+{
+  "title": "Tăng huyết áp",
+  "type": "disease",
+  "topic": "bệnh tim mạch",
+  "definition": "Tăng huyết áp là tình trạng huyết áp tâm thu ≥ 130 mmHg hoặc huyết áp tâm trương ≥ 80 mmHg, hoặc đang sử dụng thuốc điều trị tăng huyết áp. Đây là bệnh lý phổ biến và thường không có triệu chứng cho đến khi gây tổn thương cơ quan đích.",
+  "pathophysiology": [
+    "Tăng cung lượng tim",
+    "Tăng sức cản mạch ngoại vi",
+    "Rối loạn hệ renin-angiotensin-aldosterone",
+    "Tăng hoạt động thần kinh giao cảm",
+    "Rối loạn vận chuyển natri qua màng tế bào",
+    "Giảm chất giãn mạch (nitric oxide)",
+    "Tăng giữ muối và nước"
+  ],
+  "causes": {
+    "primary": [
+      "Không rõ nguyên nhân",
+      "Yếu tố di truyền",
+      "Ăn nhiều muối",
+      "Stress và căng thẳng",
+      "Lối sống ít vận động"
+    ],
+    "secondary": [
+      "Ngưng thở khi ngủ",
+      "Bệnh thận mạn tính",
+      "Hẹp động mạch thận",
+      "Cường aldosteron nguyên phát",
+      "Rối loạn nội tiết (Cushing, cường giáp, u tủy thượng thận)",
+      "Thuốc (NSAID, corticosteroid, thuốc tránh thai)",
+      "Sử dụng chất kích thích (cocaine, caffeine)"
+    ]
+  },
+  "symptoms": [
+    "Thường không có triệu chứng",
+    "Đau đầu",
+    "Chóng mặt",
+    "Đau ngực",
+    "Khó thở",
+    "Nhìn mờ"
+  ],
+  "complications": [
+    "Bệnh động mạch vành",
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Đột quỵ",
+    "Suy thận",
+    "Phình và bóc tách động mạch chủ",
+    "Tổn thương võng mạc"
+  ],
+  "diagnosis": [
+    "Đo huyết áp nhiều lần ở các thời điểm khác nhau",
+    "Đo huyết áp tại phòng khám ≥ 130/80 mmHg",
+    "Theo dõi huyết áp tại nhà ≥ 135/85 mmHg",
+    "Theo dõi huyết áp 24 giờ (Holter)",
+    "Xét nghiệm máu (đường huyết, lipid, điện giải)",
+    "Xét nghiệm chức năng thận",
+    "Điện tâm đồ (ECG)",
+    "Siêu âm tim",
+    "Xét nghiệm nội tiết khi nghi ngờ nguyên nhân thứ phát"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Giảm muối trong chế độ ăn",
+      "Tăng rau xanh và trái cây",
+      "Tập thể dục thường xuyên",
+      "Giảm cân nếu thừa cân",
+      "Bỏ thuốc lá",
+      "Hạn chế rượu bia",
+      "Giảm stress"
+    ],
+    "medication": [
+      "Thuốc lợi tiểu",
+      "Thuốc ức chế men chuyển (ACE inhibitors)",
+      "Thuốc chẹn thụ thể angiotensin II (ARB)",
+      "Thuốc chẹn kênh canxi",
+      "Thuốc chẹn beta"
+    ]
+  },
+  "risk_groups": [
+    "Người cao tuổi",
+    "Người có tiền sử gia đình tăng huyết áp",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người ăn nhiều muối",
+    "Người mắc bệnh thận hoặc rối loạn nội tiết"
+  ],
+  "prevention": [
+    "Giảm muối trong chế độ ăn",
+    "Tăng rau xanh và trái cây",
+    "Tập thể dục thường xuyên",
+    "Duy trì cân nặng hợp lý",
+    "Không hút thuốc",
+    "Hạn chế rượu bia",
+    "Giảm stress"
+  ],
+  "when_to_see_doctor": [
+    "Huyết áp ≥ 140/90 mmHg nhiều lần",
+    "Huyết áp ≥ 180/120 mmHg",
+    "Đau ngực dữ dội",
+    "Khó thở",
+    "Yếu liệt",
+    "Nhìn mờ",
+    "Đau đầu dữ dội"
+  ],
+  "care_notes": [
+    "Theo dõi huyết áp thường xuyên",
+    "Uống thuốc đều đặn theo chỉ định",
+    "Không tự ý ngưng thuốc",
+    "Ăn nhạt (<5g muối/ngày)",
+    "Duy trì lối sống lành mạnh",
+    "Kiểm tra sức khỏe định kỳ"
+  ],
+  "source": "MSD Manual + Vinmec tổng hợp",
+  "url": "https://www.msdmanuals.com/vi/professional/r%E1%BB%91i-lo%E1%BA%A1n-tim-m%E1%BA%A1ch/t%C4%83ng-huy%E1%BA%BFt-%C3%A1p/t%C4%83ng-huy%E1%BA%BFt-%C3%A1p"
+}

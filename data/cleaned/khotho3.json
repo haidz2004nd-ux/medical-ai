@@ -1,0 +1,129 @@
+{
+  "title": "Khó thở",
+  "type": "symptom",
+  "topic": "hô hấp - tim mạch",
+  "definition": "Khó thở là cảm giác không thể hít thở đủ không khí, hụt hơi hoặc “đói không khí”, khiến người bệnh cảm thấy mệt mỏi, tức ngực và hô hấp khó khăn.",
+  "classification": [
+    "Khó thở cấp tính",
+    "Khó thở mạn tính",
+    "Khó thở khi gắng sức",
+    "Khó thở khi nằm",
+    "Khó thở kịch phát"
+  ],
+  "pathophysiology": [
+    "Giảm oxy trong máu",
+    "Rối loạn trao đổi khí tại phổi",
+    "Tắc nghẽn hoặc viêm đường thở",
+    "Giảm khả năng bơm máu của tim",
+    "Giảm dung tích phổi",
+    "Tăng nhu cầu oxy của cơ thể"
+  ],
+  "causes": {
+    "primary": [
+      "Gắng sức quá mức",
+      "Lo âu, căng thẳng",
+      "Dị ứng",
+      "Thiếu máu",
+      "Tiếp xúc khí độc (carbon monoxide)",
+      "Hạ huyết áp"
+    ],
+    "secondary": [
+      "Viêm phổi",
+      "Hen suyễn",
+      "Bệnh phổi tắc nghẽn mạn tính",
+      "Ung thư phổi",
+      "Thuyên tắc phổi",
+      "Tràn khí màng phổi",
+      "Lao phổi",
+      "Phù phổi",
+      "Bệnh tim mạch",
+      "Rối loạn nhịp tim",
+      "Covid-19",
+      "Xơ phổi mô kẽ"
+    ]
+  },
+  "symptoms": [
+    "Khó thở hoặc hụt hơi",
+    "Thở gấp",
+    "Thở nhanh, nông",
+    "Tức ngực",
+    "Tim đập nhanh",
+    "Thở khò khè",
+    "Ho",
+    "Ngạt thở"
+  ],
+  "complications": [
+    "Thiếu oxy máu",
+    "Suy giảm chức năng não",
+    "Tổn thương não",
+    "Đột quỵ",
+    "Nguy cơ tử vong",
+    "Ảnh hưởng chất lượng sống"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Đánh giá triệu chứng và tần suất",
+    "Chụp X-quang ngực",
+    "Chụp CT",
+    "Điện tâm đồ",
+    "Đo chức năng hô hấp",
+    "Xét nghiệm máu"
+  ],
+  "risk_groups": [
+    "Người mắc bệnh tim phổi",
+    "Người béo phì",
+    "Phụ nữ mang thai",
+    "Trẻ sơ sinh",
+    "Người mắc bệnh mạn tính",
+    "Người sống trong môi trường ô nhiễm"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn uống lành mạnh",
+      "Tập thể dục đều đặn",
+      "Duy trì cân nặng hợp lý",
+      "Tránh khói thuốc",
+      "Đeo khẩu trang khi ra ngoài",
+      "Giữ môi trường sống sạch sẽ"
+    ],
+    "medical": [
+      "Liệu pháp oxy",
+      "Phục hồi chức năng phổi",
+      "Phục hồi chức năng tim",
+      "Thuốc điều trị nguyên nhân",
+      "Thiết bị hỗ trợ tim",
+      "Can thiệp y khoa khi cần"
+    ]
+  },
+  "prevention": [
+    "Không hút thuốc",
+    "Tránh ô nhiễm môi trường",
+    "Tập luyện thường xuyên",
+    "Kiểm soát cân nặng",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở kéo dài không rõ nguyên nhân",
+    "Khó thở đột ngột và nghiêm trọng",
+    "Đau tức ngực",
+    "Không thể thở khi nằm",
+    "Sưng chân",
+    "Sốt, ớn lạnh, ho",
+    "Thở khò khè"
+  ],
+  "care_notes": [
+    "Khó thở là dấu hiệu cảnh báo bệnh nghiêm trọng",
+    "Cần xác định nguyên nhân để điều trị",
+    "Không nên chủ quan khi triệu chứng kéo dài",
+    "Theo dõi các dấu hiệu đi kèm",
+    "Khám sớm giúp giảm biến chứng"
+  ],
+  "epidemiology": [
+    "Khó thở là triệu chứng phổ biến",
+    "Gặp ở mọi lứa tuổi",
+    "Chiếm khoảng 1/4 bệnh nhân hô hấp",
+    "Liên quan đến bệnh tim và phổi"
+  ],
+  "source": "Tâm Anh Hospital",
+  "url": "https://tamanhhospital.vn/benh/kho-tho/"
+}

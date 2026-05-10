@@ -1,0 +1,145 @@
+{
+  "title": "Suy tim",
+  "type": "disease",
+  "topic": "tim mạch",
+  "definition": "Suy tim là tình trạng tim không còn đủ khả năng co bóp hoặc giãn nở để bơm máu đi nuôi cơ thể, dẫn đến thiếu oxy và dưỡng chất cho các cơ quan, gây ra các triệu chứng như khó thở, mệt mỏi và phù.",
+  "classification": [
+    "Suy tim trái",
+    "Suy tim phải",
+    "Suy tim toàn bộ",
+    "Suy tim cấp",
+    "Suy tim mạn",
+    "Suy tim tâm thu (HFrEF)",
+    "Suy tim tâm trương (HFpEF)"
+  ],
+  "pathophysiology": [
+    "Giảm khả năng co bóp hoặc giãn nở của cơ tim",
+    "Giảm cung lượng tim",
+    "Ứ máu ở phổi hoặc hệ tĩnh mạch ngoại biên",
+    "Hoạt hóa hệ thần kinh giao cảm",
+    "Hoạt hóa hệ renin-angiotensin-aldosterone",
+    "Giữ muối và nước gây phù và sung huyết"
+  ],
+  "causes": {
+    "acute": [
+      "Nhồi máu cơ tim cấp",
+      "Rối loạn nhịp tim nặng",
+      "Phù phổi cấp do tim",
+      "Viêm cơ tim cấp",
+      "Cơn tăng huyết áp cấp"
+    ],
+    "chronic": [
+      "Tăng huyết áp mạn tính",
+      "Bệnh mạch vành",
+      "Nhồi máu cơ tim cũ",
+      "Bệnh van tim (hẹp hoặc hở van tim)",
+      "Bệnh cơ tim",
+      "Bệnh tim bẩm sinh",
+      "Rối loạn nhịp tim mạn tính",
+      "Đái tháo đường",
+      "Bệnh tuyến giáp",
+      "Lạm dụng rượu bia",
+      "Nhiễm trùng hoặc bệnh lý toàn thân kéo dài"
+    ]
+  },
+  "symptoms": [
+    "Khó thở khi gắng sức hoặc khi nằm",
+    "Khó thở kịch phát về đêm",
+    "Ho khan, ho về đêm",
+    "Đau tức ngực hoặc đau thắt ngực",
+    "Mệt mỏi, giảm khả năng vận động",
+    "Phù chân, mắt cá chân hoặc toàn thân",
+    "Tăng cân nhanh do giữ nước",
+    "Tim đập nhanh, hồi hộp",
+    "Chán ăn, buồn nôn, đầy bụng",
+    "Chóng mặt hoặc ngất"
+  ],
+  "complications": [
+    "Phù phổi cấp",
+    "Rối loạn nhịp tim nguy hiểm",
+    "Đột tử do tim",
+    "Suy đa cơ quan",
+    "Đột quỵ do huyết khối",
+    "Cổ trướng và ứ dịch toàn thân",
+    "Giảm chất lượng cuộc sống nghiêm trọng"
+  ],
+  "diagnosis": [
+    "Thăm khám lâm sàng (nghe tim phổi, đánh giá phù)",
+    "Xét nghiệm BNP hoặc NT-proBNP",
+    "Điện tâm đồ (ECG)",
+    "Siêu âm tim (đánh giá EF và cấu trúc tim)",
+    "X-quang ngực",
+    "Chụp cộng hưởng từ tim (MRI)",
+    "Xét nghiệm máu tổng quát (mỡ máu, đường huyết, thận, điện giải)"
+  ],
+  "risk_groups": [
+    "Người tăng huyết áp",
+    "Người bệnh mạch vành",
+    "Người từng nhồi máu cơ tim",
+    "Người bệnh van tim",
+    "Người đái tháo đường",
+    "Người cao tuổi",
+    "Người béo phì",
+    "Người hút thuốc lá",
+    "Người lạm dụng rượu bia",
+    "Người có bệnh tim bẩm sinh"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Giảm muối trong khẩu phần ăn",
+      "Hạn chế rượu bia và thuốc lá",
+      "Tập thể dục nhẹ nhàng phù hợp",
+      "Theo dõi cân nặng hằng ngày",
+      "Hạn chế căng thẳng",
+      "Khám tim mạch định kỳ",
+      "Tuân thủ điều trị của bác sĩ"
+    ],
+    "medication": [
+      "Thuốc ức chế men chuyển (ACEI)",
+      "Thuốc chẹn thụ thể angiotensin (ARB)",
+      "Thuốc ARNI (sacubitril/valsartan)",
+      "Thuốc chẹn beta",
+      "Thuốc đối kháng aldosterone (MRA)",
+      "Thuốc lợi tiểu",
+      "Thuốc ức chế SGLT2",
+      "Digoxin"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát huyết áp",
+    "Kiểm soát đường huyết",
+    "Ăn uống lành mạnh, giảm muối",
+    "Tập thể dục thường xuyên",
+    "Không hút thuốc lá",
+    "Hạn chế rượu bia",
+    "Duy trì cân nặng hợp lý",
+    "Khám sức khỏe định kỳ",
+    "Điều trị sớm bệnh tim mạch nền",
+    "Giảm căng thẳng kéo dài"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở tăng dần hoặc khó thở khi nghỉ",
+    "Phù chân hoặc toàn thân",
+    "Tăng cân nhanh bất thường",
+    "Đau tức ngực",
+    "Tim đập nhanh kéo dài",
+    "Ngất hoặc chóng mặt",
+    "Ho kéo dài kèm khó thở"
+  ],
+  "care_notes": [
+    "Suy tim là bệnh mạn tính cần theo dõi lâu dài",
+    "Điều trị giúp kiểm soát triệu chứng và kéo dài tuổi thọ",
+    "Tuân thủ thuốc là yếu tố quan trọng nhất",
+    "Phát hiện sớm giúp cải thiện tiên lượng",
+    "Trường hợp nặng có thể cần thiết bị hỗ trợ hoặc ghép tim"
+  ],
+  "epidemiology": [
+    "Bệnh tim mạch phổ biến trên toàn cầu",
+    "Tăng theo độ tuổi",
+    "Liên quan chặt chẽ đến tăng huyết áp và bệnh mạch vành",
+    "Tỷ lệ nhập viện và tử vong cao",
+    "Gia tăng do lối sống ít vận động và già hóa dân số"
+  ],
+  "source": "UMC Clinic",
+  "url": "https://umcclinic.com.vn/suy-tim"
+}

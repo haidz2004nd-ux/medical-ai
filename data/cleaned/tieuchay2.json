@@ -1,0 +1,138 @@
+{
+  "title": "Tiêu chảy",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Tiêu chảy là tình trạng đi tiêu phân lỏng, nhiều nước và cảm giác cần đi tiêu gấp nhiều lần hơn trong ngày (≥ 3 lần/ngày). Có 2 dạng là tiêu chảy cấp (kéo dài 1–2 ngày) và tiêu chảy mạn tính (kéo dài từ 3–4 tuần trở lên), gây mất nước và rối loạn điện giải.",
+  "classification": [
+    "Tiêu chảy cấp",
+    "Tiêu chảy mạn tính",
+    "Tiêu chảy nhiễm trùng",
+    "Tiêu chảy không nhiễm trùng",
+    "Tiêu chảy do thuốc",
+    "Tiêu chảy do rối loạn hấp thu"
+  ],
+  "pathophysiology": [
+    "Mất dịch gây mất nước và mất điện giải (natri, kali, magiê, clo)",
+    "Mất bicarbonate gây nhiễm toan chuyển hóa",
+    "Hạ kali máu do tiêu chảy nặng hoặc mạn tính",
+    "Hạ magiê máu sau tiêu chảy kéo dài có thể gây tetani",
+    "Trụy mạch trong trường hợp tiêu chảy nặng không điều trị"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus: Norovirus, Rotavirus",
+      "Nhiễm vi khuẩn: Salmonella, Campylobacter, Shigella, E. coli, Clostridioides difficile",
+      "Nhiễm ký sinh trùng: Giardia, Entamoeba histolytica, Cryptosporidia",
+      "Ngộ độc thực phẩm: Staphylococci, Bacillus cereus, Clostridium perfringens",
+      "Thuốc: nhuận tràng, kháng sinh, thuốc trung hòa acid có magiê, caffein, thuốc chống ung thư"
+    ],
+    "chronic": [
+      "Hội chứng ruột kích thích (IBS)",
+      "Bệnh viêm đại tràng: viêm loét đại tràng, bệnh Crohn",
+      "Hội chứng kém hấp thu: bệnh Celiac, suy tụy, không dung nạp lactose/carbohydrate",
+      "Phẫu thuật bắc cầu hoặc cắt bỏ ruột hoặc dạ dày",
+      "Khối u: ung thư biểu mô đại tràng, u lympho, u tuyến tiết nhầy đại tràng",
+      "U nội tiết: Vipoma, gastrinoma, u tế bào ưa bạc, ung thư biểu mô tuyến giáp thể tủy",
+      "Rối loạn nội tiết: cường giáp, đái tháo đường",
+      "Thuốc (tương tự tiêu chảy cấp)",
+      "Các yếu tố dinh dưỡng: caffeine, fructose, sorbitol, mannitol, lactose, magiê, olestra"
+    ]
+  },
+  "symptoms": [
+    "Đi tiêu phân lỏng, nhiều nước ≥ 3 lần/ngày",
+    "Cảm giác cần đi tiêu gấp",
+    "Buồn nôn",
+    "Đau bụng, chuột rút",
+    "Đầy hơi",
+    "Mất nước: đau đầu, mệt mỏi, khô miệng, khát nước, giảm đi tiểu, lâng lâng, nhịp tim tăng",
+    "Máu hoặc mủ trong phân (trường hợp nặng)",
+    "Sốt",
+    "Sụt cân (tiêu chảy mạn tính)"
+  ],
+  "complications": [
+    "Mất nước nặng",
+    "Rối loạn điện giải",
+    "Nhiễm toan chuyển hóa do mất bicarbonate",
+    "Hạ kali máu",
+    "Hạ magiê máu gây tetani",
+    "Trụy mạch",
+    "Tử vong nếu không điều trị kịp thời"
+  ],
+  "diagnosis": [
+    "Tiêu chảy cấp thường không cần xét nghiệm, trừ trường hợp nặng",
+    "Công thức máu và đo điện giải, nitơ urê máu, creatinine khi có dấu hiệu nặng",
+    "Soi phân trên kính hiển vi, nuôi cấy phân",
+    "Xét nghiệm tìm độc tố C. difficile (khi đã dùng kháng sinh)",
+    "Xét nghiệm phân tìm máu ẩn, chất béo, điện giải đồ, kháng nguyên Giardia (tiêu chảy mạn)",
+    "Huyết thanh học celiac (IgA mô transglutaminase), TSH, T4 tự do",
+    "Calprotectin hoặc lactoferrin trong phân để sàng lọc bệnh viêm ruột",
+    "Nội soi đại tràng sigma hoặc nội soi đại tràng có sinh thiết",
+    "CT ruột non, nội soi sinh thiết ruột non khi cần",
+    "Nội soi bằng viên nang trong trường hợp đặc biệt"
+  ],
+  "risk_groups": [
+    "Người sống gần người đang bị tiêu chảy",
+    "Người sống ở khu vực vệ sinh kém",
+    "Người sử dụng nguồn nước ô nhiễm",
+    "Người có thói quen ăn uống không hợp vệ sinh",
+    "Người hay đi du lịch",
+    "Trẻ nhỏ và người cao tuổi",
+    "Người suy nhược hoặc suy giảm miễn dịch"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Bù nước và điện giải là ưu tiên hàng đầu",
+      "Uống dung dịch glucose-điện giải đường uống khi tiêu chảy không nặng",
+      "Từ 1–3 ngày đầu: ăn thức ăn ít calo, chuyển dần từ lỏng sang đặc (bột ngũ cốc, cá, sữa chua, súp)",
+      "Hạn chế thức ăn dễ lên men, khó hấp thu (sữa, trứng, chất béo)",
+      "Uống nước khoáng, nước gạo rang, nước trái cây",
+      "Duy trì lối sống tích cực, hạn chế căng thẳng",
+      "Thăm khám định kỳ theo dõi diễn tiến bệnh"
+    ],
+    "medication": [
+      "Dung dịch bù nước và điện giải đường uống (ORS/Oresol)",
+      "Truyền dịch natri clorua, kali clorua, glucose khi tiêu chảy nặng",
+      "Loperamide 2–4mg x 3–4 lần/ngày (không dùng khi tiêu chảy có máu hoặc nhiễm trùng nặng)",
+      "Diphenoxylate 2,5–5mg x 3–4 lần/ngày",
+      "Codeine phosphat 15–30mg x 2–3 lần/ngày",
+      "Psyllium hoặc methylcellulose (tăng tạo khối lượng phân)",
+      "Cao lanh, pectin, attapulgit hoạt hóa",
+      "Eluxadoline (điều trị tiêu chảy liên quan IBS, 100mg x 2 lần/ngày)",
+      "Kháng sinh khi có nhiễm khuẩn theo chỉ định bác sĩ",
+      "Thuốc chống ký sinh trùng khi cần"
+    ]
+  },
+  "prevention": [
+    "Tiêm/uống vắc xin tả mORCVAX (cho người từ 2 tuổi trở lên, 2 liều cách nhau 16 ngày)",
+    "Vệ sinh cá nhân đúng cách, rửa tay trước khi ăn và sau khi đi vệ sinh",
+    "Vệ sinh môi trường sống thường xuyên",
+    "Nấu chín kỹ thức ăn trước khi dùng",
+    "Sử dụng nguồn nước sạch, không ô nhiễm",
+    "Tránh ăn đồ sống hoặc thực phẩm không đảm bảo vệ sinh"
+  ],
+  "when_to_see_doctor": [
+    "Xuất hiện bất kỳ triệu chứng bất thường nào",
+    "Có máu hoặc mủ trong phân",
+    "Sốt cao không giảm",
+    "Dấu hiệu mất nước rõ rệt",
+    "Tiêu chảy mạn tính hoặc ngày càng nặng hơn",
+    "Sụt cân không rõ nguyên nhân",
+    "Nôn liên tục"
+  ],
+  "care_notes": [
+    "Bù dịch và điện giải là ưu tiên hàng đầu trong điều trị",
+    "Không tự ý dùng thuốc cầm tiêu chảy khi tiêu chảy có máu hoặc nghi nhiễm trùng nặng",
+    "Thuốc chống tiêu chảy có thể làm nặng thêm viêm đại tràng do C. difficile",
+    "Theo dõi lượng nước tiểu và dấu hiệu mất nước thường xuyên",
+    "Bệnh nhân cần giữ tâm lý lạc quan trong quá trình điều trị",
+    "Chỉ dùng thuốc khi có chỉ định và hướng dẫn từ bác sĩ"
+  ],
+  "epidemiology": [
+    "Tiêu chảy là bệnh tiêu hóa phổ biến toàn cầu",
+    "Nguy hiểm đặc biệt với trẻ nhỏ, người cao tuổi và người suy nhược",
+    "Liên quan chặt chẽ đến vệ sinh môi trường, thực phẩm và nguồn nước",
+    "Có thể bùng phát thành dịch, điển hình là dịch tả"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html"
+}

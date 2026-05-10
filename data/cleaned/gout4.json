@@ -1,0 +1,119 @@
+{
+  "title": "Gout (gút)",
+  "type": "disease",
+  "topic": "cơ xương khớp - chuyển hóa",
+  "definition": "Gout là bệnh viêm khớp do tăng acid uric trong máu, dẫn đến lắng đọng tinh thể urat tại khớp gây đau, sưng và viêm.",
+  "classification": [
+    "Giai đoạn tăng acid uric không triệu chứng",
+    "Gout cấp tính",
+    "Giai đoạn giữa các đợt",
+    "Gout mạn tính có tophi"
+  ],
+  "pathophysiology": [
+    "Tăng acid uric do chuyển hóa purin",
+    "Giảm đào thải acid uric qua thận",
+    "Hình thành tinh thể urat",
+    "Lắng đọng tại khớp và mô",
+    "Gây phản ứng viêm",
+    "Tổn thương khớp và cơ quan"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn chuyển hóa purin",
+      "Thiếu enzym điều hòa acid uric",
+      "Yếu tố di truyền"
+    ],
+    "secondary": [
+      "Ăn nhiều thực phẩm giàu purin",
+      "Uống nhiều rượu bia",
+      "Suy thận hoặc viêm thận",
+      "Lối sống thiếu lành mạnh",
+      "Béo phì",
+      "Giảm đào thải acid uric"
+    ]
+  },
+  "symptoms": [
+    "Đau khớp dữ dội, thường về đêm",
+    "Sưng đỏ và nóng khớp",
+    "Đau khớp ngón chân cái",
+    "Cứng khớp",
+    "Giảm vận động",
+    "Cơn đau tái phát",
+    "Xuất hiện hạt tophi",
+    "Biến dạng khớp ở giai đoạn muộn"
+  ],
+  "complications": [
+    "Phá hủy khớp",
+    "Biến dạng khớp",
+    "Tàn phế",
+    "Sỏi thận",
+    "Suy thận",
+    "Nhiễm trùng khớp",
+    "Tăng nguy cơ đột quỵ",
+    "Tổn thương tim mạch"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Đánh giá triệu chứng",
+    "Dùng colchicine thử đáp ứng",
+    "Xét nghiệm acid uric máu",
+    "Theo dõi diễn tiến bệnh"
+  ],
+  "risk_groups": [
+    "Nam giới trên 40 tuổi",
+    "Phụ nữ sau mãn kinh",
+    "Người béo phì",
+    "Người uống nhiều rượu bia",
+    "Người ăn nhiều đạm",
+    "Người có tiền sử gia đình gout",
+    "Người có lối sống không lành mạnh"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn uống lành mạnh",
+      "Hạn chế purin",
+      "Uống nhiều nước",
+      "Giảm cân",
+      "Tập thể dục",
+      "Tránh rượu bia",
+      "Ưu tiên thực phẩm luộc, hấp"
+    ],
+    "medical": [
+      "Colchicine",
+      "Corticosteroid",
+      "Thuốc chống viêm không steroid",
+      "Thuốc hạ acid uric",
+      "Thuốc tăng đào thải acid uric"
+    ]
+  },
+  "prevention": [
+    "Ăn uống khoa học",
+    "Hạn chế rượu bia",
+    "Uống đủ nước",
+    "Duy trì cân nặng hợp lý",
+    "Tránh thực phẩm giàu purin",
+    "Sinh hoạt lành mạnh"
+  ],
+  "when_to_see_doctor": [
+    "Đau khớp dữ dội đột ngột",
+    "Khớp sưng đỏ, nóng",
+    "Đau tái phát nhiều lần",
+    "Xuất hiện hạt tophi",
+    "Giảm khả năng vận động"
+  ],
+  "care_notes": [
+    "Gout là bệnh mạn tính dễ tái phát",
+    "Chế độ ăn ảnh hưởng lớn đến bệnh",
+    "Cần điều trị sớm để tránh biến chứng",
+    "Không tự ý dùng thuốc",
+    "Theo dõi acid uric định kỳ"
+  ],
+  "epidemiology": [
+    "Nam giới chiếm đa số",
+    "Thường gặp sau 40 tuổi",
+    "Liên quan đến chế độ ăn và lối sống",
+    "Tỷ lệ mắc đang gia tăng"
+  ],
+  "source": "Trung tâm Y tế Phường Phú Hữu",
+  "url": "https://tytphuongphuhuu.medinet.gov.vn/giao-duc-suc-khoe/benh-gout-la-gi-dau-hieu-bieu-hien-va-cach-chua-hieu-qua-c8155-35475.aspx"
+}

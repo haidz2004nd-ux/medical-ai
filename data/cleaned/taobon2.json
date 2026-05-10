@@ -1,0 +1,106 @@
+{
+  "title": "Táo bón",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Táo bón là tình trạng đi đại tiện khó khăn hoặc không thường xuyên, thường được xác định khi đi ngoài ít hơn 3 lần mỗi tuần, phân khô cứng và phải rặn mạnh khi đại tiện.",
+  "classification": [
+    "Táo bón cấp",
+    "Táo bón mạn",
+    "Táo bón chức năng",
+    "Táo bón do bệnh lý"
+  ],
+  "pathophysiology": [
+    "Giảm nhu động ruột làm phân di chuyển chậm",
+    "Tăng hấp thu nước tại đại tràng khiến phân khô cứng",
+    "Rối loạn phản xạ đại tiện",
+    "Ứ đọng phân trong trực tràng gây khó đại tiện",
+    "Rối loạn chức năng cơ sàn chậu"
+  ],
+  "causes": {
+    "acute": [],
+    "chronic": [
+      "Chế độ ăn thiếu chất xơ",
+      "Uống không đủ nước",
+      "Ít vận động thể lực",
+      "Nhịn đi đại tiện lâu ngày",
+      "Thay đổi thói quen sinh hoạt",
+      "Tác dụng phụ của thuốc (thuốc giảm đau, thuốc chống tăng huyết áp)",
+      "Lạm dụng thuốc nhuận tràng",
+      "Một số bệnh lý thần kinh và nội tiết",
+      "Bệnh lý đại trực tràng",
+      "Dị ứng sữa bò hoặc tiêu thụ nhiều sữa"
+    ]
+  },
+  "symptoms": [
+    "Đi đại tiện ít hơn 3 lần/tuần",
+    "Phân cứng, khô và khó đẩy ra ngoài",
+    "Đau rát hậu môn khi đi đại tiện",
+    "Đau bụng, đầy hơi",
+    "Cảm giác đi ngoài không hết phân",
+    "Phải rặn mạnh khi đi ngoài",
+    "Phân có thể lẫn máu do trầy xước hậu môn",
+    "Chướng bụng, khó chịu vùng bụng",
+    "Buồn đi đại tiện nhưng khó đi"
+  ],
+  "complications": [],
+  "diagnosis": [],
+  "risk_groups": [
+    "Trẻ em",
+    "Người ít vận động",
+    "Người ăn ít chất xơ",
+    "Người uống ít nước",
+    "Người sử dụng thuốc gây táo bón",
+    "Người có thói quen nhịn đi đại tiện",
+    "Người có bệnh lý tiêu hóa",
+    "Người cao tuổi"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống nhiều nước",
+      "Tăng cường chất xơ trong chế độ ăn",
+      "Tập thể dục thường xuyên",
+      "Tạo thói quen đi vệ sinh đúng giờ",
+      "Thay đổi tư thế ngồi khi đi đại tiện",
+      "Hạn chế nhịn đi đại tiện"
+    ],
+    "medication": [
+      "Chất xơ hòa tan bổ sung",
+      "Thuốc làm mềm phân",
+      "Thuốc nhuận tràng",
+      "Thuốc đạn glycerin",
+      "Dung dịch thụt tháo (theo chỉ định bác sĩ)"
+    ]
+  },
+  "prevention": [
+    "Ăn nhiều rau xanh và trái cây",
+    "Uống đủ nước mỗi ngày",
+    "Duy trì vận động thể chất",
+    "Hình thành thói quen đi vệ sinh đều đặn",
+    "Không nhịn đi đại tiện",
+    "Hạn chế lạm dụng thuốc nhuận tràng",
+    "Điều chỉnh thuốc nếu gây táo bón"
+  ],
+  "when_to_see_doctor": [
+    "Táo bón kéo dài hơn 2 tuần",
+    "Phân có máu",
+    "Đau bụng tăng dần",
+    "Chướng bụng nhiều",
+    "Buồn nôn hoặc nôn",
+    "Không trung tiện được",
+    "Sụt cân không rõ nguyên nhân"
+  ],
+  "care_notes": [
+    "Táo bón có thể cải thiện bằng thay đổi lối sống",
+    "Không nên lạm dụng thuốc nhuận tràng",
+    "Cần theo dõi thói quen đi tiêu hằng ngày",
+    "Điều trị sớm giúp tránh biến chứng hậu môn trực tràng"
+  ],
+  "epidemiology": [
+    "Táo bón là rối loạn tiêu hóa phổ biến ở mọi lứa tuổi",
+    "Thường gặp hơn ở trẻ em và người cao tuổi",
+    "Liên quan chặt chẽ đến chế độ ăn và lối sống",
+    "Tỷ lệ tăng ở người ít vận động và ăn ít chất xơ"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/tao-bon-3001"
+}

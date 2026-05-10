@@ -1,0 +1,112 @@
+{
+  "title": "Đái tháo đường",
+  "type": "disease",
+  "topic": "bệnh nội tiết - chuyển hóa",
+  "definition": "Đái tháo đường là một bệnh rối loạn chuyển hóa mạn tính, đặc trưng bởi tình trạng tăng glucose máu kéo dài do thiếu hụt insulin tuyệt đối, đề kháng insulin hoặc phối hợp cả hai. Tình trạng này gây rối loạn chuyển hóa carbohydrate, lipid, protein và dẫn đến tổn thương nghiêm trọng tại nhiều cơ quan, đặc biệt là tim, mạch máu, thận, thần kinh và mắt.",
+  "classification": [
+    "Đái tháo đường type 1 (Phá hủy tế bào beta tụy, thiếu insulin tuyệt đối)",
+    "Đái tháo đường type 2 (Kháng insulin và suy giảm chức năng tiết insulin)",
+    "Đái tháo đường thai kỳ (Phát hiện trong quá trình mang thai)",
+    "Đái tháo đường do các nguyên nhân khác (Do thuốc, bệnh tụy ngoại tiết, di truyền)"
+  ],
+  "pathophysiology": [
+    "Giảm khả năng sản xuất insulin hoặc giảm độ nhạy của mô đích với insulin",
+    "Tăng sản xuất glucose tại gan và giảm sử dụng glucose ở cơ và mỡ",
+    "Tăng áp lực thẩm thấu máu do nồng độ đường huyết cao",
+    "Hoạt hóa các con đường chuyển hóa độc hại gây stress oxy hóa",
+    "Tổn thương mạch máu nhỏ (vi mạch) và mạch máu lớn (đại mạch)"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền và đa hình gen",
+      "Kháng insulin tại mô ngoại vi",
+      "Sự phá hủy tế bào beta đảo tụy qua trung gian miễn dịch",
+      "Rối loạn chức năng bài tiết của tế bào beta"
+    ],
+    "secondary": [
+      "Béo phì, đặc biệt là béo phì trung tâm (béo bụng)",
+      "Lối sống ít vận động, tĩnh tại",
+      "Chế độ ăn dư thừa năng lượng, giàu đường và chất béo bão hòa",
+      "Căng thẳng (Stress) kéo dài gây rối loạn hormone",
+      "Thay đổi nội tiết tố trong thai kỳ",
+      "Sử dụng thuốc kéo dài (Corticosteroid, thuốc lợi tiểu)"
+    ]
+  },
+  "symptoms": [
+    "Ăn nhiều nhưng sụt cân không rõ nguyên nhân",
+    "Khát nước nhiều (đa khát) và đi tiểu nhiều lần (đa niệu)",
+    "Mệt mỏi, suy nhược cơ thể kéo dài",
+    "Thị lực suy giảm, nhìn mờ",
+    "Vết thương, vết loét rất lâu lành",
+    "Da khô, ngứa ngáy hoặc thường xuyên bị nhiễm nấm",
+    "Tê bì, châm chích ở đầu ngón tay, ngón chân",
+    "Hơi thở có mùi ceton (mùi trái cây chín - trường hợp nặng)"
+  ],
+  "complications": [
+    "Biến chứng tim mạch: Nhồi máu cơ tim, đột quỵ, bệnh mạch vành",
+    "Biến chứng thận: Suy thận mạn, bệnh thận đái tháo đường",
+    "Biến chứng thần kinh: Tổn thương thần kinh ngoại biên, loét bàn chân",
+    "Biến chứng mắt: Bệnh võng mạc đái tháo đường, mù lòa, đục thủy tinh thể",
+    "Biến chứng cấp tính: Hôn mê do nhiễm toan ceton hoặc tăng áp lực thẩm thấu"
+  ],
+  "diagnosis": [
+    "Xét nghiệm glucose huyết tương lúc đói (FPG) ≥ 126 mg/dL",
+    "Xét nghiệm HbA1c ≥ 6.5%",
+    "Nghiệm pháp dung nạp glucose đường uống (OGTT) sau 2 giờ ≥ 200 mg/dL",
+    "Glucose huyết tương bất kỳ ≥ 200 mg/dL kèm triệu chứng kinh điển",
+    "Sàng lọc định kỳ cho đối tượng có nguy cơ cao (BMI ≥ 23)"
+  ],
+  "risk_groups": [
+    "Người có tiền sử gia đình (cha mẹ, anh chị em) mắc bệnh",
+    "Người thừa cân, béo phì",
+    "Người ít vận động thể lực",
+    "Người từ 40-45 tuổi trở lên",
+    "Phụ nữ có tiền sử đái tháo đường thai kỳ hoặc sinh con > 4kg",
+    "Người mắc hội chứng chuyển hóa (tăng huyết áp, rối loạn mỡ máu)"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Duy trì cân nặng lý tưởng (giảm 5-7% cân nặng nếu béo phì)",
+      "Chế độ ăn giàu rau xanh, chất xơ, hạn chế tinh bột tinh chế",
+      "Hạn chế tối đa đường tự do và chất béo xấu (trans fat)",
+      "Tập thể dục cường độ trung bình tối thiểu 150 phút/tuần",
+      "Kiểm soát căng thẳng và đảm bảo giấc ngủ chất lượng"
+    ],
+    "medication": [
+      "Liệu pháp Insulin (bắt buộc cho type 1 và giai đoạn muộn type 2)",
+      "Thuốc hạ đường huyết đường uống (Metformin, Sulfonylurea, SGLT2i...)",
+      "Thuốc cải thiện độ nhạy insulin và bảo vệ tim thận",
+      "Theo dõi đường huyết liên tục tại nhà"
+    ]
+  },
+  "prevention": [
+    "Duy trì cân nặng ổn định và chỉ số BMI hợp lý",
+    "Ăn uống lành mạnh, tránh thực phẩm chế biến sẵn",
+    "Vận động thể chất thường xuyên, tránh ngồi lâu một chỗ",
+    "Quản lý tốt các chỉ số huyết áp và mỡ máu",
+    "Khám sức khỏe và xét nghiệm đường huyết định kỳ hàng năm"
+  ],
+  "when_to_see_doctor": [
+    "Có các dấu hiệu: Khát nhiều, tiểu nhiều, sụt cân nhanh",
+    "Mệt mỏi cực độ ảnh hưởng đến sinh hoạt hàng ngày",
+    "Nhìn mờ hoặc có các đốm đen trước mắt",
+    "Các vết xước hoặc vết thương ở chân có dấu hiệu nhiễm trùng, lâu lành",
+    "Thường xuyên thấy hoa mắt, vã mồ hôi lạnh (nghi ngờ rối loạn đường huyết)"
+  ],
+  "care_notes": [
+    "Đái tháo đường là bệnh mạn tính cần tuân thủ điều trị suốt đời",
+    "Không tự ý ngưng thuốc hoặc thay đổi liều lượng khi thấy đường huyết ổn định",
+    "Kiểm tra và chăm sóc bàn chân hàng ngày để tránh biến chứng đoạn chi",
+    "Duy trì lối sống lành mạnh là nền tảng của mọi phác đồ điều trị",
+    "Tầm soát định kỳ các biến chứng mắt, thận, tim mạch theo lịch hẹn của bác sĩ"
+  ],
+  "epidemiology": [
+    "Là một trong những bệnh lý không lây nhiễm có tốc độ gia tăng nhanh nhất thế giới",
+    "Tỷ lệ mắc bệnh tại Việt Nam đang có xu hướng trẻ hóa mạnh mẽ",
+    "Khoảng 50% người mắc bệnh trong cộng đồng chưa được chẩn đoán",
+    "Là nguyên nhân hàng đầu gây suy thận giai đoạn cuối và mù lòa ở người trưởng thành",
+    "Gây gánh nặng lớn về chi phí y tế và làm giảm tuổi thọ trung bình"
+  ],
+  "source": "MEDLATEC",
+  "url": "https://medlatec.vn/tin-tuc/dai-thao-duong-trieu-chung-nguyen-nhan-va-cach-phong-ngua"
+}

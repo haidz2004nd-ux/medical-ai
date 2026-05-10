@@ -1,0 +1,140 @@
+{
+  "title": "Đau ngực",
+  "type": "disease",
+  "topic": "bệnh tim mạch - hô hấp - tiêu hóa",
+  "definition": "Đau ngực là cảm giác đau, khó chịu hoặc căng tức ở vùng ngực, có thể giống như bị đè nặng hoặc bóp chặt lồng ngực. Cơn đau có thể xuất hiện đột ngột hoặc âm ỉ, kéo dài từ vài phút đến vài giờ và có thể lan ra cổ, hàm hoặc cánh tay.",
+  "classification": [
+    "Đau ngực do tim",
+    "Đau ngực không do tim"
+  ],
+  "pathophysiology": [
+    "Thiếu máu cơ tim do giảm lưu lượng máu qua động mạch vành",
+    "Viêm hoặc tổn thương mô tim, phổi hoặc màng phổi",
+    "Co thắt cơ hoặc rối loạn vận động thực quản",
+    "Tổn thương cơ xương vùng ngực",
+    "Rối loạn dẫn truyền thần kinh gây cảm giác đau",
+    "Tăng áp lực trong lồng ngực hoặc ổ bụng"
+  ],
+  "causes": {
+    "primary": [
+      "Đau thắt ngực",
+      "Nhồi máu cơ tim",
+      "Bệnh động mạch vành",
+      "Viêm màng ngoài tim",
+      "Bệnh cơ tim"
+    ],
+    "secondary": [
+      "Trào ngược dạ dày thực quản",
+      "Viêm dạ dày, loét dạ dày",
+      "Viêm phổi, viêm màng phổi",
+      "Thuyên tắc phổi",
+      "Tràn khí màng phổi",
+      "Viêm sụn sườn",
+      "Chấn thương ngực",
+      "Stress, lo âu",
+      "Sỏi mật",
+      "Viêm tụy"
+    ]
+  },
+  "symptoms": [
+    "Đau tức hoặc nặng ngực",
+    "Đau lan lên cổ, hàm hoặc cánh tay",
+    "Khó thở",
+    "Choáng váng, chóng mặt",
+    "Buồn nôn hoặc nôn",
+    "Hồi hộp, tim đập nhanh",
+    "Đau tăng khi hít thở sâu hoặc vận động",
+    "Đổ mồ hôi",
+    "Cảm giác bị bóp chặt lồng ngực"
+  ],
+  "complications": [
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Rối loạn nhịp tim",
+    "Sốc tim",
+    "Tử vong",
+    "Suy hô hấp",
+    "Tắc mạch phổi",
+    "Biến chứng tiêu hóa nặng"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng và khai thác triệu chứng",
+    "Điện tâm đồ (ECG)",
+    "Xét nghiệm máu",
+    "Chụp X-quang ngực",
+    "Chụp CT hoặc MRI",
+    "Siêu âm tim",
+    "Nghiệm pháp gắng sức",
+    "Nội soi tiêu hóa"
+  ],
+  "prediabetes": [],
+  "screening": [
+    "Người có tiền sử bệnh tim mạch",
+    "Người hút thuốc lá",
+    "Người tăng huyết áp hoặc rối loạn mỡ máu",
+    "Người béo phì",
+    "Người thường xuyên stress",
+    "Người có triệu chứng đau ngực tái phát"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi khi có cơn đau",
+      "Giảm stress",
+      "Tập thể dục đều đặn",
+      "Ăn uống lành mạnh",
+      "Bỏ thuốc lá",
+      "Hạn chế rượu bia",
+      "Kiểm soát cân nặng"
+    ],
+    "medication": [
+      "Thuốc kháng kết tập tiểu cầu",
+      "Thuốc chẹn beta",
+      "Nitroglycerin",
+      "Thuốc chẹn kênh canxi",
+      "Thuốc ức chế men chuyển",
+      "Thuốc điều trị nguyên nhân (tiêu hóa, hô hấp)"
+    ]
+  },
+  "risk_groups": [
+    "Người lớn tuổi",
+    "Người có bệnh tim mạch",
+    "Người hút thuốc",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người stress kéo dài",
+    "Người có bệnh phổi hoặc tiêu hóa"
+  ],
+  "prevention": [
+    "Không hút thuốc",
+    "Tập thể dục thường xuyên",
+    "Ăn uống lành mạnh",
+    "Kiểm soát huyết áp và mỡ máu",
+    "Giảm stress",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau ngực đột ngột, dữ dội",
+    "Đau ngực kéo dài không giảm",
+    "Khó thở",
+    "Đau lan ra tay, cổ hoặc hàm",
+    "Chóng mặt, ngất xỉu",
+    "Buồn nôn, vã mồ hôi",
+    "Nghi ngờ nhồi máu cơ tim"
+  ],
+  "care_notes": [
+    "Không chủ quan với cơn đau ngực",
+    "Tuân thủ điều trị của bác sĩ",
+    "Không tự ý dùng thuốc",
+    "Theo dõi triệu chứng thường xuyên",
+    "Đi khám ngay khi có dấu hiệu bất thường",
+    "Kiểm soát các yếu tố nguy cơ tim mạch"
+  ],
+  "epidemiology": [
+    "Đau ngực là triệu chứng phổ biến ở mọi lứa tuổi",
+    "Một trong những lý do thường gặp khi nhập viện cấp cứu",
+    "Không phải mọi trường hợp đều do tim nhưng cần loại trừ nguyên nhân nguy hiểm",
+    "Tỷ lệ mắc cao hơn ở người có yếu tố nguy cơ tim mạch"
+  ],
+  "source": "Bệnh viện Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/dau-nguc/"
+}

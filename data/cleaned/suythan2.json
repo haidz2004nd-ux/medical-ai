@@ -1,0 +1,136 @@
+{
+  "title": "Suy thận",
+  "type": "disease",
+  "topic": "thận - tiết niệu",
+  "definition": "Suy thận là tình trạng thận suy giảm hoặc mất khả năng lọc máu, loại bỏ chất thải và cân bằng nước - điện giải, dẫn đến tích tụ độc tố trong cơ thể. Bệnh gồm suy thận cấp (có thể hồi phục) và suy thận mạn (tiến triển không hồi phục).",
+  "classification": [
+    "Suy thận cấp (xảy ra đột ngột, có thể hồi phục)",
+    "Suy thận mạn (tiến triển chậm, không hồi phục)",
+    "Suy thận mạn giai đoạn 1-5 theo mức lọc cầu thận (GFR)"
+  ],
+  "pathophysiology": [
+    "Giảm mức lọc cầu thận (GFR)",
+    "Tổn thương nephron làm giảm chức năng lọc máu",
+    "Tích tụ ure, creatinin và độc tố trong máu",
+    "Rối loạn nước và điện giải (tăng kali, toan máu)",
+    "Rối loạn nội tiết thận (giảm erythropoietin gây thiếu máu)",
+    "Tăng hoạt hệ renin-angiotensin gây tăng huyết áp"
+  ],
+  "causes": {
+    "acute": [
+      "Giảm tưới máu thận do mất máu hoặc mất nước",
+      "Nhiễm trùng nặng (nhiễm trùng huyết)",
+      "Tắc nghẽn đường tiết niệu",
+      "Thuốc hoặc độc chất gây độc thận",
+      "Biến chứng thai kỳ (tiền sản giật, sản giật)",
+      "Chấn thương nặng"
+    ],
+    "chronic": [
+      "Đái tháo đường",
+      "Tăng huyết áp",
+      "Viêm cầu thận mạn",
+      "Bệnh thận đa nang",
+      "Viêm ống thận mô kẽ",
+      "Tắc nghẽn đường tiểu kéo dài",
+      "Trào ngược bàng quang - niệu quản",
+      "Viêm đài bể thận tái phát"
+    ]
+  },
+  "symptoms": [
+    "Mệt mỏi, suy nhược",
+    "Chán ăn, buồn nôn, nôn",
+    "Tiểu bất thường (tiểu ít, tiểu đêm, tiểu bọt, tiểu máu)",
+    "Phù tay, chân, mặt",
+    "Tăng huyết áp",
+    "Ngứa da",
+    "Rối loạn giấc ngủ",
+    "Khó thở",
+    "Đau ngực",
+    "Chuột rút, co cơ",
+    "Giảm tập trung, lú lẫn"
+  ],
+  "complications": [
+    "Phù phổi cấp",
+    "Tăng kali máu nguy hiểm",
+    "Bệnh tim mạch",
+    "Thiếu máu",
+    "Loãng xương và gãy xương",
+    "Tổn thương thần kinh",
+    "Giảm miễn dịch, dễ nhiễm trùng",
+    "Suy dinh dưỡng",
+    "Suy thận giai đoạn cuối cần lọc máu hoặc ghép thận"
+  ],
+  "diagnosis": [
+    "Xét nghiệm máu (ure, creatinin, điện giải, GFR)",
+    "Xét nghiệm nước tiểu (protein, albumin, cặn nước tiểu)",
+    "Công thức máu toàn bộ (CBC)",
+    "Siêu âm thận",
+    "Chụp CT hoặc MRI khi cần",
+    "Sinh thiết thận",
+    "Theo dõi mức lọc cầu thận (GFR)"
+  ],
+  "risk_groups": [
+    "Người mắc đái tháo đường",
+    "Người tăng huyết áp",
+    "Người cao tuổi",
+    "Người béo phì",
+    "Người hút thuốc lá",
+    "Người có cholesterol cao",
+    "Người có bệnh tim mạch",
+    "Người có tiền sử gia đình bệnh thận",
+    "Người có bệnh thận sẵn có"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Kiểm soát huyết áp và đường huyết",
+      "Chế độ ăn giảm muối, giảm đạm",
+      "Uống đủ nước theo hướng dẫn",
+      "Tập thể dục đều đặn",
+      "Không hút thuốc lá",
+      "Duy trì cân nặng hợp lý"
+    ],
+    "medication": [
+      "Điều trị nguyên nhân gây suy thận",
+      "Thuốc kiểm soát huyết áp và đái tháo đường",
+      "Điều trị thiếu máu",
+      "Điều chỉnh rối loạn điện giải",
+      "Lọc máu (chạy thận nhân tạo)",
+      "Thẩm phân phúc mạc",
+      "Ghép thận"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát tốt bệnh đái tháo đường và tăng huyết áp",
+    "Uống đủ nước",
+    "Hạn chế muối và thực phẩm chế biến sẵn",
+    "Không lạm dụng thuốc giảm đau NSAIDs",
+    "Không hút thuốc",
+    "Duy trì cân nặng hợp lý",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Tiểu ít hoặc không tiểu",
+    "Phù nhiều",
+    "Khó thở",
+    "Mệt mỏi kéo dài",
+    "Tăng huyết áp không kiểm soát",
+    "Tiểu ra máu hoặc nước tiểu bất thường",
+    "Nghi ngờ suy giảm chức năng thận"
+  ],
+  "care_notes": [
+    "Suy thận cấp có thể hồi phục nếu điều trị kịp thời",
+    "Suy thận mạn không hồi phục hoàn toàn",
+    "Điều trị chủ yếu làm chậm tiến triển bệnh",
+    "Giai đoạn cuối cần lọc máu hoặc ghép thận",
+    "Theo dõi định kỳ chức năng thận là cần thiết"
+  ],
+  "epidemiology": [
+    "Tăng theo tuổi",
+    "Liên quan mạnh đến đái tháo đường và tăng huyết áp",
+    "Tỷ lệ cao ở người béo phì và bệnh tim mạch",
+    "Ngày càng phổ biến do lối sống hiện đại",
+    "Là bệnh mạn tính phổ biến toàn cầu"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/suy-than-679.html"
+}

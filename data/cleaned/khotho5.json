@@ -1,0 +1,145 @@
+{
+  "title": "Khó thở",
+  "type": "symptom",
+  "topic": "hô hấp - tim mạch",
+  "definition": "Khó thở là tình trạng người bệnh cảm thấy thiếu không khí, thở hụt hơi, tức ngực, hơi thở ngắn hoặc đứt quãng. Triệu chứng có thể xuất hiện đột ngột hoặc kéo dài, mức độ từ nhẹ đến nặng và liên quan đến nhiều bệnh lý tim mạch, hô hấp hoặc toàn thân.",
+  "classification": [
+    "Khó thở cấp tính",
+    "Khó thở mạn tính",
+    "Khó thở khi gắng sức",
+    "Khó thở khi nghỉ ngơi",
+    "Khó thở khi nằm",
+    "Khó thở tái phát"
+  ],
+  "pathophysiology": [
+    "Giảm cung cấp oxy cho máu",
+    "Rối loạn trao đổi khí tại phổi",
+    "Tắc nghẽn đường thở",
+    "Giảm chức năng bơm máu của tim",
+    "Giảm dung tích và độ giãn nở phổi",
+    "Rối loạn thông khí phổi"
+  ],
+  "causes": {
+    "primary": [
+      "Hoạt động gắng sức quá mức",
+      "Lo âu, căng thẳng",
+      "Dị ứng",
+      "Hạ huyết áp",
+      "Thiếu máu",
+      "Tiếp xúc khí độc (carbon monoxide)"
+    ],
+    "secondary": [
+      "Hen suyễn",
+      "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+      "Viêm phổi",
+      "Thuyên tắc phổi",
+      "Tràn khí màng phổi",
+      "Ung thư phổi",
+      "Lao phổi",
+      "Viêm màng phổi",
+      "Phù phổi",
+      "Tăng huyết áp động mạch phổi",
+      "Suy tim",
+      "Rối loạn nhịp tim",
+      "Bệnh mạch vành",
+      "Viêm cơ tim",
+      "Viêm màng ngoài tim",
+      "Bệnh xơ phổi mô kẽ"
+    ]
+  },
+  "symptoms": [
+    "Thở gấp",
+    "Thở nhanh, nông",
+    "Cảm giác ngạt thở",
+    "Tức ngực",
+    "Tim đập nhanh",
+    "Ho",
+    "Thở khò khè",
+    "Mệt mỏi",
+    "Khó thở khi vận động hoặc nghỉ ngơi"
+  ],
+  "complications": [
+    "Thiếu oxy kéo dài",
+    "Tổn thương não do thiếu oxy",
+    "Suy giảm nhận thức",
+    "Đột quỵ",
+    "Hoại tử não",
+    "Giảm chất lượng cuộc sống",
+    "Mất ngủ và rối loạn giấc ngủ"
+  ],
+  "risk_groups": [
+    "Người mắc bệnh tim mạch",
+    "Người mắc bệnh phổi mạn tính",
+    "Người hút thuốc lá",
+    "Người béo phì",
+    "Người cao tuổi",
+    "Người mắc bệnh mạn tính (đái tháo đường, ung thư, gan thận)",
+    "Phụ nữ mang thai",
+    "Trẻ sơ sinh",
+    "Người sống trong môi trường ô nhiễm"
+  ],
+  "diagnosis": [
+    "Khai thác tiền sử bệnh và triệu chứng",
+    "Khám lâm sàng hô hấp và tim mạch",
+    "Đánh giá mức độ khó thở (NYHA)",
+    "Xét nghiệm máu",
+    "Chụp X-quang ngực",
+    "Chụp CT ngực",
+    "Đo chức năng hô hấp (spirometry)",
+    "Siêu âm tim",
+    "Điện tâm đồ (ECG)"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Bỏ thuốc lá",
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục phù hợp",
+      "Tránh môi trường ô nhiễm",
+      "Đeo khẩu trang khi ra ngoài",
+      "Chế độ ăn uống lành mạnh"
+    ],
+    "medical": [
+      "Thở oxy",
+      "Thuốc giãn phế quản",
+      "Thuốc điều trị hen/COPD",
+      "Kháng sinh khi có nhiễm trùng",
+      "Thuốc điều trị tim mạch",
+      "Phục hồi chức năng hô hấp",
+      "Phục hồi chức năng tim",
+      "Can thiệp y khoa khi cần"
+    ]
+  },
+  "prevention": [
+    "Không hút thuốc lá",
+    "Giữ môi trường sống sạch",
+    "Tập thể dục thường xuyên",
+    "Kiểm soát cân nặng",
+    "Điều trị bệnh nền tốt",
+    "Khám sức khỏe định kỳ",
+    "Tránh tiếp xúc khói bụi và hóa chất độc hại"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở đột ngột",
+    "Khó thở kéo dài",
+    "Khó thở khi nghỉ ngơi",
+    "Đau tức ngực",
+    "Ho kéo dài kèm khó thở",
+    "Môi hoặc đầu ngón tay tím tái",
+    "Mệt mỏi nặng không rõ nguyên nhân"
+  ],
+  "care_notes": [
+    "Khó thở có thể là dấu hiệu bệnh lý nghiêm trọng",
+    "Cần xác định nguyên nhân để điều trị đúng",
+    "Không tự ý bỏ qua triệu chứng kéo dài",
+    "Theo dõi các dấu hiệu đi kèm",
+    "Đi khám sớm giúp giảm biến chứng"
+  ],
+  "epidemiology": [
+    "Khó thở là triệu chứng rất phổ biến trong lâm sàng hô hấp",
+    "Gặp ở cả người lớn và trẻ em",
+    "Tỷ lệ cao trong nhóm bệnh nhân hô hấp và tim mạch",
+    "Tăng theo tuổi và bệnh lý mạn tính"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh + TYT Phú Thạnh",
+  "url": "https://tytphuongphuthanh.medinet.gov.vn/giao-duc-suc-khoe/kho-tho-nguyen-nhan-trieu-chung-chan-doan-va-dieu-tri-cmobile8160-159291.aspx"
+}

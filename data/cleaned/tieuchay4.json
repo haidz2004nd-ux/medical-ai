@@ -1,0 +1,123 @@
+{
+  "title": "Tiêu chảy",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc phân nước từ 3 lần/ngày trở lên, thường kèm cảm giác mót rặn, đau bụng, đầy hơi và có thể gây mất nước nếu kéo dài.",
+  "classification": [
+    "Tiêu chảy cấp",
+    "Tiêu chảy mạn",
+    "Tiêu chảy nhiễm trùng",
+    "Tiêu chảy không nhiễm trùng",
+    "Tiêu chảy do thuốc",
+    "Tiêu chảy do kém hấp thu"
+  ],
+  "pathophysiology": [
+    "Tăng nhu động ruột làm thức ăn di chuyển quá nhanh",
+    "Giảm hấp thu nước tại ruột gây phân lỏng",
+    "Rối loạn hệ vi khuẩn đường ruột",
+    "Tổn thương niêm mạc ruột do nhiễm trùng hoặc độc tố",
+    "Rối loạn hấp thu dưỡng chất tại ruột non"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus (Norovirus, Rotavirus)",
+      "Nhiễm vi khuẩn (E.coli, Salmonella, Shigella)",
+      "Nhiễm ký sinh trùng (Giardia)",
+      "Ngộ độc thực phẩm",
+      "Thức ăn ôi thiu hoặc nhiễm độc tố"
+    ],
+    "chronic": [
+      "Hội chứng ruột kích thích",
+      "Bệnh Crohn",
+      "Viêm đại tràng",
+      "Bệnh Celiac",
+      "Không dung nạp lactose",
+      "Tác dụng phụ thuốc kháng sinh",
+      "Rối loạn hấp thu kéo dài"
+    ]
+  },
+  "symptoms": [
+    "Đi ngoài phân lỏng ≥ 3 lần/ngày",
+    "Đau quặn bụng",
+    "Buồn nôn hoặc nôn",
+    "Đầy hơi",
+    "Sốt (có thể gặp)",
+    "Mất nước (khô miệng, khát nước, tiểu ít)",
+    "Mệt mỏi, chóng mặt",
+    "Có thể có máu trong phân"
+  ],
+  "complications": [
+    "Mất nước nặng",
+    "Rối loạn điện giải",
+    "Nhiễm toan chuyển hóa",
+    "Hạ kali máu",
+    "Trụy mạch",
+    "Suy kiệt cơ thể"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng lâm sàng",
+    "Xét nghiệm phân tìm vi khuẩn hoặc ký sinh trùng",
+    "Công thức máu",
+    "Xét nghiệm điện giải đồ",
+    "Xét nghiệm độc tố vi khuẩn (C. difficile)",
+    "Nội soi tiêu hóa khi cần"
+  ],
+  "risk_groups": [
+    "Trẻ nhỏ",
+    "Người cao tuổi",
+    "Người có hệ miễn dịch yếu",
+    "Người ăn uống không đảm bảo vệ sinh",
+    "Người đi du lịch vùng dịch",
+    "Người dùng kháng sinh kéo dài"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Bù nước và điện giải (ORESOL)",
+      "Ăn chế độ BRAT (chuối, cơm, táo, bánh mì)",
+      "Ăn thức ăn mềm, dễ tiêu",
+      "Uống nước gạo rang hoặc cháo loãng",
+      "Uống trà gừng hoặc trà thảo dược ấm",
+      "Nghỉ ngơi hợp lý",
+      "Bổ sung kẽm"
+    ],
+    "medication": [
+      "Dung dịch bù điện giải",
+      "Thuốc cầm tiêu chảy (loperamide khi không có nhiễm trùng nặng)",
+      "Kháng sinh (khi có chỉ định nhiễm khuẩn)",
+      "Men vi sinh (probiotics)",
+      "Men tiêu hóa hỗ trợ hấp thu"
+    ]
+  },
+  "prevention": [
+    "Ăn chín uống sôi",
+    "Rửa tay trước khi ăn và sau khi đi vệ sinh",
+    "Dùng nguồn nước sạch",
+    "Tránh thực phẩm ôi thiu",
+    "Hạn chế ăn đồ sống",
+    "Tiêm phòng rotavirus (trẻ em)",
+    "Giữ vệ sinh môi trường sống"
+  ],
+  "when_to_see_doctor": [
+    "Tiêu chảy kéo dài hơn 2 ngày",
+    "Có máu trong phân",
+    "Sốt cao trên 38.5°C",
+    "Đau bụng dữ dội",
+    "Dấu hiệu mất nước nặng",
+    "Nôn liên tục"
+  ],
+  "care_notes": [
+    "Ưu tiên bù nước là quan trọng nhất",
+    "Không tự ý dùng thuốc cầm tiêu chảy khi nghi nhiễm trùng nặng",
+    "Theo dõi dấu hiệu mất nước",
+    "Đi khám nếu triệu chứng không cải thiện",
+    "Kết hợp ăn uống và điều trị y khoa"
+  ],
+  "epidemiology": [
+    "Tiêu chảy là bệnh tiêu hóa phổ biến toàn cầu",
+    "Tỷ lệ cao ở trẻ em và người lớn tuổi",
+    "Thường tăng vào mùa nóng hoặc vùng vệ sinh kém",
+    "Phần lớn là tiêu chảy cấp và tự giới hạn"
+  ],
+  "source": "Medlatec",
+  "url": "https://medlatec.vn/tin-tuc/mach-ban-7-cach-cam-tieu-chay-nhanh-nhat-cho-nguoi-lon-an-toan"
+}

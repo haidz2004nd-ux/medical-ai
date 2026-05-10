@@ -1,0 +1,130 @@
+{
+  "title": "Khó thở",
+  "type": "symptom",
+  "topic": "hô hấp - tim mạch",
+  "definition": "Khó thở là cảm giác thiếu không khí hoặc thở không đủ, có thể xuất hiện cấp tính hoặc mạn tính và thường liên quan đến các bệnh lý hô hấp, tim mạch hoặc toàn thân.",
+  "classification": [
+    "Khó thở cấp tính",
+    "Khó thở mạn tính",
+    "Khó thở khi gắng sức",
+    "Khó thở khi nghỉ",
+    "Khó thở kịch phát"
+  ],
+  "pathophysiology": [
+    "Giảm trao đổi oxy và CO2 tại phổi",
+    "Tắc nghẽn hoặc viêm đường thở",
+    "Tăng áp lực trong lồng ngực",
+    "Giảm khả năng vận chuyển oxy của máu",
+    "Rối loạn chức năng tim làm giảm cung lượng tim",
+    "Rối loạn điều hòa hô hấp do thần kinh hoặc tâm lý"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn lo âu",
+      "Thiếu máu",
+      "Nhiễm trùng hô hấp",
+      "Phản ứng miễn dịch bất thường (u hạt)"
+    ],
+    "secondary": [
+      "Viêm phổi",
+      "Hen suyễn",
+      "Bệnh phổi tắc nghẽn mạn tính",
+      "Ung thư phổi",
+      "Tràn khí màng phổi",
+      "Thuyên tắc phổi",
+      "Suy tim",
+      "Bệnh mạch vành",
+      "Viêm màng phổi",
+      "Bệnh lao"
+    ]
+  },
+  "symptoms": [
+    "Khó thở hoặc hụt hơi",
+    "Thở gấp",
+    "Thở khò khè",
+    "Đau ngực",
+    "Mệt mỏi",
+    "Ho",
+    "Ho ra máu",
+    "Sốt",
+    "Chóng mặt",
+    "Đổ mồ hôi",
+    "Sưng chân",
+    "Giảm cân"
+  ],
+  "complications": [
+    "Suy hô hấp",
+    "Thiếu oxy máu",
+    "Nguy cơ tử vong",
+    "Biến chứng tim mạch",
+    "Ảnh hưởng nghiêm trọng đến chất lượng sống"
+  ],
+  "diagnosis": [
+    "Khai thác bệnh sử",
+    "Khám lâm sàng",
+    "Chụp X-quang phổi",
+    "Chụp CT",
+    "Xét nghiệm máu",
+    "Xét nghiệm đờm",
+    "Đo chức năng hô hấp",
+    "Đánh giá tim mạch"
+  ],
+  "risk_groups": [
+    "Người cao tuổi",
+    "Trẻ nhỏ",
+    "Người hút thuốc",
+    "Người mắc bệnh tim phổi",
+    "Người béo phì",
+    "Người suy giảm miễn dịch",
+    "Người có bệnh nền mạn tính"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ngừng hút thuốc",
+      "Tập thể dục phù hợp",
+      "Duy trì cân nặng hợp lý",
+      "Tránh môi trường ô nhiễm",
+      "Ăn uống lành mạnh"
+    ],
+    "medical": [
+      "Thuốc giãn phế quản",
+      "Thuốc chống viêm",
+      "Kháng sinh khi nhiễm trùng",
+      "Liệu pháp oxy",
+      "Thuốc điều trị tim mạch",
+      "Điều trị nguyên nhân (lao, ung thư, thiếu máu)",
+      "Phẫu thuật khi cần"
+    ]
+  },
+  "prevention": [
+    "Không hút thuốc",
+    "Tránh tiếp xúc chất độc hại",
+    "Tăng cường sức đề kháng",
+    "Khám sức khỏe định kỳ",
+    "Điều trị sớm các bệnh nền"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở đột ngột",
+    "Khó thở nặng hoặc kéo dài",
+    "Đau ngực",
+    "Ho ra máu",
+    "Sốt cao",
+    "Ngất hoặc chóng mặt",
+    "Sưng chân bất thường"
+  ],
+  "care_notes": [
+    "Khó thở là triệu chứng quan trọng của bệnh tim và phổi",
+    "Cần đánh giá kỹ nguyên nhân",
+    "Không nên chủ quan khi triệu chứng kéo dài",
+    "Cần theo dõi triệu chứng đi kèm",
+    "Khám chuyên khoa khi không rõ nguyên nhân"
+  ],
+  "epidemiology": [
+    "Khó thở là triệu chứng phổ biến",
+    "Thường gặp trong bệnh tim và phổi",
+    "Gia tăng ở người có bệnh nền",
+    "Liên quan đến lối sống và môi trường"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/bai-viet/cac-nguyen-nhan-gay-kho-tho-vi"
+}

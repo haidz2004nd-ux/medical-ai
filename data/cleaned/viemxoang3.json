@@ -1,0 +1,105 @@
+{
+  "title": "Viêm xoang (Nhiễm trùng xoang)",
+  "type": "disease",
+  "topic": "Tai Mũi Họng",
+  "definition": "Viêm xoang là tình trạng viêm và sưng nề lớp niêm mạc lót trong các xoang cạnh mũi. Khi bị viêm, sự dẫn lưu dịch bị cản trở gây tắc nghẽn, tạo môi trường cho chất nhầy tích tụ, dẫn đến nhiễm trùng và gây áp lực lên các hốc mặt, làm suy giảm khả năng làm sạch vi sinh vật và chất ô nhiễm của đường hô hấp trên.",
+  "classification": [
+    "Viêm xoang cấp tính: Triệu chứng khởi phát đột ngột, kéo dài dưới 4 tuần (thường do vi-rút hoặc vi khuẩn)",
+    "Viêm xoang mạn tính (CRS): Triệu chứng kéo dài trên 12 tuần, chia thành thể có polyp mũi (CRSwNP) và không có polyp mũi (CRSwoNP)",
+    "Viêm xoang bán cấp: Triệu chứng kéo dài từ 4 đến 12 tuần",
+    "Viêm xoang tái phát: Có ít nhất 4 đợt viêm cấp tính trong một năm",
+    "Viêm xoang do nấm: Bao gồm bướu nấm, viêm xoang dị ứng do nấm (AFRS) và viêm xoang nấm xâm lấn (IFS - thể tử vong cao)"
+  ],
+  "pathophysiology": [
+    "Phù nề niêm mạc gây bít tắc phức hợp lỗ thông khe (osteomeatal complex)",
+    "Rối loạn chức năng vận động của hệ thống lông chuyển trong xoang",
+    "Ứ đọng dịch nhầy tạo môi trường kỵ khí cho vi khuẩn tăng sinh",
+    "Tăng áp lực nội xoang gây đau nhức và kích thích các đầu dây thần kinh cảm giác",
+    "Sự thâm nhiễm các tế bào viêm (Bạch cầu ái toan, tế bào Mast) gây tổn thương mô kéo dài"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm vi-rút đường hô hấp trên (chiếm đa số, như cảm lạnh)",
+      "Bội nhiễm vi khuẩn (thường là Streptococcus pneumoniae hoặc Haemophilus influenzae)",
+      "Thay đổi áp suất đột ngột (đi máy bay, lặn sâu)"
+    ],
+    "chronic": [
+      "Bất thường giải phẫu cấu trúc mũi (lệch vách ngăn, quá phát cuốn mũi)",
+      "Viêm mũi dị ứng mạn tính không được kiểm soát tốt",
+      "Bệnh lý răng miệng (nhiễm trùng chân răng hàm trên xâm lấn vào xoang hàm)",
+      "Hội chứng suy giảm miễn dịch hoặc rối loạn di truyền (như xơ nang túi)"
+    ]
+  },
+  "symptoms": [
+    "Nghẹt mũi nặng, tắc mũi hoàn toàn gây khó thở và phải thở bằng miệng",
+    "Chảy dịch mũi đặc, màu vàng hoặc xanh; hoặc dịch chảy ngược xuống họng (dịch mũi sau)",
+    "Đau nhức vùng mặt: Cảm giác nặng đầu, đau tức vùng quanh mắt, má và trán (tăng lên khi cúi đầu)",
+    "Suy giảm hoặc mất khứu giác và vị giác tạm thời",
+    "Ho dai dẳng, đặc biệt là ho khan hoặc ho có đờm về đêm",
+    "Hơi thở có mùi hôi (halitosis) và cảm giác đau nhức răng hàm trên",
+    "Mệt mỏi toàn thân, sốt nhẹ hoặc sốt cao (trong giai đoạn cấp tính)"
+  ],
+  "complications": [
+    "Biến chứng mắt: Viêm mô tế bào ổ mắt, áp xe ổ mắt gây sưng mí, lồi nhãn cầu, mù lòa",
+    "Biến chứng nội sọ: Viêm màng não, áp xe não, huyết khối xoang hang (tỷ lệ tử vong cao)",
+    "Biến chứng xương: Viêm tủy xương trán (u phù của Pott)",
+    "Biến chứng hô hấp dưới: Viêm phế quản mạn tính, kịch phát cơn hen suyễn"
+  ],
+  "diagnosis": [
+    "Thăm khám lâm sàng chuyên khoa Tai Mũi Họng (ENT)",
+    "Nội soi mũi (Nasal Endoscopy): Quan sát trực tiếp polyp, dịch mủ và tình trạng niêm mạc",
+    "Chẩn đoán hình ảnh: Chụp CT Scan hoặc MRI vùng mũi xoang để đánh giá mức độ tắc nghẽn và biến chứng",
+    "Xét nghiệm dịch mã: Nuôi cấy vi khuẩn và làm kháng sinh đồ khi điều trị nội khoa thất bại",
+    "Test dị ứng: Xác định các tác nhân gây viêm xoang dị ứng"
+  ],
+  "risk_groups": [
+    "Người mắc bệnh hen suyễn hoặc viêm mũi dị ứng",
+    "Người có polyp mũi hoặc các khối u lành tính vùng tỵ hầu",
+    "Người thường xuyên hút thuốc lá hoặc tiếp xúc với khói thuốc thụ động",
+    "Bệnh nhân suy giảm miễn dịch (HIV, đái tháo đường, đang hóa trị)",
+    "Người mắc chứng xơ nang (Cystic fibrosis) ảnh hưởng đến độ nhớt dịch nhầy"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Rửa mũi hàng ngày bằng dung dịch nước muối sinh lý đẳng trương",
+      "Xông hơi hoặc sử dụng máy tạo độ ẩm để làm loãng chất nhầy",
+      "Uống nhiều nước và nghỉ ngơi đầy đủ để hỗ trợ hệ miễn dịch",
+      "Hạn chế tiếp xúc với khói bụi, nấm mốc và các tác nhân gây dị ứng"
+    ],
+    "medication": [
+      "Thuốc xịt mũi Corticosteroid để giảm viêm niêm mạc",
+      "Kháng sinh đường uống (chỉ dùng khi xác định nhiễm khuẩn)",
+      "Thuốc co mạch mũi (chỉ dùng ngắn hạn dưới 5 ngày để tránh viêm mũi do thuốc)",
+      "Thuốc kháng Histamin (trong trường hợp viêm xoang do dị ứng)"
+    ],
+    "surgery": [
+      "Phẫu thuật nội soi mũi xoang chức năng (FESS): Mở rộng lỗ thông xoang và loại bỏ mô bệnh",
+      "Phẫu thuật chỉnh hình vách ngăn hoặc cắt bỏ polyp",
+      "Dẫn lưu áp xe kịp thời nếu có biến chứng mắt hoặc nội sọ"
+    ]
+  },
+  "prevention": [
+    "Tiêm ngừa vắc-xin cúm hàng năm và vắc-xin phế cầu khuẩn",
+    "Vệ sinh tay sạch sẽ, hạn chế tiếp xúc với người đang mắc cảm cúm",
+    "Quản lý tốt bệnh lý dị ứng và hen suyễn",
+    "Tránh xa khói thuốc lá và các chất kích thích niêm mạc mũi"
+  ],
+  "when_to_see_doctor": [
+    "Các triệu chứng viêm xoang kéo dài trên 10 ngày không cải thiện",
+    "Viêm xoang tái phát nhiều lần (> 4 lần) trong vòng một năm",
+    "Cấp cứu ngay nếu: Sốt cao > 39°C, nhìn mờ, sưng đỏ vùng mắt, nhức đầu dữ dội, cứng cổ hoặc lú lẫn"
+  ],
+  "care_notes": [
+    "Viêm xoang mạn tính có polyp cần theo dõi lâu dài vì tỷ lệ tái phát sau phẫu thuật khá cao",
+    "Bệnh nhân đái tháo đường cần đặc biệt cảnh giác với viêm xoang do nấm xâm lấn",
+    "Không tự ý sử dụng các phương pháp dân gian (nhỏ nước cốt cây cỏ) vào mũi khi chưa có kiểm chứng y khoa"
+  ],
+  "epidemiology": [
+    "Viêm xoang là một trong những tình trạng mạn tính phổ biến nhất thế giới",
+    "Tỷ lệ mắc bệnh chiếm khoảng 12-15% dân số trưởng thành tại các quốc gia công nghiệp",
+    "Là nguyên nhân hàng đầu dẫn đến việc lạm dụng kháng sinh không cần thiết tại các cơ sở y tế ban đầu",
+    "Gây ảnh hưởng tiêu cực đến năng suất lao động tương đương với bệnh lý tim mạch mạn tính"
+  ],
+  "source": "Gleneagles Hospital Singapore",
+  "url": "https://www.gleneagles.com.sg/vi/conditions-diseases/sinusitis/symptoms-causes"
+}

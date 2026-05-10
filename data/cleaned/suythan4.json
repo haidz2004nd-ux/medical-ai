@@ -1,0 +1,146 @@
+{
+  "title": "Suy thận",
+  "type": "disease",
+  "topic": "thận - tiết niệu - chuyển hóa",
+  "definition": "Suy thận là tình trạng thận suy giảm hoặc mất khả năng lọc máu, loại bỏ chất thải và điều hòa nước - điện giải, dẫn đến tích tụ độc tố trong cơ thể. Bệnh có thể diễn tiến cấp tính (xảy ra đột ngột, có thể hồi phục) hoặc mạn tính (tiến triển chậm, thường không hồi phục hoàn toàn).",
+  "classification": [
+    "Suy thận cấp",
+    "Suy thận mạn",
+    "Giai đoạn 1 CKD",
+    "Giai đoạn 2 CKD",
+    "Giai đoạn 3a CKD",
+    "Giai đoạn 3b CKD",
+    "Giai đoạn 4 CKD",
+    "Giai đoạn 5 CKD (giai đoạn cuối)"
+  ],
+  "pathophysiology": [
+    "Giảm mức lọc cầu thận (GFR)",
+    "Tổn thương nephron",
+    "Rối loạn cân bằng nước - điện giải",
+    "Tích tụ ure và creatinine trong máu",
+    "Rối loạn nội tiết thận (erythropoietin, renin)"
+  ],
+  "causes": {
+    "acute": [
+      "Mất nước nặng (tiêu chảy, nôn ói, mất máu)",
+      "Nhiễm trùng nặng (nhiễm trùng huyết)",
+      "Suy tim làm giảm tưới máu thận",
+      "Tắc nghẽn đường tiết niệu (sỏi, phì đại tuyến tiền liệt)",
+      "Thuốc độc thận (NSAIDs, kháng sinh liều cao)"
+    ],
+    "chronic": [
+      "Đái tháo đường",
+      "Tăng huyết áp",
+      "Viêm cầu thận mạn",
+      "Bệnh thận đa nang",
+      "Bệnh tự miễn (lupus)",
+      "Nhiễm trùng tiết niệu tái phát",
+      "Sỏi thận kéo dài",
+      "Lão hóa thận theo tuổi"
+    ]
+  },
+  "symptoms": [
+    "Giảm lượng nước tiểu hoặc tiểu bất thường",
+    "Phù chân, mắt cá chân, tay hoặc mặt",
+    "Khó thở",
+    "Mệt mỏi, suy nhược",
+    "Chán ăn, buồn nôn, nôn",
+    "Sụt cân",
+    "Ngứa da, khô da",
+    "Hơi thở có mùi ure",
+    "Co rút cơ",
+    "Rối loạn giấc ngủ",
+    "Co giật (giai đoạn nặng)",
+    "Hôn mê (giai đoạn cuối)"
+  ],
+  "complications": [
+    "Thiếu máu",
+    "Tăng huyết áp",
+    "Suy tim",
+    "Tăng kali máu gây loạn nhịp tim",
+    "Loãng xương do rối loạn khoáng chất",
+    "Phù phổi",
+    "Rối loạn thần kinh",
+    "Suy dinh dưỡng",
+    "Suy đa cơ quan",
+    "Tử vong nếu không điều trị"
+  ],
+  "diagnosis": [
+    "Xét nghiệm creatinine máu",
+    "Đánh giá GFR",
+    "Xét nghiệm nước tiểu (protein niệu, hồng cầu niệu)",
+    "Siêu âm thận",
+    "Chụp CT scan khi cần",
+    "Chụp MRI trong trường hợp đặc biệt",
+    "Sinh thiết thận khi nghi ngờ nguyên nhân phức tạp",
+    "Điện tâm đồ nếu nghi tăng kali máu"
+  ],
+  "risk_groups": [
+    "Người mắc đái tháo đường",
+    "Người tăng huyết áp",
+    "Người bệnh tim mạch",
+    "Người cao tuổi",
+    "Người béo phì",
+    "Người hút thuốc lá",
+    "Người dùng thuốc giảm đau kéo dài",
+    "Người có tiền sử bệnh thận",
+    "Người tiếp xúc hóa chất độc hại"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Kiểm soát huyết áp",
+      "Kiểm soát đường huyết",
+      "Ăn giảm muối",
+      "Hạn chế đạm khi cần",
+      "Uống nước hợp lý",
+      "Tập thể dục đều đặn",
+      "Không hút thuốc",
+      "Hạn chế rượu bia"
+    ],
+    "medication": [
+      "Thuốc kiểm soát huyết áp (ACEi, ARB)",
+      "Thuốc kiểm soát đường huyết",
+      "Thuốc lợi tiểu",
+      "Điều trị thiếu máu",
+      "Điều chỉnh rối loạn điện giải",
+      "Chạy thận nhân tạo",
+      "Thẩm phân phúc mạc",
+      "Ghép thận"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát tốt bệnh nền (tiểu đường, tăng huyết áp)",
+    "Ăn uống lành mạnh",
+    "Hạn chế muối và chất béo xấu",
+    "Uống đủ nước",
+    "Không hút thuốc",
+    "Tập thể dục thường xuyên",
+    "Tránh lạm dụng thuốc giảm đau",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Tiểu ít hoặc thay đổi rõ rệt",
+    "Phù toàn thân",
+    "Khó thở không rõ nguyên nhân",
+    "Mệt mỏi kéo dài",
+    "Buồn nôn, nôn kéo dài",
+    "Nước tiểu có bọt hoặc máu",
+    "Nghi ngờ suy thận cấp hoặc mạn"
+  ],
+  "care_notes": [
+    "Suy thận mạn không thể chữa khỏi hoàn toàn",
+    "Phát hiện sớm giúp làm chậm tiến triển bệnh",
+    "Kiểm soát bệnh nền là yếu tố quan trọng nhất",
+    "Điều trị cần phối hợp nhiều phương pháp",
+    "Giai đoạn cuối cần điều trị thay thế thận"
+  ],
+  "epidemiology": [
+    "Tăng theo tuổi",
+    "Liên quan chặt với đái tháo đường và tăng huyết áp",
+    "Gia tăng do lối sống hiện đại",
+    "Gánh nặng bệnh cao trên toàn cầu",
+    "Phổ biến ở người cao tuổi"
+  ],
+  "source": "DIAG",
+  "url": "https://diag.vn/blog/kidney/suy-than/"
+}

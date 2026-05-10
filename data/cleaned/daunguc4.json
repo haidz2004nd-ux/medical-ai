@@ -1,0 +1,125 @@
+{
+  "title": "Đau ngực",
+  "type": "symptom",
+  "topic": "tim mạch - hô hấp - tiêu hóa - cơ xương khớp",
+  "definition": "Đau ngực là cảm giác đau, tức hoặc khó chịu ở vùng ngực từ ngang vai đến trên cơ hoành, có thể xuất hiện đột ngột hoặc tái diễn, với mức độ từ nhẹ đến dữ dội, có thể kèm khó thở, vã mồ hôi hoặc buồn nôn.",
+  "classification": [
+    "Đau ngực bên trái",
+    "Đau ngực bên phải",
+    "Đau ngực giữa",
+    "Đau ngực trên",
+    "Đau ngực dưới (thượng vị)"
+  ],
+  "pathophysiology": [
+    "Thiếu máu cơ tim do hẹp hoặc tắc động mạch vành",
+    "Tổn thương hoặc viêm nhu mô phổi và màng phổi",
+    "Tăng áp lực hoặc rách mạch máu lớn",
+    "Trào ngược acid gây kích thích thực quản",
+    "Viêm hoặc tổn thương cơ xương vùng ngực",
+    "Rối loạn thần kinh và tâm lý"
+  ],
+  "causes": {
+    "cardiac": [
+      "Đau thắt ngực ổn định",
+      "Đau thắt ngực không ổn định",
+      "Nhồi máu cơ tim",
+      "Viêm màng ngoài tim"
+    ],
+    "vascular": [
+      "Bóc tách động mạch chủ",
+      "Thuyên tắc phổi"
+    ],
+    "pulmonary": [
+      "Viêm phổi",
+      "Viêm màng phổi",
+      "Viêm phế quản",
+      "Tăng áp phổi",
+      "Tràn khí màng phổi"
+    ],
+    "gastrointestinal": [
+      "Trào ngược dạ dày - thực quản",
+      "Loét dạ dày",
+      "Bệnh túi mật",
+      "Viêm tụy"
+    ],
+    "musculoskeletal": [
+      "Viêm sụn sườn",
+      "Thoát vị đĩa đệm cổ",
+      "Căng cơ ngực",
+      "Viêm mô mềm"
+    ],
+    "psychological": [
+      "Rối loạn lo âu",
+      "Cơn hoảng loạn"
+    ]
+  },
+  "symptoms": [
+    "Đau tức, đè nặng hoặc đau nhói vùng ngực",
+    "Đau lan ra cổ, hàm, vai hoặc tay",
+    "Khó thở",
+    "Vã mồ hôi",
+    "Chóng mặt",
+    "Buồn nôn hoặc nôn",
+    "Đau tăng khi hít sâu hoặc vận động",
+    "Tim đập nhanh"
+  ],
+  "complications": [
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Suy hô hấp",
+    "Sốc tim",
+    "Ngừng tim",
+    "Tử vong"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Điện tâm đồ",
+    "Xét nghiệm Troponin",
+    "Chụp X-quang ngực",
+    "CT ngực",
+    "Siêu âm tim",
+    "Nội soi tiêu hóa (khi nghi ngờ)"
+  ],
+  "risk_groups": [
+    "Người lớn tuổi",
+    "Người tăng huyết áp",
+    "Người hút thuốc",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người có bệnh tim mạch hoặc phổi",
+    "Người stress kéo dài"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi",
+      "Tránh gắng sức",
+      "Giảm stress",
+      "Ăn uống lành mạnh",
+      "Bỏ thuốc lá"
+    ],
+    "medical": [
+      "Thuốc tim mạch",
+      "Thuốc kháng acid",
+      "Thuốc giảm đau",
+      "Thuốc điều trị bệnh phổi",
+      "Can thiệp mạch hoặc phẫu thuật (nếu cần)"
+    ]
+  },
+  "when_to_see_doctor": [
+    "Đau ngực dữ dội, đột ngột",
+    "Đau kéo dài trên 15-20 phút",
+    "Đau lan ra tay, hàm hoặc lưng",
+    "Khó thở",
+    "Choáng váng hoặc ngất",
+    "Vã mồ hôi lạnh"
+  ],
+  "prevention": [
+    "Không hút thuốc",
+    "Tập thể dục thường xuyên",
+    "Kiểm soát huyết áp và mỡ máu",
+    "Ăn uống lành mạnh",
+    "Khám sức khỏe định kỳ"
+  ],
+  "source": "Sở Y tế Hà Tĩnh",
+  "url": "https://soyte.hatinh.gov.vn/tin-tuc-su-kien/thong-tin-y-te/dau-nguc-canh-bao-benh-gi-.html"
+}

@@ -1,0 +1,116 @@
+{
+  "title": "Ho",
+  "type": "symptom",
+  "topic": "hô hấp",
+  "definition": "Ho là phản xạ có điều kiện của cơ thể, giúp loại bỏ các chất kích thích, dịch tiết, vi khuẩn hoặc dị vật ra khỏi đường hô hấp.",
+  "classification": [
+    "Ho khan",
+    "Ho có đờm",
+    "Ho ra máu"
+  ],
+  "pathophysiology": [
+    "Hít vào sâu và đóng thanh môn",
+    "Tăng áp lực trong lồng ngực",
+    "Thanh môn mở ra đột ngột",
+    "Không khí bị đẩy mạnh ra ngoài",
+    "Tống xuất dị vật, chất nhầy hoặc tác nhân gây kích thích"
+  ],
+  "causes": {
+    "primary": [
+      "Nhiễm virus đường hô hấp",
+      "Dị ứng",
+      "Khói bụi",
+      "Khói thuốc",
+      "Trào ngược dạ dày thực quản"
+    ],
+    "secondary": [
+      "Viêm phổi",
+      "Hen phế quản",
+      "Viêm phế quản",
+      "Giãn phế quản",
+      "Lao phổi",
+      "Bệnh phổi tắc nghẽn mạn tính",
+      "Ung thư phổi",
+      "Thuyên tắc phổi",
+      "Chấn thương ngực"
+    ]
+  },
+  "symptoms": [
+    "Ho khan hoặc ho có đờm",
+    "Sốt",
+    "Ớn lạnh",
+    "Nhức mỏi cơ thể",
+    "Viêm họng",
+    "Buồn nôn hoặc nôn",
+    "Đau đầu",
+    "Đổ mồ hôi đêm",
+    "Sổ mũi",
+    "Chảy nước mũi sau"
+  ],
+  "complications": [
+    "Lan truyền nhiễm trùng qua đường hô hấp",
+    "Ảnh hưởng sinh hoạt và giấc ngủ",
+    "Biểu hiện bệnh lý nghiêm trọng như lao hoặc ung thư phổi"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Đánh giá thời gian và đặc điểm ho",
+    "Xét nghiệm đờm",
+    "Chụp X-quang phổi",
+    "Đo phế dung"
+  ],
+  "risk_groups": [
+    "Người dị ứng",
+    "Người hút thuốc",
+    "Người mắc bệnh phổi mạn tính",
+    "Người sống trong môi trường ô nhiễm"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Tuân thủ điều trị của bác sĩ",
+      "Duy trì lối sống lành mạnh",
+      "Tập thể dục phù hợp",
+      "Súc họng nước muối",
+      "Uống nhiều nước",
+      "Ăn uống đầy đủ dinh dưỡng",
+      "Hạn chế đồ chiên rán dầu mỡ"
+    ],
+    "medical": [
+      "Thuốc giảm ho",
+      "Thuốc ức chế ho",
+      "Thuốc long đờm",
+      "Thuốc kháng histamine",
+      "Điều trị nguyên nhân",
+      "Thuốc điều trị hen suyễn khi cần"
+    ]
+  },
+  "prevention": [
+    "Tiêm phòng vắc xin",
+    "Đeo khẩu trang nơi công cộng",
+    "Giữ môi trường sống thông thoáng",
+    "Tránh tiếp xúc chất kích thích",
+    "Sử dụng thiết bị lọc không khí"
+  ],
+  "when_to_see_doctor": [
+    "Ho kéo dài không thuyên giảm",
+    "Ho kèm sốt và đờm",
+    "Ho ra máu",
+    "Ho ảnh hưởng sinh hoạt hoặc giấc ngủ",
+    "Khó thở hoặc hụt hơi"
+  ],
+  "care_notes": [
+    "Ho là phản xạ bảo vệ của cơ thể",
+    "Không phải là bệnh mà là triệu chứng",
+    "Cần điều trị nguyên nhân gây ho",
+    "Thận trọng khi dùng thuốc ho cho trẻ em",
+    "Không lạm dụng thuốc ức chế ho"
+  ],
+  "epidemiology": [
+    "Ho là triệu chứng phổ biến",
+    "Xảy ra ở mọi lứa tuổi",
+    "Thường liên quan đến nhiễm trùng và môi trường",
+    "Có thể lây lan qua giọt bắn khi ho"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/ho-458.html"
+}

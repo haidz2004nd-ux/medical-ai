@@ -1,0 +1,2627 @@
+[
+  {
+    "instruction": "Sốt là gì?",
+    "input": "",
+    "output": "Sốt là tình trạng nhiệt độ cơ thể tăng trên 37,5°C khi đo ở nách hoặc trên 38°C khi đo ở miệng hoặc hậu môn."
+  },
+  {
+    "instruction": "Nguyên nhân gây sốt thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp gồm nhiễm virus, vi khuẩn, viêm đường hô hấp, dị ứng thuốc và thay đổi thời tiết."
+  },
+  {
+    "instruction": "Triệu chứng của sốt gồm những gì?",
+    "input": "",
+    "output": "Triệu chứng gồm rét run, da nóng đỏ, khát nước, mệt mỏi và có thể rối loạn ý thức hoặc co giật."
+  },
+  {
+    "instruction": "Khi nào cần đưa người bị sốt đi khám?",
+    "input": "",
+    "output": "Khi sốt trên 39°C, sốt kéo dài, co giật, khó thở hoặc rối loạn ý thức."
+  },
+  {
+    "instruction": "Cách xử trí sốt tại nhà là gì?",
+    "input": "",
+    "output": "Nghỉ ngơi, uống nhiều nước, lau người bằng nước ấm và dùng thuốc hạ sốt khi cần."
+  },
+  {
+    "instruction": "Sốt ở người lớn được xác định khi nào?",
+    "input": "",
+    "output": "Sốt ở người lớn được xác định khi nhiệt độ cơ thể từ 38°C trở lên."
+  },
+  {
+    "instruction": "Các mức độ sốt ở người lớn là gì?",
+    "input": "",
+    "output": "Sốt nhẹ từ 38°C và sốt cao khi từ 39,4°C trở lên."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp khi sốt ở người lớn?",
+    "input": "",
+    "output": "Gồm đổ mồ hôi, ớn lạnh, đau đầu, đau cơ, mệt mỏi và chán ăn."
+  },
+  {
+    "instruction": "Khi nào sốt ở người lớn trở nên nghiêm trọng?",
+    "input": "",
+    "output": "Khi sốt cao trên 39,4°C, kéo dài hơn 3 ngày hoặc kèm triệu chứng nặng."
+  },
+  {
+    "instruction": "Nguyên nhân gây sốt ở người lớn?",
+    "input": "",
+    "output": "Do nhiễm virus, vi khuẩn, nấm, ngộ độc thực phẩm, sốc nhiệt hoặc tác dụng phụ thuốc."
+  },
+  {
+    "instruction": "Cơ chế gây sốt là gì?",
+    "input": "",
+    "output": "Sốt xảy ra khi vùng dưới đồi điều chỉnh nhiệt độ cơ thể cao hơn để đáp ứng với nhiễm trùng."
+  },
+  {
+    "instruction": "Pyrogen là gì?",
+    "input": "",
+    "output": "Pyrogen là các chất gây sốt có thể đến từ vi khuẩn, virus hoặc do cơ thể tạo ra."
+  },
+  {
+    "instruction": "Sốt có lợi cho cơ thể không?",
+    "input": "",
+    "output": "Có, vì giúp tăng hoạt động hệ miễn dịch và chống nhiễm trùng."
+  },
+  {
+    "instruction": "Biến chứng của sốt cao là gì?",
+    "input": "",
+    "output": "Có thể gây lú lẫn, buồn ngủ, cáu kỉnh hoặc co giật."
+  },
+  {
+    "instruction": "Cách điều trị sốt cơ bản là gì?",
+    "input": "",
+    "output": "Uống nhiều nước, nghỉ ngơi và dùng thuốc hạ sốt khi cần."
+  },
+  {
+    "instruction": "Sốt thường là gì?",
+    "input": "",
+    "output": "Sốt thường là phản ứng tăng nhiệt độ cơ thể tạm thời để chống lại tác nhân gây bệnh như virus hoặc vi khuẩn."
+  },
+  {
+    "instruction": "Nguyên nhân gây sốt thường?",
+    "input": "",
+    "output": "Do nhiễm virus, vi khuẩn, viêm hoặc yếu tố môi trường như cảm nắng."
+  },
+  {
+    "instruction": "Sốt virus là gì?",
+    "input": "",
+    "output": "Sốt virus là tình trạng sốt do nhiễm các loại virus khác nhau gây ra."
+  },
+  {
+    "instruction": "Triệu chứng sốt virus ở trẻ em là gì?",
+    "input": "",
+    "output": "Sốt cao 39–40°C, đau cơ, phát ban, quấy khóc, có thể co giật và khó thở."
+  },
+  {
+    "instruction": "Triệu chứng sốt virus ở người lớn?",
+    "input": "",
+    "output": "Mệt mỏi, đau cơ, sốt cao, ho, chảy nước mũi và đau đầu."
+  },
+  {
+    "instruction": "Sốt xuất huyết là gì?",
+    "input": "",
+    "output": "Sốt xuất huyết là bệnh do virus dengue gây ra, lây qua muỗi vằn."
+  },
+  {
+    "instruction": "Dấu hiệu đặc trưng của sốt xuất huyết là gì?",
+    "input": "",
+    "output": "Xuất huyết dưới da, chảy máu chân răng, đau bụng vùng gan và giảm tiểu cầu."
+  },
+  {
+    "instruction": "Sự khác biệt giữa sốt virus và sốt xuất huyết là gì?",
+    "input": "",
+    "output": "Sốt virus thường giảm khi hết sốt, còn sốt xuất huyết có thể nặng hơn khi vừa hết sốt."
+  },
+  {
+    "instruction": "Khi nào cần đi khám nghi sốt xuất huyết?",
+    "input": "",
+    "output": "Khi sốt kéo dài, nôn nhiều, đau bụng, tiểu ít hoặc có dấu hiệu xuất huyết."
+  },
+  {
+    "instruction": "Sốt xuất huyết lây như thế nào?",
+    "input": "",
+    "output": "Lây qua muỗi vằn, không lây trực tiếp từ người sang người."
+  },
+  {
+    "instruction": "Sốt kéo dài không rõ nguyên nhân là gì?",
+    "input": "",
+    "output": "Là tình trạng sốt ≥ 38,3°C kéo dài ít nhất 2–3 tuần mà chưa xác định được nguyên nhân sau thăm khám."
+  },
+  {
+    "instruction": "Nguyên nhân thường gặp của sốt kéo dài là gì?",
+    "input": "",
+    "output": "Bao gồm nhiễm trùng, ung thư, bệnh mô liên kết, rối loạn nội tiết và do thuốc."
+  },
+  {
+    "instruction": "Sốt tái diễn là gì?",
+    "input": "",
+    "output": "Là tình trạng sốt xuất hiện từng đợt, xen kẽ các giai đoạn không sốt."
+  },
+  {
+    "instruction": "Sốt chu kỳ là gì?",
+    "input": "",
+    "output": "Là tình trạng sốt xảy ra theo chu kỳ, có thể dự đoán trước và lặp lại."
+  },
+  {
+    "instruction": "Các mức độ sốt được phân loại như thế nào?",
+    "input": "",
+    "output": "Sốt nhẹ 38–39°C, sốt vừa 39–40°C, sốt cao 40–41°C và sốt kịch phát > 41°C."
+  },
+  {
+    "instruction": "Tác dụng có lợi của sốt là gì?",
+    "input": "",
+    "output": "Sốt giúp tăng đáp ứng miễn dịch và tiêu diệt mầm bệnh."
+  },
+  {
+    "instruction": "Tác hại của sốt cao là gì?",
+    "input": "",
+    "output": "Có thể gây mất nước, rối loạn điện giải, co giật và tổn thương thần kinh."
+  },
+  {
+    "instruction": "Khi nào cần nghĩ đến sốt kéo dài?",
+    "input": "",
+    "output": "Khi sốt kéo dài trên 2 tuần mà chưa tìm được nguyên nhân."
+  },
+  {
+    "instruction": "Tiếp cận bệnh nhân sốt kéo dài cần làm gì?",
+    "input": "",
+    "output": "Khai thác tiền sử, khám toàn diện và làm các xét nghiệm cần thiết."
+  },
+  {
+    "instruction": "Tại sao không nên lạm dụng kháng sinh trong sốt kéo dài?",
+    "input": "",
+    "output": "Vì có thể che lấp triệu chứng và gây khó khăn cho chẩn đoán."
+  },
+  {
+    "instruction": "Tăng huyết áp là gì?",
+    "input": "",
+    "output": "Tăng huyết áp là tình trạng huyết áp tâm thu ≥ 140 mmHg và/hoặc huyết áp tâm trương ≥ 90 mmHg."
+  },
+  {
+    "instruction": "Nguyên nhân gây tăng huyết áp là gì?",
+    "input": "",
+    "output": "Bao gồm tăng huyết áp vô căn và thứ phát do bệnh thận, nội tiết, tim mạch hoặc do thuốc."
+  },
+  {
+    "instruction": "Triệu chứng của tăng huyết áp là gì?",
+    "input": "",
+    "output": "Thường không có triệu chứng, đôi khi có đau đầu, đau ngực, khó thở hoặc biến chứng như đột quỵ."
+  },
+  {
+    "instruction": "Khi nào tăng huyết áp nguy hiểm?",
+    "input": "",
+    "output": "Khi huyết áp ≥ 180/120 mmHg hoặc có dấu hiệu tổn thương cơ quan như đột quỵ, nhồi máu cơ tim."
+  },
+  {
+    "instruction": "Điều trị tăng huyết áp như thế nào?",
+    "input": "",
+    "output": "Điều trị bằng thay đổi lối sống và dùng thuốc theo chỉ định, cần duy trì suốt đời."
+  },
+  {
+    "instruction": "Tăng huyết áp là gì?",
+    "input": "",
+    "output": "Tăng huyết áp là tình trạng huyết áp tâm thu ≥ 130 mmHg hoặc huyết áp tâm trương ≥ 80 mmHg, hoặc đang dùng thuốc điều trị tăng huyết áp."
+  },
+  {
+    "instruction": "Tăng huyết áp có triệu chứng không?",
+    "input": "",
+    "output": "Phần lớn tăng huyết áp không có triệu chứng, chỉ biểu hiện khi đã có biến chứng như đau đầu, khó thở hoặc đột quỵ."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến của tăng huyết áp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến nhất là tăng huyết áp nguyên phát (không rõ nguyên nhân), ngoài ra còn có bệnh thận, nội tiết, thuốc và lối sống."
+  },
+  {
+    "instruction": "Tăng huyết áp được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán bằng đo huyết áp nhiều lần, kết hợp xét nghiệm máu, ECG và đánh giá tổn thương cơ quan đích."
+  },
+  {
+    "instruction": "Biến chứng nguy hiểm của tăng huyết áp là gì?",
+    "input": "",
+    "output": "Bao gồm đột quỵ, nhồi máu cơ tim, suy tim, suy thận và tổn thương võng mạc."
+  },
+  {
+    "instruction": "Điều trị tăng huyết áp gồm những gì?",
+    "input": "",
+    "output": "Bao gồm thay đổi lối sống và dùng thuốc như lợi tiểu, ACEI, ARB, chẹn kênh canxi và chẹn beta."
+  },
+  {
+    "instruction": "Tại sao tăng huyết áp nguy hiểm?",
+    "input": "",
+    "output": "Vì bệnh diễn tiến âm thầm nhưng có thể gây tổn thương nghiêm trọng đến tim, não và thận."
+  },
+  {
+    "instruction": "Ai có nguy cơ bị tăng huyết áp?",
+    "input": "",
+    "output": "Người cao tuổi, béo phì, ăn mặn, ít vận động, có tiền sử gia đình hoặc bệnh thận."
+  },
+  {
+    "instruction": "Khi nào cần đi khám vì tăng huyết áp?",
+    "input": "",
+    "output": "Khi huyết áp ≥ 140/90 mmHg nhiều lần hoặc có triệu chứng như đau ngực, khó thở, yếu liệt."
+  },
+  {
+    "instruction": "Cơ chế gây tăng huyết áp là gì?",
+    "input": "",
+    "output": "Liên quan đến tăng cung lượng tim, tăng sức cản mạch, hoạt hóa hệ renin-angiotensin và rối loạn thần kinh giao cảm."
+  },
+  {
+    "instruction": "Tăng huyết áp là gì?",
+    "input": "",
+    "output": "Tăng huyết áp là tình trạng huyết áp động mạch tăng mạn tính khi huyết áp tâm thu ≥ 140 mmHg và/hoặc huyết áp tâm trương ≥ 90 mmHg."
+  },
+  {
+    "instruction": "Nguyên nhân thường gặp của tăng huyết áp là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp nhất là tăng huyết áp nguyên phát, ngoài ra còn có ăn mặn, béo phì, stress, bệnh thận và rối loạn nội tiết."
+  },
+  {
+    "instruction": "Tăng huyết áp có triệu chứng không?",
+    "input": "",
+    "output": "Phần lớn tăng huyết áp không có triệu chứng rõ ràng, chỉ phát hiện khi đo huyết áp hoặc khi đã có biến chứng."
+  },
+  {
+    "instruction": "Cách chẩn đoán tăng huyết áp như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán tăng huyết áp dựa vào đo huyết áp nhiều lần, có thể kết hợp Holter huyết áp 24 giờ và các xét nghiệm tim mạch – thận."
+  },
+  {
+    "instruction": "Làm sao để phòng ngừa tăng huyết áp?",
+    "input": "",
+    "output": "Phòng ngừa bằng cách ăn giảm muối, tập thể dục thường xuyên, giảm cân, bỏ thuốc lá, hạn chế rượu bia và kiểm soát stress."
+  },
+  {
+    "instruction": "Tăng huyết áp nguy hiểm như thế nào?",
+    "input": "",
+    "output": "Tăng huyết áp có thể gây đột quỵ, nhồi máu cơ tim, suy tim và suy thận nếu không được kiểm soát tốt."
+  },
+  {
+    "instruction": "Ai có nguy cơ cao bị tăng huyết áp?",
+    "input": "",
+    "output": "Người cao tuổi, người béo phì, ít vận động, ăn mặn, hút thuốc lá và có tiền sử gia đình mắc tăng huyết áp."
+  },
+  {
+    "instruction": "Tăng huyết áp điều trị như thế nào?",
+    "input": "",
+    "output": "Điều trị gồm thay đổi lối sống và dùng thuốc như lợi tiểu, ACE inhibitors, ARB, chẹn kênh canxi và chẹn beta."
+  },
+  {
+    "instruction": "Huyết áp cao là gì?",
+    "input": "",
+    "output": "Huyết áp cao là tình trạng áp lực máu trong động mạch tăng kéo dài, khiến tim phải hoạt động mạnh hơn và làm tăng nguy cơ biến chứng tim mạch."
+  },
+  {
+    "instruction": "Nguyên nhân gây tăng huyết áp là gì?",
+    "input": "",
+    "output": "Nguyên nhân gồm yếu tố di truyền, ăn nhiều muối, béo phì, ít vận động, stress, hút thuốc và rượu bia. Một số trường hợp do bệnh thận hoặc nội tiết."
+  },
+  {
+    "instruction": "Tăng huyết áp có triệu chứng không?",
+    "input": "",
+    "output": "Phần lớn không có triệu chứng rõ ràng. Một số người có thể đau đầu, chóng mặt, hồi hộp hoặc đau ngực."
+  },
+  {
+    "instruction": "Tăng huyết áp gây biến chứng gì?",
+    "input": "",
+    "output": "Có thể gây đột quỵ, nhồi máu cơ tim, suy tim, suy thận và tổn thương võng mạc."
+  },
+  {
+    "instruction": "Ai dễ bị tăng huyết áp?",
+    "input": "",
+    "output": "Người cao tuổi, béo phì, ít vận động, hút thuốc, uống rượu, có tiền sử gia đình và người bị stress kéo dài."
+  },
+  {
+    "instruction": "Cách phòng ngừa tăng huyết áp?",
+    "input": "",
+    "output": "Ăn giảm muối, tập thể dục thường xuyên, giữ cân nặng hợp lý, bỏ thuốc lá, hạn chế rượu bia và kiểm soát căng thẳng."
+  },
+  {
+    "instruction": "Điều trị tăng huyết áp như thế nào?",
+    "input": "",
+    "output": "Điều trị bằng thay đổi lối sống kết hợp thuốc như lợi tiểu, chẹn beta, ức chế men chuyển hoặc chẹn kênh canxi theo chỉ định bác sĩ."
+  },
+  {
+    "instruction": "Tăng huyết áp là gì?",
+    "input": "",
+    "output": "Tăng huyết áp là tình trạng áp lực máu lên thành động mạch tăng liên tục, thường ≥ 140/90 mmHg, có thể gây biến chứng tim, não và thận."
+  },
+  {
+    "instruction": "Nguyên nhân tăng huyết áp nguyên phát là gì?",
+    "input": "",
+    "output": "Tăng huyết áp nguyên phát không rõ nguyên nhân cụ thể, thường liên quan đến di truyền, ăn mặn, béo phì, stress và lối sống ít vận động."
+  },
+  {
+    "instruction": "Tăng huyết áp có triệu chứng gì?",
+    "input": "",
+    "output": "Có thể gây đau đầu, chóng mặt, ù tai, khó thở, đau ngực, tim đập nhanh hoặc không có triệu chứng rõ ràng."
+  },
+  {
+    "instruction": "Biến chứng nguy hiểm của tăng huyết áp là gì?",
+    "input": "",
+    "output": "Bao gồm đột quỵ, nhồi máu cơ tim, suy tim, suy thận và tổn thương võng mạc."
+  },
+  {
+    "instruction": "Cách chẩn đoán tăng huyết áp như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên đo huyết áp ≥ 140/90 mmHg tại phòng khám, hoặc theo dõi tại nhà và đo 24 giờ (ABPM)."
+  },
+  {
+    "instruction": "Ai có nguy cơ mắc tăng huyết áp?",
+    "input": "",
+    "output": "Người lớn tuổi, béo phì, hút thuốc, ít vận động, stress, có tiền sử gia đình hoặc mắc tiểu đường."
+  },
+  {
+    "instruction": "Điều trị tăng huyết áp như thế nào?",
+    "input": "",
+    "output": "Điều trị gồm thay đổi lối sống như ăn nhạt, tập thể dục, giảm cân và dùng thuốc như ACE inhibitors, ARB, lợi tiểu hoặc chẹn beta."
+  },
+  {
+    "instruction": "Làm sao để phòng ngừa tăng huyết áp?",
+    "input": "",
+    "output": "Duy trì lối sống lành mạnh, ăn uống hợp lý, giảm muối, tập thể dục đều đặn, không hút thuốc và hạn chế rượu bia."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì tăng huyết áp?",
+    "input": "",
+    "output": "Khi huyết áp ≥ 180/120 mmHg hoặc có triệu chứng như đau ngực, khó thở, mờ mắt hoặc đau đầu dữ dội."
+  },
+  {
+    "instruction": "Tăng huyết áp có nguy hiểm không?",
+    "input": "",
+    "output": "Có, vì nó có thể gây tổn thương tim, não, thận và mắt, dẫn đến đột quỵ hoặc tử vong nếu không kiểm soát."
+  },
+  {
+    "instruction": "Đái tháo đường là gì?",
+    "input": "",
+    "output": "Đái tháo đường là bệnh rối loạn chuyển hóa mạn tính gây tăng glucose máu do thiếu insulin hoặc giảm tác dụng insulin."
+  },
+  {
+    "instruction": "Có những loại đái tháo đường nào?",
+    "input": "",
+    "output": "Gồm type 1, type 2, đái tháo đường thai kỳ và đái tháo đường do nguyên nhân khác như thuốc hoặc bệnh nội tiết."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của đái tháo đường là gì?",
+    "input": "",
+    "output": "Khát nhiều, tiểu nhiều, ăn nhiều, sụt cân, mệt mỏi, nhìn mờ và chậm lành vết thương."
+  },
+  {
+    "instruction": "Chẩn đoán đái tháo đường dựa trên tiêu chuẩn nào?",
+    "input": "",
+    "output": "Dựa trên glucose lúc đói ≥ 126 mg/dL, HbA1c ≥ 6,5%, hoặc glucose bất kỳ ≥ 200 mg/dL kèm triệu chứng."
+  },
+  {
+    "instruction": "Tiền đái tháo đường là gì?",
+    "input": "",
+    "output": "Là tình trạng glucose cao hơn bình thường nhưng chưa đủ tiêu chuẩn đái tháo đường, gồm rối loạn glucose đói hoặc dung nạp glucose."
+  },
+  {
+    "instruction": "Biến chứng tim mạch của đái tháo đường là gì?",
+    "input": "",
+    "output": "Bao gồm nhồi máu cơ tim, đột quỵ và bệnh mạch vành do tổn thương mạch máu."
+  },
+  {
+    "instruction": "Đái tháo đường gây biến chứng thận như thế nào?",
+    "input": "",
+    "output": "Gây tổn thương mạch máu nhỏ ở thận dẫn đến suy thận mạn và giảm chức năng lọc."
+  },
+  {
+    "instruction": "Vì sao đái tháo đường gây mù lòa?",
+    "input": "",
+    "output": "Do tổn thương mạch máu võng mạc kéo dài gây bệnh võng mạc đái tháo đường."
+  },
+  {
+    "instruction": "Ai có nguy cơ mắc đái tháo đường?",
+    "input": "",
+    "output": "Người béo phì, ít vận động, trên 45 tuổi, có tiền sử gia đình hoặc rối loạn chuyển hóa."
+  },
+  {
+    "instruction": "Cách phòng ngừa đái tháo đường là gì?",
+    "input": "",
+    "output": "Ăn uống lành mạnh, tập thể dục, giảm cân, kiểm soát đường huyết và khám định kỳ."
+  },
+  {
+    "instruction": "Biến chứng tim mạch của đái tháo đường là gì?",
+    "input": "",
+    "output": "Bao gồm nhồi máu cơ tim, đột quỵ và bệnh mạch vành do tổn thương mạch máu."
+  },
+  {
+    "instruction": "Đái tháo đường gây biến chứng thận như thế nào?",
+    "input": "",
+    "output": "Gây tổn thương vi mạch thận dẫn đến suy thận mạn và giảm chức năng lọc cầu thận."
+  },
+  {
+    "instruction": "Vì sao đái tháo đường gây mù lòa?",
+    "input": "",
+    "output": "Do tổn thương mạch máu võng mạc kéo dài gây bệnh võng mạc đái tháo đường."
+  },
+  {
+    "instruction": "Ai có nguy cơ mắc đái tháo đường?",
+    "input": "",
+    "output": "Người béo phì, ít vận động, trên 45 tuổi, có tiền sử gia đình hoặc rối loạn chuyển hóa."
+  },
+  {
+    "instruction": "Cách phòng ngừa đái tháo đường là gì?",
+    "input": "",
+    "output": "Ăn uống lành mạnh, tập thể dục, giảm cân, kiểm soát đường huyết và khám định kỳ."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của đái tháo đường type 1 là gì?",
+    "input": "",
+    "output": "Gồm ăn nhiều, uống nhiều, tiểu nhiều và sụt cân nhiều do thiếu insulin."
+  },
+  {
+    "instruction": "Vì sao đái tháo đường type 2 khó phát hiện sớm?",
+    "input": "",
+    "output": "Vì triệu chứng tiến triển âm thầm và không rõ ràng trong giai đoạn đầu."
+  },
+  {
+    "instruction": "Đái tháo đường thai kỳ thường xuất hiện khi nào?",
+    "input": "",
+    "output": "Thường xuất hiện từ tuần 24 đến 28 của thai kỳ."
+  },
+  {
+    "instruction": "Biến chứng nguy hiểm của đái tháo đường là gì?",
+    "input": "",
+    "output": "Bao gồm biến chứng tim mạch, thận, mắt, thần kinh và bàn chân đái tháo đường."
+  },
+  {
+    "instruction": "Phương pháp điều trị đái tháo đường gồm những gì?",
+    "input": "",
+    "output": "Gồm thay đổi lối sống (ăn uống, tập luyện) và dùng thuốc như insulin hoặc thuốc hạ đường huyết."
+  },
+  {
+    "instruction": "Đái tháo đường là gì?",
+    "input": "",
+    "output": "Là bệnh rối loạn chuyển hóa mạn tính do thiếu insulin hoặc kháng insulin, gây tăng glucose máu kéo dài."
+  },
+  {
+    "instruction": "Biến chứng vi mạch của đái tháo đường gồm những gì?",
+    "input": "",
+    "output": "Bao gồm bệnh thận đái tháo đường, bệnh võng mạc và tổn thương thần kinh ngoại biên."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của đái tháo đường type 1 là gì?",
+    "input": "",
+    "output": "Ăn nhiều, uống nhiều, tiểu nhiều và sụt cân nhanh do thiếu insulin."
+  },
+  {
+    "instruction": "Nguyên nhân chính của đái tháo đường type 2 là gì?",
+    "input": "",
+    "output": "Do kháng insulin và suy giảm chức năng tế bào beta tuyến tụy."
+  },
+  {
+    "instruction": "Phương pháp điều trị đái tháo đường gồm những gì?",
+    "input": "",
+    "output": "Bao gồm thay đổi lối sống, dùng thuốc uống hoặc insulin tùy loại bệnh."
+  },
+  {
+    "instruction": "Đái tháo đường là gì?",
+    "input": "",
+    "output": "Là bệnh rối loạn chuyển hóa mạn tính gây tăng glucose máu do thiếu insulin hoặc kháng insulin."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của đái tháo đường là gì?",
+    "input": "",
+    "output": "Gồm mệt mỏi, khát nhiều, tiểu nhiều, sụt cân, mờ mắt và vết thương lâu lành."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây đái tháo đường type 2 là gì?",
+    "input": "",
+    "output": "Thường do béo phì, lối sống ít vận động, chế độ ăn không lành mạnh và yếu tố di truyền."
+  },
+  {
+    "instruction": "Làm sao để phòng ngừa đái tháo đường?",
+    "input": "",
+    "output": "Duy trì cân nặng hợp lý, ăn uống lành mạnh, tập thể dục đều đặn, giảm stress và khám sức khỏe định kỳ."
+  },
+  {
+    "instruction": "Ai có nguy cơ cao mắc đái tháo đường?",
+    "input": "",
+    "output": "Người béo phì, ít vận động, trên 40 tuổi, có tiền sử gia đình hoặc chế độ ăn không lành mạnh."
+  },
+  {
+    "instruction": "Nhức đầu là gì?",
+    "input": "",
+    "output": "Là tình trạng đau ở vùng đầu hoặc cổ trên, có thể âm ỉ hoặc dữ dội, kéo dài từ vài phút đến vài ngày."
+  },
+  {
+    "instruction": "Nhức đầu nguyên phát và thứ phát khác nhau như thế nào?",
+    "input": "",
+    "output": "Nhức đầu nguyên phát không do bệnh lý nền, còn nhức đầu thứ phát do bệnh lý khác như viêm xoang, u não hoặc chấn thương."
+  },
+  {
+    "instruction": "Triệu chứng của đau nửa đầu là gì?",
+    "input": "",
+    "output": "Đau một bên đầu, đau dồn dập, kèm buồn nôn, nhạy cảm ánh sáng và tiếng ồn."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây nhức đầu là gì?",
+    "input": "",
+    "output": "Căng thẳng, thiếu ngủ, mất nước, lạm dụng caffeine, làm việc máy tính nhiều và chấn thương."
+  },
+  {
+    "instruction": "Cách phòng ngừa nhức đầu như thế nào?",
+    "input": "",
+    "output": "Ngủ đủ giấc, uống đủ nước, giảm stress, tập thể dục đều đặn và hạn chế rượu bia, caffeine."
+  },
+  {
+    "instruction": "Nhức đầu là gì?",
+    "input": "",
+    "output": "Nhức đầu là tình trạng đau ở vùng đầu hoặc cổ trên, có thể xuất hiện một bên hoặc toàn bộ đầu, với mức độ từ nhẹ đến dữ dội và kéo dài từ vài phút đến nhiều ngày. Đây thường là triệu chứng của nhiều rối loạn khác nhau."
+  },
+  {
+    "instruction": "Nguyên nhân nào gây nhức đầu?",
+    "input": "",
+    "output": "Nhức đầu có thể do nhiều nguyên nhân như căng thẳng, thiếu ngủ, rối loạn cảm xúc, viêm xoang, tăng huyết áp, chấn thương đầu, hoặc lạm dụng thuốc giảm đau. Ngoài ra, stress và sự gia tăng gốc tự do trong cơ thể cũng góp phần gây đau đầu."
+  },
+  {
+    "instruction": "Các loại đau đầu thường gặp là gì?",
+    "input": "",
+    "output": "Các loại đau đầu thường gặp gồm: đau đầu căng thẳng (phổ biến nhất), đau nửa đầu (migraine), đau đầu từng cụm và đau đầu mạn tính hàng ngày. Mỗi loại có đặc điểm và nguyên nhân khác nhau."
+  },
+  {
+    "instruction": "Nhức đầu có nguy hiểm không?",
+    "input": "",
+    "output": "Phần lớn nhức đầu không nguy hiểm, nhưng nếu kéo dài hoặc không điều trị đúng cách có thể ảnh hưởng đến chất lượng cuộc sống, gây rối loạn giấc ngủ, suy giảm trí nhớ, thậm chí làm tăng nguy cơ đột quỵ hoặc tổn thương não."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ khi bị nhức đầu?",
+    "input": "",
+    "output": "Bạn nên đi khám nếu đau đầu đột ngột và dữ dội, kéo dài nhiều ngày, kèm theo sốt, nôn ói, yếu liệt tay chân, rối loạn thị giác hoặc không đáp ứng với thuốc giảm đau thông thường."
+  },
+  {
+    "instruction": "Đau đầu là gì?",
+    "input": "",
+    "output": "Đau đầu là cảm giác đau hoặc khó chịu ở vùng đầu, mặt hoặc cổ do kích thích các thụ cảm thể đau trong hệ thần kinh, có thể xuất phát từ nhiều nguyên nhân khác nhau."
+  },
+  {
+    "instruction": "Những nguyên nhân phổ biến gây đau đầu là gì?",
+    "input": "",
+    "output": "Đau đầu có thể do bệnh lý như viêm xoang, migraine, tăng huyết áp, u não hoặc do nguyên nhân không bệnh lý như stress, mất nước, thiếu ngủ, thay đổi hormone và sử dụng chất kích thích."
+  },
+  {
+    "instruction": "Khi nào đau đầu là dấu hiệu nguy hiểm?",
+    "input": "",
+    "output": "Đau đầu trở nên nguy hiểm khi xuất hiện đột ngột dữ dội, kéo dài hoặc ngày càng nặng, kèm theo các triệu chứng như sốt cao, cứng cổ, rối loạn ý thức, yếu liệt, nhìn mờ hoặc nôn ói nhiều."
+  },
+  {
+    "instruction": "Làm thế nào để giảm đau đầu tại nhà?",
+    "input": "",
+    "output": "Có thể giảm đau đầu bằng cách nghỉ ngơi, uống đủ nước, ngủ đủ giấc, giảm stress, chườm lạnh, massage và hạn chế rượu bia, caffeine."
+  },
+  {
+    "instruction": "Có nên dùng thuốc giảm đau thường xuyên khi bị đau đầu không?",
+    "input": "",
+    "output": "Không nên lạm dụng thuốc giảm đau vì có thể gây tác dụng phụ và làm che giấu bệnh lý tiềm ẩn. Cần tìm nguyên nhân gây đau đầu và điều trị phù hợp."
+  },
+  {
+    "instruction": "Đau đầu vùng trán thường do nguyên nhân gì?",
+    "input": "",
+    "output": "Đau vùng trán thường liên quan đến căng mắt, làm việc với màn hình lâu, đọc sách thiếu ánh sáng hoặc đau đầu do căng thẳng."
+  },
+  {
+    "instruction": "Đau đầu ở thái dương có thể cảnh báo bệnh gì?",
+    "input": "",
+    "output": "Có thể do stress, migraine hoặc nghiêm trọng hơn là viêm động mạch thái dương, đặc biệt khi kèm sốt hoặc giảm thị lực."
+  },
+  {
+    "instruction": "Đau phía sau đầu thường liên quan đến vấn đề gì?",
+    "input": "",
+    "output": "Thường liên quan đến căng cơ cổ, bệnh cột sống cổ, chấn thương hoặc rối loạn mạch máu."
+  },
+  {
+    "instruction": "Đau nửa đầu một bên có nguy hiểm không?",
+    "input": "",
+    "output": "Thường là migraine, nhưng trong một số trường hợp có thể liên quan đến viêm mạch hoặc đột quỵ nếu kèm triệu chứng thần kinh."
+  },
+  {
+    "instruction": "Đau phía sau mắt là dấu hiệu của bệnh gì?",
+    "input": "",
+    "output": "Đau sau mắt thường liên quan đến viêm xoang, đặc biệt khi kèm nghẹt mũi, sốt và đau vùng mặt."
+  },
+  {
+    "instruction": "Đau đầu là gì?",
+    "input": "",
+    "output": "Đau đầu là tình trạng đau ở vùng đầu, mặt hoặc cổ trên, có thể xảy ra một hoặc hai bên, với mức độ từ nhẹ đến dữ dội và kéo dài từ vài phút đến vài ngày."
+  },
+  {
+    "instruction": "Đau đầu được chia thành những loại nào?",
+    "input": "",
+    "output": "Đau đầu được chia thành hai loại chính là đau đầu nguyên phát (không do tổn thương thực thể) và đau đầu thứ phát (do bệnh lý khác gây ra)."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây đau đầu là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm đau nửa đầu, căng thẳng, thiếu ngủ, stress, sử dụng rượu bia hoặc caffeine, và các bệnh lý như viêm não, u não hoặc chấn thương sọ não."
+  },
+  {
+    "instruction": "Khi nào đau đầu cần đi khám bác sĩ?",
+    "input": "",
+    "output": "Cần đi khám khi đau đầu đột ngột dữ dội, tăng nhanh, kèm sốt, cứng cổ, co giật, lú lẫn, yếu liệt, nhìn mờ hoặc xuất hiện sau chấn thương."
+  },
+  {
+    "instruction": "Làm thế nào để giảm đau đầu hiệu quả?",
+    "input": "",
+    "output": "Có thể giảm đau đầu bằng cách nghỉ ngơi, ngủ đủ giấc, giảm stress, uống đủ nước, tập thể dục và hạn chế rượu bia, caffeine. Trong một số trường hợp có thể dùng thuốc theo chỉ định bác sĩ."
+  },
+  {
+    "instruction": "Đau ngực là gì?",
+    "input": "",
+    "output": "Đau ngực là cảm giác đau, khó chịu hoặc căng tức ở vùng ngực, có thể giống như bị đè nặng hoặc bóp chặt lồng ngực. Cơn đau có thể kéo dài từ vài phút đến vài giờ và có thể lan ra cổ, hàm hoặc cánh tay."
+  },
+  {
+    "instruction": "Những nguyên nhân phổ biến gây đau ngực là gì?",
+    "input": "",
+    "output": "Đau ngực có thể do nguyên nhân tim mạch (nhồi máu cơ tim, bệnh mạch vành), tiêu hóa (trào ngược dạ dày, viêm loét), hô hấp (viêm phổi, thuyên tắc phổi), cơ xương khớp (viêm sụn sườn) hoặc do stress, lo âu."
+  },
+  {
+    "instruction": "Dấu hiệu đau ngực nguy hiểm cần chú ý là gì?",
+    "input": "",
+    "output": "Các dấu hiệu nguy hiểm gồm đau ngực dữ dội, kéo dài, lan ra tay hoặc hàm, khó thở, chóng mặt, vã mồ hôi, buồn nôn hoặc ngất xỉu. Đây có thể là dấu hiệu của nhồi máu cơ tim hoặc bệnh lý nghiêm trọng khác."
+  },
+  {
+    "instruction": "Đau ngực được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Bác sĩ sẽ khám lâm sàng và có thể chỉ định các xét nghiệm như điện tâm đồ, xét nghiệm máu, chụp X-quang, CT hoặc MRI, siêu âm tim hoặc nghiệm pháp gắng sức để xác định nguyên nhân."
+  },
+  {
+    "instruction": "Cách điều trị và phòng ngừa đau ngực là gì?",
+    "input": "",
+    "output": "Điều trị phụ thuộc vào nguyên nhân, có thể bao gồm dùng thuốc tim mạch, thuốc tiêu hóa hoặc điều trị bệnh nền. Phòng ngừa bằng cách không hút thuốc, ăn uống lành mạnh, tập thể dục, kiểm soát stress và khám sức khỏe định kỳ."
+  },
+  {
+    "instruction": "Đau ngực là gì và khi nào cần đi khám?",
+    "input": "",
+    "output": "Đau ngực là cảm giác đau ở vùng ngực từ ngang vai đến trên cơ hoành, có thể xuất hiện đột ngột hoặc tái diễn, kèm khó thở, vã mồ hôi. Nếu đau dữ dội, kéo dài hoặc xảy ra thường xuyên, cần đi khám để loại trừ các nguyên nhân nguy hiểm như bệnh tim hoặc phổi."
+  },
+  {
+    "instruction": "Nhồi máu cơ tim gây đau ngực như thế nào?",
+    "input": "",
+    "output": "Nhồi máu cơ tim gây đau ngực trái dữ dội, cảm giác bóp nghẹn, có thể lan lên cổ hoặc tay trái, kèm khó thở, chóng mặt và vã mồ hôi. Đây là tình trạng nguy hiểm cần cấp cứu ngay."
+  },
+  {
+    "instruction": "Những nguyên nhân không do tim nào có thể gây đau ngực?",
+    "input": "",
+    "output": "Đau ngực có thể do nhiều nguyên nhân không liên quan đến tim như trào ngược dạ dày – thực quản, viêm phổi, viêm màng phổi, căng cơ thành ngực hoặc rối loạn thần kinh thực vật."
+  },
+  {
+    "instruction": "Điện tâm đồ có vai trò gì trong chẩn đoán đau ngực?",
+    "input": "",
+    "output": "Điện tâm đồ giúp ghi lại hoạt động điện của tim, từ đó phát hiện hoặc loại trừ các bất thường tim mạch như thiếu máu cơ tim hoặc rối loạn nhịp."
+  },
+  {
+    "instruction": "Xét nghiệm máu nào giúp xác định cơn đau tim?",
+    "input": "",
+    "output": "Các xét nghiệm như Troponin, CK, CK-MB giúp phát hiện tổn thương cơ tim. Khi các chỉ số này tăng cao, có thể xác nhận người bệnh đang bị nhồi máu cơ tim."
+  },
+  {
+    "instruction": "Đau ngực có phải lúc nào cũng nguy hiểm không?",
+    "input": "",
+    "output": "Không phải mọi trường hợp đau ngực đều nguy hiểm. Tuy nhiên, cần loại trừ các nguyên nhân nghiêm trọng như nhồi máu cơ tim, thuyên tắc phổi hoặc bóc tách động mạch chủ trước khi kết luận là lành tính."
+  },
+  {
+    "instruction": "Đau ngực do tim có dấu hiệu gì đặc trưng?",
+    "input": "",
+    "output": "Đau thường ở giữa hoặc bên trái ngực, cảm giác đè nặng, có thể lan ra tay trái, cổ hoặc hàm, kèm khó thở, vã mồ hôi và buồn nôn."
+  },
+  {
+    "instruction": "Khi nào cần đi cấp cứu vì đau ngực?",
+    "input": "",
+    "output": "Khi đau ngực dữ dội, kéo dài trên 15 phút, lan ra tay hoặc hàm, kèm khó thở, vã mồ hôi, chóng mặt hoặc ngất, cần đi cấp cứu ngay."
+  },
+  {
+    "instruction": "Đau ngực do dạ dày khác gì đau do tim?",
+    "input": "",
+    "output": "Đau do dạ dày thường liên quan đến ăn uống, có cảm giác nóng rát, ợ chua và giảm khi dùng thuốc kháng acid, trong khi đau tim thường nặng, lan và kèm triệu chứng toàn thân."
+  },
+  {
+    "instruction": "Làm sao để phòng ngừa đau ngực do bệnh lý?",
+    "input": "",
+    "output": "Duy trì lối sống lành mạnh, không hút thuốc, kiểm soát huyết áp và mỡ máu, tập thể dục đều đặn và khám sức khỏe định kỳ giúp giảm nguy cơ đau ngực do bệnh lý."
+  },
+  {
+    "instruction": "Đau ngực cảnh báo những bệnh nguy hiểm nào?",
+    "input": "",
+    "output": "Đau ngực có thể cảnh báo các bệnh nguy hiểm như nhồi máu cơ tim, thuyên tắc phổi, bóc tách động mạch chủ hoặc tràn khí màng phổi."
+  },
+  {
+    "instruction": "Đau ngực bên trái thường liên quan đến bệnh gì?",
+    "input": "",
+    "output": "Đau ngực bên trái thường liên quan đến bệnh tim mạch như đau thắt ngực hoặc nhồi máu cơ tim, đặc biệt khi kèm khó thở và vã mồ hôi."
+  },
+  {
+    "instruction": "Đau ngực do dạ dày có đặc điểm gì?",
+    "input": "",
+    "output": "Đau thường ở vùng thượng vị, liên quan bữa ăn, có cảm giác nóng rát, ợ chua và giảm khi dùng thuốc kháng acid."
+  },
+  {
+    "instruction": "Khi nào đau ngực cần đi cấp cứu ngay?",
+    "input": "",
+    "output": "Khi đau ngực dữ dội, kéo dài trên 15-20 phút, lan ra tay hoặc hàm, kèm khó thở, vã mồ hôi hoặc ngất, cần đi cấp cứu ngay."
+  },
+  {
+    "instruction": "Đau ngực do tâm lý có biểu hiện như thế nào?",
+    "input": "",
+    "output": "Thường là cảm giác tức ngực, khó thở, kéo dài, không liên quan gắng sức và đi kèm lo âu hoặc hoảng loạn."
+  },
+  {
+    "instruction": "Đau thắt ngực là gì?",
+    "input": "",
+    "output": "Đau thắt ngực là tình trạng đau ngực xảy ra khi cơ tim không nhận đủ oxy do giảm lưu lượng máu, thường liên quan đến bệnh động mạch vành."
+  },
+  {
+    "instruction": "Đau thắt ngực ổn định và không ổn định khác nhau thế nào?",
+    "input": "",
+    "output": "Đau thắt ngực ổn định xảy ra khi gắng sức và giảm khi nghỉ ngơi, trong khi đau thắt ngực không ổn định xảy ra ngay cả khi nghỉ và có thể kéo dài, nguy hiểm hơn."
+  },
+  {
+    "instruction": "Đau thắt ngực có nguy hiểm không?",
+    "input": "",
+    "output": "Có, vì đây là dấu hiệu cảnh báo bệnh tim mạch và có thể dẫn đến nhồi máu cơ tim hoặc tử vong nếu không điều trị."
+  },
+  {
+    "instruction": "Khi nào đau thắt ngực cần cấp cứu?",
+    "input": "",
+    "output": "Khi cơn đau kéo dài trên vài phút, không giảm khi nghỉ hoặc dùng thuốc, hoặc xảy ra khi đang nghỉ ngơi, cần đi cấp cứu ngay."
+  },
+  {
+    "instruction": "Làm sao để phòng ngừa đau thắt ngực?",
+    "input": "",
+    "output": "Duy trì lối sống lành mạnh, kiểm soát huyết áp, mỡ máu, đường huyết, tập thể dục đều đặn và không hút thuốc."
+  },
+  {
+    "instruction": "Bệnh gout là gì?",
+    "input": "",
+    "output": "Gout là bệnh do tăng acid uric máu, gây lắng đọng tinh thể urat ở khớp, dẫn đến viêm, sưng và đau khớp."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của gout là gì?",
+    "input": "",
+    "output": "Đau khớp đột ngột, dữ dội, thường vào ban đêm, kèm sưng, đỏ, nóng, hay gặp ở ngón chân cái."
+  },
+  {
+    "instruction": "Gout có nguy hiểm không?",
+    "input": "",
+    "output": "Nếu không điều trị, gout có thể gây biến dạng khớp, sỏi thận và suy thận, nhưng có thể kiểm soát tốt nếu điều trị đúng."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây gout là gì?",
+    "input": "",
+    "output": "Do tăng acid uric máu từ rối loạn chuyển hóa purin, giảm thải qua thận hoặc ăn nhiều thực phẩm giàu purin."
+  },
+  {
+    "instruction": "Làm sao để phòng ngừa gout?",
+    "input": "",
+    "output": "Ăn uống lành mạnh, hạn chế thịt đỏ và rượu bia, uống đủ nước, kiểm soát cân nặng và theo dõi acid uric định kỳ."
+  },
+  {
+    "instruction": "Gout là bệnh gì?",
+    "input": "",
+    "output": "Gout là bệnh viêm khớp do tăng acid uric máu, gây lắng đọng tinh thể urat trong khớp."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của gout là gì?",
+    "input": "",
+    "output": "Đau khớp đột ngột, dữ dội, thường vào ban đêm, kèm sưng, đỏ và nóng khớp."
+  },
+  {
+    "instruction": "Cơn gout cấp kéo dài bao lâu?",
+    "input": "",
+    "output": "Thường kéo dài từ 3 đến 10 ngày, trong đó giai đoạn đầu đau nặng nhất."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây gout là gì?",
+    "input": "",
+    "output": "Do tăng acid uric máu từ rối loạn chuyển hóa purin hoặc giảm thải qua thận."
+  },
+  {
+    "instruction": "Làm sao để phòng ngừa gout?",
+    "input": "",
+    "output": "Ăn uống lành mạnh, hạn chế purin, tránh rượu bia, uống đủ nước và duy trì cân nặng hợp lý."
+  },
+  {
+    "instruction": "Gout là gì?",
+    "input": "",
+    "output": "Gout là bệnh viêm khớp do tăng acid uric trong máu, gây lắng đọng tinh thể urat tại khớp."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây gout là gì?",
+    "input": "",
+    "output": "Do rối loạn chuyển hóa acid uric, thường liên quan đến ăn nhiều purin, rượu bia hoặc suy giảm chức năng thận."
+  },
+  {
+    "instruction": "Triệu chứng gout điển hình là gì?",
+    "input": "",
+    "output": "Đau khớp dữ dội, sưng đỏ, nóng khớp, thường xảy ra vào ban đêm và kéo dài vài ngày."
+  },
+  {
+    "instruction": "Gout có gây biến chứng không?",
+    "input": "",
+    "output": "Có, bệnh có thể gây phá hủy khớp, hình thành tophi, sỏi thận và tổn thương thận."
+  },
+  {
+    "instruction": "Điều trị gout có phức tạp không?",
+    "input": "",
+    "output": "Không quá phức tạp nếu phát hiện sớm, kết hợp dùng thuốc và điều chỉnh chế độ ăn uống, sinh hoạt hợp lý."
+  },
+  {
+    "instruction": "Gout là bệnh gì?",
+    "input": "",
+    "output": "Gout là bệnh viêm khớp do tăng acid uric trong máu, gây lắng đọng tinh thể urat tại khớp."
+  },
+  {
+    "instruction": "Dấu hiệu sớm của gout là gì?",
+    "input": "",
+    "output": "Đau và sưng khớp, đặc biệt ở ngón chân cái, thường xuất hiện đột ngột vào ban đêm."
+  },
+  {
+    "instruction": "Gout có nguy hiểm không?",
+    "input": "",
+    "output": "Có, nếu không điều trị có thể gây phá hủy khớp, tàn phế, suy thận và biến chứng tim mạch."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây gout là gì?",
+    "input": "",
+    "output": "Do tăng acid uric máu từ rối loạn chuyển hóa purin hoặc giảm đào thải qua thận."
+  },
+  {
+    "instruction": "Người bị gout nên ăn gì?",
+    "input": "",
+    "output": "Nên ăn rau xanh, trái cây, thực phẩm ít purin và uống đủ nước để hỗ trợ đào thải acid uric."
+  },
+  {
+    "instruction": "Gout là gì?",
+    "input": "",
+    "output": "Gout là một dạng viêm khớp cấp tính do tăng acid uric trong máu, dẫn đến hình thành tinh thể urat lắng đọng tại khớp và gây đau, sưng, viêm."
+  },
+  {
+    "instruction": "Vì sao cơn đau gout xuất hiện đột ngột và dữ dội?",
+    "input": "",
+    "output": "Khi acid uric tăng cao vượt ngưỡng hòa tan, các tinh thể urat sắc nhọn lắng đọng tại khớp và kích hoạt phản ứng viêm mạnh, khiến cơn đau xuất hiện đột ngột, thường vào ban đêm."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây gout là gì?",
+    "input": "",
+    "output": "Nguyên nhân là sự mất cân bằng giữa sản xuất và đào thải acid uric, bao gồm sản xuất quá nhiều (do ăn nhiều purin hoặc rối loạn chuyển hóa) và giảm đào thải qua thận."
+  },
+  {
+    "instruction": "Dấu hiệu điển hình của gout là gì?",
+    "input": "",
+    "output": "Gout thường gây đau khớp dữ dội, sưng nóng đỏ, khởi phát về đêm, hay gặp ở ngón chân cái, đau tăng khi chạm và có thể xuất hiện hạt tophi ở giai đoạn mạn."
+  },
+  {
+    "instruction": "Làm sao để giảm đau và phòng ngừa gout?",
+    "input": "",
+    "output": "Trong cơn cấp cần nghỉ ngơi, chườm lạnh và dùng thuốc theo chỉ định. Về lâu dài cần kiểm soát acid uric, hạn chế purin, tránh rượu bia, uống đủ nước và duy trì lối sống lành mạnh."
+  },
+  {
+    "instruction": "Ho gà có nguy hiểm không và dấu hiệu nhận biết là gì?",
+    "input": "",
+    "output": "Ho gà là bệnh nhiễm khuẩn đường hô hấp có thể rất nguy hiểm, особенно ở trẻ nhỏ. Dấu hiệu điển hình là ho rũ rượi thành cơn, sau đó thở rít như tiếng gà gáy, có thể kèm nôn và nhiều đờm. Nếu không điều trị sớm có thể gây biến chứng nặng như viêm phổi, tổn thương não hoặc tử vong."
+  },
+  {
+    "instruction": "Ho nhiều có phải dấu hiệu của viêm phổi không?",
+    "input": "",
+    "output": "Có. Ho kèm sốt, khó thở, đau tức ngực, mệt mỏi có thể là dấu hiệu viêm phổi. Bệnh có thể tiến triển nhanh và gây biến chứng nguy hiểm nếu không điều trị kịp thời."
+  },
+  {
+    "instruction": "Khi nào ho nhiều có thể liên quan đến bệnh lao?",
+    "input": "",
+    "output": "Nếu ho kéo dài trên 2-3 tuần, đặc biệt kèm ho ra máu, sốt nhẹ, ra mồ hôi đêm, sụt cân và mệt mỏi, cần nghĩ đến bệnh lao và đi khám sớm."
+  },
+  {
+    "instruction": "Ho nhiều có thể là dấu hiệu ung thư phổi không?",
+    "input": "",
+    "output": "Có thể. Ho kéo dài, ho ra máu, khản tiếng, đau ngực hoặc có đờm màu bất thường có thể là dấu hiệu cảnh báo ung thư phổi, особенно ở người hút thuốc hoặc có yếu tố nguy cơ."
+  },
+  {
+    "instruction": "Khi nào cần đi khám vì ho nhiều?",
+    "input": "",
+    "output": "Bạn nên đi khám nếu ho kéo dài trên 2 tuần, ho ngày càng nặng, kèm sốt cao, khó thở, đau ngực, ho ra máu hoặc không cải thiện sau khi tự chăm sóc tại nhà."
+  },
+  {
+    "instruction": "Ho là gì?",
+    "input": "",
+    "output": "Ho là phản xạ tự nhiên của cơ thể giúp làm sạch đường hô hấp bằng cách loại bỏ chất kích thích, dịch tiết hoặc dị vật ra khỏi đường thở."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây ho là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến bao gồm nhiễm virus đường hô hấp, viêm phế quản, viêm mũi xoang, dị ứng và hen suyễn. Ngoài ra, các bệnh nghiêm trọng hơn như viêm phổi, lao phổi, ung thư phổi hoặc trào ngược dạ dày thực quản cũng có thể gây ho."
+  },
+  {
+    "instruction": "Ho được phân loại như thế nào?",
+    "input": "",
+    "output": "Ho được phân loại theo thời gian gồm ho cấp tính (dưới 3 tuần), ho bán cấp (3-8 tuần) và ho mạn tính (trên 8 tuần). Ngoài ra còn có các dạng như ho khan, ho có đờm và ho ra máu."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì ho?",
+    "input": "",
+    "output": "Bạn nên đi khám khi ho kéo dài trên 2-3 tuần, ho ra máu, khó thở, đau tức ngực, sốt cao kéo dài hoặc có đờm màu bất thường như vàng, xanh."
+  },
+  {
+    "instruction": "Làm thế nào để phòng ngừa ho?",
+    "input": "",
+    "output": "Để phòng ngừa ho, cần giữ ấm cơ thể, đeo khẩu trang, rửa tay thường xuyên, tránh khói bụi và chất kích thích, tiêm phòng đầy đủ, ăn uống lành mạnh và tăng cường sức đề kháng."
+  },
+  {
+    "instruction": "Ho là gì?",
+    "input": "",
+    "output": "Ho là phản xạ của cơ thể giúp loại bỏ các chất kích thích, dịch tiết, vi khuẩn hoặc dị vật ra khỏi đường hô hấp."
+  },
+  {
+    "instruction": "Có những loại ho phổ biến nào?",
+    "input": "",
+    "output": "Các loại ho phổ biến gồm ho khan (không có đờm), ho có đờm (có chất nhầy) và ho ra máu (dấu hiệu nguy hiểm)."
+  },
+  {
+    "instruction": "Nguyên nhân gây ho là gì?",
+    "input": "",
+    "output": "Ho có thể do virus, dị ứng, khói bụi, khói thuốc, trào ngược dạ dày thực quản hoặc các bệnh như viêm phổi, hen phế quản, lao phổi."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ khi bị ho?",
+    "input": "",
+    "output": "Cần đi khám khi ho kéo dài, ho kèm sốt và đờm, ho ra máu, khó thở hoặc ho ảnh hưởng đến sinh hoạt và giấc ngủ."
+  },
+  {
+    "instruction": "Làm thế nào để giảm và phòng ngừa ho?",
+    "input": "",
+    "output": "Có thể giảm và phòng ngừa ho bằng cách uống đủ nước, súc họng nước muối, tránh khói bụi, đeo khẩu trang, ăn uống đầy đủ và tiêm phòng vắc xin."
+  },
+  {
+    "instruction": "Ho có thường gặp không?",
+    "input": "",
+    "output": "Ho là phản xạ tự nhiên rất phổ biến của cơ thể nhằm bảo vệ phổi, giúp làm sạch đường thở và loại bỏ các chất kích thích như khói, chất nhầy và tác nhân gây nhiễm trùng."
+  },
+  {
+    "instruction": "Những yếu tố nào làm tăng nguy cơ bị ho?",
+    "input": "",
+    "output": "Các yếu tố làm tăng nguy cơ ho bao gồm dị ứng môi trường, hút thuốc lá, mắc bệnh phổi mạn tính như hen suyễn hoặc viêm phế quản, và sử dụng một số thuốc như thuốc ức chế men chuyển (ACE)."
+  },
+  {
+    "instruction": "Những kỹ thuật y tế nào dùng để chẩn đoán nguyên nhân gây ho?",
+    "input": "",
+    "output": "Chẩn đoán ho chủ yếu dựa vào khai thác triệu chứng và tiền sử bệnh. Ngoài ra, bác sĩ có thể yêu cầu thực hiện các xét nghiệm cần thiết để xác định chính xác nguyên nhân gây ho."
+  },
+  {
+    "instruction": "Những phương pháp nào dùng để điều trị ho?",
+    "input": "",
+    "output": "Ho do virus thường tự khỏi. Nếu cần, có thể dùng thuốc ức chế ho như dextromethorphan, pholcodine, thuốc kháng histamin, thuốc long đờm hoặc kháng sinh khi có nhiễm khuẩn."
+  },
+  {
+    "instruction": "Cách chữa ho tại nhà và phòng ngừa ho như thế nào?",
+    "input": "",
+    "output": "Có thể áp dụng các biện pháp như dùng mật ong gừng, chanh đường phèn, tỏi, siro hành tím, uống nhiều nước, nghỉ ngơi đầy đủ, tránh hút thuốc và giữ môi trường sống sạch sẽ để giảm và phòng ngừa ho."
+  },
+  {
+    "instruction": "Ho là gì?",
+    "input": "",
+    "output": "Ho là phản xạ bảo vệ của cơ thể giúp loại bỏ các chất kích thích như chất nhầy, khói hoặc dị vật ra khỏi đường hô hấp bằng cách tống không khí ra ngoài với áp lực cao."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây ho là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gây ho bao gồm nhiễm virus như cảm lạnh, cúm, dị ứng, khói thuốc, ô nhiễm không khí và các bệnh như viêm phế quản, viêm phổi hoặc hen suyễn."
+  },
+  {
+    "instruction": "Sự khác nhau giữa ho khan và ho có đờm là gì?",
+    "input": "",
+    "output": "Ho khan là ho không có chất nhầy, thường gây cảm giác ngứa họng và khó chịu. Ho có đờm là ho kèm theo chất nhầy, giúp cơ thể tống xuất đờm ra khỏi đường hô hấp."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ khi bị ho?",
+    "input": "",
+    "output": "Bạn nên đi khám khi ho kéo dài, ho ra máu, khó thở, tức ngực hoặc nghi ngờ liên quan đến các bệnh lý nghiêm trọng như viêm phổi hoặc ung thư phổi."
+  },
+  {
+    "instruction": "Có những cách nào giúp giảm ho tại nhà?",
+    "input": "",
+    "output": "Có thể giảm ho tại nhà bằng cách uống nước ấm, nghỉ ngơi, súc miệng nước muối, dùng mật ong hoặc gừng, kê cao đầu khi ngủ và tránh khói bụi hoặc chất kích thích."
+  },
+  {
+    "instruction": "Khó thở là gì?",
+    "input": "",
+    "output": "Khó thở là cảm giác thở không đủ hơi, phải gắng sức khi thở hoặc thở nặng nhọc, có thể xảy ra khi nghỉ ngơi hoặc khi vận động."
+  },
+  {
+    "instruction": "Khó thở có thể là dấu hiệu của những bệnh gì?",
+    "input": "",
+    "output": "Khó thở có thể liên quan đến nhiều bệnh như viêm phổi, hen suyễn, bệnh phổi tắc nghẽn mạn tính, suy tim, ung thư phổi, thuyên tắc phổi hoặc thiếu máu."
+  },
+  {
+    "instruction": "Những dấu hiệu nguy hiểm đi kèm khó thở là gì?",
+    "input": "",
+    "output": "Các dấu hiệu nguy hiểm bao gồm đau ngực, ho ra máu, môi hoặc móng tay tím tái, chóng mặt, sưng chân, sốt hoặc khó thở ngay cả khi nghỉ ngơi."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ khi bị khó thở?",
+    "input": "",
+    "output": "Cần đi khám ngay khi khó thở xuất hiện đột ngột, kéo dài, nặng dần hoặc kèm theo các triệu chứng như đau ngực, ngất, ho ra máu hoặc tím tái."
+  },
+  {
+    "instruction": "Làm thế nào để phòng ngừa tình trạng khó thở?",
+    "input": "",
+    "output": "Có thể phòng ngừa bằng cách bỏ thuốc lá, tránh môi trường ô nhiễm, tập thể dục thường xuyên, duy trì cân nặng hợp lý và khám sức khỏe định kỳ."
+  },
+  {
+    "instruction": "Khó thở có thể do những bệnh hô hấp nào?",
+    "input": "",
+    "output": "Khó thở có thể do các bệnh hô hấp như viêm phổi, hen suyễn, bệnh phổi tắc nghẽn mạn tính (COPD), ung thư phổi, tràn khí màng phổi, viêm màng phổi và bệnh lao."
+  },
+  {
+    "instruction": "Khó thở có thể liên quan đến bệnh tim mạch không?",
+    "input": "",
+    "output": "Có. Các bệnh tim mạch như suy tim, bệnh mạch vành hoặc nhồi máu cơ tim có thể gây khó thở do giảm khả năng bơm máu và cung cấp oxy cho cơ thể."
+  },
+  {
+    "instruction": "Thiếu máu gây khó thở như thế nào?",
+    "input": "",
+    "output": "Thiếu máu làm giảm nồng độ hemoglobin, dẫn đến giảm khả năng vận chuyển oxy trong máu, khiến cơ thể phải tăng nhịp thở và gây cảm giác khó thở."
+  },
+  {
+    "instruction": "Những nguyên nhân nguy hiểm gây khó thở là gì?",
+    "input": "",
+    "output": "Các nguyên nhân nguy hiểm bao gồm thuyên tắc phổi, tràn khí màng phổi, ung thư phổi, suy tim và viêm phổi nặng, có thể đe dọa tính mạng nếu không điều trị kịp thời."
+  },
+  {
+    "instruction": "Khó thở do tâm lý có đặc điểm gì?",
+    "input": "",
+    "output": "Khó thở do rối loạn lo âu thường đi kèm với cảm giác lo lắng, thở nhanh, chóng mặt, tê tay chân và có thể xảy ra trong các tình huống căng thẳng tâm lý."
+  },
+  {
+    "instruction": "Khó thở là gì?",
+    "input": "",
+    "output": "Khó thở (hụt hơi) là cảm giác không thể hít đủ không khí, gây cảm giác ngột ngạt, thở gấp hoặc thở không hiệu quả. Đây là triệu chứng liên quan đến nhiều bệnh lý tim mạch, hô hấp hoặc các rối loạn khác trong cơ thể."
+  },
+  {
+    "instruction": "Nguyên nhân gây khó thở là gì?",
+    "input": "",
+    "output": "Khó thở có thể do vận động quá sức hoặc các bệnh lý như viêm phổi, hen suyễn, COPD, lao phổi, suy tim, bệnh mạch vành, thiếu máu, lo âu, dị ứng, béo phì hoặc các tình trạng cấp cứu như thuyên tắc phổi, tràn khí màng phổi, dị vật đường thở."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của khó thở là gì?",
+    "input": "",
+    "output": "Các triệu chứng gồm cảm giác thiếu không khí, thở nhanh hoặc thở nông, tức ngực, tim đập nhanh, thở khò khè và có thể kèm ho, mệt mỏi hoặc choáng váng."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì khó thở?",
+    "input": "",
+    "output": "Cần đi khám ngay nếu khó thở kéo dài hoặc đột ngột nghiêm trọng, kèm đau ngực, không thể thở khi nằm, sốt, ho nhiều, sưng chân, hoặc mất khả năng vận động do khó thở."
+  },
+  {
+    "instruction": "Cách điều trị và phòng ngừa khó thở như thế nào?",
+    "input": "",
+    "output": "Điều trị tùy nguyên nhân như dùng thuốc, thở oxy hoặc phục hồi chức năng tim/phổi. Phòng ngừa bằng cách không hút thuốc, tránh ô nhiễm, duy trì cân nặng hợp lý, tập thể dục đều đặn và ăn uống lành mạnh."
+  },
+  {
+    "instruction": "Khó thở, hụt hơi là gì?",
+    "input": "",
+    "output": "Khó thở là cảm giác không hít đủ không khí, gây hụt hơi, tức ngực và mệt mỏi khi thở."
+  },
+  {
+    "instruction": "Khó thở thường gặp trong những bệnh nào?",
+    "input": "",
+    "output": "Thường gặp trong hen suyễn, COPD, viêm phổi, suy tim, rối loạn nhịp tim và thiếu máu."
+  },
+  {
+    "instruction": "Dấu hiệu nguy hiểm của khó thở là gì?",
+    "input": "",
+    "output": "Khó thở đột ngột, đau tức ngực, khó thở khi nằm, tím môi hoặc khó thở ngay cả khi nghỉ ngơi."
+  },
+  {
+    "instruction": "Khó thở có thể do tâm lý không?",
+    "input": "",
+    "output": "Có. Lo âu, căng thẳng hoặc hoảng loạn có thể gây cảm giác hụt hơi và thở gấp."
+  },
+  {
+    "instruction": "Khi bị khó thở nên làm gì trước tiên?",
+    "input": "",
+    "output": "Ngồi thẳng, giữ bình tĩnh, thở chậm sâu. Nếu không cải thiện hoặc triệu chứng nặng lên thì cần đi khám ngay."
+  },
+  {
+    "instruction": "Khó thở là gì?",
+    "input": "",
+    "output": "Khó thở là tình trạng cảm giác thiếu không khí, thở hụt hơi, tức ngực hoặc thở không đủ, có thể xảy ra khi vận động hoặc ngay cả khi nghỉ ngơi."
+  },
+  {
+    "instruction": "Nguyên nhân thường gặp gây khó thở là gì?",
+    "input": "",
+    "output": "Nguyên nhân có thể do bệnh hô hấp (hen suyễn, COPD, viêm phổi), bệnh tim mạch (suy tim, rối loạn nhịp tim), thiếu máu, béo phì, lo âu hoặc tiếp xúc khí độc."
+  },
+  {
+    "instruction": "Khó thở cấp tính là gì?",
+    "input": "",
+    "output": "Khó thở cấp tính là tình trạng xuất hiện đột ngột, thường do dị ứng, nghẹt thở, nhiễm trùng phổi, thuyên tắc phổi hoặc các nguyên nhân cấp cứu khác."
+  },
+  {
+    "instruction": "Triệu chứng đi kèm khó thở gồm những gì?",
+    "input": "",
+    "output": "Thường gồm thở gấp, thở khò khè, tức ngực, ho, tim đập nhanh và cảm giác ngột ngạt hoặc thiếu không khí."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì khó thở?",
+    "input": "",
+    "output": "Cần đi khám khi khó thở đột ngột, kéo dài, xảy ra cả lúc nghỉ ngơi, kèm đau ngực, tím tái, ho kéo dài hoặc mệt mỏi nặng."
+  },
+  {
+    "instruction": "Rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Rối loạn lo âu là tình trạng lo lắng, sợ hãi quá mức và kéo dài không tương xứng với thực tế, gây ảnh hưởng đến sinh hoạt hằng ngày."
+  },
+  {
+    "instruction": "Nguyên nhân gây rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Nguyên nhân có thể do di truyền, mất cân bằng chất dẫn truyền thần kinh, stress kéo dài, sang chấn tâm lý hoặc môi trường sống áp lực."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Gồm lo lắng quá mức, tim đập nhanh, khó thở, đổ mồ hôi, run rẩy, khó ngủ, khó tập trung và cảm giác bồn chồn."
+  },
+  {
+    "instruction": "Rối loạn lo âu được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên thăm khám tâm lý, khai thác triệu chứng, tiêu chuẩn DSM và loại trừ các bệnh lý cơ thể khác."
+  },
+  {
+    "instruction": "Rối loạn lo âu được điều trị như thế nào?",
+    "input": "",
+    "output": "Điều trị bằng liệu pháp tâm lý (CBT), thuốc chống lo âu hoặc chống trầm cảm, kết hợp thay đổi lối sống như tập thể dục, ngủ đủ và giảm stress."
+  },
+  {
+    "instruction": "Rối loạn hỗn hợp lo âu và trầm cảm là gì?",
+    "input": "",
+    "output": "Là tình trạng người bệnh đồng thời có triệu chứng của cả lo âu và trầm cảm như lo lắng quá mức, buồn bã, mệt mỏi, rối loạn giấc ngủ và bi quan."
+  },
+  {
+    "instruction": "Nguyên nhân gây rối loạn hỗn hợp lo âu và trầm cảm là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gồm di truyền, mất cân bằng chất dẫn truyền thần kinh trong não, stress kéo dài, sang chấn tâm lý và các yếu tố môi trường."
+  },
+  {
+    "instruction": "Triệu chứng của bệnh này là gì?",
+    "input": "",
+    "output": "Bao gồm lo âu, buồn bã, mệt mỏi, khó tập trung, rối loạn giấc ngủ, cáu gắt, dễ xúc động và cảm giác tuyệt vọng."
+  },
+  {
+    "instruction": "Bệnh này có nguy hiểm không?",
+    "input": "",
+    "output": "Có thể gây ảnh hưởng nghiêm trọng đến sức khỏe, chất lượng cuộc sống, làm tăng nguy cơ bệnh tim mạch, suy nhược cơ thể và có thể dẫn đến tự sát nếu không điều trị."
+  },
+  {
+    "instruction": "Điều trị rối loạn hỗn hợp lo âu và trầm cảm như thế nào?",
+    "input": "",
+    "output": "Điều trị bằng thuốc chống trầm cảm/lo âu (SSRI, SNRI), liệu pháp tâm lý, kết hợp thay đổi lối sống như tập thể dục, thiền và giảm stress."
+  },
+  {
+    "instruction": "Rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Rối loạn lo âu là một tình trạng sức khỏe tâm thần đặc trưng bởi lo lắng, sợ hãi quá mức và kéo dài, không tương xứng với thực tế, gây ảnh hưởng đến sinh hoạt, học tập và công việc. Bệnh có thể kèm theo tim đập nhanh, khó thở, đổ mồ hôi và mất ngủ."
+  },
+  {
+    "instruction": "Nguyên nhân gây rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Nguyên nhân chưa được xác định hoàn toàn, nhưng bao gồm yếu tố di truyền, stress kéo dài, sang chấn tâm lý, rối loạn chất dẫn truyền thần kinh, bệnh lý cơ thể (tim mạch, tuyến giáp, hô hấp), lạm dụng chất kích thích hoặc tác dụng phụ của thuốc."
+  },
+  {
+    "instruction": "Triệu chứng của rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm lo lắng, bồn chồn, tim đập nhanh, thở nhanh, đổ mồ hôi, run, khó tập trung, mất ngủ, mệt mỏi, rối loạn tiêu hóa và xu hướng né tránh các tình huống gây lo âu."
+  },
+  {
+    "instruction": "Rối loạn lo âu được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên đánh giá tâm lý lâm sàng, khai thác triệu chứng và bệnh sử, so sánh với tiêu chuẩn DSM-5, đồng thời loại trừ các bệnh lý cơ thể có thể gây triệu chứng tương tự như bệnh tim, tuyến giáp hoặc hô hấp."
+  },
+  {
+    "instruction": "Phương pháp điều trị rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Điều trị gồm kết hợp liệu pháp tâm lý (đặc biệt là CBT), dùng thuốc như SSRI, SNRI hoặc thuốc chống lo âu, cùng với thay đổi lối sống như tập thể dục, thiền, ngủ đủ giấc và hạn chế chất kích thích."
+  },
+  {
+    "instruction": "Rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Rối loạn lo âu là tình trạng lo âu quá mức hoặc kéo dài không tương xứng với nguy cơ thực tế, gây ảnh hưởng đến sinh hoạt, học tập và công việc. Người bệnh có thể gặp các triệu chứng như lo lắng, hoảng sợ, tim đập nhanh và khó thở."
+  },
+  {
+    "instruction": "Nguyên nhân gây rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Nguyên nhân có thể bao gồm yếu tố di truyền, stress kéo dài, sang chấn tâm lý, bệnh lý cơ thể như cường giáp hoặc bệnh tim, lạm dụng chất kích thích và tác dụng phụ của một số thuốc."
+  },
+  {
+    "instruction": "Triệu chứng của rối loạn lo âu gồm những gì?",
+    "input": "",
+    "output": "Triệu chứng gồm lo lắng kéo dài, bồn chồn, tim đập nhanh, khó thở, đổ mồ hôi, run, khó ngủ, khó tập trung, rối loạn tiêu hóa và cảm giác sợ hãi hoặc hoảng sợ."
+  },
+  {
+    "instruction": "Rối loạn lo âu được điều trị như thế nào?",
+    "input": "",
+    "output": "Điều trị gồm liệu pháp tâm lý (đặc biệt là CBT), thuốc chống lo âu hoặc chống trầm cảm như SSRI, benzodiazepine trong ngắn hạn, kết hợp thay đổi lối sống như tập thể dục, thiền và giảm stress."
+  },
+  {
+    "instruction": "Có thể phòng ngừa rối loạn lo âu không?",
+    "input": "",
+    "output": "Có thể phòng ngừa bằng cách giảm stress, duy trì lối sống lành mạnh, ngủ đủ giấc, tập thể dục thường xuyên, tránh rượu và chất kích thích, đồng thời phát hiện và điều trị sớm khi có triệu chứng."
+  },
+  {
+    "instruction": "Rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Rối loạn lo âu là tình trạng người bệnh thường xuyên lo lắng hoặc sợ hãi quá mức, kéo dài và không tương xứng với nguyên nhân thực tế, gây ảnh hưởng đến sinh hoạt, công việc và chất lượng cuộc sống."
+  },
+  {
+    "instruction": "Nguyên nhân gây rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Nguyên nhân chưa xác định rõ, nhưng liên quan đến yếu tố di truyền, rối loạn sinh hóa thần kinh, sang chấn tâm lý, stress kéo dài, môi trường sống áp lực và sử dụng chất kích thích."
+  },
+  {
+    "instruction": "Triệu chứng của rối loạn lo âu gồm những gì?",
+    "input": "",
+    "output": "Triệu chứng gồm lo lắng quá mức, bồn chồn, khó tập trung, mất ngủ, tim đập nhanh, khó thở, đau ngực, đổ mồ hôi, run rẩy và rối loạn tiêu hóa."
+  },
+  {
+    "instruction": "Rối loạn lo âu có những loại nào?",
+    "input": "",
+    "output": "Các loại phổ biến gồm rối loạn lo âu lan tỏa, rối loạn hoảng loạn, rối loạn lo âu xã hội, rối loạn ám ảnh cưỡng chế (OCD) và các ám ảnh sợ chuyên biệt."
+  },
+  {
+    "instruction": "Rối loạn lo âu được điều trị như thế nào?",
+    "input": "",
+    "output": "Điều trị gồm liệu pháp tâm lý (như CBT), dùng thuốc chống lo âu hoặc chống trầm cảm theo chỉ định bác sĩ, kết hợp thay đổi lối sống như tập thể dục, ngủ đủ giấc, giảm caffeine và thực hành thư giãn."
+  },
+  {
+    "instruction": "Mất ngủ là gì?",
+    "input": "",
+    "output": "Mất ngủ là rối loạn giấc ngủ khiến người bệnh khó đi vào giấc ngủ, ngủ không sâu, dễ thức giấc giữa đêm hoặc thức dậy sớm và không ngủ lại được."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây mất ngủ là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp gồm stress, lo âu, thói quen ngủ không khoa học, sử dụng caffeine hoặc rượu bia, thay đổi múi giờ, làm việc ca đêm và một số bệnh lý như trào ngược dạ dày, tim mạch."
+  },
+  {
+    "instruction": "Triệu chứng của mất ngủ gồm những gì?",
+    "input": "",
+    "output": "Các triệu chứng gồm khó ngủ, ngủ không sâu giấc, thức giấc nhiều lần trong đêm, mệt mỏi sau khi ngủ dậy, buồn ngủ ban ngày, giảm tập trung và dễ cáu gắt."
+  },
+  {
+    "instruction": "Mất ngủ có nguy hiểm không?",
+    "input": "",
+    "output": "Có. Mất ngủ kéo dài có thể làm tăng nguy cơ bệnh tim mạch, tiểu đường, suy giảm miễn dịch, tăng nguy cơ tai nạn, rối loạn lo âu và trầm cảm."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì mất ngủ?",
+    "input": "",
+    "output": "Khi mất ngủ xảy ra từ 3 lần/tuần trở lên, kéo dài hơn 1 tháng hoặc gây ảnh hưởng rõ đến sinh hoạt, sức khỏe và khả năng làm việc ban ngày."
+  },
+  {
+    "instruction": "Mất ngủ là gì?",
+    "input": "",
+    "output": "Mất ngủ là rối loạn giấc ngủ khiến người bệnh khó đi vào giấc ngủ, ngủ không sâu, dễ thức giấc giữa đêm hoặc thức dậy sớm và không thể ngủ lại."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây mất ngủ là gì?",
+    "input": "",
+    "output": "Nguyên nhân gồm stress, lo âu, thói quen ngủ không khoa học, sử dụng caffeine/rượu bia, thay đổi múi giờ, bệnh lý nền và tác dụng phụ của thuốc."
+  },
+  {
+    "instruction": "Triệu chứng của mất ngủ là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm khó ngủ, ngủ chập chờn, thức giấc nhiều lần, dậy sớm, mệt mỏi ban ngày, giảm tập trung và dễ cáu gắt."
+  },
+  {
+    "instruction": "Mất ngủ có nguy hiểm không?",
+    "input": "",
+    "output": "Có. Mất ngủ kéo dài có thể làm tăng nguy cơ bệnh tim mạch, rối loạn chuyển hóa, suy giảm miễn dịch, trầm cảm và tai nạn do giảm tập trung."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì mất ngủ?",
+    "input": "",
+    "output": "Khi mất ngủ xảy ra từ 3 lần/tuần trở lên, kéo dài trên 1 tháng hoặc ảnh hưởng rõ đến sinh hoạt và sức khỏe ban ngày."
+  },
+  {
+    "instruction": "Mất ngủ là gì?",
+    "input": "",
+    "output": "Mất ngủ là rối loạn giấc ngủ khiến người bệnh khó đi vào giấc ngủ, ngủ không sâu, dễ thức giấc giữa đêm hoặc dậy sớm và không thể ngủ lại, dẫn đến mệt mỏi và giảm hiệu suất ban ngày."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây mất ngủ là gì?",
+    "input": "",
+    "output": "Nguyên nhân gồm căng thẳng tâm lý, lo âu, trầm cảm, thói quen ngủ không khoa học, sử dụng caffeine hoặc rượu bia, thay đổi giờ giấc sinh hoạt, bệnh lý nền và tác dụng phụ của thuốc."
+  },
+  {
+    "instruction": "Triệu chứng của mất ngủ gồm những gì?",
+    "input": "",
+    "output": "Triệu chứng gồm khó ngủ, ngủ chập chờn, thức giấc nhiều lần, thức dậy quá sớm, mệt mỏi sau khi ngủ, buồn ngủ ban ngày, giảm tập trung và dễ cáu gắt."
+  },
+  {
+    "instruction": "Mất ngủ có nguy hiểm không?",
+    "input": "",
+    "output": "Có. Mất ngủ kéo dài có thể làm tăng nguy cơ tim mạch, tiểu đường, rối loạn lo âu, trầm cảm, suy giảm miễn dịch và tăng nguy cơ tai nạn do giảm tập trung."
+  },
+  {
+    "instruction": "Cách điều trị mất ngủ hiệu quả là gì?",
+    "input": "",
+    "output": "Điều trị gồm thay đổi lối sống (giờ ngủ cố định, hạn chế caffeine, tập thể dục, giảm stress), liệu pháp hành vi nhận thức (CBT-I), và dùng thuốc theo chỉ định bác sĩ khi cần thiết."
+  },
+  {
+    "instruction": "Mất ngủ là gì?",
+    "input": "",
+    "output": "Mất ngủ là rối loạn giấc ngủ khiến người bệnh khó đi vào giấc ngủ, ngủ không sâu, dễ thức giấc giữa đêm hoặc thức dậy quá sớm và không thể ngủ lại, dẫn đến mệt mỏi vào ban ngày."
+  },
+  {
+    "instruction": "Nguyên nhân gây mất ngủ thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm căng thẳng, lo âu, trầm cảm, thói quen ngủ không điều độ, sử dụng chất kích thích (caffeine, rượu, nicotine), thay đổi giờ giấc sinh hoạt và một số bệnh lý như trào ngược dạ dày, tim mạch, rối loạn giấc ngủ."
+  },
+  {
+    "instruction": "Triệu chứng của mất ngủ là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm khó ngủ, ngủ chập chờn, thức giấc nhiều lần trong đêm, thức dậy sớm, mệt mỏi sau khi ngủ, giảm tập trung, buồn ngủ ban ngày và dễ cáu gắt."
+  },
+  {
+    "instruction": "Mất ngủ có nguy hiểm không?",
+    "input": "",
+    "output": "Có. Mất ngủ kéo dài có thể làm giảm hiệu suất làm việc, tăng nguy cơ tai nạn, gây rối loạn tâm lý như lo âu, trầm cảm, và làm tăng nguy cơ bệnh tim mạch, tiểu đường, suy giảm miễn dịch."
+  },
+  {
+    "instruction": "Cách điều trị mất ngủ hiệu quả là gì?",
+    "input": "",
+    "output": "Điều trị bao gồm thay đổi lối sống (giữ giờ ngủ cố định, hạn chế caffeine, tập thể dục, giảm stress), liệu pháp hành vi nhận thức (CBT-I) và sử dụng thuốc theo chỉ định bác sĩ khi cần thiết."
+  },
+  {
+    "instruction": "Mất ngủ là gì?",
+    "input": "",
+    "output": "Mất ngủ là rối loạn giấc ngủ khiến người bệnh khó đi vào giấc ngủ, khó duy trì giấc ngủ, thức dậy sớm hoặc không thể ngủ lại, dẫn đến mệt mỏi và giảm chất lượng cuộc sống ban ngày."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của mất ngủ là gì?",
+    "input": "",
+    "output": "Các triệu chứng gồm khó ngủ, thức giấc giữa đêm, thức dậy quá sớm, ngủ không sâu, mệt mỏi ban ngày, giảm tập trung, dễ cáu gắt, lo âu và suy giảm trí nhớ."
+  },
+  {
+    "instruction": "Nguyên nhân gây mất ngủ thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm stress, rối loạn tâm lý (lo âu, trầm cảm), thói quen ngủ kém, sử dụng caffeine/rượu/nicotine, thay đổi ca làm việc, bệnh lý cơ thể và tác dụng phụ của thuốc."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì mất ngủ?",
+    "input": "",
+    "output": "Bạn nên đi khám khi mất ngủ kéo dài, xảy ra thường xuyên (≥3 lần/tuần), ảnh hưởng đến sinh hoạt ban ngày, hoặc kèm theo lo âu, trầm cảm và nghi ngờ rối loạn giấc ngủ."
+  },
+  {
+    "instruction": "Cách điều trị mất ngủ hiệu quả là gì?",
+    "input": "",
+    "output": "Điều trị gồm thay đổi thói quen ngủ, giảm stress, liệu pháp nhận thức hành vi (CBT-I), điều trị bệnh nền và có thể dùng thuốc theo chỉ định bác sĩ trong thời gian ngắn nếu cần."
+  },
+  {
+    "instruction": "Suy thận là gì?",
+    "input": "",
+    "output": "Suy thận là tình trạng chức năng thận suy giảm, khiến thận không còn khả năng lọc máu, loại bỏ chất thải và điều hòa nước, điện giải hiệu quả."
+  },
+  {
+    "instruction": "Nguyên nhân gây suy thận thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm đái tháo đường, tăng huyết áp, viêm cầu thận, bệnh thận đa nang, tắc nghẽn đường tiết niệu và tổn thương thận do thuốc hoặc độc chất."
+  },
+  {
+    "instruction": "Triệu chứng của suy thận là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm mệt mỏi, buồn nôn, tiểu bất thường, phù, tăng huyết áp, ngứa da, khó thở và giảm tập trung."
+  },
+  {
+    "instruction": "Suy thận được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên xét nghiệm máu (GFR, creatinine), xét nghiệm nước tiểu (protein, albumin), siêu âm thận và có thể sinh thiết thận khi cần."
+  },
+  {
+    "instruction": "Suy thận được điều trị ra sao?",
+    "input": "",
+    "output": "Điều trị bao gồm kiểm soát nguyên nhân, dùng thuốc hỗ trợ, điều chỉnh lối sống và trong giai đoạn nặng có thể cần chạy thận nhân tạo, thẩm phân phúc mạc hoặc ghép thận."
+  },
+  {
+    "instruction": "Suy thận là gì?",
+    "input": "",
+    "output": "Suy thận là tình trạng thận suy giảm khả năng lọc máu và loại bỏ chất thải, khiến độc tố tích tụ trong cơ thể. Bệnh gồm suy thận cấp (có thể hồi phục) và suy thận mạn (tiến triển không hồi phục)."
+  },
+  {
+    "instruction": "Nguyên nhân gây suy thận thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm đái tháo đường, tăng huyết áp, viêm cầu thận, bệnh thận đa nang, tắc nghẽn đường tiết niệu kéo dài và tổn thương thận do thuốc hoặc độc chất."
+  },
+  {
+    "instruction": "Triệu chứng của suy thận là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm mệt mỏi, buồn nôn, chán ăn, phù, tiểu bất thường (tiểu ít, tiểu đêm, tiểu bọt), tăng huyết áp, ngứa da, khó thở và rối loạn giấc ngủ."
+  },
+  {
+    "instruction": "Suy thận được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên xét nghiệm máu (ure, creatinin, GFR), xét nghiệm nước tiểu (protein, albumin), siêu âm thận và có thể sinh thiết thận khi cần."
+  },
+  {
+    "instruction": "Suy thận được điều trị ra sao?",
+    "input": "",
+    "output": "Điều trị gồm kiểm soát nguyên nhân, điều chỉnh chế độ ăn, dùng thuốc hỗ trợ, và khi nặng có thể cần chạy thận nhân tạo, thẩm phân phúc mạc hoặc ghép thận."
+  },
+  {
+    "instruction": "Suy thận là gì?",
+    "input": "",
+    "output": "Suy thận là tình trạng thận suy giảm hoặc mất khả năng lọc máu, loại bỏ chất thải và điều hòa nước - điện giải, dẫn đến tích tụ độc chất trong cơ thể."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây suy thận là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp gồm đái tháo đường, tăng huyết áp, viêm cầu thận, tắc nghẽn đường tiết niệu (sỏi thận, phì đại tuyến tiền liệt) và dùng thuốc độc thận kéo dài."
+  },
+  {
+    "instruction": "Dấu hiệu nhận biết suy thận là gì?",
+    "input": "",
+    "output": "Các dấu hiệu gồm tiểu ít, phù chân tay, mệt mỏi, buồn nôn, chán ăn, khó thở, ngứa da, co rút cơ và tăng huyết áp."
+  },
+  {
+    "instruction": "Suy thận được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên xét nghiệm creatinine, đánh giá GFR, xét nghiệm nước tiểu, siêu âm thận và có thể dùng CT, MRI hoặc sinh thiết thận khi cần."
+  },
+  {
+    "instruction": "Suy thận được điều trị như thế nào?",
+    "input": "",
+    "output": "Điều trị gồm kiểm soát nguyên nhân nền, dùng thuốc hỗ trợ, lọc máu (chạy thận nhân tạo), thẩm phân phúc mạc và ghép thận trong trường hợp nặng."
+  },
+  {
+    "instruction": "Suy thận là gì?",
+    "input": "",
+    "output": "Suy thận là tình trạng thận giảm hoặc mất khả năng lọc máu, loại bỏ chất thải và điều hòa nước - điện giải, khiến độc tố tích tụ trong cơ thể."
+  },
+  {
+    "instruction": "Nguyên nhân gây suy thận thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm đái tháo đường, tăng huyết áp, viêm cầu thận, nhiễm trùng, sỏi thận gây tắc nghẽn và dùng thuốc độc thận kéo dài."
+  },
+  {
+    "instruction": "Dấu hiệu của suy thận là gì?",
+    "input": "",
+    "output": "Các dấu hiệu gồm tiểu ít hoặc tiểu bất thường, phù, mệt mỏi, buồn nôn, chán ăn, ngứa da, khó thở và tăng huyết áp."
+  },
+  {
+    "instruction": "Suy thận được chẩn đoán bằng cách nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên xét nghiệm máu (creatinine, GFR), xét nghiệm nước tiểu, siêu âm thận, và có thể cần CT, MRI hoặc sinh thiết thận."
+  },
+  {
+    "instruction": "Cách điều trị suy thận như thế nào?",
+    "input": "",
+    "output": "Điều trị gồm kiểm soát bệnh nền, dùng thuốc hỗ trợ, điều chỉnh chế độ ăn, lọc máu (chạy thận), thẩm phân phúc mạc và ghép thận trong trường hợp nặng."
+  },
+  {
+    "instruction": "Suy thận là gì?",
+    "input": "",
+    "output": "Suy thận (bệnh thận mạn) là tình trạng bất thường về cấu trúc hoặc chức năng thận kéo dài trên 3 tháng, làm giảm khả năng lọc máu và đào thải chất thải."
+  },
+  {
+    "instruction": "Nguyên nhân gây suy thận thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm đái tháo đường, tăng huyết áp, gout, viêm cầu thận, bệnh thận đa nang, sỏi tiết niệu, nhiễm trùng kéo dài và lạm dụng thuốc độc thận."
+  },
+  {
+    "instruction": "Triệu chứng của suy thận là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm mệt mỏi, chán ăn, buồn nôn, phù, tiểu bất thường, ngứa da, chuột rút, khó thở, thiếu máu và có thể giảm khả năng sinh lý."
+  },
+  {
+    "instruction": "Suy thận được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa vào xét nghiệm creatinine, đánh giá GFR, xét nghiệm nước tiểu, siêu âm thận và các xét nghiệm máu, hình ảnh khác khi cần."
+  },
+  {
+    "instruction": "Cách điều trị suy thận như thế nào?",
+    "input": "",
+    "output": "Điều trị gồm kiểm soát bệnh nền, thay đổi lối sống, dùng thuốc làm chậm tiến triển, và giai đoạn nặng cần lọc máu, lọc màng bụng hoặc ghép thận."
+  },
+  {
+    "instruction": "Suy tim là gì?",
+    "input": "",
+    "output": "Suy tim là tình trạng tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể, dẫn đến giảm chức năng và chất lượng sống, thậm chí có thể gây tử vong nếu nặng."
+  },
+  {
+    "instruction": "Nguyên nhân thường gặp gây suy tim là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp gồm tăng huyết áp, bệnh mạch vành, nhồi máu cơ tim, bệnh van tim, bệnh cơ tim, bệnh phổi mạn tính và bệnh tim bẩm sinh."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của suy tim trái là gì?",
+    "input": "",
+    "output": "Khó thở khi gắng sức, khó thở kịch phát về đêm, phù phổi cấp, đau ngực, tiểu ít, hoa mắt chóng mặt."
+  },
+  {
+    "instruction": "Suy tim được phân độ như thế nào theo NYHA?",
+    "input": "",
+    "output": "Suy tim được chia 4 độ: độ 1 không triệu chứng, độ 2 triệu chứng khi gắng sức nhiều, độ 3 khi gắng sức ít, và độ 4 triệu chứng ngay cả khi nghỉ ngơi."
+  },
+  {
+    "instruction": "Các phương pháp điều trị suy tim là gì?",
+    "input": "",
+    "output": "Điều trị gồm thuốc (ức chế men chuyển, beta-blocker, lợi tiểu, ARNI...), điều chỉnh lối sống, điều trị nguyên nhân, và các biện pháp như CRT, ICD hoặc ghép tim khi nặng."
+  },
+  {
+    "instruction": "Suy tim là gì?",
+    "input": "",
+    "output": "Suy tim là tình trạng tim suy yếu, không đủ khả năng bơm máu để cung cấp oxy và dưỡng chất cho cơ thể, gây mệt mỏi, khó thở và giảm chất lượng sống."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây suy tim là gì?",
+    "input": "",
+    "output": "Các nguyên nhân thường gặp gồm bệnh mạch vành, tăng huyết áp, bệnh van tim, bệnh cơ tim, bệnh tim bẩm sinh, đái tháo đường và bệnh phổi mạn tính."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của suy tim là gì?",
+    "input": "",
+    "output": "Khó thở khi gắng sức hoặc khi nằm, mệt mỏi, phù chân, ho kéo dài, đánh trống ngực và chóng mặt hoặc ngất."
+  },
+  {
+    "instruction": "Suy tim có nguy hiểm không?",
+    "input": "",
+    "output": "Suy tim rất nguy hiểm vì có thể gây rối loạn nhịp tim, phù phổi cấp, đột quỵ và đột tử nếu không được điều trị kịp thời."
+  },
+  {
+    "instruction": "Cách phòng ngừa suy tim như thế nào?",
+    "input": "",
+    "output": "Phòng ngừa bằng cách ăn uống lành mạnh, giảm muối, tập thể dục đều đặn, kiểm soát huyết áp và đường huyết, không hút thuốc và khám sức khỏe định kỳ."
+  },
+  {
+    "instruction": "Suy tim là gì?",
+    "input": "",
+    "output": "Suy tim là tình trạng cơ tim không còn đủ khả năng bơm máu hiệu quả để đáp ứng nhu cầu oxy và dưỡng chất của cơ thể, gây ra các triệu chứng như khó thở và mệt mỏi."
+  },
+  {
+    "instruction": "Nguyên nhân thường gặp gây suy tim là gì?",
+    "input": "",
+    "output": "Các nguyên nhân phổ biến gồm bệnh mạch vành, tăng huyết áp, bệnh van tim, bệnh cơ tim, bệnh tim bẩm sinh, đái tháo đường và rối loạn nhịp tim."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của suy tim là gì?",
+    "input": "",
+    "output": "Khó thở khi gắng sức hoặc khi nằm, mệt mỏi, phù chân và mắt cá chân, ho kéo dài, tim đập nhanh và tăng cân do ứ dịch."
+  },
+  {
+    "instruction": "Suy tim có nguy hiểm không?",
+    "input": "",
+    "output": "Có. Suy tim có thể gây rối loạn nhịp nguy hiểm, phù phổi cấp, đột quỵ và tử vong nếu không được điều trị kịp thời."
+  },
+  {
+    "instruction": "Cách phòng ngừa suy tim như thế nào?",
+    "input": "",
+    "output": "Kiểm soát huyết áp và đường huyết, ăn uống lành mạnh giảm muối, tập thể dục đều đặn, không hút thuốc, hạn chế rượu bia và khám sức khỏe định kỳ."
+  },
+  {
+    "instruction": "Suy tim là gì?",
+    "input": "",
+    "output": "Suy tim là tình trạng tim suy yếu, không đủ khả năng bơm máu để đáp ứng nhu cầu oxy và dưỡng chất của cơ thể, gây ra các triệu chứng như khó thở và mệt mỏi."
+  },
+  {
+    "instruction": "Nguyên nhân gây suy tim là gì?",
+    "input": "",
+    "output": "Suy tim có thể do bệnh mạch vành, tăng huyết áp, bệnh van tim, bệnh cơ tim, bệnh tim bẩm sinh, viêm cơ tim, rối loạn nhịp tim hoặc các bệnh chuyển hóa như đái tháo đường."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của suy tim là gì?",
+    "input": "",
+    "output": "Các triệu chứng gồm khó thở khi gắng sức hoặc khi nằm, mệt mỏi, phù chân, ho kéo dài, tim đập nhanh và có thể tăng cân do ứ dịch."
+  },
+  {
+    "instruction": "Suy tim có nguy hiểm không?",
+    "input": "",
+    "output": "Có. Suy tim có thể dẫn đến phù phổi cấp, rối loạn nhịp nguy hiểm, đột tử và suy giảm nghiêm trọng chất lượng cuộc sống nếu không được điều trị kịp thời."
+  },
+  {
+    "instruction": "Cách điều trị suy tim như thế nào?",
+    "input": "",
+    "output": "Điều trị suy tim gồm dùng thuốc như ACEI, ARB, beta-blocker, lợi tiểu, digoxin; thay đổi lối sống; và trong trường hợp nặng có thể cần thiết bị hỗ trợ hoặc phẫu thuật."
+  },
+  {
+    "instruction": "Suy tim là gì?",
+    "input": "",
+    "output": "Suy tim là tình trạng tim không còn đủ khả năng co bóp hoặc giãn nở để bơm máu đi nuôi cơ thể, dẫn đến thiếu oxy và dưỡng chất cho các cơ quan."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây suy tim là gì?",
+    "input": "",
+    "output": "Các nguyên nhân thường gặp gồm bệnh mạch vành, tăng huyết áp, bệnh van tim, nhồi máu cơ tim, rối loạn nhịp tim, bệnh cơ tim và lạm dụng rượu bia."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của suy tim là gì?",
+    "input": "",
+    "output": "Triệu chứng điển hình gồm khó thở, mệt mỏi, phù chân, ho khan về đêm, đau tức ngực, tim đập nhanh và tăng cân do giữ nước."
+  },
+  {
+    "instruction": "Suy tim được chẩn đoán bằng cách nào?",
+    "input": "",
+    "output": "Chẩn đoán suy tim dựa trên thăm khám lâm sàng kết hợp xét nghiệm BNP, điện tâm đồ, siêu âm tim, X-quang ngực và xét nghiệm máu."
+  },
+  {
+    "instruction": "Suy tim có thể điều trị như thế nào?",
+    "input": "",
+    "output": "Điều trị suy tim gồm dùng thuốc (ACEI, beta-blocker, lợi tiểu, ARNI…), thay đổi lối sống, và trong một số trường hợp cần can thiệp hoặc phẫu thuật tim."
+  },
+  {
+    "instruction": "Táo bón là gì?",
+    "input": "",
+    "output": "Táo bón là tình trạng đi đại tiện không thường xuyên (dưới 3 lần/tuần) hoặc gặp khó khăn khi đi tiêu, phân cứng và phải rặn nhiều."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây táo bón là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp gồm ăn ít chất xơ, uống không đủ nước, ít vận động, nhịn đi đại tiện, tác dụng phụ của thuốc và rối loạn nhu động ruột."
+  },
+  {
+    "instruction": "Triệu chứng của táo bón là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đi đại tiện ít, phân cứng, đau khi đi tiêu, phải rặn nhiều, đau bụng và có thể có máu trên phân do nứt hậu môn."
+  },
+  {
+    "instruction": "Táo bón được chẩn đoán như thế nào?",
+    "input": "",
+    "output": "Chẩn đoán dựa trên khai thác tiền sử, khám hậu môn trực tràng và có thể làm thêm xét nghiệm phân, X-quang bụng, đo áp lực hậu môn hoặc xét nghiệm máu."
+  },
+  {
+    "instruction": "Cách điều trị táo bón là gì?",
+    "input": "",
+    "output": "Điều trị bao gồm thay đổi chế độ ăn giàu chất xơ, uống đủ nước, tăng vận động, dùng thuốc làm mềm phân hoặc nhuận tràng theo chỉ định bác sĩ."
+  },
+  {
+    "instruction": "Táo bón là gì?",
+    "input": "",
+    "output": "Táo bón là tình trạng đi đại tiện ít hơn 3 lần mỗi tuần, phân khô cứng, khó đi và thường phải rặn mạnh."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây táo bón là gì?",
+    "input": "",
+    "output": "Nguyên nhân gồm ăn thiếu chất xơ, uống ít nước, ít vận động, nhịn đi đại tiện, thay đổi thói quen sinh hoạt và tác dụng phụ của một số thuốc."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của táo bón là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đi ngoài ít, phân cứng, đau rát hậu môn, đau bụng, chướng bụng và cảm giác đi ngoài không hết."
+  },
+  {
+    "instruction": "Khi nào người bị táo bón cần đi khám bác sĩ?",
+    "input": "",
+    "output": "Cần đi khám nếu táo bón kéo dài trên 2 tuần hoặc có dấu hiệu như phân có máu, đau bụng nặng, nôn, chướng bụng hoặc sụt cân."
+  },
+  {
+    "instruction": "Cách phòng ngừa táo bón là gì?",
+    "input": "",
+    "output": "Phòng ngừa bằng cách ăn nhiều chất xơ, uống đủ nước, tập thể dục thường xuyên, không nhịn đi đại tiện và duy trì thói quen sinh hoạt lành mạnh."
+  },
+  {
+    "instruction": "Táo bón là gì?",
+    "input": "",
+    "output": "Táo bón là tình trạng rối loạn tiêu hóa khi đi đại tiện dưới 3 lần mỗi tuần, phân khô cứng và khó đi, thường phải rặn nhiều."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây táo bón là gì?",
+    "input": "",
+    "output": "Nguyên nhân gồm ăn thiếu chất xơ, uống ít nước, ít vận động, nhịn đi đại tiện, tác dụng phụ của thuốc và lạm dụng thuốc nhuận tràng."
+  },
+  {
+    "instruction": "Triệu chứng của táo bón là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đi ngoài ít, phân cứng, đau khi đại tiện, đầy bụng, đau bụng và cảm giác đi ngoài không hết phân."
+  },
+  {
+    "instruction": "Táo bón có thể gây biến chứng gì?",
+    "input": "",
+    "output": "Táo bón kéo dài có thể gây trĩ, nứt kẽ hậu môn, viêm trực tràng và trong một số trường hợp hiếm có thể làm tăng nguy cơ bệnh đại tràng."
+  },
+  {
+    "instruction": "Cách điều trị táo bón hiệu quả là gì?",
+    "input": "",
+    "output": "Điều trị gồm tăng chất xơ, uống đủ nước, tập thể dục, tạo thói quen đi vệ sinh đúng giờ và dùng thuốc nhuận tràng theo chỉ định bác sĩ."
+  },
+  {
+    "instruction": "Táo bón là gì?",
+    "input": "",
+    "output": "Táo bón là rối loạn tiêu hóa với biểu hiện đi đại tiện ít hơn 3 lần/tuần, phân khô cứng, khó đi ngoài và có cảm giác đi chưa hết phân."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây táo bón là gì?",
+    "input": "",
+    "output": "Nguyên nhân gồm ăn thiếu chất xơ, uống không đủ nước, ít vận động, nhịn đi đại tiện, dùng một số thuốc (opioid, kháng cholinergic), và các bệnh lý như suy giáp, Parkinson."
+  },
+  {
+    "instruction": "Dấu hiệu nhận biết táo bón là gì?",
+    "input": "",
+    "output": "Dấu hiệu gồm đi ngoài ít hơn 3 lần/tuần, phân cứng, phải rặn mạnh, đau khi đi đại tiện, chướng bụng và cảm giác đi ngoài không hết."
+  },
+  {
+    "instruction": "Táo bón có nguy hiểm không?",
+    "input": "",
+    "output": "Táo bón kéo dài có thể gây trĩ, nứt hậu môn, sa trực tràng, viêm trực tràng và ảnh hưởng đến chất lượng cuộc sống nếu không điều trị."
+  },
+  {
+    "instruction": "Cách điều trị táo bón hiệu quả là gì?",
+    "input": "",
+    "output": "Điều trị gồm tăng chất xơ, uống đủ nước, tập thể dục, tạo thói quen đi vệ sinh đúng giờ, không nhịn đi ngoài và có thể dùng thuốc nhuận tràng theo chỉ định bác sĩ."
+  },
+  {
+    "instruction": "Táo bón là gì?",
+    "input": "",
+    "output": "Táo bón là tình trạng rối loạn tiêu hóa khiến việc đi đại tiện trở nên khó khăn, phân khô cứng, phải rặn mạnh và số lần đi ngoài ít hơn bình thường."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây táo bón là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp gồm ăn thiếu chất xơ, uống không đủ nước, ít vận động, nhịn đi đại tiện, stress và một số bệnh lý như suy giáp hoặc bệnh đại tràng."
+  },
+  {
+    "instruction": "Dấu hiệu nhận biết táo bón là gì?",
+    "input": "",
+    "output": "Dấu hiệu gồm đi ngoài dưới 3 lần/tuần, phân cứng, chướng bụng, đau rát khi đi đại tiện, phải rặn mạnh và cảm giác đi chưa hết phân."
+  },
+  {
+    "instruction": "Táo bón có nguy hiểm không?",
+    "input": "",
+    "output": "Táo bón kéo dài có thể gây biến chứng như trĩ, nứt kẽ hậu môn, chảy máu, sa trực tràng và trong trường hợp nặng có thể gây tắc ruột."
+  },
+  {
+    "instruction": "Cách điều trị táo bón hiệu quả là gì?",
+    "input": "",
+    "output": "Điều trị gồm thay đổi chế độ ăn giàu chất xơ, uống đủ nước, tập thể dục, tạo thói quen đi vệ sinh đúng giờ và dùng thuốc nhuận tràng theo chỉ định bác sĩ khi cần."
+  },
+  {
+    "instruction": "Tiêu chảy là gì?",
+    "input": "",
+    "output": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc phân nước từ 3 lần trở lên trong 24 giờ, có thể cấp tính hoặc mạn tính."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây tiêu chảy là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm nhiễm virus, vi khuẩn, ký sinh trùng, ngộ độc thực phẩm và thực phẩm hoặc nước bị ô nhiễm."
+  },
+  {
+    "instruction": "Triệu chứng của tiêu chảy gồm những gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đi ngoài phân lỏng, đau bụng, sốt, buồn nôn, đầy hơi và có thể mất nước như khô miệng, ít nước tiểu."
+  },
+  {
+    "instruction": "Tiêu chảy nguy hiểm nhất ở điểm nào?",
+    "input": "",
+    "output": "Nguy hiểm nhất là mất nước và rối loạn điện giải, có thể dẫn đến co giật, suy thận hoặc tử vong nếu không điều trị kịp thời."
+  },
+  {
+    "instruction": "Điều trị tiêu chảy như thế nào?",
+    "input": "",
+    "output": "Điều trị chủ yếu là bù nước và điện giải bằng oresol, điều trị nguyên nhân bằng thuốc nếu cần và duy trì chế độ ăn uống phù hợp."
+  },
+  {
+    "instruction": "Tiêu chảy là gì?",
+    "input": "",
+    "output": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc nước từ 3 lần trở lên trong ngày, có thể cấp tính hoặc mạn tính."
+  },
+  {
+    "instruction": "Nguyên nhân thường gặp của tiêu chảy là gì?",
+    "input": "",
+    "output": "Nguyên nhân thường gặp gồm nhiễm virus, vi khuẩn, ký sinh trùng, ngộ độc thực phẩm và sử dụng thực phẩm hoặc nước không an toàn."
+  },
+  {
+    "instruction": "Triệu chứng của tiêu chảy gồm những gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đi ngoài phân lỏng, đau bụng, buồn nôn, sốt, đầy hơi và dấu hiệu mất nước như khát nước, khô miệng, mệt mỏi."
+  },
+  {
+    "instruction": "Tiêu chảy nguy hiểm ở điểm nào?",
+    "input": "",
+    "output": "Nguy hiểm nhất là mất nước và rối loạn điện giải, có thể gây trụy mạch, suy thận hoặc tử vong nếu không xử lý kịp thời."
+  },
+  {
+    "instruction": "Điều trị tiêu chảy như thế nào?",
+    "input": "",
+    "output": "Điều trị chủ yếu là bù nước và điện giải bằng oresol, kết hợp điều trị nguyên nhân và duy trì chế độ ăn uống phù hợp."
+  },
+  {
+    "instruction": "Tiêu chảy là gì?",
+    "input": "",
+    "output": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc phân nước từ 3 lần/ngày trở lên, thường kèm đau bụng và có thể gây mất nước."
+  },
+  {
+    "instruction": "Nguyên nhân gây tiêu chảy thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm nhiễm virus, vi khuẩn, ký sinh trùng, ngộ độc thực phẩm, không dung nạp lactose hoặc tác dụng phụ của thuốc."
+  },
+  {
+    "instruction": "Triệu chứng của tiêu chảy là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đi ngoài phân lỏng nhiều lần, đau bụng, đầy hơi, buồn nôn, sốt và có thể có dấu hiệu mất nước như khô miệng, tiểu ít."
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ vì tiêu chảy?",
+    "input": "",
+    "output": "Cần đi khám khi tiêu chảy kéo dài hơn 2 ngày, có máu trong phân, sốt cao, đau bụng dữ dội hoặc có dấu hiệu mất nước nặng."
+  },
+  {
+    "instruction": "Cách xử lý tiêu chảy tại nhà là gì?",
+    "input": "",
+    "output": "Cần bù nước và điện giải, ăn thức ăn dễ tiêu như cháo hoặc chuối, uống nước gạo rang, nghỉ ngơi và theo dõi triệu chứng."
+  },
+  {
+    "instruction": "Tiêu chảy là gì?",
+    "input": "",
+    "output": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc phân nước từ 3 lần/ngày trở lên, thường do nhiễm trùng, rối loạn tiêu hóa hoặc bệnh lý đường ruột."
+  },
+  {
+    "instruction": "Nguyên nhân gây tiêu chảy thường gặp là gì?",
+    "input": "",
+    "output": "Nguyên nhân gồm nhiễm virus, vi khuẩn, ký sinh trùng, ngộ độc thực phẩm, không dung nạp lactose, tác dụng phụ thuốc và bệnh lý đường tiêu hóa."
+  },
+  {
+    "instruction": "Triệu chứng của tiêu chảy là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đi ngoài phân lỏng nhiều lần, đau bụng, đầy hơi, buồn nôn, sốt, mệt mỏi và có thể có dấu hiệu mất nước."
+  },
+  {
+    "instruction": "Tiêu chảy nguy hiểm khi nào cần đi khám?",
+    "input": "",
+    "output": "Cần đi khám khi tiêu chảy kéo dài, có máu trong phân, sốt cao, đau bụng dữ dội hoặc có dấu hiệu mất nước nặng."
+  },
+  {
+    "instruction": "Cách xử lý tiêu chảy tại nhà là gì?",
+    "input": "",
+    "output": "Cần bù nước và điện giải (ORESOL), ăn thức ăn dễ tiêu, uống nhiều nước, bổ sung probiotic và nghỉ ngơi đầy đủ."
+  },
+  {
+    "instruction": "Trầm cảm là gì?",
+    "input": "",
+    "output": "Trầm cảm là một rối loạn tâm thần đặc trưng bởi khí sắc buồn kéo dài, mất hứng thú, giảm năng lượng, rối loạn giấc ngủ và có thể kèm theo ý nghĩ tự sát, ảnh hưởng đến suy nghĩ và hành vi của người bệnh."
+  },
+  {
+    "instruction": "Nguyên nhân gây trầm cảm là gì?",
+    "input": "",
+    "output": "Trầm cảm có thể do nhiều nguyên nhân như yếu tố di truyền, rối loạn sinh học não, stress kéo dài, sang chấn tâm lý (mất người thân, ly hôn, phá sản) hoặc bệnh lý, chấn thương não."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của trầm cảm là gì?",
+    "input": "",
+    "output": "Các triệu chứng gồm khí sắc buồn, mất hứng thú, rối loạn giấc ngủ, mệt mỏi, giảm tập trung, cảm giác vô dụng hoặc tội lỗi, thay đổi cân nặng và có thể có ý nghĩ tự sát."
+  },
+  {
+    "instruction": "Ai có nguy cơ mắc trầm cảm cao?",
+    "input": "",
+    "output": "Người từng trải qua sang chấn tâm lý, phụ nữ sau sinh, học sinh sinh viên chịu áp lực cao, người thất nghiệp, ly hôn hoặc mất người thân có nguy cơ mắc trầm cảm cao."
+  },
+  {
+    "instruction": "Trầm cảm được điều trị như thế nào?",
+    "input": "",
+    "output": "Trầm cảm được điều trị bằng thuốc chống trầm cảm, liệu pháp tâm lý và hỗ trợ xã hội. Người bệnh cần dùng thuốc theo chỉ định bác sĩ và kết hợp chăm sóc tinh thần để đạt hiệu quả tốt nhất."
+  },
+  {
+    "instruction": "Trầm cảm là gì?",
+    "input": "",
+    "output": "Trầm cảm là một rối loạn tâm thần đặc trưng bởi khí sắc buồn kéo dài, mất hứng thú, giảm năng lượng, rối loạn giấc ngủ và suy giảm chức năng sống, có thể kèm ý nghĩ tự sát."
+  },
+  {
+    "instruction": "Nguyên nhân gây trầm cảm là gì?",
+    "input": "",
+    "output": "Trầm cảm có thể do nhiều nguyên nhân như yếu tố di truyền, rối loạn chất dẫn truyền thần kinh trong não, stress kéo dài, sang chấn tâm lý hoặc các bệnh lý ảnh hưởng đến não."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của trầm cảm là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm buồn bã kéo dài, mất hứng thú, mệt mỏi, rối loạn giấc ngủ, giảm tập trung, ăn uống thay đổi, cảm giác tội lỗi và có thể có ý nghĩ tự sát."
+  },
+  {
+    "instruction": "Trầm cảm có lây không?",
+    "input": "",
+    "output": "Trầm cảm không phải là bệnh truyền nhiễm nên không lây từ người này sang người khác."
+  },
+  {
+    "instruction": "Trầm cảm được điều trị như thế nào?",
+    "input": "",
+    "output": "Trầm cảm được điều trị bằng thuốc chống trầm cảm, liệu pháp tâm lý, hỗ trợ xã hội và trong một số trường hợp nặng có thể cần các biện pháp như sốc điện hoặc kích thích từ trường xuyên sọ."
+  },
+  {
+    "instruction": "Trầm cảm ảnh hưởng đến cuộc sống hằng ngày như thế nào?",
+    "input": "",
+    "output": "Trầm cảm làm giảm khả năng làm việc, học tập và giao tiếp xã hội, khiến người bệnh dễ mệt mỏi, thiếu động lực và khó duy trì các hoạt động bình thường."
+  },
+  {
+    "instruction": "Ai có nguy cơ cao mắc trầm cảm?",
+    "input": "",
+    "output": "Những người có stress kéo dài, tiền sử gia đình mắc bệnh, phụ nữ sau sinh, người mắc bệnh mạn tính hoặc từng trải qua sang chấn tâm lý có nguy cơ cao hơn."
+  },
+  {
+    "instruction": "Trầm cảm có thể tự khỏi không?",
+    "input": "",
+    "output": "Một số trường hợp nhẹ có thể cải thiện theo thời gian, nhưng đa số cần can thiệp điều trị vì bệnh có xu hướng kéo dài hoặc tái phát nếu không được hỗ trợ đúng cách."
+  },
+  {
+    "instruction": "Làm sao để phân biệt buồn bình thường và trầm cảm?",
+    "input": "",
+    "output": "Buồn bình thường thường ngắn hạn và có nguyên nhân rõ ràng, trong khi trầm cảm kéo dài ít nhất 2 tuần, kèm mất hứng thú và ảnh hưởng rõ rệt đến sinh hoạt."
+  },
+  {
+    "instruction": "Trầm cảm có nguy hiểm không?",
+    "input": "",
+    "output": "Trầm cảm có thể rất nguy hiểm nếu không điều trị, vì có thể dẫn đến suy giảm chức năng nghiêm trọng và tăng nguy cơ tự sát."
+  },
+  {
+    "instruction": "Trầm cảm ảnh hưởng đến sức khỏe như thế nào?",
+    "input": "",
+    "output": "Trầm cảm không chỉ ảnh hưởng đến tinh thần mà còn gây rối loạn giấc ngủ, mệt mỏi, giảm năng lượng và có thể làm suy giảm sức khỏe thể chất như tim mạch và tiêu hóa."
+  },
+  {
+    "instruction": "Những yếu tố nào làm tăng nguy cơ mắc trầm cảm?",
+    "input": "",
+    "output": "Nguy cơ trầm cảm tăng lên khi có stress kéo dài, sang chấn tâm lý, bệnh lý mạn tính, lạm dụng chất kích thích hoặc thiếu hỗ trợ xã hội."
+  },
+  {
+    "instruction": "Trầm cảm được phân loại như thế nào?",
+    "input": "",
+    "output": "Trầm cảm thường được phân thành nhẹ, vừa và nặng, ngoài ra còn có các dạng như trầm cảm nội sinh, sau sinh và trầm cảm có loạn thần."
+  },
+  {
+    "instruction": "Làm sao để chẩn đoán trầm cảm?",
+    "input": "",
+    "output": "Trầm cảm được chẩn đoán dựa trên đánh giá lâm sàng theo DSM-5 hoặc ICD-10, kết hợp khai thác triệu chứng kéo dài ít nhất 2 tuần và các bài test tâm lý hỗ trợ."
+  },
+  {
+    "instruction": "Có thể phòng ngừa trầm cảm bằng cách nào?",
+    "input": "",
+    "output": "Có thể phòng ngừa trầm cảm bằng cách duy trì lối sống lành mạnh, tập thể dục thường xuyên, quản lý stress, hạn chế chất kích thích và duy trì các mối quan hệ xã hội tích cực."
+  },
+  {
+    "instruction": "Trầm cảm có những dấu hiệu chính nào?",
+    "input": "",
+    "output": "Các dấu hiệu chính gồm buồn bã kéo dài, mất hứng thú, giảm năng lượng, rối loạn giấc ngủ, ăn uống thay đổi và giảm khả năng tập trung."
+  },
+  {
+    "instruction": "Nguyên nhân gây trầm cảm ở tuổi học đường là gì?",
+    "input": "",
+    "output": "Trầm cảm ở tuổi học đường có thể do áp lực học tập, mâu thuẫn gia đình, sang chấn tâm lý, yếu tố di truyền hoặc môi trường sống không lành mạnh."
+  },
+  {
+    "instruction": "Trầm cảm nguy hiểm như thế nào?",
+    "input": "",
+    "output": "Trầm cảm có thể gây suy giảm nghiêm trọng chất lượng cuộc sống, ảnh hưởng học tập, công việc, quan hệ xã hội và làm tăng nguy cơ tự sát."
+  },
+  {
+    "instruction": "Yếu tố gia đình ảnh hưởng đến trầm cảm ra sao?",
+    "input": "",
+    "output": "Phong cách nuôi dạy, mức độ quan tâm, sự ấm áp hoặc xung đột trong gia đình có thể ảnh hưởng lớn đến nguy cơ và mức độ trầm cảm ở trẻ em và thanh thiếu niên."
+  },
+  {
+    "instruction": "Khi nào cần đưa người bị trầm cảm đi khám?",
+    "input": "",
+    "output": "Cần đưa đi khám khi triệu chứng kéo dài trên 2 tuần, có biểu hiện suy giảm chức năng sống hoặc xuất hiện ý nghĩ, hành vi tự sát."
+  },
+  {
+    "instruction": "Viêm dạ dày là gì?",
+    "input": "",
+    "output": "Viêm dạ dày là tình trạng niêm mạc dạ dày bị viêm hoặc kích ứng, có thể xảy ra cấp tính hoặc mạn tính, gây đau và rối loạn tiêu hóa."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến gây viêm dạ dày là gì?",
+    "input": "",
+    "output": "Các nguyên nhân thường gặp gồm nhiễm vi khuẩn Helicobacter pylori, sử dụng thuốc NSAID kéo dài, uống rượu bia và stress kéo dài."
+  },
+  {
+    "instruction": "Triệu chứng điển hình của viêm dạ dày là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm đau vùng thượng vị, nóng rát dạ dày, đầy bụng sau ăn, buồn nôn và có thể nôn ra máu trong trường hợp nặng."
+  },
+  {
+    "instruction": "Viêm dạ dày có thể gây biến chứng gì?",
+    "input": "",
+    "output": "Nếu không điều trị, viêm dạ dày có thể dẫn đến loét dạ dày, xuất huyết tiêu hóa, thủng dạ dày và tăng nguy cơ ung thư dạ dày."
+  },
+  {
+    "instruction": "Viêm dạ dày được điều trị như thế nào?",
+    "input": "",
+    "output": "Điều trị bao gồm dùng thuốc như PPI, thuốc chẹn H2, kháng sinh diệt H. pylori nếu cần, kết hợp thay đổi lối sống và chế độ ăn uống."
+  },
+  {
+    "instruction": "Viêm dạ dày là gì?",
+    "input": "",
+    "output": "Viêm dạ dày là tình trạng niêm mạc dạ dày bị viêm hoặc tổn thương, có thể xảy ra cấp tính hoặc mạn tính và gây rối loạn tiêu hóa."
+  },
+  {
+    "instruction": "Nguyên nhân chính gây viêm dạ dày là gì?",
+    "input": "",
+    "output": "Nguyên nhân phổ biến gồm nhiễm Helicobacter pylori, sử dụng thuốc NSAID kéo dài, uống rượu bia, stress và các bệnh lý tự miễn."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của viêm dạ dày là gì?",
+    "input": "",
+    "output": "Các triệu chứng gồm đau thượng vị, ợ hơi, ợ chua, đầy bụng sau ăn, buồn nôn và đôi khi có nôn hoặc xuất huyết tiêu hóa."
+  },
+  {
+    "instruction": "Viêm dạ dày có thể gây biến chứng gì?",
+    "input": "",
+    "output": "Nếu không điều trị, viêm dạ dày có thể dẫn đến loét dạ dày, xuất huyết tiêu hóa, thủng dạ dày và thậm chí ung thư dạ dày."
+  },
+  {
+    "instruction": "Cách phòng ngừa viêm dạ dày như thế nào?",
+    "input": "",
+    "output": "Phòng ngừa bằng cách ăn uống hợp vệ sinh, tránh rượu bia, không lạm dụng NSAID, kiểm soát stress và duy trì lối sống lành mạnh."
+  },
+  {
+    "instruction": "Tại sao người nhóm máu O lại có nguy cơ nhiễm vi khuẩn HP cao hơn?",
+    "input": "",
+    "output": "Người nhóm máu O có kháng nguyên Lewis b trên niêm mạc dạ dày. Kháng nguyên này có ái tính đặc biệt với vi khuẩn HP, khiến chúng dễ bám dính và xâm nhập hơn so với các nhóm máu khác."
+  },
+  {
+    "instruction": "Viêm dạ dày cấp tính và mạn tính khác nhau như thế nào về triệu chứng?",
+    "input": "",
+    "output": "Viêm cấp tính thường có triệu chứng rầm rộ như đau thượng vị dữ dội, nóng rát và khó chịu tức thì. Ngược lại, viêm mạn tính thường diễn biến thầm lặng, không có triệu chứng rõ rệt và chủ yếu được phát hiện qua nội soi."
+  },
+  {
+    "instruction": "Thuốc giảm đau NSAIDs và Corticoid gây hại cho dạ dày theo cơ chế nào?",
+    "input": "",
+    "output": "Các thuốc này làm giảm tổng hợp Prostaglandin (yếu tố bảo vệ niêm mạc), đồng thời bản thân thuốc có tính acid tấn công trực tiếp vào niêm mạc, gây ra tình trạng viêm loét khi sử dụng kéo dài."
+  },
+  {
+    "instruction": "Biến chứng thiếu máu ở bệnh nhân viêm dạ dày do đâu mà có?",
+    "input": "",
+    "output": "Có hai dạng: thiếu máu thiếu sắt do giảm khả năng hấp thu sắt tại dạ dày và thiếu máu ác tính (thường gặp ở viêm dạ dày tự miễn) do cơ thể thiếu vitamin B12 để tạo hồng cầu."
+  },
+  {
+    "instruction": "Tại sao bệnh viêm dạ dày thường xuất hiện hoặc nặng hơn vào thời điểm giao mùa?",
+    "input": "",
+    "output": "Do thời tiết thay đổi làm sức đề kháng cơ thể suy yếu, đồng thời đây cũng là điều kiện thuận lợi để vi khuẩn HP sinh sôi phát triển mạnh nhất, tăng cường sự tấn công vào niêm mạc dạ dày."
+  },
+  {
+    "instruction": "Viêm dạ dày cấp tính được phân chia thành những loại nào?",
+    "input": "",
+    "output": "Viêm dạ dày cấp tính được chia thành 4 loại chính: viêm loét dạ dày (thường nhẹ do kích ứng/virus), viêm dạ dày thể ăn mòn (do chất kích thích tác động liên tục), viêm dạ dày xuất huyết (ăn mòn kèm chảy máu) và viêm dạ dày thể nhiễm khuẩn (nặng, có thể gây mưng mủ và thủng dạ dày)."
+  },
+  {
+    "instruction": "Tại sao người bị viêm dạ dày đôi khi cảm thấy khó thở?",
+    "input": "",
+    "output": "Tình trạng khó thở không hiếm gặp ở bệnh nhân viêm dạ dày do các cơn đau kéo dài gây mệt mỏi, làm ảnh hưởng đến quá trình vận chuyển máu và oxy trong cơ thể, dẫn đến cảm giác thở dốc."
+  },
+  {
+    "instruction": "Người bị viêm dạ dày có nên uống nước cam và sữa không?",
+    "input": "",
+    "output": "Người bệnh không nên uống nước cam vì chứa axit làm tăng tiết dịch vị. Đối với sữa, có thể uống một lượng vừa phải để cung cấp năng lượng, nhưng tránh uống quá nhiều vì sẽ kích thích tiết axit và không tốt cho người không dung nạp lactose."
+  },
+  {
+    "instruction": "Lá cây lược vàng và lá nhọ nồi có tác dụng gì trong việc điều trị theo dân gian?",
+    "input": "",
+    "output": "Trong dân gian, lá lược vàng chứa flavonoid và vitamin C giúp hỗ trợ điều trị viêm dạ dày; còn lá nhọ nồi được xem là dược liệu quý giúp trị các chứng chảy máu dạ dày hoặc đi ngoài ra máu."
+  },
+  {
+    "instruction": "Phác đồ điều trị viêm dạ dày do vi khuẩn HP thường kéo dài bao lâu?",
+    "input": "",
+    "output": "Thông thường, bệnh nhân sẽ cần khoảng 10 - 14 ngày uống kháng sinh để tiêu diệt vi khuẩn HP. Sau đó, việc sử dụng các loại thuốc điều trị triệu chứng và làm lành vết loét sẽ tiếp tục kéo dài trong khoảng 4 - 8 tuần."
+  },
+  {
+    "instruction": "Viêm dạ dày mạn tính tuýp A và tuýp B khác nhau như thế nào?",
+    "input": "",
+    "output": "Viêm dạ dày mạn tuýp A thường do cơ chế tự miễn, gây viêm ở phình vị, dịch vị không có acid và dễ dẫn đến thiếu máu. Trong khi đó, tuýp B xuất hiện nhiều ổ ở cả phình vị và hang vị, thường do vi khuẩn HP hoặc dịch mật trào ngược từ tá tràng lên dạ dày."
+  },
+  {
+    "instruction": "Tại sao việc lạm dụng thuốc giảm đau NSAIDs lại gây viêm dạ dày tá tràng?",
+    "input": "",
+    "output": "Các thuốc NSAIDs (như aspirin, ibuprofen) làm giảm sản xuất Prostaglandin E2 – một yếu tố quan trọng giúp bảo vệ niêm mạc. Khi thiếu hụt yếu tố này, lớp niêm mạc dễ dàng bị acid dịch vị tấn công và gây ra các tổn thương viêm loét."
+  },
+  {
+    "instruction": "Biến chứng 'thiếu máu ác tính' trong viêm dạ dày tự miễn phát sinh ra sao?",
+    "input": "",
+    "output": "Trong viêm dạ dày tự miễn, cơ thể sản sinh kháng thể tấn công tế bào sản xuất gastrin và các tế bào thành dạ dày, dẫn đến tình trạng kém hấp thu vitamin B12. Việc thiếu hụt B12 khiến cơ thể không đủ nguyên liệu để tạo ra tế bào hồng cầu, gây nên thiếu máu ác tính."
+  },
+  {
+    "instruction": "Phương pháp nội soi đường tiêu hóa trên có vai trò gì trong chẩn đoán?",
+    "input": "",
+    "output": "Nội soi là 'tiêu chuẩn vàng' giúp bác sĩ quan sát trực tiếp niêm mạc để xác định vị trí, mức độ viêm loét. Ngoài ra, nội soi còn cho phép thực hiện test urease để tìm vi khuẩn HP và bấm sinh thiết để tầm soát sớm các tế bào ung thư dạ dày."
+  },
+  {
+    "instruction": "Phác đồ điều trị viêm dạ dày do vi khuẩn HP có điểm gì đặc biệt?",
+    "input": "",
+    "output": "Điều trị vi khuẩn HP bắt buộc phải sử dụng phối hợp ít nhất hai loại kháng sinh cùng với thuốc ức chế bài tiết acid trong thời gian tối thiểu 2 tuần. Sau khi kết thúc phác đồ, bệnh nhân cần được đánh giá lại (thông qua hơi thở hoặc nội soi) để đảm bảo vi khuẩn đã được tiêu diệt hoàn toàn."
+  },
+  {
+    "instruction": "Nguyên nhân phổ biến nhất gây ra viêm họng là gì?",
+    "input": "",
+    "output": "Khoảng 80% trường hợp viêm họng là do các loại virus gây ra, điển hình như virus cúm A, cúm B, coronavirus và parainfluenza virus. Ngoài ra, vi khuẩn (phế cầu, tụ cầu) và các yếu tố môi trường như khói bụi, rượu bia cũng là nguyên nhân quan trọng."
+  },
+  {
+    "instruction": "Làm thế nào để nhận biết triệu chứng viêm họng qua quan sát và cảm giác?",
+    "input": "",
+    "output": "Người bệnh có thể nhận thấy niêm mạc họng sưng đỏ, xung huyết qua soi họng. Các triệu chứng đi kèm bao gồm đau rát cổ họng khi nuốt, sưng hạch bạch huyết ở cổ, khan tiếng và dịch tiết họng trở nên đặc, sẫm màu hơn."
+  },
+  {
+    "instruction": "Viêm họng do liên cầu khuẩn gây ra những biến chứng nguy hiểm nào?",
+    "input": "",
+    "output": "Đây là trường hợp đặc biệt nguy hiểm vì có thể dẫn đến nhiễm khuẩn huyết, gây ra các biến chứng xa tại các cơ quan khác như viêm tim và viêm thận. Ngoài ra, viêm họng nói chung có thể gây viêm tai giữa, viêm xoang hoặc áp xe phổi nếu không điều trị đúng cách."
+  },
+  {
+    "instruction": "Những phương pháp chăm sóc tại nhà nào giúp giảm đau rát họng hiệu quả?",
+    "input": "",
+    "output": "Người bệnh nên súc miệng bằng nước muối ấm ít nhất mỗi giờ một lần để sát khuẩn. Ngoài ra, uống trà gừng mật ong để tiêu viêm, làm sạch đờm và sử dụng máy tạo độ ẩm trong phòng điều hòa để tránh làm khô niêm mạc họng."
+  },
+  {
+    "instruction": "Khi nào người bị viêm họng cần phải đến gặp bác sĩ ngay lập tức?",
+    "input": "",
+    "output": "Cần đi khám ngay nếu xuất hiện các dấu hiệu nặng như: sốt cao, khó thở, cứng cổ, chảy nước dãi không kiểm soát được, có máu trong dịch đờm/nước bọt hoặc khi các triệu chứng đau họng kéo dài trên một tuần."
+  },
+  {
+    "instruction": "Tại sao không nên lạm dụng kháng sinh ngay khi mới bị viêm họng nhẹ?",
+    "input": "",
+    "output": "Việc lạm dụng kháng sinh khi bệnh còn nhẹ hoặc do virus gây ra sẽ khiến cơ thể dễ gặp tình trạng kháng kháng sinh. Thay vào đó, người bệnh có thể áp dụng các phương pháp tự nhiên như súc miệng nước muối hoặc dùng trà mật ong để bệnh tự thuyên giảm."
+  },
+  {
+    "instruction": "Cách pha nước muối súc miệng chuẩn để giảm đau rát họng là gì?",
+    "input": "",
+    "output": "Người bệnh nên pha khoảng 1 thìa muối (tương đương 5g) với 237ml nước lọc ấm. Nên súc miệng với dung dịch này ít nhất mỗi giờ một lần để xoa dịu cảm giác đau và nóng rát cổ họng."
+  },
+  {
+    "instruction": "Những bài thuốc dân gian nào từ thực phẩm có thể hỗ trợ trị viêm họng?",
+    "input": "",
+    "output": "Các bài thuốc hiệu quả bao gồm: gừng trộn mật ong dùng kèm sữa nóng, nước bột nghệ pha muối, bột quế đun với nước và hạt tiêu, hoặc sử dụng hỗn hợp dấm trắng pha mật ong và chanh để nhấp từng hớp nhỏ."
+  },
+  {
+    "instruction": "Tại sao trào ngược dạ dày thực quản (GERD) lại dẫn đến viêm họng?",
+    "input": "",
+    "output": "Bệnh trào ngược dạ dày thực quản khiến axit từ dạ dày tràn ngược lên thực quản và vùng họng. Axit này gây kích ứng mạnh niêm mạc, tạo cảm giác nóng rát và khó chịu thường xuyên ở cổ họng."
+  },
+  {
+    "instruction": "Trẻ em bị viêm họng do vi khuẩn Streptococcus nếu không dùng kháng sinh kịp thời sẽ có nguy cơ gì?",
+    "input": "",
+    "output": "Nếu trẻ bị nhiễm vi khuẩn Streptococcus (liên cầu khuẩn) mà không được điều trị đúng phác đồ kháng sinh từ bác sĩ, trẻ sẽ đối mặt với nguy cơ cao bị biến chứng sốt thấp khớp và viêm thận."
+  },
+  {
+    "instruction": "Viêm họng hạt thực chất là gì và tại sao nó lại dễ bị viêm nhiễm?",
+    "input": "",
+    "output": "Viêm họng hạt là một thể của viêm họng mạn tính quá phát, trong đó các mô lympho ở thành sau họng tăng sinh và phình to như hạt đậu. Do các mô này đã bị mất chức năng miễn dịch nên chúng không còn khả năng bảo vệ mà ngược lại rất dễ bị vi khuẩn, virus tấn công gây viêm."
+  },
+  {
+    "instruction": "Tại sao bác sĩ khuyến cáo không nên dùng kháng sinh cho 90% các ca viêm họng?",
+    "input": "",
+    "output": "Theo thống kê, khoảng 90% số ca viêm họng là do virus gây ra (như virus cúm, sởi, thủy đậu). Kháng sinh hoàn toàn không có hiệu quả đối với virus; việc sử dụng kháng sinh trong trường hợp này là không cần thiết và có thể gây kháng thuốc. Bệnh do virus thường tự khỏi nhờ hệ miễn dịch và chỉ cần điều trị triệu chứng."
+  },
+  {
+    "instruction": "Viêm họng do liên cầu khuẩn có thể gây ra những biến chứng nguy hiểm nào cho trẻ em?",
+    "input": "",
+    "output": "Nếu không được điều trị dứt điểm bằng kháng sinh đúng liều, viêm họng do liên cầu khuẩn có thể gây ra các biến chứng nghiêm trọng như sốt thấp khớp (ảnh hưởng đến tim), viêm thận, áp xe quanh amidan, và đặc biệt là hoại tử vùng cổ ở trẻ từ 1-2 tuổi."
+  },
+  {
+    "instruction": "Những thực phẩm nào người bị viêm họng nên ăn và nên tránh để nhanh khỏi bệnh?",
+    "input": "",
+    "output": "Người bệnh nên ăn thực phẩm giàu Vitamin C, kẽm (dâu tây, bông cải) và thực phẩm kháng viêm (gừng, nghệ). Ngược lại, nên tránh thực phẩm dầu mỡ, gia vị cay nóng vì gây kích ứng niêm mạc; tránh thức ăn khô cứng vì dễ làm tổn thương họng khi nuốt; và hạn chế rượu bia, thuốc lá."
+  },
+  {
+    "instruction": "Khi nào tình trạng khàn giọng ở người bị viêm họng trở nên đáng báo động?",
+    "input": "",
+    "output": "Theo Bác sĩ Hằng, nếu tình trạng khàn giọng kéo dài hơn hai tuần hoặc đi kèm với các dấu hiệu như xuất hiện khối u ở cổ họng, sưng mặt, hoặc khạc ra máu, người bệnh cần đến bệnh viện ngay lập tức để tầm soát các bệnh lý nghiêm trọng, bao gồm cả ung thư vòm mũi họng."
+  },
+  {
+    "instruction": "Viêm họng teo là gì và dấu hiệu nhận biết đặc trưng của nó?",
+    "input": "",
+    "output": "Viêm họng teo là giai đoạn sau của viêm họng quá phát lâu ngày. Dấu hiệu đặc trưng là niêm mạc họng có màu trắng bệch, mỏng và nhẵn, eo họng rộng ra. Sau khi dịch nhầy khô lại sẽ tạo thành các vảy dính chặt vào niêm mạc họng."
+  },
+  {
+    "instruction": "Tại sao bác sĩ chỉ định dùng kháng sinh thêm ít nhất 3 ngày sau khi các triệu chứng viêm họng đã biến mất?",
+    "input": "",
+    "output": "Việc duy trì uống kháng sinh ít nhất 3 ngày sau khi hết triệu chứng hoàn toàn nhằm mục đích tiêu diệt tận gốc vi khuẩn, ngăn ngừa tình trạng kháng thuốc và tránh nguy cơ tái nhiễm ngay lập tức."
+  },
+  {
+    "instruction": "Những biến chứng nguy hiểm nào có thể xảy ra nếu viêm họng do vi khuẩn không được chữa trị kịp thời?",
+    "input": "",
+    "output": "Viêm họng do vi khuẩn có thể dẫn đến các biến chứng tại chỗ như áp xe amidan; biến chứng lân cận như viêm tai, viêm xoang, viêm thanh quản; và đặc biệt là các biến chứng xa nguy hiểm như viêm cầu thận hoặc nhiễm trùng huyết."
+  },
+  {
+    "instruction": "Phương pháp can thiệp thủ thuật xâm lấn nào được dùng để điều trị viêm họng quá phát?",
+    "input": "",
+    "output": "Đối với trường hợp viêm họng quá phát (có các hạt lympho nổi cộm), bác sĩ có thể chỉ định các thủ thuật xâm lấn như đốt điện, đốt nóng, sử dụng nitơ lỏng hoặc laser để loại bỏ các hạt lympho ở thành họng."
+  },
+  {
+    "instruction": "Ngoài virus và vi khuẩn, yếu tố môi trường nào thường gây viêm họng vào mùa đông?",
+    "input": "",
+    "output": "Không khí khô là tác nhân phổ biến gây viêm họng vào mùa đông. Nó khiến miệng và cổ họng của người bệnh có cảm giác khô, ngứa và kích ứng, tạo điều kiện cho các cơn đau họng khởi phát."
+  },
+  {
+    "instruction": "Tại sao Adenovirus lại khác biệt so với các loại virus gây viêm họng thông thường khác?",
+    "input": "",
+    "output": "Adenovirus không chỉ gây ra các triệu chứng cảm lạnh và viêm họng thông thường mà còn có khả năng gây ra viêm kết mạc, hay còn gọi là đau mắt đỏ, đi kèm với tình trạng đau họng."
+  },
+  {
+    "instruction": "Làm thế nào để phân biệt triệu chứng giữa viêm họng liên cầu khuẩn và bệnh bạch cầu đơn nhân?",
+    "input": "",
+    "output": "Viêm họng liên cầu khuẩn thường gây cổ họng tấy đỏ với mảng trắng/xám, sốt và buồn nôn. Trong khi đó, bệnh bạch cầu đơn nhân (do virus Epstein-Barr) thường gây mệt mỏi cực độ, sưng hạch bạch huyết toàn thân và có thể xuất hiện phát ban."
+  },
+  {
+    "instruction": "Bệnh viêm họng lây lan qua những con đường nào?",
+    "input": "",
+    "output": "Vi trùng sinh sống trong mũi và họng sẽ lây lan khi người bệnh ho hoặc hắt hơi. Người lành có thể nhiễm bệnh nếu hít phải dịch tiết, chạm vào đồ vật nhiễm bẩn rồi đưa lên mắt/mũi/miệng, hoặc dùng chung đồ ăn uống với người bệnh."
+  },
+  {
+    "instruction": "Thời gian lây nhiễm của người bị viêm họng do virus và vi khuẩn khác nhau như thế nào?",
+    "input": "",
+    "output": "Nếu nhiễm virus, bạn có khả năng phát tán bệnh cho đến khi hết sốt hoàn toàn. Nếu mắc liên cầu khuẩn (vi khuẩn), bạn có thể lây truyền vi khuẩn từ khi nhiễm bệnh cho đến sau 24 giờ kể từ lúc bắt đầu dùng thuốc kháng sinh."
+  },
+  {
+    "instruction": "Viêm họng có thể dẫn đến những biến chứng gì nếu không điều trị kịp thời?",
+    "input": "",
+    "output": "Nếu không được xử lý đúng cách, tình trạng nhiễm trùng có thể lan rộng và gây ra các biến chứng như nhiễm trùng tai, viêm xoang hoặc hình thành các khối áp xe nguy hiểm gần vùng amidan."
+  },
+  {
+    "instruction": "Tại sao trẻ em dưới 2 tháng tuổi bị viêm phổi bắt buộc phải nhập viện ngay lập tức?",
+    "input": "",
+    "output": "Ở trẻ dưới 2 tháng tuổi, mọi trường hợp viêm phổi đều được xem là nặng vì diễn tiến bệnh rất nhanh và nguy hiểm. Các dấu hiệu ở lứa tuổi này thường nghèo nàn (như bú kém, hạ thân nhiệt) nhưng có thể dẫn đến suy hô hấp và tử vong nhanh chóng nếu không được can thiệp y tế kịp thời."
+  },
+  {
+    "instruction": "Viêm phổi khác với viêm tiểu phế quản như thế nào dù triệu chứng khá giống nhau?",
+    "input": "",
+    "output": "Sự khác biệt nằm ở vị trí tổn thương: Viêm tiểu phế quản là tình trạng viêm nhiễm ở các ống dẫn khí nhỏ (nhánh nhỏ) trong phổi, trong khi viêm phổi là tình trạng nhiễm trùng sâu bên trong nhu mô phổi (bao gồm phế nang và các tổ chức liên kết)."
+  },
+  {
+    "instruction": "Làm thế nào để phân biệt ho do viêm phổi thông thường và ho do ung thư phổi?",
+    "input": "",
+    "output": "Ho do viêm phổi thường đi kèm sốt cấp tính và đờm mủ, có thể thuyên giảm sau đợt điều trị kháng sinh. Trong khi đó, ho do ung thư phổi thường dai dẳng kéo dài trên 2 tuần, không đáp ứng với kháng sinh thông thường và đặc biệt nguy hiểm nếu kèm theo ho ra máu hoặc sụt cân."
+  },
+  {
+    "instruction": "Tại sao người bệnh viêm phổi không nên tự ý ngưng thuốc kháng sinh khi vừa cảm thấy khỏe hơn?",
+    "input": "",
+    "output": "Việc ngưng kháng sinh quá sớm khi thấy triệu chứng giảm sẽ khiến vi khuẩn chưa bị tiêu diệt hết. Những vi khuẩn còn sót lại sẽ tiếp tục nhân lên, dẫn đến tái phát bệnh với mức độ nặng hơn và làm tăng nguy cơ kháng thuốc cho các lần điều trị sau."
+  },
+  {
+    "instruction": "Những biến chứng xa của viêm phổi có thể gây hại cho các cơ quan ngoài phổi như thế nào?",
+    "input": "",
+    "output": "Nếu vi khuẩn từ phổi xâm nhập vào máu sẽ gây ra nhiễm trùng huyết. Từ đường máu, vi khuẩn có thể di chuyển và gây tổn thương đến các cơ quan khác, dẫn đến tình trạng suy đa tạng, viêm nội tâm mạc hoặc viêm màng não, đe dọa trực tiếp đến tính mạng."
+  },
+  {
+    "instruction": "Tại sao phế cầu khuẩn (Streptococcus pneumoniae) được coi là 'thủ phạm' nguy hiểm nhất gây viêm phổi?",
+    "input": "",
+    "output": "Phế cầu khuẩn có độc lực rất mạnh, có khả năng gây vỡ hồng cầu và xâm nhập làm chết tế bào. Đây là tác nhân gây tử vong từ 10-20% ở người lớn và lên đến 50% ở các nhóm đối tượng nguy cơ cao. Hiện nay, vi khuẩn này đang gia tăng mức độ kháng kháng sinh, khiến việc điều trị trở nên cực kỳ tốn kém và phức tạp khi phải phối hợp từ 2-3 loại kháng sinh liều cao."
+  },
+  {
+    "instruction": "Viêm phổi bệnh viện khác biệt thế nào so với viêm phổi cộng đồng về mức độ nguy hiểm?",
+    "input": "",
+    "output": "Viêm phổi bệnh viện thường nguy hiểm hơn do các tác nhân gây bệnh là những vi khuẩn đa kháng thuốc (như MRSA, vi khuẩn Gram âm đường ruột). Đặc biệt, khoảng 90% ca viêm phổi bệnh viện tại Việt Nam liên quan đến thở máy. Bệnh thường khó chẩn đoán, thời gian điều trị kéo dài và chi phí y tế rất lớn so với viêm phổi mắc phải tại cộng đồng."
+  },
+  {
+    "instruction": "Tại sao phụ nữ mang thai mắc viêm phổi do Covid-19 lại được coi là một tình trạng 'tồi tệ'?",
+    "input": "",
+    "output": "Khi mang thai, hệ miễn dịch và chức năng tim - phổi của phụ nữ đều suy giảm. Nếu mắc Covid-19 biến chứng viêm phổi, gánh nặng bệnh tật lớn gấp trăm lần người bình thường: mẹ phải dùng kháng sinh liều cao, can thiệp thở máy hoặc ECMO, trong khi thai nhi đối mặt với nguy cơ sinh non, sảy thai hoặc lây nhiễm bệnh, đe dọa tính mạng của cả hai."
+  },
+  {
+    "instruction": "Làm thế nào để phân biệt con đường lây truyền trực tiếp và gián tiếp của bệnh viêm phổi?",
+    "input": "",
+    "output": "Lây truyền trực tiếp xảy ra khi hít phải virus, vi khuẩn thông qua các giọt bắn khi người bệnh ho, hắt hơi hoặc nói chuyện gần. Lây truyền gián tiếp xảy ra khi người lành chạm tay vào các bề mặt, đồ dùng cá nhân (khăn, cốc, đũa) có chứa mầm bệnh (vốn có thể sống vài giờ trên vật dụng), sau đó vô tình đưa tay lên mắt, mũi hoặc miệng."
+  },
+  {
+    "instruction": "VNVC khuyến cáo những loại vắc xin nào là 'lá chắn' quan trọng nhất để bảo vệ phổi hiện nay?",
+    "input": "",
+    "output": "Các loại vắc xin thiết yếu bao gồm: vắc xin phòng phế cầu khuẩn (Prevenar 13, Synflorix, Pneumovax 23), vắc xin cúm mùa, vắc xin phòng não mô cầu, vắc xin 6 trong 1 hoặc 5 trong 1 (phòng Hib), và đặc biệt là các loại vắc xin mới phòng virus hợp bào hô hấp (RSV) như Abrysvo hoặc Arexvy."
+  },
+  {
+    "instruction": "Viêm phổi là gì?",
+    "input": "",
+    "output": "Viêm phổi là bệnh lý hô hấp xảy ra khi các túi khí trong phổi (phế nang) bị viêm và tích tụ dịch hoặc mủ, làm giảm khả năng trao đổi oxy, gây khó thở, sốt và ho."
+  },
+  {
+    "instruction": "Nguyên nhân gây viêm phổi là gì?",
+    "input": "",
+    "output": "Viêm phổi có thể do vi khuẩn, virus, nấm hoặc hóa chất. Phổ biến nhất là vi khuẩn Streptococcus pneumoniae, virus cúm, RSV, và các vi khuẩn kháng thuốc trong bệnh viện."
+  },
+  {
+    "instruction": "Triệu chứng thường gặp của viêm phổi là gì?",
+    "input": "",
+    "output": "Triệu chứng gồm sốt, ho khan hoặc ho có đờm, khó thở, đau ngực khi hít sâu, ớn lạnh, mệt mỏi và có thể tím tái ở môi hoặc đầu ngón tay trong trường hợp nặng."
+  },
+  {
+    "instruction": "Viêm phổi có thể gây biến chứng gì?",
+    "input": "",
+    "output": "Viêm phổi có thể gây tràn mủ màng phổi, áp xe phổi, suy hô hấp cấp, nhiễm khuẩn huyết và tổn thương đa cơ quan, đặc biệt nguy hiểm ở người già và người có bệnh nền."
+  },
+  {
+    "instruction": "Cách phòng ngừa viêm phổi như thế nào?",
+    "input": "",
+    "output": "Phòng ngừa viêm phổi bằng cách tiêm vắc xin, giữ vệ sinh cá nhân, đeo khẩu trang nơi đông người, tránh hút thuốc, giữ môi trường sống sạch và duy trì lối sống lành mạnh."
+  },
+  {
+    "instruction": "Tại sao việc lạm dụng điều hòa và nước lạnh vào mùa hè lại làm tăng nguy cơ mắc viêm phổi?",
+    "input": "",
+    "output": "Việc sử dụng điều hòa quá lạnh trong nhiều giờ liên tục và uống nước lạnh thường xuyên làm thay đổi đột ngột nhiệt độ vùng hầu họng, gây kích ứng đường hô hấp và suy giảm khả năng phòng vệ tự nhiên của phổi, tạo điều kiện thuận lợi cho vi khuẩn và virus xâm nhập gây viêm."
+  },
+  {
+    "instruction": "Đờm của người bệnh viêm phổi có những màu sắc đặc trưng nào để nhận biết căn nguyên?",
+    "input": "",
+    "output": "Màu sắc đờm có thể gợi ý tình trạng bệnh: đờm màu rỉ sắt là dấu hiệu điển hình của viêm phổi do phế cầu; ngoài ra đờm có thể có màu vàng hoặc xanh, đôi khi khạc đờm như mủ và có mùi hôi thối nếu có tình trạng nhiễm trùng nặng."
+  },
+  {
+    "instruction": "Dấu hiệu nào cho thấy người bệnh viêm phổi đang rơi vào tình trạng suy hô hấp cấp cần cấp cứu?",
+    "input": "",
+    "output": "Khi người bệnh xuất hiện dấu hiệu tím tái ở môi và các đầu chi, thở nhanh nông, có sự co kéo rõ rệt của các cơ hô hấp (hoặc co rút lồng ngực ở trẻ em), đó là bằng chứng của việc thiếu oxy trong máu và cần được can thiệp y tế khẩn cấp."
+  },
+  {
+    "instruction": "Tại sao một số người già hoặc trẻ nhỏ mắc viêm phổi nặng nhưng lại không có biểu hiện sốt cao?",
+    "input": "",
+    "output": "Ở những đối tượng có sức đề kháng suy giảm nhiều như người già và trẻ nhỏ, cơ thể không đủ khả năng tạo ra phản ứng sốt mạnh mẽ. Thậm chí, thay vì sốt, người bệnh có thể biểu hiện bằng tình trạng hạ thân nhiệt, khiến bệnh dễ bị bỏ qua và trở nên nguy hiểm hơn."
+  },
+  {
+    "instruction": "Người bệnh viêm phổi cần thực hiện hành vi vệ sinh thế nào để tránh lây lan mầm bệnh cho cộng đồng?",
+    "input": "",
+    "output": "Người bệnh cần che miệng khi ho hoặc hắt hơi bằng khăn giấy hoặc mặt trong cánh tay (ống tay áo). Đồng thời, phải rửa tay bằng xà phòng ngay sau khi chạm vào mũi, miệng, sau khi ho/hắt hơi và trước khi ăn để tiêu diệt mầm bệnh dính trên tay."
+  },
+  {
+    "instruction": "Những loại viêm phổi nào không lây truyền từ người sang người?",
+    "input": "",
+    "output": "Theo Sở Y tế Nghệ An, viêm phổi do nấm, ký sinh trùng hoặc do hít phải bụi kim loại là những trường hợp không có khả năng lây truyền giữa người với người."
+  },
+  {
+    "instruction": "Tại sao việc rửa tay lại quan trọng trong việc phòng ngừa viêm phổi dù đây là bệnh đường hô hấp?",
+    "input": "",
+    "output": "Dù là bệnh hô hấp nhưng virus và vi khuẩn thường lây lan qua trung gian bàn tay nhiễm bẩn khi tiếp xúc với các bề mặt hoặc người bị bệnh. Rửa tay thường xuyên giúp loại bỏ tác nhân gây bệnh trước khi chúng xâm nhập vào cơ thể qua mũi, miệng."
+  },
+  {
+    "instruction": "Biểu hiện sốt ở người già và trẻ em khi mắc viêm phổi có gì đặc biệt?",
+    "input": "",
+    "output": "Ở người già và trẻ nhỏ có sức đề kháng suy giảm, đôi khi họ không có biểu hiện sốt mà thay vào đó là tình trạng hạ thân nhiệt. Điều này đòi hỏi sự quan sát kỹ lưỡng các dấu hiệu khác như nhịp thở hoặc màu da."
+  },
+  {
+    "instruction": "Đờm 'màu rỉ sắt' là dấu hiệu của tình trạng gì?",
+    "input": "",
+    "output": "Đờm màu rỉ sắt là triệu chứng điển hình của bệnh viêm phổi, thường xuất hiện trong các cơn ho kèm theo đờm vàng xanh hoặc có mùi hôi thối tùy theo căn nguyên nhiễm trùng."
+  },
+  {
+    "instruction": "Điều trị viêm phổi tại nhà cần lưu ý những mốc thời gian nào?",
+    "input": "",
+    "output": "Hầu hết các triệu chứng sẽ thuyên giảm trong vài ngày hoặc vài tuần. Tuy nhiên, cảm giác mệt mỏi và khó chịu có thể kéo dài từ 1 tháng trở lên. Người bệnh cần tuân thủ lịch tái khám và nhập viện ngay nếu sốt cao không hạ hoặc khó thở."
+  },
+  {
+    "instruction": "Tại sao chất Clo trong hồ bơi lại là tác nhân gây viêm xoang?",
+    "input": "",
+    "output": "Chất Clo trong nước hồ bơi có tác dụng phụ là làm sưng tấy niêm mạc khoang mũi, dẫn đến tình trạng viêm nhiễm các mô và gây tắc nghẽn các xoang mũi, tạo điều kiện cho vi khuẩn phát triển."
+  },
+  {
+    "instruction": "Dấu hiệu điển hình nhất để nhận biết một người đang bị viêm mũi xoang là gì?",
+    "input": "",
+    "output": "Dấu hiệu thường thấy nhất là đau nhức đầu vùng trán, thái dương hoặc gò má. Đi kèm với đó là tình trạng dịch mũi chảy xuống họng có màu xanh hoặc vàng, mùi hôi và suy giảm khứu giác."
+  },
+  {
+    "instruction": "Khi nào bệnh viêm xoang được phân loại là mạn tính?",
+    "input": "",
+    "output": "Bệnh viêm xoang được coi là mạn tính khi các triệu chứng viêm nhiễm niêm mạc xoang kéo dài dai dẳng, không dứt trên 3 tháng dù đã qua các đợt điều trị."
+  },
+  {
+    "instruction": "Việc vệ sinh cá nhân kém ảnh hưởng thế nào đến tình trạng viêm xoang?",
+    "input": "",
+    "output": "Mũi là bộ phận thường xuyên tiếp xúc với bụi bẩn môi trường. Nếu không vệ sinh sạch sẽ, vi khuẩn sẽ tích tụ và phát triển bên trong, không chỉ làm tăng nguy cơ mắc bệnh mới mà còn khiến bệnh cũ tái phát liên tục."
+  },
+  {
+    "instruction": "Tại sao việc tự ý dùng kháng sinh trị viêm xoang lại có thể khiến bệnh tồi tệ hơn?",
+    "input": "",
+    "output": "Tự ý dùng kháng sinh không đúng liều lượng hoặc quá mức cho phép sẽ gây hiện tượng 'nhờn thuốc' (kháng kháng sinh). Điều này khiến vi khuẩn không bị tiêu diệt, bệnh kéo dài dai dẳng và dễ dẫn đến các biến chứng nguy hiểm như viêm ổ mắt hay chèn ép dây thần kinh thị giác."
+  },
+  {
+    "instruction": "Dấu hiệu nào cho thấy viêm mũi xoang đã bắt đầu chuyển sang giai đoạn nặng?",
+    "input": "",
+    "output": "Theo Vinmec, khi bệnh trở nặng, ngoài nghẹt mũi và chảy dịch vàng xanh, người bệnh sẽ xuất hiện các triệu chứng như sốt, ho, nặng mặt, đau nhức đầu vùng trán, thái dương hoặc gò má, đặc biệt là giảm khả năng cảm nhận mùi hoặc mất khứu giác hoàn toàn."
+  },
+  {
+    "instruction": "Tại sao việc chụp cắt lớp vi tính (CT Scan) lại cần thiết trong một số trường hợp viêm xoang?",
+    "input": "",
+    "output": "Chụp CT Scan giúp bác sĩ nhìn thấy hình ảnh dịch trong các hốc xoang (vốn bình thường chỉ chứa khí) và tình trạng phù nề niêm mạc. Đặc biệt, phương pháp này giúp phát hiện các bất thường giải phẫu như lệch vách ngăn, polyp mũi để khảo sát kỹ trước khi phẫu thuật."
+  },
+  {
+    "instruction": "Bất thường giải phẫu mũi xoang gồm những gì và ảnh hưởng thế nào đến bệnh?",
+    "input": "",
+    "output": "Các bất thường phổ biến gồm lệch vách ngăn mũi, polyp mũi và phì đại cuốn mũi. Những tình trạng này dù hiếm gặp hơn vi khuẩn/virus nhưng lại gây cản trở lưu thông mũi xoang, là nguyên nhân gốc rễ dẫn đến viêm xoang kéo dài."
+  },
+  {
+    "instruction": "Tại sao viêm xoang thường được coi là căn bệnh khó kiểm soát và hay tái phát?",
+    "input": "",
+    "output": "Bệnh khó chữa dứt điểm khi tình trạng viêm cấp tính không được điều trị triệt để dẫn đến mạn tính. Ngoài ra, nếu các yếu tố dị ứng (phấn hoa, khói bụi) vẫn tồn tại trong môi trường sống của người bệnh thì bệnh lý rất khó được kiểm soát hoàn toàn."
+  },
+  {
+    "instruction": "Khi nào người bệnh viêm xoang được chỉ định can thiệp bằng phẫu thuật?",
+    "input": "",
+    "output": "Phẫu thuật được chỉ định khi điều trị nội khoa kéo dài nhiều năm không hiệu quả, khi bệnh gây biến chứng nguy hiểm như viêm ổ mắt, chèn ép dây thần kinh thị giác, hoặc có các bất thường giải phẫu vùng mũi xoang cần giải quyết triệt để."
+  },
+  {
+    "instruction": "Sự khác biệt chính giữa viêm xoang cấp tính và viêm xoang mạn tính là gì?",
+    "input": "",
+    "output": "Viêm xoang cấp tính kéo dài tối đa 4 tuần, thường khởi đầu bằng vi-rút (cảm lạnh). Viêm xoang mạn tính là quá trình viêm kéo dài hơn, yêu cầu các triệu chứng phải xuất hiện trong ít nhất 12 tuần."
+  },
+  {
+    "instruction": "Tại sao viêm xoang do nấm xâm lấn (IFS) lại đặc biệt nguy hiểm?",
+    "input": "",
+    "output": "Đây là bệnh lý nghiêm trọng có khả năng gây tử vong, thường tấn công những người có hệ miễn dịch yếu (như bệnh nhân đái tháo đường). Nấm gây phá hủy mô ở trong và xung quanh mũi, xoang và lan rộng rất nhanh."
+  },
+  {
+    "instruction": "Những dấu hiệu cảnh báo 'đỏ' nào cho thấy viêm xoang đã lan sang mắt hoặc não?",
+    "input": "",
+    "output": "Người bệnh cần đi cấp cứu ngay nếu có các dấu hiệu: nhìn mờ hoặc song thị, sưng đỏ quanh mắt, sốt trên 38°C, cứng cổ, nhức đầu nặng hoặc lú lẫn tâm thần."
+  },
+  {
+    "instruction": "Lệch vách ngăn mũi và nhiễm trùng răng đóng vai trò gì trong bệnh viêm xoang?",
+    "input": "",
+    "output": "Lệch vách ngăn là một bất thường giải phẫu làm hẹp đường thoát của dịch nhầy, gây tắc nghẽn xoang. Trong khi đó, nhiễm trùng răng thường dẫn đến viêm xoang hàm tách biệt do vị trí răng gần với hốc xoang này."
+  },
+  {
+    "instruction": "Làm thế nào để phòng tránh viêm xoang một cách chủ động?",
+    "input": "",
+    "output": "Bạn có thể phòng tránh bằng cách không hút thuốc, giữ tay sạch sẽ, tiêm ngừa cúm và phế cầu khuẩn, đồng thời kiểm soát tốt các tình trạng dị ứng để tránh kích thích niêm mạc mũi."
+  },
+  {
+    "instruction": "Viêm xoang bướm nguy hiểm như thế nào so với các loại viêm xoang khác?",
+    "input": "",
+    "output": "Viêm xoang bướm được đánh giá là đặc biệt nguy hiểm vì triệu chứng diễn tiến rất nhanh (sốt cao, rét run, đau gáy). Bệnh dễ lan nhanh ra hai bên mắt và có tỷ lệ tử vong rất cao nếu không được can thiệp kịp thời."
+  },
+  {
+    "instruction": "Tại sao không nên lạm dụng thuốc xịt mũi thông thường quá 5 ngày?",
+    "input": "",
+    "output": "Lạm dụng thuốc xịt mũi có thể làm tắc nghẽn các mạch máu trong mũi, dẫn đến tình trạng lệ thuộc thuốc và làm cho các triệu chứng viêm xoang trở nên nặng nề hơn."
+  },
+  {
+    "instruction": "Phân biệt viêm xoang cấp tính và mạn tính dựa trên thời gian như thế nào?",
+    "input": "",
+    "output": "Viêm xoang cấp tính thường hết trong vòng 1 – 4 tuần. Nếu tình trạng viêm kéo dài hơn 12 tuần thì bệnh đã chuyển sang giai đoạn mạn tính."
+  },
+  {
+    "instruction": "Người bị hen suyễn và dị ứng có nguy cơ mắc loại viêm xoang nào cao nhất?",
+    "input": "",
+    "output": "Những người bị dị ứng và hen suyễn thường dễ mắc 'Viêm xoang tái phát' – tình trạng trải qua nhiều đợt viêm xoang cấp tính lặp lại nhiều lần trong vòng một năm."
+  },
+  {
+    "instruction": "Đi máy bay ảnh hưởng thế nào đến người đang bị viêm xoang?",
+    "input": "",
+    "output": "Áp suất không khí giảm khi lên cao gây áp lực tích tụ trong đầu và chặn đường dẫn khí, khiến các triệu chứng đau đầu và nghẹt mũi trở nên nghiêm trọng hơn. Người bệnh nên dùng thuốc nhỏ mũi hoặc ống hít trước khi máy bay cất/hạ cánh."
+  },
+  {
+    "instruction": "Làm thế nào để phân biệt vị trí đau của các loại viêm xoang khác nhau?",
+    "input": "",
+    "output": "Vị trí đau giúp chỉ điểm xoang bị ảnh hưởng: xoang hàm gây đau hàm trên và răng; xoang trán gây đau nhức vùng trán; xoang sàng gây đau phía sau và giữa hai mắt; trong khi xoang bướm thường gây đau ở vùng đỉnh đầu hoặc vùng chẩm (phía sau đầu)."
+  },
+  {
+    "instruction": "Tại sao bác sĩ khuyên không nên dùng thuốc co mạch xịt mũi quá 5 ngày?",
+    "input": "",
+    "output": "Sử dụng thuốc co mạch tại chỗ (như oxymetazoline) quá 5 ngày có thể gây hiện tượng thuốc phản tác dụng, khiến niêm mạc mũi bị phù nề nặng hơn và người bệnh bị lệ thuộc vào thuốc."
+  },
+  {
+    "instruction": "Những đối tượng nào có nguy cơ kháng kháng sinh cao khi điều trị viêm xoang?",
+    "input": "",
+    "output": "Những người có nguy cơ kháng thuốc bao gồm: trẻ em dưới 2 tuổi, người già trên 65 tuổi, những người đã sử dụng kháng sinh trong vòng 1 tháng trước đó hoặc vừa nhập viện trong vòng 5 ngày qua, và người bị suy giảm miễn dịch."
+  },
+  {
+    "instruction": "Biến chứng nguy hiểm nhất của viêm xoang đối với thị giác là gì?",
+    "input": "",
+    "output": "Viêm xoang có thể gây biến chứng viêm thị thần kinh hậu nhãn cầu. Đây là tình trạng cực kỳ nguy hiểm vì nó có thể dẫn đến mất thị lực hoàn toàn (mù lòa) nếu không được xử lý kịp thời."
+  },
+  {
+    "instruction": "Tại sao cảm lạnh thông thường lại dễ biến chứng thành viêm xoang do vi khuẩn?",
+    "input": "",
+    "output": "Virus cảm lạnh làm sung huyết các mô mũi và chặn bít các lỗ thông dẫn lưu xoang. Nếu tình trạng này kéo dài trên 10-15 ngày, dịch nhầy ứ đọng sẽ tạo môi trường lý tưởng cho vi khuẩn khu trú trong mũi họng phát triển và gây nhiễm trùng xoang."
+  },
+  {
+    "instruction": "Dấu hiệu nào cho thấy một cơn hen suyễn đang ở mức độ nguy hiểm cần cấp cứu ngay lập tức?",
+    "input": "",
+    "output": "Người bệnh cần hỗ trợ y tế ngay nếu có các biểu hiện: môi hoặc móng tay xanh tím, thở nhanh đến mức da quanh xương sườn bị kéo lõm vào khi hít vào, khó thở khi nói chuyện hoặc đi lại, và các triệu chứng không thuyên giảm dù đã dùng thuốc cứu hộ."
+  },
+  {
+    "instruction": "Tại sao yếu tố tâm lý lại ảnh hưởng đến người bệnh hen suyễn?",
+    "input": "",
+    "output": "Sự kích động về tâm lý như sợ hãi, lo âu, giận dữ hay căng thẳng thần kinh đều có thể tác động trực tiếp khiến tình trạng viêm đường hô hấp nặng hơn và kích hoạt các cơn hen cấp tính."
+  },
+  {
+    "instruction": "Phép đo xoắn ốc (Spirometry) có vai trò gì trong chẩn đoán hen suyễn?",
+    "input": "",
+    "output": "Đây là bài kiểm tra hơi thở đơn giản nhằm đo lượng không khí mà bệnh nhân có thể thổi ra và tốc độ thổi ra nhanh như thế nào, từ đó giúp bác sĩ đánh giá mức độ tắc nghẽn của đường dẫn khí."
+  },
+  {
+    "instruction": "Chất bảo quản Sulfites thường có trong những thực phẩm nào và ảnh hưởng gì đến bệnh hen?",
+    "input": "",
+    "output": "Sulfites là chất bảo quản có trong tôm, dưa chua, bia, rượu, trái cây khô và nước chanh đóng chai. Ở một số người, sulfites đóng vai trò là tác nhân gây dị ứng mạnh, kích khởi cơn hen suyễn đột ngột."
+  },
+  {
+    "instruction": "Sự khác biệt giữa thuốc kiểm soát dài hạn và thuốc cứu hộ trong điều trị hen là gì?",
+    "input": "",
+    "output": "Thuốc kiểm soát dài hạn (như Corticoid dạng hít) dùng hàng ngày để ngăn ngừa sưng tấy đường thở. Thuốc cứu hộ (như thuốc chủ vận beta tác dụng ngắn) dùng để làm giãn nhanh các cơ quanh đường thở và giảm triệu chứng tức thì khi cơn hen bùng phát."
+  },
+  {
+    "instruction": "Tại sao việc chẩn đoán hen suyễn ở trẻ em thường bị chậm trễ?",
+    "input": "",
+    "output": "Theo Tâm Anh, triệu chứng hen ở trẻ em đôi khi không rõ ràng (chỉ ho khi cười hoặc khi chơi đêm) và dễ nhầm lẫn với các bệnh viêm đường hô hấp khác, khiến việc phát hiện thường ở giai đoạn muộn."
+  },
+  {
+    "instruction": "Sự khác biệt cơ bản giữa hen suyễn và bệnh phổi tắc nghẽn mạn tính (COPD) là gì?",
+    "input": "",
+    "output": "Mặc dù cả hai đều gây khó thở, nhưng hen suyễn đặc trưng bởi tính chất 'hồi phục': sau cơn hen người bệnh có thể trở lại trạng thái bình thường và chức năng phổi cải thiện rõ rệt sau khi dùng thuốc giãn phế quản (test hồi phục dương tính)."
+  },
+  {
+    "instruction": "Chất bảo quản Sulfite ảnh hưởng như thế nào đến người bệnh hen?",
+    "input": "",
+    "output": "Sulfite (có trong tôm, đồ hộp, bia rượu, trái cây khô) là một tác nhân hóa học có thể kích hoạt cơn hen cấp tính đột ngột ở những người có cơ địa nhạy cảm."
+  },
+  {
+    "instruction": "Khi nào người bệnh hen suyễn được phân loại ở mức độ 'Nặng'?",
+    "input": "",
+    "output": "Bệnh nhân được xếp vào mức độ nặng khi không thể kiểm soát được triệu chứng dù đã điều trị ở bậc 4 hoặc bậc 5 (sử dụng ICS/LABA liều cao hoặc các thuốc kháng viêm đặc hiệu khác)."
+  },
+  {
+    "instruction": "Tiêm vắc xin có vai trò gì trong việc phòng ngừa cơn hen cấp?",
+    "input": "",
+    "output": "Tiêm vắc xin cúm (hàng năm) và phế cầu giúp giảm nguy cơ nhiễm trùng đường hô hấp – một trong những nguyên nhân phổ biến nhất làm bùng phát các đợt hen cấp tính nguy hiểm."
+  },
+  {
+    "instruction": "Tại sao hen suyễn ban đêm lại được cảnh báo là loại có tỷ lệ tử vong cao nhất?",
+    "input": "",
+    "output": "Hen suyễn ban đêm nguy hiểm do sự kết hợp của nhiều yếu tố: tư thế nằm gây khó thở, đường hô hấp dễ bị lạnh về đêm, thay đổi hormone theo nhịp sinh học và tình trạng ợ nóng, khiến các cơn co thắt trở nên trầm trọng và khó kiểm soát hơn khi đang ngủ."
+  },
+  {
+    "instruction": "Dấu hiệu nào giúp phân biệt ho do cảm lạnh thông thường với ho do hen suyễn?",
+    "input": "",
+    "output": "Mặc dù cả hai đều có thể gây ho, nhưng nếu cơn ho kéo dài, xuất hiện chủ yếu vào ban đêm hoặc sau khi vận động, kèm theo tình trạng đường thở bị thu hẹp, thì đó thường là dấu hiệu chỉ điểm của bệnh hen suyễn thay vì cảm lạnh thông thường."
+  },
+  {
+    "instruction": "Phụ nữ mang thai mắc hen suyễn cần lưu ý những rủi ro gì?",
+    "input": "",
+    "output": "Phụ nữ mang thai mắc hen (thường từ tuần 24-36) đối mặt với nguy cơ sản giật, xuất huyết âm đạo và sinh non. Ngoài ra, thai nhi có nguy cơ bị nhẹ cân hơn so với bình thường nếu bệnh của người mẹ không được kiểm soát tốt."
+  },
+  {
+    "instruction": "Tại sao việc tự ý sử dụng các thuốc giảm đau như Aspirin hay Ibuprofen lại nguy hiểm đối với người bệnh hen?",
+    "input": "",
+    "output": "Một số loại thuốc giảm đau không steroid (NSAIDs) như Aspirin, Ibuprofen hay Naproxen có thể là tác nhân trực tiếp kích khởi cơn hen cấp tính. Do đó, người bệnh tuyệt đối không được tự ý mua thuốc mà phải tuân thủ đúng phác đồ của bác sĩ."
+  },
+  {
+    "instruction": "Tầm soát hen và COPD bao gồm những bước kiểm tra chuyên sâu nào?",
+    "input": "",
+    "output": "Quy trình tầm soát thường bao gồm: khám lâm sàng chuyên khoa hô hấp, chụp X-quang phổi để kiểm tra hình ảnh tổn thương, đo hô hấp ký (có thử thuốc giãn phế quản) để đánh giá lưu lượng khí và xét nghiệm công thức máu."
+  },
+  {
+    "instruction": "Tại sao người bị hen suyễn tuyệt đối không nên nằm khi cơn hen đột ngột kéo đến?",
+    "input": "",
+    "output": "Khi cơn hen cấp tính xảy ra, việc nằm xuống sẽ khiến chất dịch nhầy tích tụ lại và che lấp đường thở nhanh hơn, gây khó thở nghiêm trọng hơn. Người bệnh được khuyên nên ngồi xuống để giúp đường hô hấp thông thoáng nhất có thể."
+  },
+  {
+    "instruction": "Chất Sulphite ảnh hưởng như thế nào đến niêm mạc đường hô hấp của bệnh nhân hen?",
+    "input": "",
+    "output": "Sulphite khi đi vào cơ thể sẽ giải phóng khí sulphur dioxide. Loại khí này gây ra phản ứng co thắt mạnh và kích ứng niêm mạc đường hô hấp, rất dễ dẫn đến các đợt hen suyễn cấp tính."
+  },
+  {
+    "instruction": "Sai lầm nguy hiểm nhất khi người bệnh chỉ sử dụng thuốc cắt cơn mà không dùng thuốc điều trị lâu dài là gì?",
+    "input": "",
+    "output": "Thuốc cắt cơn chỉ giải quyết triệu chứng tạm thời. Nếu không dùng thuốc kiểm soát viêm (điều trị gốc rễ), tình trạng viêm đường hô hấp mạn tính vẫn tiếp diễn, làm tăng độ nhạy phế quản và khiến các cơn hen dễ tái phát với mức độ nặng hơn."
+  },
+  {
+    "instruction": "Việc uống nhiều nước (2-3 lít/ngày) mang lại lợi ích cụ thể gì cho người bệnh hen suyễn?",
+    "input": "",
+    "output": "Nước giúp làm loãng dịch nhầy trong phế quản, ngăn chặn tình trạng đờm đặc bít tắc đường thở, từ đó giúp bệnh nhân hô hấp dễ dàng hơn và hỗ trợ quá trình thải độc của cơ thể."
+  },
+  {
+    "instruction": "Hen nội sinh khác hen ngoại sinh như thế nào về nguồn gốc phát bệnh?",
+    "input": "",
+    "output": "Hen nội sinh thường bộc phát sau khi đường hô hấp bị nhiễm khuẩn và không liên quan đến di truyền. Trong khi đó, hen ngoại sinh xảy ra do tiếp xúc với dị nguyên môi trường và thường liên quan đến tiền sử dị ứng của bản thân hoặc gia đình."
+  },
+  {
+    "instruction": "Dấu hiệu 'Hen suyễn về đêm' nghiêm trọng như thế nào đối với sức khỏe?",
+    "input": "",
+    "output": "Theo BS. Trần Thanh Long, hen suyễn về đêm không chỉ gây mất ngủ, mệt mỏi và cáu kỉnh vào ban ngày mà còn rất nghiêm trọng, cần được chẩn đoán đúng cách vì đây là thời điểm triệu chứng dễ bùng phát mạnh mẽ, đe dọa giấc ngủ và hô hấp của người bệnh."
+  },
+  {
+    "instruction": "Tại sao một số bệnh nhân hen suyễn lại được khuyên tránh dùng thuốc giảm đau như Ibuprofen hay Aspirin?",
+    "input": "",
+    "output": "Khoảng 20% bệnh nhân hen suyễn có cơ địa nhạy cảm với các thuốc chống viêm không steroid (NSAID). Khi sử dụng Aspirin hoặc Ibuprofen, họ có thể gặp hội chứng 'bộ ba' (viêm mũi, viêm xoang, hen suyễn), khiến tình trạng bệnh trở nên tồi tệ hơn."
+  },
+  {
+    "instruction": "Những nhóm nghề nghiệp nào có nguy cơ mắc bệnh hen suyễn nghề nghiệp cao nhất?",
+    "input": "",
+    "output": "Những người thường xuyên tiếp xúc với hóa chất, khói bụi như: thợ phun sơn, thợ làm bánh (bụi bột), y tá (hóa chất/latex), thợ hàn, công nhân gỗ và công nhân chế biến thực phẩm có nguy cơ mắc bệnh rất cao."
+  },
+  {
+    "instruction": "Làm thế nào để biết tình trạng hen suyễn đang chuyển biến xấu và cần can thiệp y tế?",
+    "input": "",
+    "output": "Cần lưu ý các dấu hiệu: thở nhanh hơn, nhịp tim tăng, cảm thấy kiệt sức, môi hoặc đầu ngón tay chuyển màu xanh tím (tím tái), ngất xỉu hoặc khi sử dụng ống hít cắt cơn nhưng triệu chứng không thuyên giảm."
+  },
+  {
+    "instruction": "Bệnh hen suyễn có thể chữa khỏi hoàn toàn không và phương pháp điều trị chính là gì?",
+    "input": "",
+    "output": "Hiện nay chưa có cách chữa khỏi hoàn toàn hen suyễn. Phương pháp điều trị chính là sử dụng ống hít chuyên dụng (loại cắt cơn hoặc phòng ngừa) và thuốc uống hỗ trợ (LTRA) để kiểm soát viêm và giãn đường thở, giúp người bệnh sinh hoạt bình thường."
+  }
+]

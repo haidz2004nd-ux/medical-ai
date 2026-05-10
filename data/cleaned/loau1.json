@@ -1,0 +1,123 @@
+{
+  "title": "Rối loạn lo âu",
+  "type": "disease",
+  "topic": "tâm thần - tâm lý",
+  "definition": "Rối loạn lo âu là tình trạng lo lắng, sợ hãi quá mức, kéo dài và không tương xứng với thực tế, gây khó chịu và ảnh hưởng đến sinh hoạt hằng ngày. Người bệnh thường có cảm giác bồn chồn, căng thẳng và kèm theo các triệu chứng cơ thể như tim đập nhanh, khó thở, vã mồ hôi.",
+  "classification": [
+    "Rối loạn lo âu lan tỏa",
+    "Rối loạn hoảng loạn",
+    "Rối loạn lo âu xã hội",
+    "Rối loạn ám ảnh cưỡng chế (OCD)",
+    "Rối loạn lo âu đặc hiệu"
+  ],
+  "pathophysiology": [
+    "Rối loạn dẫn truyền thần kinh (serotonin, norepinephrine)",
+    "Tăng hoạt động hệ thần kinh giao cảm",
+    "Rối loạn vùng não kiểm soát cảm xúc (amygdala)",
+    "Mất cân bằng hormone stress (cortisol)",
+    "Tăng phản ứng với kích thích môi trường"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền",
+      "Rối loạn sinh hóa thần kinh",
+      "Nhạy cảm bẩm sinh với stress"
+    ],
+    "secondary": [
+      "Stress kéo dài",
+      "Sang chấn tâm lý thời thơ ấu",
+      "Áp lực công việc hoặc học tập",
+      "Môi trường sống căng thẳng",
+      "Trầm cảm",
+      "Lạm dụng chất kích thích",
+      "Rối loạn giấc ngủ"
+    ]
+  },
+  "symptoms": [
+    "Lo lắng quá mức, khó kiểm soát",
+    "Cảm giác sợ hãi vô cớ",
+    "Tim đập nhanh",
+    "Khó thở",
+    "Đổ mồ hôi, run rẩy",
+    "Căng cơ",
+    "Khó ngủ",
+    "Khó tập trung",
+    "Chóng mặt",
+    "Buồn nôn",
+    "Cảm giác bồn chồn, không yên"
+  ],
+  "complications": [
+    "Trầm cảm",
+    "Rối loạn hoảng loạn",
+    "Suy giảm chất lượng cuộc sống",
+    "Rối loạn giấc ngủ kéo dài",
+    "Giảm hiệu suất học tập và làm việc",
+    "Lạm dụng chất kích thích",
+    "Cô lập xã hội"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng và tiền sử bệnh",
+    "Thăm khám tâm lý - tâm thần",
+    "Tiêu chuẩn DSM (thời gian ≥ 6 tháng)",
+    "Đánh giá mức độ lo âu",
+    "Loại trừ bệnh lý thực thể (tim, phổi, nội tiết)",
+    "Đánh giá rối loạn đi kèm như trầm cảm"
+  ],
+  "risk_groups": [
+    "Người có tiền sử gia đình rối loạn tâm thần",
+    "Người chịu stress kéo dài",
+    "Người có sang chấn tâm lý",
+    "Phụ nữ",
+    "Người làm việc áp lực cao",
+    "Người có tính cách lo âu bẩm sinh",
+    "Người lạm dụng chất kích thích"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Tập thể dục thường xuyên",
+      "Ngủ đủ giấc",
+      "Hạn chế caffeine và chất kích thích",
+      "Thiền và tập thở sâu",
+      "Quản lý stress",
+      "Dành thời gian thư giãn"
+    ],
+    "medical": [
+      "Liệu pháp tâm lý (CBT)",
+      "Thuốc chống lo âu",
+      "Thuốc chống trầm cảm",
+      "Theo dõi tâm thần định kỳ",
+      "Kích thích từ trường xuyên sọ (TMS)"
+    ]
+  },
+  "prevention": [
+    "Quản lý stress hiệu quả",
+    "Duy trì lối sống lành mạnh",
+    "Tập thể dục đều đặn",
+    "Ngủ đủ giấc",
+    "Hạn chế chất kích thích",
+    "Hỗ trợ tâm lý sớm khi có dấu hiệu"
+  ],
+  "when_to_see_doctor": [
+    "Lo âu kéo dài trên 6 tháng",
+    "Cơn hoảng sợ tái diễn",
+    "Ảnh hưởng nghiêm trọng đến sinh hoạt",
+    "Khó ngủ kéo dài",
+    "Có hành vi cưỡng chế hoặc ám ảnh mạnh",
+    "Kèm trầm cảm hoặc ý nghĩ tiêu cực"
+  ],
+  "care_notes": [
+    "Rối loạn lo âu là bệnh lý có thể điều trị",
+    "Cần kết hợp tâm lý trị liệu và thuốc khi cần",
+    "Không nên tự điều trị kéo dài",
+    "Cần hỗ trợ từ chuyên gia tâm lý/tâm thần",
+    "Điều trị cần thời gian và cá thể hóa"
+  ],
+  "epidemiology": [
+    "Là một trong những rối loạn tâm lý phổ biến nhất",
+    "Có thể gặp ở mọi lứa tuổi",
+    "Tỷ lệ cao hơn ở nữ giới",
+    "Liên quan chặt chẽ đến stress xã hội hiện đại"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/roi-loan-lo-au/"
+}

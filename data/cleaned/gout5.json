@@ -1,0 +1,125 @@
+{
+  "title": "Gout (gút)",
+  "type": "disease",
+  "topic": "cơ xương khớp - chuyển hóa",
+  "definition": "Gout là một dạng viêm khớp cấp tính do tăng acid uric trong máu, dẫn đến hình thành tinh thể urat lắng đọng tại khớp và mô xung quanh, gây đau, sưng và phản ứng viêm dữ dội, thường khởi phát đột ngột.",
+  "classification": [
+    "Tăng acid uric máu không triệu chứng",
+    "Cơn gout cấp",
+    "Giai đoạn giữa các cơn gout",
+    "Gout mạn tính có hạt tophi"
+  ],
+  "pathophysiology": [
+    "Rối loạn chuyển hóa purin làm tăng acid uric",
+    "Acid uric vượt ngưỡng hòa tan trong máu",
+    "Hình thành tinh thể urat monosodium",
+    "Tinh thể lắng đọng tại khớp và mô mềm",
+    "Kích hoạt phản ứng viêm cấp tính",
+    "Tái phát nhiều lần gây tổn thương khớp và mô"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn chuyển hóa purin nội sinh",
+      "Yếu tố di truyền"
+    ],
+    "secondary": [
+      "Ăn nhiều thực phẩm giàu purin (thịt đỏ, nội tạng, hải sản)",
+      "Uống nhiều bia rượu",
+      "Suy giảm chức năng thận",
+      "Sử dụng thuốc (lợi tiểu thiazide, aspirin liều thấp)",
+      "Béo phì",
+      "Ít vận động",
+      "Stress kéo dài",
+      "Bệnh lý kèm theo (tăng huyết áp, đái tháo đường, hội chứng chuyển hóa)"
+    ]
+  },
+  "symptoms": [
+    "Đau khớp đột ngột, dữ dội",
+    "Thường khởi phát về đêm hoặc sáng sớm",
+    "Đau đạt đỉnh trong 12-24 giờ",
+    "Khớp sưng, nóng, đỏ, căng bóng",
+    "Hay gặp ở ngón chân cái",
+    "Đau tăng khi chạm nhẹ",
+    "Hạn chế vận động khớp",
+    "Có thể xuất hiện hạt tophi ở giai đoạn mạn"
+  ],
+  "complications": [
+    "Phá hủy khớp vĩnh viễn",
+    "Biến dạng khớp",
+    "Hình thành hạt tophi",
+    "Sỏi thận",
+    "Suy thận",
+    "Lắng đọng urat trong đường tiết niệu"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Xét nghiệm acid uric máu",
+    "Phân tích dịch khớp tìm tinh thể urat",
+    "Đánh giá triệu chứng điển hình",
+    "Theo dõi tái phát"
+  ],
+  "risk_groups": [
+    "Nam giới 30-50 tuổi",
+    "Người thừa cân béo phì",
+    "Người uống nhiều bia rượu",
+    "Người ăn nhiều thực phẩm giàu purin",
+    "Người có bệnh thận",
+    "Người có tiền sử gia đình gout",
+    "Người mắc bệnh chuyển hóa"
+  ],
+  "treatment": {
+    "acute_phase": [
+      "Nghỉ ngơi khớp",
+      "Chườm lạnh",
+      "Dùng NSAIDs theo chỉ định",
+      "Dùng colchicine",
+      "Dùng corticosteroid khi cần"
+    ],
+    "long_term": [
+      "Kiểm soát acid uric dưới 360 µmol/L",
+      "Dưới 300 µmol/L nếu có tophi",
+      "Sử dụng thuốc hạ acid uric",
+      "Theo dõi định kỳ"
+    ],
+    "lifestyle": [
+      "Uống 2-2.5 lít nước mỗi ngày",
+      "Hạn chế thực phẩm giàu purin",
+      "Tránh bia rượu",
+      "Giảm cân từ từ",
+      "Tập thể dục nhẹ nhàng",
+      "Ăn đạm lành mạnh (đậu, trứng, sữa ít béo)"
+    ]
+  },
+  "prevention": [
+    "Duy trì acid uric trong giới hạn an toàn",
+    "Hạn chế bia rượu",
+    "Ăn uống cân bằng",
+    "Uống đủ nước",
+    "Duy trì cân nặng hợp lý",
+    "Tập luyện thường xuyên",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau khớp đột ngột dữ dội",
+    "Khớp sưng đỏ kéo dài",
+    "Cơn đau tái phát nhiều lần",
+    "Xuất hiện hạt tophi",
+    "Nghi ngờ biến chứng thận"
+  ],
+  "care_notes": [
+    "Không tự ý dùng thuốc giảm đau",
+    "Không chườm nóng trong cơn cấp",
+    "Cần điều trị lâu dài, không chỉ khi đau",
+    "Gout dễ tái phát nếu không kiểm soát",
+    "Theo dõi acid uric định kỳ"
+  ],
+  "epidemiology": [
+    "Nam giới mắc nhiều hơn nữ",
+    "Phụ nữ ít gặp trước mãn kinh",
+    "Thường khởi phát sau 30 tuổi",
+    "Tỷ lệ mắc đang tăng và trẻ hóa",
+    "Liên quan đến lối sống hiện đại"
+  ],
+  "source": "Bệnh viện Thu Cúc",
+  "url": "https://benhvienthucuc.vn/hoi-dap-chuyen-gia/co-xuong-khop/gout-la-gi-va-tai-sao-con-dau-lai-xuat-hien-dot-ngot-du-doi"
+}

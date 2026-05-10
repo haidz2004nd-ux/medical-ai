@@ -1,0 +1,122 @@
+{
+  "title": "Ho",
+  "type": "symptom",
+  "topic": "hô hấp",
+  "definition": "Ho là phản xạ tự nhiên của cơ thể khi đường hô hấp bị kích thích, giúp tống không khí ra ngoài với áp lực cao để loại bỏ tác nhân gây kích ứng và làm sạch đường thở.",
+  "classification": [
+    "Ho cấp tính",
+    "Ho bán cấp",
+    "Ho mạn tính",
+    "Ho khan",
+    "Ho có đờm",
+    "Ho ra máu"
+  ],
+  "pathophysiology": [
+    "Kích thích các thụ thể dọc theo đường hô hấp",
+    "Kích hoạt phản xạ ho qua hệ thần kinh",
+    "Hít vào sâu",
+    "Đóng thanh môn và tăng áp lực trong lồng ngực",
+    "Mở thanh môn đột ngột",
+    "Tống không khí ra ngoài với tốc độ cao để loại bỏ chất kích thích"
+  ],
+  "causes": {
+    "primary": [
+      "Nhiễm virus (cảm lạnh, cúm)",
+      "Dị ứng",
+      "Hen suyễn",
+      "Không khí lạnh",
+      "Khói thuốc",
+      "Mùi hóa chất mạnh"
+    ],
+    "secondary": [
+      "Viêm phổi",
+      "Ngưng thở khi ngủ",
+      "Tác dụng phụ của thuốc (ACE inhibitors)",
+      "Trầm cảm",
+      "Lao phổi",
+      "Ung thư phổi",
+      "Viêm phế quản mạn"
+    ]
+  },
+  "symptoms": [
+    "Ho khan hoặc ho có đờm",
+    "Sốt",
+    "Ớn lạnh",
+    "Nhức mỏi cơ thể",
+    "Viêm họng",
+    "Buồn nôn hoặc nôn",
+    "Đau đầu",
+    "Đổ mồ hôi đêm",
+    "Sổ mũi",
+    "Chảy nước mũi sau",
+    "Tức ngực",
+    "Khó thở"
+  ],
+  "complications": [
+    "Ho kéo dài gây khó chịu",
+    "Ảnh hưởng giấc ngủ và sinh hoạt",
+    "Nguy cơ bệnh lý nghiêm trọng như lao phổi hoặc ung thư phổi",
+    "Lây lan virus hoặc vi khuẩn qua giọt bắn"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng và tiền sử bệnh",
+    "Đánh giá thời gian ho",
+    "Đánh giá yếu tố làm nặng hoặc giảm ho",
+    "Xét nghiệm cận lâm sàng khi cần"
+  ],
+  "risk_groups": [
+    "Người dị ứng",
+    "Người hút thuốc",
+    "Người mắc bệnh phổi mạn tính",
+    "Người dùng thuốc ức chế men chuyển",
+    "Người sống trong môi trường ô nhiễm"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước",
+      "Tránh khói thuốc",
+      "Tránh môi trường ẩm thấp",
+      "Sử dụng mật ong làm dịu họng",
+      "Duy trì lối sống lành mạnh"
+    ],
+    "medical": [
+      "Thuốc ức chế ho (dextromethorphan, pholcodine)",
+      "Thuốc kháng histamin",
+      "Thuốc long đờm",
+      "Kháng sinh khi nhiễm khuẩn",
+      "Điều trị nguyên nhân gây ho"
+    ]
+  },
+  "prevention": [
+    "Đeo khẩu trang khi ra ngoài",
+    "Che miệng khi ho",
+    "Tránh tiếp xúc với chất kích thích",
+    "Giữ vệ sinh môi trường sống",
+    "Tăng cường sức đề kháng"
+  ],
+  "when_to_see_doctor": [
+    "Ho kéo dài trên 7 ngày",
+    "Ho ra máu",
+    "Tức ngực",
+    "Khó thở hoặc thở gấp",
+    "Sốt",
+    "Ho nhiều về đêm",
+    "Chóng mặt sau khi ho"
+  ],
+  "care_notes": [
+    "Ho là phản xạ bảo vệ của cơ thể",
+    "Không phải là bệnh mà là triệu chứng",
+    "Ho sau cảm cúm có thể kéo dài một thời gian",
+    "Cần che miệng khi ho để tránh lây nhiễm",
+    "Tham khảo bác sĩ khi ho kéo dài"
+  ],
+  "epidemiology": [
+    "Ho là triệu chứng rất phổ biến",
+    "Xảy ra ở mọi lứa tuổi",
+    "Thường gặp trong các bệnh hô hấp",
+    "Tăng trong mùa cảm cúm"
+  ],
+  "source": "Pacific Cross",
+  "url": "https://pacificcross.com.vn/vi/ho-la-gi/"
+}

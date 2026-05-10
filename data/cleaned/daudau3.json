@@ -1,0 +1,112 @@
+{
+  "title": "Đau đầu",
+  "type": "symptom",
+  "topic": "thần kinh",
+  "definition": "Đau đầu là cảm giác đau hoặc khó chịu ở vùng đầu, mặt hoặc cổ, thường do kích thích các thụ cảm thể đau trong hệ thần kinh bởi nhiều nguyên nhân khác nhau.",
+  "pathophysiology": [
+    "Tăng sinh các chất trung gian hóa học như kinin, serotonin, prostaglandin",
+    "Kích thích thụ cảm thể đau trong hệ thần kinh",
+    "Giãn căng hoặc xoắn vặn mạch máu",
+    "Phù nề hoặc viêm các mô thần kinh",
+    "Thiếu máu hoặc thiếu oxy lên não",
+    "Tăng áp lực nội sọ"
+  ],
+  "causes": {
+    "pathological": [
+      "Viêm xoang",
+      "Đau nửa đầu Migraine",
+      "Tăng nhãn áp",
+      "Thiếu máu",
+      "Tăng huyết áp",
+      "Đái tháo đường",
+      "Lupus ban đỏ",
+      "Tai biến mạch máu não",
+      "Khối u não",
+      "Nhiễm trùng não hoặc viêm màng não",
+      "Chấn thương sọ não"
+    ],
+    "non_pathological": [
+      "Mất nước",
+      "Stress và căng thẳng",
+      "Rối loạn giấc ngủ",
+      "Thay đổi hormone",
+      "Lạm dụng rượu bia hoặc caffeine",
+      "Tác dụng phụ của thuốc",
+      "Lối sống không lành mạnh"
+    ]
+  },
+  "symptoms": [
+    "Đau âm ỉ hoặc dữ dội ở đầu",
+    "Đau một bên hoặc toàn bộ đầu",
+    "Chóng mặt",
+    "Buồn nôn hoặc nôn",
+    "Nhạy cảm với ánh sáng và âm thanh",
+    "Mờ mắt",
+    "Căng cứng cổ"
+  ],
+  "complications": [
+    "Giảm chất lượng cuộc sống",
+    "Rối loạn giấc ngủ",
+    "Suy giảm khả năng tập trung",
+    "Nguy cơ đột quỵ (nếu do bệnh lý mạch máu)",
+    "Biến chứng thần kinh (trong migraine nặng)",
+    "Tổn thương não (nếu do u hoặc nhiễm trùng)"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng lâm sàng",
+    "Đo huyết áp",
+    "Xét nghiệm máu",
+    "Chụp CT scan não",
+    "Chụp MRI não",
+    "Đánh giá thần kinh",
+    "Chọc dò dịch não tủy (khi nghi nhiễm trùng)"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống đủ nước (1.5 - 2 lít/ngày)",
+      "Ngủ đủ giấc",
+      "Giảm stress",
+      "Tập thể dục thường xuyên",
+      "Hạn chế rượu bia và caffeine",
+      "Ăn uống lành mạnh"
+    ],
+    "medication": [
+      "Thuốc giảm đau (paracetamol, NSAID)",
+      "Thuốc điều trị migraine",
+      "Thuốc điều trị nguyên nhân (kháng sinh, hạ áp,...)"
+    ]
+  },
+  "risk_groups": [
+    "Người thường xuyên stress",
+    "Người mất ngủ",
+    "Phụ nữ (do thay đổi hormone)",
+    "Người có bệnh lý mạn tính",
+    "Người sử dụng nhiều rượu bia hoặc caffeine"
+  ],
+  "prevention": [
+    "Duy trì lối sống lành mạnh",
+    "Ngủ đủ giấc",
+    "Uống đủ nước",
+    "Giảm stress",
+    "Hạn chế chất kích thích",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau đầu dữ dội đột ngột",
+    "Đau đầu kéo dài hoặc ngày càng nặng",
+    "Kèm sốt cao hoặc cứng cổ",
+    "Rối loạn ý thức",
+    "Yếu liệt hoặc tê bì",
+    "Nhìn mờ hoặc mất thị lực",
+    "Nôn ói nhiều"
+  ],
+  "care_notes": [
+    "Không lạm dụng thuốc giảm đau",
+    "Theo dõi tần suất và mức độ đau đầu",
+    "Điều chỉnh lối sống",
+    "Tuân thủ điều trị theo chỉ định",
+    "Khám sớm nếu có dấu hiệu bất thường"
+  ],
+  "source": "Medlatec tổng hợp",
+  "url": "https://medlatec.vn/tin-tuc/hay-bi-dau-dau-co-nguyen-nhan-do-dau-va-cach-chua-hieu-qua-nhat-s195-n17925"
+}

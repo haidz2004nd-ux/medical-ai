@@ -1,0 +1,118 @@
+{
+  "title": "Sốt ở người lớn",
+  "type": "symptom",
+  "topic": "triệu chứng",
+  "definition": "Sốt ở người lớn là tình trạng nhiệt độ cơ thể tăng cao hơn mức bình thường (thường từ 38°C trở lên khi đo ở miệng hoặc nách), phản ánh phản ứng của hệ thống miễn dịch đối với các tác nhân gây hại như nhiễm trùng, viêm hoặc bệnh lý ác tính.",
+  "classification": [
+    "Sốt nhẹ: 38–38.5°C",
+    "Sốt vừa: 38.5–39°C",
+    "Sốt cao: 39–40°C",
+    "Sốt rất cao: >40°C",
+    "Sốt cấp tính (dưới 7 ngày)",
+    "Sốt kéo dài không rõ nguyên nhân (FUO)"
+  ],
+  "pathophysiology": [
+    "Tác nhân xâm nhập kích thích hệ miễn dịch giải phóng cytokine gây sốt",
+    "Cytokine tác động lên vùng dưới đồi (trung tâm điều nhiệt)",
+    "Điểm điều nhiệt được thiết lập ở mức cao hơn bình thường",
+    "Cơ thể tăng sinh nhiệt thông qua co mạch và run rẩy",
+    "Duy trì thân nhiệt cao để ức chế sự phát triển của vi sinh vật"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus (Cúm, sốt xuất huyết, COVID-19)",
+      "Nhiễm vi khuẩn (Viêm phổi, nhiễm trùng đường tiết niệu, viêm màng não)",
+      "Ngộ độc thực phẩm",
+      "Sốc nhiệt hoặc kiệt sức vì nhiệt",
+      "Phản ứng sau tiêm chủng",
+      "Tác dụng phụ của thuốc (kháng sinh, thuốc chống co giật)"
+    ],
+    "chronic": [
+      "Bệnh lý ác tính (Ung thư máu, Lymphoma)",
+      "Bệnh tự miễn (Lupus ban đỏ, viêm khớp dạng thấp)",
+      "Nhiễm trùng mạn tính (Lao, HIV/AIDS)",
+      "Rối loạn nội tiết (Cường giáp)",
+      "Huyết khối tĩnh mạch sâu"
+    ]
+  },
+  "symptoms": [
+    "Thân nhiệt tăng cao kèm theo đổ mồ hôi",
+    "Ớn lạnh và run rẩy",
+    "Đau đầu dữ dội hoặc âm ỉ",
+    "Đau mỏi cơ và các khớp",
+    "Mệt mỏi, suy nhược cơ thể",
+    "Chán ăn, mất vị giác",
+    "Dấu hiệu mất nước (môi khô, tiểu ít)",
+    "Mất tập trung hoặc lơ mơ (khi sốt quá cao)"
+  ],
+  "complications": [
+    "Mất nước và rối loạn điện giải nặng",
+    "Co giật do sốt (ít gặp ở người lớn hơn trẻ em nhưng vẫn có thể xảy ra)",
+    "Mê sảng, ảo giác và rối loạn ý thức",
+    "Suy đa cơ quan (nếu sốt cực cao hoặc do nhiễm khuẩn huyết)",
+    "Sốc nhiễm khuẩn"
+  ],
+  "diagnosis": [
+    "Đo thân nhiệt (miệng, nách, hậu môn hoặc màng nhĩ)",
+    "Khai thác tiền sử bệnh và các triệu chứng đi kèm",
+    "Xét nghiệm máu tổng phân tích (WBC, CRP, máu lắng)",
+    "Cấy máu, cấy nước tiểu tìm vi khuẩn",
+    "Chẩn đoán hình ảnh (X-quang ngực, CT scan) nếu nghi ngờ ổ nhiễm trùng sâu",
+    "Xét nghiệm dịch não tủy (nếu nghi ngờ viêm màng não)"
+  ],
+  "risk_groups": [
+    "Người cao tuổi (hệ điều nhiệt kém)",
+    "Người mắc bệnh mạn tính (Tiểu đường, bệnh phổi mạn tính)",
+    "Người suy giảm miễn dịch (HIV, ung thư, đang dùng corticoid)",
+    "Người vừa trải qua phẫu thuật",
+    "Người làm việc trong môi trường nhiệt độ cao"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi tại nơi thoáng mát, yên tĩnh",
+      "Uống nhiều nước (nước lọc, nước trái cây, oresol)",
+      "Lau người bằng nước ấm để hỗ trợ tản nhiệt",
+      "Mặc quần áo mỏng, chất liệu thấm hút tốt",
+      "Ăn thức ăn lỏng, giàu dinh dưỡng, dễ tiêu hóa"
+    ],
+    "medication": [
+      "Thuốc hạ sốt Paracetamol (Acetaminophen)",
+      "Thuốc kháng viêm không steroid (NSAIDs) như Ibuprofen",
+      "Kháng sinh (chỉ dùng khi xác định có nhiễm khuẩn)",
+      "Bù dịch tĩnh mạch (trường hợp mất nước nặng)",
+      "Điều trị đặc hiệu nguyên nhân gốc rễ"
+    ]
+  },
+  "prevention": [
+    "Rửa tay thường xuyên bằng xà phòng",
+    "Tiêm vaccine phòng bệnh (Cúm, Phế cầu, COVID-19)",
+    "Đảm bảo an toàn vệ sinh thực phẩm",
+    "Tránh tiếp xúc gần với người đang có triệu chứng truyền nhiễm",
+    "Tăng cường sức đề kháng thông qua dinh dưỡng và vận động",
+    "Hạn chế ra ngoài vào khung giờ nắng nóng cao điểm"
+  ],
+  "when_to_see_doctor": [
+    "Sốt cao ≥ 39.4°C không thuyên giảm sau khi dùng thuốc",
+    "Sốt kéo dài liên tục quá 3 ngày",
+    "Khó thở, đau ngực hoặc đau bụng dữ dội",
+    "Cứng cổ, đau đầu dữ dội kèm nôn mửa",
+    "Phát ban lan rộng nhanh chóng",
+    "Co giật hoặc lú lẫn, rối loạn hành vi"
+  ],
+  "care_notes": [
+    "Theo dõi diễn biến nhiệt độ mỗi 2-4 giờ",
+    "Không tự ý uống kháng sinh khi chưa có chỉ định của bác sĩ",
+    "Sốt là tín hiệu cảnh báo, không nên chỉ tập trung hạ sốt mà bỏ qua tìm nguyên nhân",
+    "Lưu ý các 'dấu hiệu đỏ' để nhập viện kịp thời",
+    "Duy trì bù nước liên tục ngay cả khi không khát"
+  ],
+  "epidemiology": [
+    "Là triệu chứng lâm sàng phổ biến nhất tại các phòng khám cấp cứu",
+    "Có xu hướng gia tăng theo mùa (đặc biệt mùa dịch hô hấp)",
+    "Tỷ lệ biến chứng cao hơn ở người trên 65 tuổi",
+    "Phần lớn các ca sốt ở người lớn là lành tính và tự giới hạn",
+    "Ảnh hưởng lớn đến năng suất lao động và kinh tế xã hội"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com"
+}

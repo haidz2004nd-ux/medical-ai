@@ -1,0 +1,131 @@
+{
+  "title": "Ho",
+  "type": "symptom",
+  "topic": "hô hấp",
+  "definition": "Ho là phản xạ bảo vệ của cơ thể giúp loại bỏ các chất kích thích như chất nhầy, khói, dị vật hoặc tác nhân gây bệnh ra khỏi đường hô hấp thông qua việc tống không khí ra ngoài với áp lực cao.",
+  "classification": [
+    "Ho cấp tính",
+    "Ho bán cấp",
+    "Ho mạn tính",
+    "Ho khan",
+    "Ho có đờm"
+  ],
+  "pathophysiology": [
+    "Kích thích thụ thể tại đường hô hấp",
+    "Truyền tín hiệu qua hệ thần kinh đến não",
+    "Co cơ ngực và bụng",
+    "Hít vào sâu",
+    "Đóng dây thanh âm và tăng áp lực",
+    "Mở thanh môn đột ngột",
+    "Tống không khí ra ngoài để loại bỏ tác nhân gây kích thích"
+  ],
+  "causes": {
+    "primary": [
+      "Nhiễm virus (cảm lạnh, cúm)",
+      "Dị ứng (bụi, phấn hoa, nấm mốc)",
+      "Khói thuốc",
+      "Ô nhiễm không khí",
+      "Chất nhầy"
+    ],
+    "secondary": [
+      "Viêm phế quản",
+      "Viêm phổi",
+      "Hen suyễn",
+      "Bệnh phổi tắc nghẽn mạn tính",
+      "Giãn phế quản",
+      "Trào ngược dạ dày thực quản",
+      "Lao phổi",
+      "Ung thư phổi",
+      "Tác dụng phụ thuốc (ACE inhibitors)",
+      "Suy tim",
+      "Thuyên tắc phổi",
+      "Dị vật đường thở"
+    ]
+  },
+  "symptoms": [
+    "Ho khan hoặc ho có đờm",
+    "Sổ mũi",
+    "Chảy nước mũi",
+    "Mệt mỏi",
+    "Sốt",
+    "Khó thở",
+    "Tức ngực",
+    "Nôn mửa",
+    "Mất ngủ",
+    "Tiểu không tự chủ khi ho"
+  ],
+  "complications": [
+    "Ho kéo dài gây suy nhược",
+    "Ảnh hưởng giấc ngủ",
+    "Tăng nguy cơ bệnh lý nặng như viêm phổi hoặc ung thư phổi",
+    "Suy hô hấp trong trường hợp nặng",
+    "Lây nhiễm qua giọt bắn"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng và tiền sử",
+    "Khám lâm sàng",
+    "Chụp X-quang phổi",
+    "Chụp CT phổi",
+    "Xét nghiệm đờm",
+    "Đo phế dung ký"
+  ],
+  "risk_groups": [
+    "Trẻ em",
+    "Người cao tuổi",
+    "Người hút thuốc",
+    "Người mắc bệnh phổi mạn tính",
+    "Người tiếp xúc môi trường ô nhiễm",
+    "Người dùng thuốc ACE"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống nhiều nước ấm",
+      "Nghỉ ngơi đầy đủ",
+      "Kê cao đầu khi ngủ",
+      "Súc miệng nước muối",
+      "Tránh khói bụi và chất kích thích",
+      "Dùng mật ong hoặc gừng",
+      "Giữ ấm cơ thể"
+    ],
+    "medical": [
+      "Thuốc giảm ho",
+      "Thuốc long đờm",
+      "Thuốc kháng histamin",
+      "Kháng sinh khi nhiễm khuẩn",
+      "Thuốc điều trị hen suyễn",
+      "Thuốc điều trị GERD",
+      "Thuốc kháng lao",
+      "Phẫu thuật hoặc hóa trị trong ung thư"
+    ]
+  },
+  "prevention": [
+    "Tránh khói thuốc và ô nhiễm",
+    "Giữ vệ sinh môi trường",
+    "Đeo khẩu trang",
+    "Tăng cường sức đề kháng",
+    "Tránh dị nguyên"
+  ],
+  "when_to_see_doctor": [
+    "Ho kéo dài trên 2 tuần",
+    "Ho ra máu",
+    "Khó thở",
+    "Tức ngực",
+    "Ho dai dẳng không rõ nguyên nhân",
+    "Nghi ngờ bệnh lý nghiêm trọng"
+  ],
+  "care_notes": [
+    "Ho là phản xạ bảo vệ của cơ thể",
+    "Không phải là bệnh mà là triệu chứng",
+    "Không lạm dụng kháng sinh khi ho do virus",
+    "Theo dõi thời gian và tính chất ho",
+    "Khám sớm nếu ho kéo dài"
+  ],
+  "epidemiology": [
+    "Ho là triệu chứng phổ biến",
+    "Gặp ở mọi lứa tuổi",
+    "Thường liên quan đến nhiễm trùng hô hấp",
+    "Tăng vào mùa lạnh và khi ô nhiễm cao"
+  ],
+  "source": "YouMed",
+  "url": "https://youmed.vn/tin-tuc/cach-chua-benh-ho-hieu-qua-ma-ban-nen-biet/"
+}

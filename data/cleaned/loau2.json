@@ -1,0 +1,113 @@
+{
+  "title": "Rối loạn hỗn hợp lo âu và trầm cảm",
+  "type": "disorder",
+  "topic": "tâm thần - tâm lý",
+  "definition": "Rối loạn hỗn hợp lo âu và trầm cảm là một tình trạng bệnh lý tâm thần đặc trưng bởi sự hiện diện đồng thời của cả các triệu chứng lo âu và trầm cảm. Tuy nhiên, mức độ của từng nhóm triệu chứng riêng lẻ không đủ mạnh để chẩn đoán xác định một rối loạn lo âu hay rối loạn trầm cảm biệt lập. Tình trạng hỗn hợp này thường gây ra sự suy giảm chức năng xã hội và nghề nghiệp nghiêm trọng hơn so với các thể đơn lẻ.",
+  "classification": [
+    "Rối loạn hỗn hợp lo âu và trầm cảm (Mã ICD-10: F41.2)",
+    "Rối loạn khí sắc hỗn hợp không biệt định",
+    "Trầm cảm có yếu tố lo âu (Anxious Depression)"
+  ],
+  "pathophysiology": [
+    "Sự suy giảm nồng độ các chất dẫn truyền thần kinh tại khe synap, đặc biệt là Serotonin, Norepinephrine và Dopamine",
+    "Rối loạn điều hòa trục Hạ đồi - Tuyến yên - Tuyến thượng thận (HPA) dẫn đến tăng nồng độ Cortisol mạn tính",
+    "Sự thay đổi cấu trúc và giảm tính dẻo thần kinh (neuroplasticity) tại hồi hải mã và vỏ não trước trán",
+    "Tăng hoạt động quá mức của hạch hạnh nhân (amygdala) gây ra phản ứng lo âu kéo dài",
+    "Tương tác cộng hưởng tiêu cực: Lo âu kích thích stress, stress làm trầm trọng thêm trạng thái trầm cảm"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền (đa hình gen liên quan đến hệ thống vận chuyển serotonin)",
+      "Đặc điểm nhân cách dễ tổn thương, nhạy cảm bẩm sinh với các tác nhân stress",
+      "Rối loạn cấu trúc não bộ và sự mất cân bằng sinh hóa thần kinh"
+    ],
+    "secondary": [
+      "Stress và căng thẳng kéo dài do áp lực công việc, tài chính",
+      "Sang chấn tâm lý mạnh (mất mát người thân, tai nạn, bạo lực)",
+      "Biến đổi nội tiết tố (giai đoạn dậy thì, phụ nữ sau sinh, tiền mãn kinh)",
+      "Lối sống đô thị hóa, thiếu sự hỗ trợ từ mạng lưới xã hội",
+      "Bệnh lý cơ thể mạn tính (Ung thư, tim mạch, bệnh tự miễn)",
+      "Lạm dụng chất gây nghiện (Rượu, ma túy) hoặc tác dụng phụ của thuốc điều trị"
+    ]
+  },
+  "symptoms": [
+    "Lo lắng quá mức về những vấn đề thường nhật không đáng có",
+    "Khí sắc trầm uất, buồn bã, giảm hứng thú với các sở thích cũ",
+    "Mệt mỏi, suy nhược, cảm giác thiếu năng lượng dù không vận động nặng",
+    "Rối loạn giấc ngủ (khó ngủ, thức giấc sớm hoặc ngủ lịm quá mức)",
+    "Khó tập trung, suy giảm trí nhớ tạm thời, khó đưa ra quyết định",
+    "Dễ cáu gắt, bứt rứt, hoặc dễ xúc động (dễ khóc)",
+    "Cảm giác bi quan, tự ti, tuyệt vọng về tương lai",
+    "Triệu chứng thần kinh thực vật: Hồi hộp, đánh trống ngực, rối loạn tiêu hóa, căng đau cơ",
+    "Cảm giác sợ hãi mơ hồ về một tai họa sắp xảy đến"
+  ],
+  "complications": [
+    "Suy nhược cơ thể mạn tính và rối loạn thần kinh thực vật hệ thống",
+    "Suy giảm hệ thống miễn dịch, tăng nguy cơ mắc các bệnh nhiễm trùng",
+    "Làm trầm trọng thêm các bệnh lý nội khoa sẵn có (tăng huyết áp, đau dạ dày)",
+    "Cô lập xã hội, mất khả năng lao động và duy trì các mối quan hệ",
+    "Lạm dụng thuốc an thần hoặc chất kích thích để tự điều chỉnh cảm xúc",
+    "Nguy cơ cao dẫn đến hành vi tự hủy hoại hoặc tự sát"
+  ],
+  "diagnosis": [
+    "Phỏng vấn lâm sàng tâm thần dựa trên tiêu chuẩn ICD-10 (Mã F41.2)",
+    "Sử dụng các thang điểm đánh giá mức độ (HAD - Hospital Anxiety and Depression Scale)",
+    "Khai thác kỹ tiền sử bệnh lý cá nhân và gia đình",
+    "Loại trừ các bệnh lý thực thể (Cường giáp, thiếu máu, hạ đường huyết mạn)",
+    "Đánh giá thời gian tồn tại triệu chứng (thường kéo dài ít nhất 2 tuần đến 1 tháng)",
+    "Đánh giá mức độ ảnh hưởng đến các chức năng sống (xã hội, nghề nghiệp)"
+  ],
+  "risk_groups": [
+    "Người chịu áp lực stress kéo dài trong công việc và cuộc sống",
+    "Người có tiền sử gia đình mắc rối loạn khí sắc hoặc lo âu",
+    "Phụ nữ (tỷ lệ mắc thường cao hơn nam giới do thay đổi nội tiết)",
+    "Người cao tuổi sống đơn độc hoặc có nhiều bệnh nền",
+    "Thanh thiếu niên trong giai đoạn khủng hoảng tâm lý",
+    "Người có sang chấn tâm lý chưa được can thiệp"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Vận động thể chất ít nhất 30 phút/ngày giúp giải phóng Endorphin",
+      "Thực hành thiền, yoga, hoặc các kỹ thuật hít thở sâu thư giãn",
+      "Thiết lập vệ sinh giấc ngủ (Sleep hygiene) khoa học",
+      "Xây dựng chế độ dinh dưỡng cân bằng, giàu vitamin và khoáng chất",
+      "Hạn chế tối đa rượu bia, caffeine và các chất kích thích thần kinh"
+    ],
+    "medication": [
+      "Thuốc chống trầm cảm nhóm SSRI (như Sertraline, Escitalopram) hoặc SNRI",
+      "Thuốc giải lo âu hỗ trợ (dùng ngắn hạn theo chỉ định)",
+      "Liệu pháp tâm lý: Trị liệu nhận thức hành vi (CBT) là cốt lõi",
+      "Theo dõi chặt chẽ phản ứng và tác dụng phụ bởi bác sĩ chuyên khoa"
+    ]
+  },
+  "prevention": [
+    "Học kỹ năng quản lý stress và cân bằng cảm xúc",
+    "Duy trì các mối quan hệ xã hội tích cực và lành mạnh",
+    "Khám sức khỏe tâm thần định kỳ khi có dấu hiệu bất ổn",
+    "Tạo lập môi trường sống và làm việc ít áp lực tiêu cực",
+    "Tránh lạm dụng các chất gây thay đổi tâm trạng"
+  ],
+  "when_to_see_doctor": [
+    "Lo âu hoặc buồn bã kéo dài trên 2 tuần không tự thuyên giảm",
+    "Rối loạn giấc ngủ nghiêm trọng gây mệt mỏi ban ngày",
+    "Có suy nghĩ về cái chết hoặc ý định tự gây hại",
+    "Cảm giác tuyệt vọng, mất niềm tin hoàn toàn vào cuộc sống",
+    "Triệu chứng ảnh hưởng rõ rệt đến năng suất làm việc và học tập"
+  ],
+  "care_notes": [
+    "Bệnh có tiên lượng tốt nếu được phát hiện và can thiệp sớm",
+    "Tuyệt đối không tự ý ngưng thuốc khi thấy triệu chứng vừa cải thiện",
+    "Cần sự đồng hành, thấu hiểu và kiên trì từ phía gia đình",
+    "Điều trị thường kéo dài nhiều tháng để ngăn ngừa tái phát",
+    "Kết hợp trị liệu tâm lý và dùng thuốc là 'tiêu chuẩn vàng' trong điều trị"
+  ],
+  "epidemiology": [
+    "Là một trong những rối loạn tâm lý phổ biến nhất tại các phòng khám đa khoa ban đầu",
+    "Ước tính khoảng 10% dân số gặp phải tình trạng này tại một thời điểm trong đời",
+    "Chiếm tỷ lệ cao ở các quốc gia đang phát triển do áp lực kinh tế - xã hội",
+    "Thường bị bỏ sót chẩn đoán do triệu chứng chồng chéo và định kiến về bệnh tâm thần",
+    "Gây thiệt hại kinh tế lớn do làm giảm khả năng tập trung và năng suất lao động"
+  ],
+  "source": "Bệnh viện Đa khoa Vinmec",
+  "url": "https://www.vinmec.com/vie/bai-viet/benh-roi-loan-hon-hop-lo-au-va-tram-cam-vi"
+}

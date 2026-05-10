@@ -1,0 +1,111 @@
+{
+  "title": "Đái tháo đường",
+  "type": "disease",
+  "topic": "bệnh nội tiết - chuyển hóa",
+  "definition": "Đái tháo đường là một bệnh lý rối loạn chuyển hóa mạn tính, đặc trưng bởi tình trạng tăng glucose máu kéo dài do thiếu hụt insulin tuyệt đối, đề kháng insulin hoặc cả hai. Tình trạng này dẫn đến rối loạn chuyển hóa carbohydrate, lipid, protein và gây tổn thương lâu dài cho nhiều cơ quan, đặc biệt là tim, mạch máu, thận, mắt và hệ thần kinh.",
+  "classification": [
+    "Đái tháo đường type 1 (Phá hủy tế bào beta tụy, thiếu insulin tuyệt đối)",
+    "Đái tháo đường type 2 (Kháng insulin và suy giảm chức năng tế bào beta)",
+    "Đái tháo đường thai kỳ (Xuất hiện lần đầu trong quá trình mang thai)",
+    "Đái tháo đường thứ phát (Do thuốc, bệnh tụy ngoại tiết, di truyền hoặc nội tiết khác)"
+  ],
+  "pathophysiology": [
+    "Thiếu hụt hoặc đề kháng với tác dụng của insulin tại mô đích",
+    "Tăng sản xuất glucose tại gan và giảm tiêu thụ glucose ở cơ, mỡ",
+    "Tăng áp lực thẩm thấu máu do nồng độ đường cao kéo dài",
+    "Rối loạn chuyển hóa lipid và protein gây vữa xơ động mạch",
+    "Tổn thương mạch máu nhỏ (vi mạch) và mạch máu lớn (đại mạch)"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền và gen nhạy cảm",
+      "Kháng insulin tại các mô ngoại vi",
+      "Rối loạn chức năng và suy kiệt tế bào beta đảo tụy",
+      "Phản ứng tự miễn phá hủy đảo tụy (trong đái tháo đường type 1)"
+    ],
+    "secondary": [
+      "Béo phì, đặc biệt là béo trung tâm (béo bụng)",
+      "Lối sống ít vận động, lười thể dục",
+      "Chế độ ăn giàu năng lượng, đường đơn và tinh bột tinh chế",
+      "Rối loạn nội tiết (Hội chứng Cushing, cường giáp)",
+      "Sử dụng thuốc kéo dài (Corticosteroid, thuốc chống trầm cảm...)",
+      "Quá trình thay đổi hormone trong thai kỳ"
+    ]
+  },
+  "symptoms": [
+    "Ăn nhiều, uống nhiều, tiểu nhiều (tam đa)",
+    "Sụt cân nhanh không rõ nguyên nhân (đặc biệt ở type 1)",
+    "Mệt mỏi, suy nhược cơ thể kéo dài",
+    "Nhìn mờ, thị lực suy giảm đột ngột",
+    "Vết thương, vết loét chậm lành hoặc dễ nhiễm trùng",
+    "Tê bì, châm chích hoặc đau rát ở bàn tay, bàn chân",
+    "Nhiễm nấm men hoặc nhiễm trùng da tái diễn",
+    "Khát nước và tiểu nhiều bất thường ở phụ nữ mang thai"
+  ],
+  "complications": [
+    "Biến chứng mạch máu lớn: Nhồi máu cơ tim, đột quỵ, bệnh mạch máu ngoại vi",
+    "Biến chứng mạch máu nhỏ: Bệnh thận đái tháo đường, bệnh võng mạc, đục thủy tinh thể",
+    "Biến chứng thần kinh: Bàn chân đái tháo đường, liệt dạ dày, rối loạn cương dương",
+    "Biến chứng cấp tính: Hạ đường huyết, nhiễm toan ceton, tăng áp lực thẩm thấu",
+    "Nhiễm trùng nặng và nguy cơ phải cắt cụt chi"
+  ],
+  "diagnosis": [
+    "Glucose huyết tương lúc đói (FPG) ≥ 126 mg/dL (7,0 mmol/L)",
+    "Glucose huyết tương sau 2 giờ làm nghiệm pháp dung nạp (OGTT) ≥ 200 mg/dL (11,1 mmol/L)",
+    "Chỉ số HbA1c ≥ 6,5%",
+    "Glucose huyết tương bất kỳ ≥ 200 mg/dL kèm theo triệu chứng kinh điển"
+  ],
+  "risk_groups": [
+    "Người từ 45 tuổi trở lên",
+    "Người thừa cân, béo phì (BMI ≥ 23 tại Việt Nam)",
+    "Người ít vận động thể lực",
+    "Người có tiền sử gia đình (cha, mẹ, anh chị em) mắc bệnh",
+    "Người có tiền sử tăng huyết áp hoặc rối loạn lipid máu",
+    "Phụ nữ có hội chứng buồng trứng đa nang hoặc tiền sử đái tháo đường thai kỳ"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Chế độ ăn cân bằng: Tăng xơ, giảm đường đơn và tinh bột nhanh",
+      "Duy trì hoạt động thể lực ít nhất 150 phút/tuần",
+      "Giảm cân và kiểm soát chỉ số BMI ở mức lý tưởng",
+      "Theo dõi đường huyết định kỳ tại nhà",
+      "Tiêm phòng cúm và phế cầu hàng năm để tránh nhiễm trùng nặng"
+    ],
+    "medication": [
+      "Thuốc hạ đường huyết đường uống (Metformin, Sulfonylurea, SGLT2, DPP-4...)",
+      "Liệu pháp Insulin (bắt buộc cho type 1, linh hoạt cho type 2 và thai kỳ)",
+      "Thuốc đồng vận thụ thể GLP-1",
+      "Phối hợp thuốc kiểm soát huyết áp và mỡ máu để giảm biến chứng"
+    ]
+  },
+  "prevention": [
+    "Khám sức khỏe định kỳ và tầm soát đường huyết sớm",
+    "Ăn uống lành mạnh, hạn chế thực phẩm chế biến sẵn",
+    "Tăng cường vận động cơ thể mỗi ngày",
+    "Kiểm soát tốt cân nặng",
+    "Hạn chế tối đa thuốc lá và rượu bia"
+  ],
+  "when_to_see_doctor": [
+    "Khát nước và đi tiểu liên tục bất thường",
+    "Sụt cân nhanh dù ăn uống bình thường",
+    "Mệt mỏi cực độ ảnh hưởng đến sinh hoạt",
+    "Thị lực mờ đi đột ngột",
+    "Các vết thương ở chân có dấu hiệu sưng, đỏ, lâu lành"
+  ],
+  "care_notes": [
+    "Đái tháo đường là bệnh mạn tính cần tuân thủ điều trị suốt đời",
+    "Tuyệt đối không tự ý ngưng thuốc khi thấy đường huyết ổn định",
+    "Chăm sóc bàn chân hàng ngày là ưu tiên hàng đầu để tránh biến chứng",
+    "Luôn dự phòng kẹo hoặc viên đường để xử trí hạ đường huyết kịp thời",
+    "Tầm soát định kỳ các biến chứng mắt, thận và tim mạch theo lịch hẹn"
+  ],
+  "epidemiology": [
+    "Chiếm tỷ lệ cao trong nhóm bệnh lý mạn tính không lây nhiễm",
+    "Đái tháo đường type 2 chiếm khoảng 90-95% tổng số ca mắc",
+    "Tỷ lệ mắc bệnh tại Việt Nam đang gia tăng nhanh chóng và có xu hướng trẻ hóa",
+    "Là nguyên nhân hàng đầu gây mù lòa, suy thận và đoạn chi không do chấn thương",
+    "Khoảng một nửa số người mắc bệnh trong cộng đồng chưa được chẩn đoán sớm"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html"
+}

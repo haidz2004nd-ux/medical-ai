@@ -1,0 +1,148 @@
+{
+  "title": "Suy tim",
+  "type": "disease",
+  "topic": "tim mạch",
+  "definition": "Suy tim là tình trạng tim suy yếu, không đủ khả năng bơm máu để cung cấp oxy và dưỡng chất cho cơ thể. Đây là một hội chứng lâm sàng phức tạp, có thể do nhiều nguyên nhân tim mạch khác nhau gây ra và thường tiến triển mạn tính.",
+  "classification": [
+    "Suy tim trái",
+    "Suy tim phải",
+    "Suy tim toàn bộ",
+    "Suy tim cấp",
+    "Suy tim mạn",
+    "Suy tim tâm thu (phân suất tống máu giảm - HFrEF)",
+    "Suy tim tâm trương (phân suất tống máu bảo tồn - HFpEF)",
+    "Phân độ NYHA I",
+    "Phân độ NYHA II",
+    "Phân độ NYHA III",
+    "Phân độ NYHA IV"
+  ],
+  "pathophysiology": [
+    "Giảm khả năng co bóp hoặc giãn nở của cơ tim",
+    "Giảm cung lượng tim",
+    "Ứ máu trong tuần hoàn phổi hoặc ngoại biên",
+    "Hoạt hóa hệ thần kinh giao cảm và hệ renin-angiotensin-aldosterone",
+    "Tăng giữ muối và nước gây phù và sung huyết"
+  ],
+  "causes": {
+    "acute": [
+      "Nhồi máu cơ tim cấp",
+      "Phù phổi cấp do tim",
+      "Rối loạn nhịp tim nặng",
+      "Cơn tăng huyết áp cấp",
+      "Viêm cơ tim cấp"
+    ],
+    "chronic": [
+      "Tăng huyết áp mạn tính",
+      "Bệnh mạch vành",
+      "Bệnh van tim (hẹp hoặc hở van)",
+      "Bệnh cơ tim giãn",
+      "Bệnh tim bẩm sinh",
+      "Bệnh phổi mạn tính (COPD)",
+      "Đái tháo đường",
+      "Rối loạn nhịp tim mạn tính",
+      "Bệnh chuyển hóa và di truyền"
+    ]
+  },
+  "symptoms": [
+    "Khó thở khi gắng sức hoặc khi nằm",
+    "Khó thở kịch phát về đêm",
+    "Mệt mỏi, giảm khả năng vận động",
+    "Phù chân, mắt cá chân",
+    "Ho kéo dài, có thể ho bọt hồng",
+    "Đánh trống ngực, loạn nhịp tim",
+    "Chóng mặt hoặc ngất",
+    "Ăn kém, buồn nôn",
+    "Tăng hoặc giảm cân do ứ dịch",
+    "Gan to, tĩnh mạch cổ nổi (suy tim phải nặng)"
+  ],
+  "complications": [
+    "Phù phổi cấp",
+    "Rối loạn nhịp tim nguy hiểm",
+    "Đột tử do tim",
+    "Đột quỵ do huyết khối",
+    "Suy đa cơ quan",
+    "Giảm chất lượng sống nghiêm trọng",
+    "Tăng nguy cơ tử vong"
+  ],
+  "diagnosis": [
+    "Điện tâm đồ (ECG) phát hiện rối loạn nhịp và dấu hiệu gián tiếp",
+    "X-quang ngực phát hiện tim to và sung huyết phổi",
+    "Siêu âm tim đánh giá phân suất tống máu và cấu trúc tim",
+    "Holter ECG 24 giờ phát hiện rối loạn nhịp",
+    "Xét nghiệm NT-proBNP hoặc BNP",
+    "Chụp CT hoặc MSCT động mạch vành",
+    "MRI tim trong nghi ngờ viêm cơ tim hoặc bệnh cơ tim",
+    "Xét nghiệm máu (mỡ máu, đường huyết, chức năng thận, điện giải)"
+  ],
+  "risk_groups": [
+    "Người tăng huyết áp",
+    "Người mắc bệnh mạch vành",
+    "Người đái tháo đường",
+    "Người bệnh van tim",
+    "Người có bệnh phổi mạn tính",
+    "Người cao tuổi",
+    "Người hút thuốc lá",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người có tiền sử gia đình bệnh tim"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Giảm muối trong chế độ ăn",
+      "Hạn chế chất béo xấu",
+      "Tập thể dục nhẹ nhàng như đi bộ hoặc yoga",
+      "Ngừng hút thuốc lá và hạn chế rượu bia",
+      "Duy trì cân nặng hợp lý",
+      "Tránh căng thẳng",
+      "Tuân thủ điều trị và tái khám định kỳ"
+    ],
+    "medication": [
+      "Thuốc ức chế men chuyển (ACE inhibitors)",
+      "Thuốc chẹn thụ thể angiotensin II (ARB)",
+      "Thuốc chẹn beta",
+      "Thuốc lợi tiểu",
+      "Thuốc kháng aldosterone",
+      "Digoxin",
+      "Thuốc phối hợp ARNI (sacubitril/valsartan)",
+      "Thuốc chống đông khi có nguy cơ huyết khối",
+      "Thuốc điều trị bệnh nền (tăng huyết áp, đái tháo đường)"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát huyết áp tốt",
+    "Kiểm soát đường huyết",
+    "Ăn uống lành mạnh, giảm muối",
+    "Tập thể dục đều đặn",
+    "Không hút thuốc lá",
+    "Hạn chế rượu bia",
+    "Kiểm soát cân nặng",
+    "Khám sức khỏe định kỳ",
+    "Điều trị sớm bệnh tim mạch nền",
+    "Tránh lạm dụng thuốc gây hại tim"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở tăng dần hoặc khó thở khi nghỉ",
+    "Phù chân hoặc toàn thân",
+    "Tăng cân nhanh do giữ nước",
+    "Đau ngực hoặc tức ngực",
+    "Ngất hoặc chóng mặt nhiều",
+    "Đánh trống ngực kéo dài",
+    "Ho nhiều kèm khó thở"
+  ],
+  "care_notes": [
+    "Suy tim là bệnh mạn tính cần theo dõi lâu dài",
+    "Điều trị giúp cải thiện triệu chứng và kéo dài tuổi thọ",
+    "Phát hiện sớm giúp làm chậm tiến triển bệnh",
+    "Tuân thủ thuốc là yếu tố quan trọng",
+    "Giai đoạn nặng có thể cần thiết bị hỗ trợ hoặc ghép tim"
+  ],
+  "epidemiology": [
+    "Là bệnh tim mạch phổ biến trên toàn cầu",
+    "Tỷ lệ tăng theo tuổi",
+    "Liên quan chặt chẽ đến tăng huyết áp và bệnh mạch vành",
+    "Gánh nặng bệnh lớn trong cộng đồng",
+    "Có xu hướng gia tăng do lối sống ít vận động"
+  ],
+  "source": "Bệnh viện Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/suy-tim-3262"
+}

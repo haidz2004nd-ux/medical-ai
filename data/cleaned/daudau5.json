@@ -1,0 +1,125 @@
+{
+  "title": "Đau đầu",
+  "type": "disease",
+  "topic": "bệnh thần kinh",
+  "definition": "Đau đầu là tình trạng đau ở vùng đầu, mặt hoặc cổ trên, có thể xảy ra một hoặc hai bên, với mức độ từ nhẹ đến dữ dội, kéo dài từ vài phút đến vài ngày.",
+  "classification": [
+    "Đau đầu nguyên phát (không do tổn thương thực thể)",
+    "Đau đầu thứ phát (do bệnh lý khác gây ra)"
+  ],
+  "pathophysiology": [
+    "Rối loạn hoạt động hóa học trong não",
+    "Kích thích dây thần kinh quanh hộp sọ",
+    "Giãn hoặc co mạch máu não",
+    "Căng cơ vùng đầu cổ",
+    "Yếu tố di truyền (đặc biệt migraine)"
+  ],
+  "causes": {
+    "primary_hypertension": [
+      "Đau nửa đầu (Migraine)",
+      "Đau đầu do căng cơ",
+      "Đau đầu từng cụm",
+      "Yếu tố di truyền",
+      "Rối loạn vận mạch"
+    ],
+    "secondary_hypertension": [
+      "Chấn thương sọ não",
+      "U não",
+      "Viêm màng não",
+      "Viêm não",
+      "Xuất huyết não",
+      "Huyết khối tĩnh mạch não",
+      "Say nắng, say nóng",
+      "Nhiễm trùng",
+      "Bệnh tim mạch",
+      "Rối loạn nội tiết",
+      "Thiếu máu",
+      "Bệnh mắt, tai mũi họng",
+      "Stress",
+      "Thiếu ngủ",
+      "Rượu bia, caffeine"
+    ]
+  },
+  "symptoms": [
+    "Đau đầu âm ỉ hoặc dữ dội",
+    "Đau một hoặc hai bên đầu",
+    "Buồn nôn hoặc nôn",
+    "Nhạy cảm ánh sáng và âm thanh",
+    "Chóng mặt",
+    "Mờ mắt",
+    "Căng cứng cổ",
+    "Khó tập trung",
+    "Mệt mỏi"
+  ],
+  "complications": [
+    "Ảnh hưởng chất lượng cuộc sống",
+    "Rối loạn giấc ngủ",
+    "Đau đầu mạn tính",
+    "Biến chứng thần kinh",
+    "Đột quỵ",
+    "Tổn thương não (trong trường hợp bệnh lý nặng)"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng lâm sàng",
+    "Khám thần kinh",
+    "Đo huyết áp",
+    "Xét nghiệm máu",
+    "Chụp CT hoặc MRI não",
+    "Chọc dò dịch não tủy",
+    "Điện não đồ"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi",
+      "Ngủ đủ giấc",
+      "Giảm stress",
+      "Tập thể dục",
+      "Uống đủ nước",
+      "Hạn chế rượu bia và caffeine"
+    ],
+    "medication": [
+      "Paracetamol",
+      "Ibuprofen",
+      "Aspirin",
+      "Sumatriptan",
+      "Thuốc chẹn beta",
+      "Thuốc chống trầm cảm",
+      "Thuốc chống động kinh"
+    ]
+  },
+  "risk_groups": [
+    "Phụ nữ",
+    "Người stress kéo dài",
+    "Người thiếu ngủ",
+    "Người làm việc với máy tính nhiều",
+    "Người sử dụng rượu bia, caffeine",
+    "Người có tiền sử gia đình migraine"
+  ],
+  "prevention": [
+    "Ngủ đủ giấc",
+    "Giảm stress",
+    "Ăn uống điều độ",
+    "Uống đủ nước",
+    "Tập thể dục thường xuyên",
+    "Hạn chế chất kích thích",
+    "Nghỉ ngơi hợp lý"
+  ],
+  "when_to_see_doctor": [
+    "Đau đầu đột ngột dữ dội",
+    "Đau đầu tăng nhanh",
+    "Kèm sốt, cứng cổ",
+    "Co giật, lú lẫn",
+    "Yếu liệt",
+    "Nhìn mờ",
+    "Sau chấn thương"
+  ],
+  "care_notes": [
+    "Không lạm dụng thuốc giảm đau",
+    "Theo dõi tần suất đau đầu",
+    "Tuân thủ điều trị",
+    "Tránh yếu tố kích thích",
+    "Khám sớm khi có dấu hiệu bất thường"
+  ],
+  "source": "Bệnh viện Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/dau-dau/"
+}

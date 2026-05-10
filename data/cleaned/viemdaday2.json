@@ -1,0 +1,127 @@
+{
+  "title": "Viêm dạ dày",
+  "type": "disease",
+  "topic": "tiêu hóa - dạ dày",
+  "definition": "Viêm dạ dày là tình trạng viêm hoặc tổn thương niêm mạc dạ dày, có thể xảy ra cấp tính hoặc mạn tính, gây đau thượng vị, rối loạn tiêu hóa và có thể dẫn đến biến chứng nếu không điều trị kịp thời.",
+  "classification": [
+    "Viêm dạ dày cấp",
+    "Viêm dạ dày mạn",
+    "Viêm dạ dày do H. pylori",
+    "Viêm dạ dày do thuốc NSAID",
+    "Viêm dạ dày tự miễn",
+    "Viêm dạ dày ăn mòn"
+  ],
+  "pathophysiology": [
+    "Tổn thương lớp niêm mạc bảo vệ dạ dày",
+    "Tăng tiết acid dịch vị gây ăn mòn niêm mạc",
+    "Nhiễm Helicobacter pylori gây viêm mạn tính",
+    "Phản ứng viêm và thấm nhập tế bào viêm vào niêm mạc",
+    "Rối loạn cân bằng giữa yếu tố bảo vệ và yếu tố tấn công của dạ dày"
+  ],
+  "causes": {
+    "acute": [
+      "Sử dụng NSAID như aspirin, ibuprofen",
+      "Uống rượu bia nhiều",
+      "Stress nặng, chấn thương, bỏng",
+      "Nhiễm khuẩn cấp hoặc nhiễm trùng nặng",
+      "Nhiễm Helicobacter pylori"
+    ],
+    "chronic": [
+      "Nhiễm Helicobacter pylori kéo dài",
+      "Viêm dạ dày tự miễn",
+      "Bệnh Crohn",
+      "Sử dụng NSAID kéo dài",
+      "Rối loạn miễn dịch",
+      "Thói quen ăn uống không lành mạnh lâu dài"
+    ]
+  },
+  "symptoms": [
+    "Đau vùng thượng vị",
+    "Ợ hơi, ợ chua",
+    "Cảm giác nóng rát dạ dày",
+    "Trướng bụng sau ăn",
+    "Buồn nôn hoặc nôn",
+    "Chán ăn",
+    "Đi ngoài phân đen hoặc có máu (trường hợp nặng)",
+    "Thiếu máu do xuất huyết tiêu hóa"
+  ],
+  "complications": [
+    "Xuất huyết tiêu hóa",
+    "Loét dạ dày",
+    "Thủng dạ dày",
+    "Thiếu máu mạn tính",
+    "Teo niêm mạc dạ dày",
+    "Dị sản ruột và loạn sản",
+    "Ung thư dạ dày (biến chứng mạn tính)"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng và tiền sử bệnh",
+    "Nội soi thực quản - dạ dày - tá tràng",
+    "Sinh thiết niêm mạc dạ dày",
+    "Xét nghiệm Helicobacter pylori (hơi thở, máu, phân)",
+    "Xét nghiệm máu ẩn trong phân",
+    "Đánh giá nguy cơ ung thư dạ dày"
+  ],
+  "risk_groups": [
+    "Người nhiễm Helicobacter pylori",
+    "Người sử dụng NSAID kéo dài",
+    "Người uống rượu bia thường xuyên",
+    "Người lớn tuổi",
+    "Người có bệnh tự miễn",
+    "Người stress kéo dài",
+    "Người có chế độ ăn uống không lành mạnh"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Hạn chế rượu bia",
+      "Tránh thức ăn cay nóng và dầu mỡ",
+      "Ăn uống điều độ và đúng giờ",
+      "Giảm stress",
+      "Không tự ý dùng thuốc giảm đau NSAID"
+    ],
+    "medication": [
+      "Thuốc ức chế bơm proton (PPI) như omeprazole, esomeprazole",
+      "Thuốc trung hòa acid",
+      "Thuốc chẹn H2",
+      "Kháng sinh diệt H. pylori khi cần",
+      "Phác đồ điều trị theo bác sĩ chỉ định"
+    ],
+    "psychotherapy": [
+      "Hỗ trợ tâm lý giảm stress",
+      "Tư vấn thay đổi lối sống",
+      "Giáo dục sức khỏe tiêu hóa"
+    ]
+  },
+  "prevention": [
+    "Không lạm dụng rượu bia",
+    "Không tự ý dùng NSAID kéo dài",
+    "Ăn uống hợp vệ sinh",
+    "Tránh thực phẩm kích thích dạ dày",
+    "Quản lý stress hiệu quả",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau thượng vị kéo dài hoặc tăng nặng",
+    "Nôn ra máu hoặc đi ngoài phân đen",
+    "Chán ăn, sụt cân không rõ nguyên nhân",
+    "Triệu chứng không cải thiện sau điều chỉnh sinh hoạt",
+    "Nghi ngờ biến chứng xuất huyết tiêu hóa",
+    "Đau bụng dữ dội kèm choáng"
+  ],
+  "care_notes": [
+    "Viêm dạ dày có thể điều trị khỏi nếu phát hiện sớm",
+    "Viêm dạ dày mạn tính cần theo dõi lâu dài",
+    "Tuân thủ điều trị của bác sĩ là quan trọng",
+    "Chế độ ăn uống ảnh hưởng lớn đến bệnh",
+    "Cần điều trị triệt để H. pylori để tránh tái phát"
+  ],
+  "epidemiology": [
+    "Là bệnh tiêu hóa phổ biến toàn cầu",
+    "Tỷ lệ nhiễm H. pylori cao ở nhiều quốc gia",
+    "Gia tăng ở người dùng NSAID kéo dài",
+    "Phổ biến ở người lớn tuổi",
+    "Có nguy cơ tiến triển thành ung thư dạ dày nếu mạn tính"
+  ],
+  "source": "Bệnh viện Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/viem-da-day/"
+}

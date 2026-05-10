@@ -1,0 +1,122 @@
+{
+  "title": "Nhức đầu",
+  "type": "disease",
+  "topic": "bệnh thần kinh",
+  "definition": "Nhức đầu là tình trạng đau ở vùng đầu hoặc cổ trên, có thể xuất hiện một bên hoặc toàn bộ đầu, với mức độ từ âm ỉ đến dữ dội, kéo dài từ vài phút đến vài ngày.",
+  "classification": [
+    "Nhức đầu nguyên phát (không do bệnh lý nền)",
+    "Nhức đầu thứ phát (do bệnh lý khác gây ra)"
+  ],
+  "pathophysiology": [
+    "Rối loạn dẫn truyền thần kinh trung ương",
+    "Thay đổi lưu lượng máu não",
+    "Kích thích các thụ thể đau ở màng não và mạch máu",
+    "Co giãn bất thường của mạch máu não",
+    "Tăng nhạy cảm hệ thần kinh với các yếu tố kích thích"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn thần kinh (migraine, đau đầu căng thẳng)",
+      "Yếu tố di truyền",
+      "Rối loạn dẫn truyền serotonin"
+    ],
+    "secondary": [
+      "Viêm xoang",
+      "Chấn thương đầu",
+      "Tăng huyết áp",
+      "U não hoặc bệnh lý thần kinh",
+      "Lạm dụng thuốc giảm đau",
+      "Nhiễm trùng",
+      "Căng thẳng kéo dài",
+      "Thiếu ngủ"
+    ]
+  },
+  "symptoms": [
+    "Đau đầu âm ỉ hoặc dữ dội",
+    "Đau một bên hoặc hai bên đầu",
+    "Đau quanh mắt hoặc vùng trán",
+    "Buồn nôn và nôn",
+    "Nhạy cảm với ánh sáng và tiếng ồn",
+    "Chảy nước mắt hoặc nghẹt mũi",
+    "Chóng mặt",
+    "Khó tập trung",
+    "Rối loạn thị giác",
+    "Mệt mỏi"
+  ],
+  "complications": [
+    "Ảnh hưởng chất lượng cuộc sống",
+    "Rối loạn giấc ngủ",
+    "Giảm khả năng tập trung",
+    "Lo âu và trầm cảm",
+    "Lạm dụng thuốc giảm đau"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng và khai thác tiền sử",
+    "Khám thần kinh",
+    "Khám tai mũi họng và mắt",
+    "Chụp CT hoặc MRI não",
+    "Xét nghiệm máu",
+    "Điện não đồ",
+    "Chọc dò dịch não tủy (khi cần)"
+  ],
+  "prediabetes": [],
+  "screening": [
+    "Người thường xuyên đau đầu kéo dài",
+    "Người có tiền sử migraine",
+    "Người bị stress kéo dài",
+    "Người làm việc cường độ cao với máy tính",
+    "Người có bệnh lý nền như tăng huyết áp"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi hợp lý",
+      "Ngủ đủ giấc",
+      "Giảm stress",
+      "Tập thể dục đều đặn",
+      "Uống đủ nước",
+      "Hạn chế caffeine và rượu bia"
+    ],
+    "medication": [
+      "Paracetamol",
+      "Ibuprofen",
+      "Aspirin",
+      "Thuốc chẹn beta (propranolol)",
+      "Thuốc chống trầm cảm (amitriptyline)",
+      "Thuốc chống động kinh (topiramate)"
+    ]
+  },
+  "risk_groups": [
+    "Người làm việc căng thẳng",
+    "Người thiếu ngủ",
+    "Người sử dụng nhiều caffeine hoặc rượu bia",
+    "Người làm việc máy tính nhiều",
+    "Người có tiền sử gia đình migraine",
+    "Người có chấn thương đầu"
+  ],
+  "prevention": [
+    "Ngủ đủ giấc",
+    "Uống đủ nước",
+    "Giảm căng thẳng",
+    "Hạn chế caffeine và rượu bia",
+    "Không làm việc quá sức",
+    "Tập thể dục thường xuyên",
+    "Duy trì chế độ ăn lành mạnh"
+  ],
+  "when_to_see_doctor": [
+    "Đau đầu dữ dội đột ngột",
+    "Đau đầu kéo dài hoặc ngày càng nặng",
+    "Đau đầu kèm sốt cao hoặc cứng cổ",
+    "Rối loạn thị giác hoặc nói khó",
+    "Yếu liệt tay chân",
+    "Đau đầu sau chấn thương"
+  ],
+  "care_notes": [
+    "Không lạm dụng thuốc giảm đau",
+    "Theo dõi tần suất và mức độ đau đầu",
+    "Tránh các yếu tố kích thích (stress, thiếu ngủ)",
+    "Tuân thủ điều trị của bác sĩ",
+    "Khám định kỳ nếu đau đầu tái phát nhiều lần"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html"
+}

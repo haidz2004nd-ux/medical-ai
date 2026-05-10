@@ -1,0 +1,111 @@
+{
+  "title": "Đau thắt ngực",
+  "type": "disease",
+  "topic": "tim mạch",
+  "definition": "Đau thắt ngực là tình trạng đau hoặc khó chịu ở ngực xảy ra khi cơ tim không nhận đủ oxy do giảm lưu lượng máu, thường liên quan đến bệnh động mạch vành.",
+  "classification": [
+    "Đau thắt ngực ổn định",
+    "Đau thắt ngực không ổn định",
+    "Đau thắt ngực do vi mạch"
+  ],
+  "pathophysiology": [
+    "Giảm lưu lượng máu đến cơ tim",
+    "Xơ vữa động mạch làm hẹp lòng mạch vành",
+    "Tăng nhu cầu oxy cơ tim khi gắng sức",
+    "Mất cân bằng giữa cung và cầu oxy của cơ tim"
+  ],
+  "causes": {
+    "primary": [
+      "Bệnh động mạch vành",
+      "Xơ vữa động mạch"
+    ],
+    "secondary": [
+      "Tăng huyết áp",
+      "Thiếu máu",
+      "Căng thẳng",
+      "Gắng sức thể lực",
+      "Co thắt mạch vành"
+    ]
+  },
+  "symptoms": [
+    "Đau hoặc tức ngực (cảm giác đè nặng, chèn ép)",
+    "Đau lan ra tay, vai, cổ, hàm hoặc lưng",
+    "Khó thở",
+    "Mệt mỏi",
+    "Chóng mặt",
+    "Buồn nôn",
+    "Vã mồ hôi"
+  ],
+  "complications": [
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Rối loạn nhịp tim",
+    "Tử vong"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Điện tâm đồ (ECG)",
+    "Test gắng sức",
+    "Siêu âm tim",
+    "Chụp CT mạch vành",
+    "Chụp mạch vành",
+    "Xét nghiệm máu"
+  ],
+  "risk_groups": [
+    "Người lớn tuổi",
+    "Người đái tháo đường",
+    "Người tăng huyết áp",
+    "Người cholesterol cao",
+    "Người béo phì",
+    "Người hút thuốc",
+    "Người ít vận động",
+    "Người có tiền sử gia đình bệnh tim"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi khi có cơn đau",
+      "Giảm stress",
+      "Tập thể dục phù hợp",
+      "Ăn uống lành mạnh",
+      "Bỏ thuốc lá",
+      "Hạn chế rượu bia"
+    ],
+    "medical": [
+      "Thuốc giãn mạch vành (nitroglycerin)",
+      "Thuốc chẹn beta",
+      "Thuốc chẹn kênh canxi",
+      "Thuốc chống kết tập tiểu cầu",
+      "Statin giảm cholesterol",
+      "Can thiệp mạch vành hoặc phẫu thuật bắc cầu"
+    ]
+  },
+  "prevention": [
+    "Duy trì cân nặng hợp lý",
+    "Tập thể dục thường xuyên",
+    "Kiểm soát huyết áp, đường huyết, mỡ máu",
+    "Không hút thuốc",
+    "Giảm stress",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau ngực kéo dài trên vài phút",
+    "Đau không giảm khi nghỉ hoặc dùng thuốc",
+    "Đau xảy ra khi đang nghỉ ngơi",
+    "Khó thở nghiêm trọng",
+    "Nghi ngờ nhồi máu cơ tim"
+  ],
+  "care_notes": [
+    "Đau thắt ngực là dấu hiệu cảnh báo bệnh tim",
+    "Cần phân biệt với nhồi máu cơ tim",
+    "Tuân thủ điều trị để tránh biến chứng",
+    "Theo dõi tần suất và mức độ cơn đau"
+  ],
+  "epidemiology": [
+    "Thường gặp ở người trung niên và cao tuổi",
+    "Liên quan chặt chẽ đến bệnh động mạch vành",
+    "Nữ giới có thể có biểu hiện không điển hình",
+    "Là nguyên nhân phổ biến gây đau ngực"
+  ],
+  "source": "Gleneagles Hospital",
+  "url": "https://www.gleneagles.com.sg/vi/conditions-diseases/angina/symptoms-causes"
+}

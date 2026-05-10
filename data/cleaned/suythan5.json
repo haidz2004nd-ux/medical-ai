@@ -1,0 +1,148 @@
+{
+  "title": "Suy thận",
+  "type": "disease",
+  "topic": "thận - tiết niệu - chuyển hóa",
+  "definition": "Suy thận (bệnh thận mạn) là tình trạng bất thường về cấu trúc hoặc chức năng thận kéo dài trên 3 tháng, làm giảm khả năng lọc máu, đào thải chất thải và điều hòa nước - điện giải. Bệnh có thể tiến triển từ nhẹ đến nặng, và giai đoạn cuối cần điều trị thay thế thận.",
+  "classification": [
+    "Suy thận giai đoạn 1 (tổn thương cấu trúc, chưa giảm chức năng)",
+    "Suy thận giai đoạn 2 (tổn thương nhẹ)",
+    "Suy thận giai đoạn 3a (giảm chức năng mức độ trung bình)",
+    "Suy thận giai đoạn 3b (giảm chức năng rõ)",
+    "Suy thận giai đoạn 4 (nặng)",
+    "Suy thận giai đoạn 5 (giai đoạn cuối - cần lọc máu hoặc ghép thận)"
+  ],
+  "pathophysiology": [
+    "Giảm mức lọc cầu thận (GFR)",
+    "Tổn thương nephron tiến triển",
+    "Tích tụ độc chất (ure, creatinine)",
+    "Rối loạn cân bằng nước - điện giải",
+    "Giảm sản xuất erythropoietin gây thiếu máu",
+    "Rối loạn nội tiết và chuyển hóa khoáng chất"
+  ],
+  "causes": {
+    "acute": [
+      "Mất nước hoặc giảm thể tích tuần hoàn",
+      "Nhiễm trùng nặng (nhiễm trùng huyết)",
+      "Thuốc độc thận (kháng sinh, NSAIDs)",
+      "Tắc nghẽn đường tiết niệu (sỏi, phì đại tuyến tiền liệt)",
+      "Suy tim gây giảm tưới máu thận"
+    ],
+    "chronic": [
+      "Đái tháo đường",
+      "Tăng huyết áp",
+      "Gout và rối loạn chuyển hóa",
+      "Viêm cầu thận mạn",
+      "Bệnh thận đa nang",
+      "Lupus ban đỏ hệ thống",
+      "Nhiễm trùng đường tiết niệu kéo dài",
+      "Sỏi tiết niệu tái phát",
+      "Lạm dụng thuốc không rõ nguồn gốc hoặc thuốc đông y không kiểm soát"
+    ]
+  },
+  "symptoms": [
+    "Mệt mỏi, suy nhược",
+    "Chán ăn",
+    "Buồn nôn, nôn",
+    "Khó ngủ, giảm tập trung",
+    "Thiếu máu gây chóng mặt, đau đầu",
+    "Ngứa da, khô da",
+    "Chuột rút",
+    "Phù chân, mắt cá, mặt",
+    "Khó thở",
+    "Đau ngực (trường hợp nặng)",
+    "Rối loạn tiểu tiện (tiểu ít, tiểu máu, tiểu bọt)",
+    "Giảm khả năng sinh lý"
+  ],
+  "complications": [
+    "Thiếu máu mạn tính",
+    "Rối loạn điện giải (tăng kali máu)",
+    "Bệnh tim mạch",
+    "Phù phổi",
+    "Tăng huyết áp nặng",
+    "Loãng xương và rối loạn khoáng chất",
+    "Suy dinh dưỡng",
+    "Tổn thương thần kinh",
+    "Suy thận giai đoạn cuối cần lọc máu",
+    "Tử vong nếu không điều trị"
+  ],
+  "diagnosis": [
+    "Đánh giá mức lọc cầu thận (GFR)",
+    "Xét nghiệm creatinine máu",
+    "Xét nghiệm nước tiểu (protein, máu, bọt)",
+    "Đo huyết áp và đánh giá bệnh nền",
+    "Siêu âm thận",
+    "Xét nghiệm điện giải và công thức máu",
+    "Chẩn đoán hình ảnh khi cần",
+    "Theo dõi tiến triển bệnh định kỳ"
+  ],
+  "risk_groups": [
+    "Người mắc đái tháo đường",
+    "Người tăng huyết áp",
+    "Người có bệnh tim mạch",
+    "Người cao tuổi",
+    "Người béo phì",
+    "Người có bệnh gout",
+    "Người dùng thuốc không kiểm soát",
+    "Người có lối sống ít vận động",
+    "Người có tiền sử bệnh thận trong gia đình"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Chế độ ăn nhạt, giảm muối",
+      "Giảm protein tùy giai đoạn bệnh",
+      "Tăng rau xanh và chất xơ",
+      "Uống nước hợp lý",
+      "Tập thể dục đều đặn",
+      "Kiểm soát cân nặng",
+      "Giảm stress",
+      "Tránh rượu bia và chất kích thích"
+    ],
+    "medical": [
+      "Điều trị bệnh nền (tiểu đường, tăng huyết áp)",
+      "Thuốc làm chậm tiến triển bệnh thận",
+      "Điều chỉnh thuốc theo chức năng thận",
+      "Điều trị thiếu máu",
+      "Điều trị rối loạn điện giải",
+      "Lọc máu (chạy thận nhân tạo)",
+      "Lọc màng bụng",
+      "Ghép thận",
+      "Điều trị triệu chứng và biến chứng"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát huyết áp và đường huyết",
+    "Ăn uống lành mạnh",
+    "Hạn chế muối, đường, chất béo xấu",
+    "Không lạm dụng thuốc giảm đau",
+    "Uống đủ nước",
+    "Tập thể dục thường xuyên",
+    "Khám sức khỏe định kỳ",
+    "Tránh thuốc và thực phẩm không rõ nguồn gốc",
+    "Quản lý stress tốt"
+  ],
+  "when_to_see_doctor": [
+    "Tiểu ít hoặc thay đổi bất thường",
+    "Phù toàn thân",
+    "Khó thở",
+    "Mệt mỏi kéo dài",
+    "Buồn nôn, chán ăn kéo dài",
+    "Nước tiểu có máu hoặc nhiều bọt",
+    "Nghi ngờ suy thận hoặc bệnh thận mạn"
+  ],
+  "care_notes": [
+    "Suy thận mạn không thể chữa khỏi hoàn toàn",
+    "Phát hiện sớm giúp làm chậm tiến triển bệnh",
+    "Điều trị chủ yếu là kiểm soát và làm chậm bệnh",
+    "Cần theo dõi định kỳ lâu dài",
+    "Giai đoạn cuối cần điều trị thay thế thận"
+  ],
+  "epidemiology": [
+    "Tỷ lệ tăng theo tuổi",
+    "Liên quan nhiều đến bệnh chuyển hóa (đái tháo đường, tăng huyết áp)",
+    "Gia tăng do lối sống hiện đại",
+    "Phổ biến ở người cao tuổi",
+    "Gánh nặng y tế lớn trong cộng đồng"
+  ],
+  "source": "Bệnh viện Nhi Trung ương / tổng hợp y khoa",
+  "url": "https://tamanhhospital.vn/benh/suy-than/"
+}

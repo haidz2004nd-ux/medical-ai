@@ -1,0 +1,9 @@
+torch
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+langchain-text-splitters
+transformers
+accelerate
+bitsandbytes

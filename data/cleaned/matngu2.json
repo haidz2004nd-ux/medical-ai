@@ -1,0 +1,128 @@
+{
+  "title": "Mất ngủ",
+  "type": "disease",
+  "topic": "thần kinh - tâm thần - giấc ngủ",
+  "definition": "Mất ngủ là rối loạn giấc ngủ trong đó người bệnh khó đi vào giấc ngủ, ngủ không sâu, dễ thức giấc giữa đêm hoặc thức dậy quá sớm và không thể ngủ lại, gây mệt mỏi và giảm hiệu suất ban ngày.",
+  "classification": [
+    "Mất ngủ cấp tính (kéo dài < 1 tháng)",
+    "Mất ngủ mạn tính (≥ 1 tháng)",
+    "Khó vào giấc ngủ",
+    "Khó duy trì giấc ngủ",
+    "Thức dậy sớm"
+  ],
+  "pathophysiology": [
+    "Rối loạn nhịp sinh học (circadian rhythm)",
+    "Mất cân bằng chất dẫn truyền thần kinh (melatonin, serotonin, GABA)",
+    "Tăng hoạt động hệ thần kinh giao cảm do căng thẳng",
+    "Giảm chất lượng giấc ngủ sâu",
+    "Rối loạn điều hòa trung tâm giấc ngủ ở não"
+  ],
+  "causes": {
+    "primary": [
+      "Căng thẳng tâm lý kéo dài (stress, lo âu)",
+      "Rối loạn tâm thần như trầm cảm, rối loạn lo âu"
+    ],
+    "secondary": [
+      "Thói quen ngủ không khoa học (giờ giấc thất thường, dùng thiết bị điện tử trước ngủ)",
+      "Ăn quá no hoặc ăn muộn vào buổi tối",
+      "Caffeine, nicotine, rượu bia",
+      "Thay đổi múi giờ hoặc làm việc ca kíp",
+      "Bệnh lý (đau mạn tính, tim mạch, hen suyễn, trào ngược dạ dày, bệnh tuyến giáp, Parkinson, Alzheimer)",
+      "Rối loạn giấc ngủ khác (ngưng thở khi ngủ, hội chứng chân không yên)",
+      "Thuốc (thuốc chống trầm cảm, thuốc huyết áp, thuốc hen, thuốc giảm đau)",
+      "Ít vận động thể chất",
+      "Tuổi cao",
+      "Tình trạng nằm viện dài ngày hoặc chấn thương"
+    ]
+  },
+  "symptoms": [
+    "Khó đi vào giấc ngủ",
+    "Thức giấc nhiều lần trong đêm",
+    "Thức dậy quá sớm",
+    "Không cảm thấy nghỉ ngơi sau khi ngủ",
+    "Mệt mỏi ban ngày",
+    "Buồn ngủ, giảm tập trung",
+    "Khó ghi nhớ",
+    "Cáu gắt, lo âu hoặc trầm cảm",
+    "Tăng nguy cơ sai sót và tai nạn",
+    "Lo lắng kéo dài về giấc ngủ"
+  ],
+  "complications": [
+    "Giảm hiệu suất làm việc và học tập",
+    "Tăng nguy cơ tai nạn giao thông",
+    "Rối loạn tâm thần (trầm cảm, lo âu, lạm dụng chất)",
+    "Tăng nguy cơ tăng huyết áp và bệnh tim mạch",
+    "Suy giảm miễn dịch",
+    "Rối loạn chuyển hóa",
+    "Suy giảm chất lượng cuộc sống"
+  ],
+  "diagnosis": [
+    "Khai thác bệnh sử và thói quen ngủ",
+    "Khám lâm sàng",
+    "Đánh giá mức độ buồn ngủ ban ngày",
+    "Xét nghiệm loại trừ bệnh lý nền (tuyến giáp, nội khoa)",
+    "Theo dõi nhật ký giấc ngủ",
+    "Đo đa ký giấc ngủ khi nghi ngờ rối loạn giấc ngủ"
+  ],
+  "risk_groups": [
+    "Người cao tuổi",
+    "Nữ giới (thai kỳ, mãn kinh, chu kỳ nội tiết)",
+    "Người làm việc ca đêm hoặc thay đổi giờ giấc",
+    "Người bị stress kéo dài",
+    "Người mắc bệnh mạn tính",
+    "Người có rối loạn tâm thần",
+    "Người dùng chất kích thích",
+    "Người ít hoạt động thể chất",
+    "Người đang dùng nhiều thuốc điều trị"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Duy trì giờ ngủ cố định",
+      "Tập thể dục đều đặn",
+      "Tránh thiết bị điện tử trước ngủ",
+      "Tạo môi trường ngủ yên tĩnh, tối và mát",
+      "Hạn chế ngủ trưa dài",
+      "Giảm stress bằng thư giãn, thiền, yoga",
+      "Tránh caffeine, rượu bia và nicotine",
+      "Không ăn quá no trước khi ngủ"
+    ],
+    "medication": [
+      "Liệu pháp hành vi nhận thức cho mất ngủ (CBT-I)",
+      "Thuốc hỗ trợ giấc ngủ theo chỉ định bác sĩ",
+      "Điều trị bệnh lý nền",
+      "Kỹ thuật thư giãn có hướng dẫn (thở, phản hồi sinh học)",
+      "Liệu pháp hạn chế giấc ngủ và kiểm soát kích thích"
+    ]
+  },
+  "prevention": [
+    "Duy trì giờ ngủ và thức cố định",
+    "Tăng hoạt động thể chất",
+    "Hạn chế caffeine, rượu, nicotine",
+    "Tránh ngủ trưa quá dài",
+    "Không ăn quá no hoặc uống nhiều trước khi ngủ",
+    "Thiết lập thói quen thư giãn trước ngủ"
+  ],
+  "when_to_see_doctor": [
+    "Mất ngủ kéo dài gây ảnh hưởng ban ngày",
+    "Mất ngủ > 3 lần/tuần",
+    "Kéo dài trên 1 tháng",
+    "Nghi ngờ rối loạn giấc ngủ hoặc bệnh lý nền",
+    "Có dấu hiệu lo âu hoặc trầm cảm kèm theo"
+  ],
+  "care_notes": [
+    "Mất ngủ thường liên quan nhiều yếu tố phối hợp",
+    "Ưu tiên thay đổi lối sống trước khi dùng thuốc",
+    "Thuốc ngủ chỉ nên dùng ngắn hạn theo chỉ định",
+    "CBT-I là phương pháp điều trị nền tảng hiệu quả",
+    "Cần theo dõi lâu dài để tránh tái phát"
+  ],
+  "epidemiology": [
+    "Phổ biến ở người trưởng thành và người cao tuổi",
+    "Tỷ lệ tăng theo tuổi",
+    "Nữ giới mắc nhiều hơn nam giới",
+    "Tỷ lệ tăng do stress và lối sống hiện đại",
+    "Có thể gặp ở cả trẻ em và thanh thiếu niên"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/mat-ngu-3923"
+}

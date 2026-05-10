@@ -1,0 +1,127 @@
+{
+  "title": "Ho",
+  "type": "symptom",
+  "topic": "hô hấp",
+  "definition": "Ho là phản xạ tự nhiên của cơ thể giúp làm sạch đường hô hấp bằng cách loại bỏ chất kích thích, dịch tiết hoặc dị vật ra khỏi đường thở.",
+  "classification": [
+    "Ho cấp tính",
+    "Ho bán cấp",
+    "Ho mạn tính",
+    "Ho khan",
+    "Ho có đờm",
+    "Ho ra máu"
+  ],
+  "pathophysiology": [
+    "Kích thích thụ thể ho tại đường hô hấp",
+    "Kích hoạt phản xạ ho qua hệ thần kinh",
+    "Tăng tiết chất nhầy trong đường thở",
+    "Co thắt hoặc tắc nghẽn đường dẫn khí",
+    "Viêm và phù nề niêm mạc hô hấp"
+  ],
+  "causes": {
+    "primary": [
+      "Nhiễm virus đường hô hấp",
+      "Viêm phế quản cấp",
+      "Viêm mũi xoang",
+      "Dị ứng",
+      "Hen suyễn"
+    ],
+    "secondary": [
+      "Ho gà",
+      "Viêm phổi",
+      "Lao phổi",
+      "Ung thư phổi",
+      "Trào ngược dạ dày thực quản",
+      "Bệnh phổi tắc nghẽn mạn tính",
+      "Suy tim sung huyết",
+      "Thuyên tắc phổi"
+    ]
+  },
+  "symptoms": [
+    "Ho khan hoặc ho có đờm",
+    "Khô hoặc đau rát họng",
+    "Chảy nước mũi",
+    "Sốt",
+    "Mệt mỏi",
+    "Đau đầu",
+    "Khó thở",
+    "Tức ngực",
+    "Thở khò khè",
+    "Ợ chua",
+    "Ho ra máu"
+  ],
+  "complications": [
+    "Viêm phổi",
+    "Suy hô hấp",
+    "Tổn thương phổi",
+    "Áp xe phổi",
+    "Lan rộng nhiễm trùng",
+    "Nguy cơ tử vong nếu bệnh nặng"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Đánh giá thời gian và tính chất ho",
+    "Chụp X-quang phổi",
+    "Xét nghiệm đờm",
+    "Đo hô hấp ký"
+  ],
+  "risk_groups": [
+    "Người hút thuốc",
+    "Người mắc bệnh mạn tính",
+    "Người dị ứng",
+    "Trẻ em",
+    "Người cao tuổi",
+    "Người làm việc trong môi trường ô nhiễm"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Giữ ấm cơ thể",
+      "Uống đủ nước",
+      "Tránh khói bụi và chất kích thích",
+      "Tăng cường dinh dưỡng",
+      "Súc họng nước muối",
+      "Uống nước ấm mật ong"
+    ],
+    "medical": [
+      "Thuốc chống dị ứng",
+      "Thuốc long đờm",
+      "Thuốc ức chế ho",
+      "Kháng sinh khi cần",
+      "Thuốc giãn phế quản",
+      "Thuốc điều trị nguyên nhân"
+    ]
+  },
+  "prevention": [
+    "Giữ ấm mũi họng",
+    "Đeo khẩu trang nơi đông người",
+    "Rửa tay thường xuyên",
+    "Tránh tiếp xúc nguồn lây",
+    "Không hút thuốc",
+    "Tiêm phòng đầy đủ",
+    "Ăn uống lành mạnh",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Ho kéo dài trên 2-3 tuần",
+    "Ho ra máu",
+    "Khó thở",
+    "Đau tức ngực",
+    "Sốt cao kéo dài",
+    "Đờm bất thường (vàng, xanh)"
+  ],
+  "care_notes": [
+    "Ho là phản xạ bảo vệ của cơ thể",
+    "Không nên lạm dụng thuốc ức chế ho",
+    "Cần điều trị nguyên nhân gây ho",
+    "Theo dõi triệu chứng đi kèm",
+    "Khám sớm nếu ho kéo dài"
+  ],
+  "epidemiology": [
+    "Ho là triệu chứng rất phổ biến",
+    "Gặp ở mọi lứa tuổi",
+    "Tăng vào mùa lạnh",
+    "Liên quan đến ô nhiễm môi trường và nhiễm trùng"
+  ],
+  "source": "Tâm Anh Hospital",
+  "url": "https://tamanhhospital.vn/benh-ho/"
+}

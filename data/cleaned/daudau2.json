@@ -1,0 +1,147 @@
+{
+  "title": "Nhức đầu",
+  "type": "disease",
+  "topic": "bệnh thần kinh",
+  "definition": "Nhức đầu là tình trạng đau ở vùng đầu hoặc cổ trên, có thể xuất hiện một bên hoặc toàn bộ đầu, với mức độ từ âm ỉ đến dữ dội, kéo dài từ vài phút đến vài ngày. Đây thường là triệu chứng của nhiều rối loạn khác nhau hơn là một bệnh lý đơn lẻ.",
+  "classification": [
+    "Nhức đầu nguyên phát (không do bệnh lý nền)",
+    "Nhức đầu thứ phát (do bệnh lý khác gây ra)"
+  ],
+  "pathophysiology": [
+    "Rối loạn dẫn truyền thần kinh (đặc biệt serotonin)",
+    "Co giãn bất thường của mạch máu não",
+    "Tăng nhạy cảm hệ thần kinh trung ương",
+    "Tăng sinh gốc tự do gây tổn thương tế bào thần kinh",
+    "Rối loạn chuyển hóa não liên quan stress và cảm xúc",
+    "Kích thích các thụ thể đau ở màng não và mạch máu"
+  ],
+  "causes": {
+    "primary": [
+      "Đau đầu căng thẳng",
+      "Đau nửa đầu (migraine)",
+      "Đau đầu từng cụm",
+      "Rối loạn thần kinh mạch máu",
+      "Yếu tố di truyền"
+    ],
+    "secondary": [
+      "Viêm xoang",
+      "Chấn thương đầu",
+      "Tăng huyết áp",
+      "U não hoặc bệnh lý thần kinh",
+      "Lạm dụng thuốc giảm đau",
+      "Nhiễm trùng",
+      "Stress kéo dài",
+      "Thiếu ngủ",
+      "Rối loạn tâm lý (lo âu, trầm cảm)",
+      "Lối sống không lành mạnh (rượu bia, thuốc lá)"
+    ]
+  },
+  "symptoms": [
+    "Đau đầu âm ỉ hoặc dữ dội",
+    "Đau một bên hoặc hai bên đầu",
+    "Cảm giác bóp siết hoặc đè ép vùng đầu",
+    "Đau quanh mắt, trán hoặc thái dương",
+    "Buồn nôn và nôn",
+    "Nhạy cảm với ánh sáng và tiếng ồn",
+    "Chảy nước mắt hoặc nghẹt mũi",
+    "Ù tai, mờ mắt",
+    "Chóng mặt",
+    "Khó tập trung",
+    "Rối loạn thị giác",
+    "Mệt mỏi"
+  ],
+  "complications": [
+    "Ảnh hưởng chất lượng cuộc sống",
+    "Rối loạn giấc ngủ",
+    "Lo âu, trầm cảm",
+    "Suy giảm trí nhớ và khả năng tập trung",
+    "Sa sút trí tuệ (khi kéo dài)",
+    "Đột quỵ não",
+    "Tổn thương tế bào thần kinh do stress oxy hóa",
+    "Lạm dụng thuốc giảm đau"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng và khai thác tiền sử",
+    "Khám thần kinh",
+    "Khám tai mũi họng và mắt",
+    "Chụp CT hoặc MRI não",
+    "Xét nghiệm máu",
+    "Điện não đồ",
+    "Chọc dò dịch não tủy (khi nghi ngờ nguyên nhân nghiêm trọng)"
+  ],
+  "prediabetes": [],
+  "screening": [
+    "Người đau đầu kéo dài hoặc tái phát nhiều lần",
+    "Người có tiền sử migraine",
+    "Người stress kéo dài hoặc rối loạn tâm lý",
+    "Người làm việc cường độ cao, dùng máy tính nhiều",
+    "Người lạm dụng thuốc giảm đau",
+    "Người có bệnh lý nền như tăng huyết áp"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi hợp lý",
+      "Ngủ đủ giấc",
+      "Giảm stress",
+      "Tập thể dục đều đặn",
+      "Uống đủ nước",
+      "Hạn chế rượu bia và caffeine",
+      "Duy trì chế độ ăn lành mạnh"
+    ],
+    "medication": [
+      "Paracetamol",
+      "Ibuprofen",
+      "Aspirin",
+      "Thuốc chẹn beta (propranolol)",
+      "Thuốc chống trầm cảm (amitriptyline)",
+      "Thuốc chống động kinh (topiramate)"
+    ]
+  },
+  "risk_groups": [
+    "Người làm việc căng thẳng",
+    "Người thiếu ngủ",
+    "Người có rối loạn tâm lý (lo âu, trầm cảm)",
+    "Người sử dụng nhiều rượu bia, caffeine",
+    "Người hút thuốc lá",
+    "Người làm việc máy tính nhiều",
+    "Người có tiền sử gia đình migraine",
+    "Người trung niên",
+    "Phụ nữ (đặc biệt với migraine)"
+  ],
+  "prevention": [
+    "Ngủ đủ giấc",
+    "Giảm căng thẳng",
+    "Hạn chế rượu bia và caffeine",
+    "Không hút thuốc",
+    "Tập thể dục thường xuyên",
+    "Ăn uống lành mạnh",
+    "Làm việc và nghỉ ngơi hợp lý"
+  ],
+  "when_to_see_doctor": [
+    "Đau đầu đột ngột và dữ dội",
+    "Đau đầu kéo dài hoặc tăng dần",
+    "Đau đầu kèm sốt, cứng cổ",
+    "Buồn nôn, nôn kéo dài",
+    "Rối loạn thị giác, nói khó",
+    "Yếu liệt tay chân",
+    "Đau đầu sau chấn thương",
+    "Đau đầu không đáp ứng thuốc"
+  ],
+  "care_notes": [
+    "Tuân thủ hướng dẫn điều trị của bác sĩ",
+    "Không lạm dụng thuốc giảm đau",
+    "Theo dõi tần suất và mức độ đau đầu",
+    "Tránh các yếu tố kích thích (stress, thiếu ngủ)",
+    "Kết hợp điều trị tâm lý nếu có lo âu hoặc trầm cảm",
+    "Khám định kỳ nếu đau đầu tái phát",
+    "Điều trị nguyên nhân là yếu tố quan trọng nhất"
+  ],
+  "epidemiology": [
+    "Khoảng 50% dân số thế giới bị đau đầu",
+    "1/3 người từng trải qua đau đầu dữ dội trong đời",
+    "Migraine ảnh hưởng khoảng 11% người trưởng thành",
+    "Đau đầu căng thẳng chiếm khoảng 90% trường hợp"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/bai-viet/cac-loai-dau-dau-thuong-gap-khien-ban-kho-chiu-tac-hai-cua-dau-dau-vi"
+}

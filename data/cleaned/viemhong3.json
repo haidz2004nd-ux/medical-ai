@@ -1,0 +1,116 @@
+{
+  "title": "Viêm họng",
+  "type": "disease",
+  "topic": "hô hấp - tai mũi họng",
+  "definition": "Viêm họng là tình trạng cổ họng bị khô, ngứa, đau rát và thường gây ho, sốt do nhiễm trùng hoặc do các yếu tố môi trường gây ra. Đây là một trong những bệnh lý tai mũi họng phổ biến nhất, có thể mắc nhiều lần trong đời.",
+  "classification": [
+    "Viêm họng cấp tính (kéo dài 1-2 tuần, thường do virus)",
+    "Viêm họng mạn tính (kéo dài và liên tục tái phát, gồm 4 thể: sung huyết, xuất huyết, mạn tính quá phát, teo)",
+    "Viêm họng hạt (thể mạn tính quá phát khiến mô lympho thành sau họng phình to như hạt đậu)"
+  ],
+  "pathophysiology": [
+    "Niêm mạc họng bị viêm, khô và ngứa rát",
+    "Mô lympho ở thành sau họng tăng sinh, phình to và mất chức năng miễn dịch (trong viêm họng hạt)",
+    "Tổn thương niêm mạc do axit dạ dày trào ngược (trong GERD)",
+    "Căng cơ cổ họng kéo dài gây đau rát",
+    "Nổi hạch góc hàm do phản ứng viêm cấp tính"
+  ],
+  "causes": {
+    "acute": [
+      "Virus (chiếm 90%): cảm cúm, sởi, thủy đậu, quai bị, bạch cầu đơn nhân",
+      "Vi khuẩn: phổ biến nhất là liên cầu khuẩn (streptococcus)",
+      "Tác động cơ học: la hét, hát to, nói nhiều, dị vật hoặc va chạm mạnh"
+    ],
+    "chronic": [
+      "Dị ứng: bụi, mạt nhà, phấn hoa, lông thú cưng",
+      "Môi trường: không khí khô, lạnh (đặc biệt vào mùa đông) hoặc ô nhiễm",
+      "Chất kích thích: khói thuốc lá, hóa chất tẩy rửa",
+      "Bệnh trào ngược dạ dày thực quản (GERD) gây bỏng axit niêm mạc",
+      "Hệ miễn dịch suy yếu: bệnh nhân nhiễm HIV",
+      "Khối u: các khối u vùng họng gây viêm loét kéo dài"
+    ]
+  },
+  "symptoms": [
+    "Đau cổ họng, khó nuốt, nuốt vướng (đặc biệt vào sáng sớm)",
+    "Cảm giác khô cổ, ngứa họng, nóng rát",
+    "Ho khan hoặc ho có đờm",
+    "Sốt cao (38 - 40°C), mệt mỏi, ớn lạnh, đau mỏi toàn thân (viêm cấp)",
+    "Khàn tiếng, thay đổi giọng nói hoặc mất tiếng",
+    "Chảy nước mũi, ngạt mũi, đau nhói ở tai khi nuốt",
+    "Ợ nóng, ợ hơi, ợ chua (liên quan đến trào ngược dạ dày)",
+    "Chán ăn, mệt mỏi, nổi hạch góc hàm"
+  ],
+  "complications": [
+    "Viêm tai giữa, viêm xoang cấp tính",
+    "Viêm đường hô hấp dưới: viêm thanh quản, viêm VA, amidan, viêm phế quản, viêm phổi",
+    "Áp xe quanh amidan và áp xe thành sau họng",
+    "Hoại tử vùng cổ (hiếm gặp, thường ở trẻ 1-2 tuổi)",
+    "Biến chứng xa: sốt thấp khớp, viêm thận (do liên cầu khuẩn)",
+    "Nhiễm độc liên cầu"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng vùng họng và cổ",
+    "Soi họng kiểm tra tình trạng niêm mạc, mụn lympho hoặc mủ",
+    "Kiểm tra hạch góc hàm",
+    "Tầm soát ung thư vòm mũi họng khi có dấu hiệu bất thường kéo dài",
+    "Xác định nguyên nhân (virus hay vi khuẩn) để có hướng điều trị"
+  ],
+  "risk_groups": [
+    "Trẻ em (thường mắc viêm họng cấp, dễ biến chứng viêm phổi)",
+    "Người trưởng thành (thường mắc viêm họng mạn tính)",
+    "Người có cổ họng nhạy cảm hoặc sống ở vùng không khí ô nhiễm",
+    "Người sống trong vùng khí hậu khô lạnh",
+    "Người có hệ miễn dịch suy yếu (HIV, mẹ bầu)"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Súc họng bằng dung dịch sát khuẩn/nước muối sinh lý (sáng và tối)",
+      "Uống nước ấm pha chanh mật ong",
+      "Chườm ấm vùng cổ họng",
+      "Ăn thức ăn mềm, dễ nuốt, giàu protein",
+      "Bổ sung Vitamin C và kẽm (bông cải xanh, dâu tây, đu đủ...)",
+      "Sử dụng thực phẩm kháng viêm tự nhiên: gừng, nghệ, đinh hương"
+    ],
+    "medication": [
+      "Thuốc giảm đau, hạ sốt (Paracetamol, Ibuprofen) cho viêm họng do virus",
+      "Kháng sinh: Chỉ dùng cho viêm họng do vi khuẩn (phải dùng đủ liều theo đơn bác sĩ)",
+      "Thuốc kháng viêm theo chỉ định"
+    ],
+    "psychotherapy": [
+      "Tư vấn giáo dục sức khỏe, tránh lạm dụng thuốc tự ý mua",
+      "Tâm lý ổn định cho mẹ bầu khi mắc bệnh"
+    ]
+  },
+  "prevention": [
+    "Giữ ấm cổ họng, mũi, miệng khi trời lạnh",
+    "Vệ sinh răng miệng sạch sẽ, súc miệng nước muối hàng ngày",
+    "Uống nhiều nước lọc để duy trì độ ẩm vùng họng",
+    "Hạn chế thuốc lá, rượu bia, đồ ăn cay nóng, nước đá",
+    "Sử dụng máy tạo ẩm trong môi trường khô hanh",
+    "Đeo khẩu trang nơi đông người, tránh các tác nhân dị ứng",
+    "Thăm khám tai mũi họng định kỳ và tầm soát ung thư"
+  ],
+  "when_to_see_doctor": [
+    "Trẻ em: khó thở, khó nuốt, tiết nước bọt liên tục",
+    "Người lớn: đau họng dữ dội hoặc kéo dài trên 1 tuần",
+    "Khó thở, khó mở miệng, đau khớp hoặc đau tai",
+    "Sốt cao trên 38°C",
+    "Khạc đờm hoặc nước bọt có máu",
+    "Khàn giọng kéo dài trên 2 tuần hoặc có khối u ở cổ/mặt"
+  ],
+  "care_notes": [
+    "Kháng sinh không có hiệu quả với viêm họng do virus",
+    "Viêm họng không lây từ mẹ sang con nhưng sốt cao có thể ảnh hưởng thai nhi",
+    "Mẹ bị viêm họng vẫn có thể cho con bú trừ khi dùng thuốc chống chỉ định",
+    "Hạn chế ăn đồ khô, cứng, thực phẩm nhiều dầu mỡ và axit khi đang viêm",
+    "Tự ý điều trị tại nhà không đúng cách là nguyên nhân chính dẫn đến biến chứng mạn tính"
+  ],
+  "epidemiology": [
+    "Bệnh phổ biến nhất trong chuyên khoa tai mũi họng tại Việt Nam",
+    "90% ca viêm họng do virus",
+    "Trẻ nhỏ có nguy cơ biến chứng cao hơn người lớn",
+    "Tỷ lệ ca biến chứng cao do tâm lý chủ quan của người dân"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/benh-viem-hong/"
+}

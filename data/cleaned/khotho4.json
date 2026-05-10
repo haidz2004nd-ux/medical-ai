@@ -1,0 +1,131 @@
+{
+  "title": "Khó thở",
+  "type": "symptom",
+  "topic": "hô hấp - tim mạch",
+  "definition": "Khó thở là cảm giác không hít thở đủ không khí, hụt hơi hoặc “thiếu hơi”, gây cảm giác tức ngực, mệt mỏi và khó chịu khi thở, có thể xuất hiện khi vận động, nghỉ ngơi hoặc khi nằm.",
+  "classification": [
+    "Khó thở khi gắng sức",
+    "Khó thở khi nghỉ ngơi",
+    "Khó thở khi nằm",
+    "Khó thở cấp tính",
+    "Khó thở mạn tính"
+  ],
+  "pathophysiology": [
+    "Giảm trao đổi oxy tại phổi",
+    "Tắc nghẽn hoặc viêm đường thở",
+    "Giảm khả năng giãn nở phổi",
+    "Giảm chức năng bơm máu của tim",
+    "Tăng nhu cầu oxy của cơ thể",
+    "Rối loạn thông khí"
+  ],
+  "causes": {
+    "primary": [
+      "Lo âu, căng thẳng",
+      "Gắng sức quá mức",
+      "Thiếu máu",
+      "Béo phì",
+      "Dị ứng",
+      "Nhiễm trùng đường hô hấp"
+    ],
+    "secondary": [
+      "Hen suyễn",
+      "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+      "Viêm phổi",
+      "Tràn dịch màng phổi",
+      "Suy tim",
+      "Nhồi máu cơ tim",
+      "Rối loạn nhịp tim",
+      "Trào ngược dạ dày thực quản",
+      "Ngưng thở khi ngủ",
+      "Bệnh lý phổi mạn tính"
+    ]
+  },
+  "symptoms": [
+    "Khó thở hoặc hụt hơi",
+    "Thở gấp",
+    "Thở thều thào",
+    "Tức ngực",
+    "Cảm giác nghẹn ngực",
+    "Ho kèm khó thở",
+    "Khó thở khi nằm",
+    "Mệt mỏi khi vận động nhẹ"
+  ],
+  "complications": [
+    "Rối loạn giấc ngủ",
+    "Giảm chất lượng cuộc sống",
+    "Mệt mỏi kéo dài",
+    "Giảm khả năng lao động",
+    "Ảnh hưởng tâm lý, lo âu",
+    "Suy dinh dưỡng do ăn uống kém"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Khai thác triệu chứng và tiền sử bệnh",
+    "Đo nhịp thở và nghe tim phổi",
+    "Xét nghiệm máu",
+    "Chụp X-quang ngực",
+    "Chụp CT ngực",
+    "Điện tâm đồ (ECG)",
+    "Đo chức năng hô hấp"
+  ],
+  "risk_groups": [
+    "Người mắc bệnh hô hấp mạn tính",
+    "Người mắc bệnh tim mạch",
+    "Người béo phì",
+    "Người lớn tuổi",
+    "Người hút thuốc lá lâu năm",
+    "Người thiếu máu",
+    "Người thường xuyên căng thẳng, lo âu"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Không hút thuốc lá",
+      "Tập thể dục thường xuyên",
+      "Giữ cân nặng hợp lý",
+      "Tránh môi trường ô nhiễm",
+      "Quản lý căng thẳng",
+      "Tập thở sâu, yoga"
+    ],
+    "medical": [
+      "Thuốc giãn phế quản",
+      "Thuốc chống viêm (corticosteroid)",
+      "Kháng sinh khi nhiễm trùng",
+      "Thuốc trợ tim",
+      "Liệu pháp oxy",
+      "Vật lý trị liệu hô hấp",
+      "Điều trị nguyên nhân nền"
+    ]
+  },
+  "prevention": [
+    "Không hút thuốc",
+    "Duy trì cân nặng hợp lý",
+    "Tập thể dục đều đặn",
+    "Điều trị tốt bệnh nền",
+    "Tránh ô nhiễm không khí",
+    "Quản lý stress",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở kéo dài hoặc tăng dần",
+    "Khó thở đột ngột",
+    "Khó thở khi nằm",
+    "Đau hoặc tức ngực",
+    "Khó thở kèm ho kéo dài",
+    "Mệt mỏi nặng không rõ nguyên nhân"
+  ],
+  "care_notes": [
+    "Khó thở có thể là dấu hiệu bệnh lý nghiêm trọng",
+    "Cần xác định nguyên nhân để điều trị đúng",
+    "Không tự ý dùng thuốc khi chưa có chỉ định",
+    "Theo dõi triệu chứng đi kèm",
+    "Đi khám sớm giúp hạn chế biến chứng"
+  ],
+  "epidemiology": [
+    "Là triệu chứng phổ biến trong cộng đồng",
+    "Gặp ở nhiều nhóm tuổi khác nhau",
+    "Thường liên quan bệnh tim và phổi",
+    "Gia tăng ở người cao tuổi và người có bệnh mạn tính"
+  ],
+  "source": "PhenikaaMec",
+  "url": "https://phenikaamec.com/bh-kho-tho-hut-hoi-la-gi-dau-hieu-nguyen-nhan-chan-doan-cach-dieu-tri-va-phong-benh.html"
+}

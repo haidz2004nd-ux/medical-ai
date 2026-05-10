@@ -1,0 +1,252 @@
+[
+  {
+    "instruction": "Nguồn thông tin chính về Táo bón từ đâu?",
+    "input": "",
+    "output": "Nguồn: Bệnh viện Đa khoa Lãnh Bình Thăng. Tham khảo: https://benhviendakhoalanhbinhthang.vn/giao-duc-suc-khoe/tao-bon-dau-hieu-nguyen-nhan-dieu-tri-hieu-qua-o-nguoi-lon-tre-em-n3388.html"
+  },
+  {
+    "instruction": "Thuốc thường dùng để điều trị Viêm họng gồm những gì?",
+    "input": "",
+    "output": "Thuốc hạ sốt, giảm đau không kê đơn: Paracetamol, Ibuprofen; Thuốc kháng virus (cho trường hợp nhiễm virus cúm); Kháng sinh: Chỉ dùng cho liên cầu khuẩn, Chlamydia hoặc lậu (duy trì đến 24 giờ sau khi hết triệu chứng)"
+  },
+  {
+    "instruction": "Những nhóm người nào có nguy cơ cao mắc Nhức đầu?",
+    "input": "",
+    "output": "Người làm việc căng thẳng; Người thiếu ngủ; Người có rối loạn tâm lý (lo âu, trầm cảm); Người sử dụng nhiều rượu bia, caffeine; Người hút thuốc lá; Người làm việc máy tính nhiều; Người có tiền sử gia đình migraine; Người trung niên; Phụ nữ (đặc biệt với migraine)"
+  },
+  {
+    "instruction": "Biến chứng của Khó thở là gì?",
+    "input": "",
+    "output": "Thiếu oxy kéo dài; Tổn thương não do thiếu oxy; Suy giảm nhận thức; Đột quỵ; Hoại tử não; Giảm chất lượng cuộc sống; Mất ngủ và rối loạn giấc ngủ"
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ nếu bị Viêm phổi?",
+    "input": "",
+    "output": "Đau họng sốt kéo dài trên 10 ngày hoặc khó thở; Trẻ dưới 2 tháng tuổi có dấu hiệu ho, sốt, bỏ bú (bắt buộc nhập viện); Trẻ 2-5 tuổi li bì, khó đánh thức, co giật, thở rít; Người lớn sốt cao không hạ, tức ngực dữ dội, tím tái"
+  },
+  {
+    "instruction": "Làm thế nào để chẩn đoán Suy tim?",
+    "input": "",
+    "output": "Điện tâm đồ (ECG) phát hiện rối loạn nhịp và dấu hiệu gián tiếp; X-quang ngực phát hiện tim to và sung huyết phổi; Siêu âm tim đánh giá phân suất tống máu và cấu trúc tim; Holter ECG 24 giờ phát hiện rối loạn nhịp; Xét nghiệm NT-proBNP hoặc BNP; Chụp CT hoặc MSCT động mạch vành; MRI tim trong nghi ngờ viêm cơ tim hoặc bệnh cơ tim; Xét nghiệm máu (mỡ máu, đường huyết, chức năng thận, điện giải)"
+  },
+  {
+    "instruction": "Triệu chứng của Gout (gút) gồm những gì?",
+    "input": "",
+    "output": "Đau khớp dữ dội, thường về đêm; Sưng đỏ và nóng khớp; Đau tăng khi chạm; Hạn chế vận động; Cơn đau kéo dài 5-7 ngày; Sốt nhẹ; Ớn lạnh; Mệt mỏi"
+  },
+  {
+    "instruction": "Những nhóm người nào có nguy cơ cao mắc Khó thở?",
+    "input": "",
+    "output": "Người mắc bệnh tim mạch; Người mắc bệnh phổi mạn tính; Người hút thuốc lá; Người béo phì; Người cao tuổi; Người mắc bệnh mạn tính (đái tháo đường, ung thư, gan thận); Phụ nữ mang thai; Trẻ sơ sinh; Người sống trong môi trường ô nhiễm"
+  },
+  {
+    "instruction": "Nguồn thông tin chính về Suy tim từ đâu?",
+    "input": "",
+    "output": "Nguồn: Vinmec. Tham khảo: https://www.vinmec.com/vie/benh/suy-tim-3262"
+  },
+  {
+    "instruction": "Triệu chứng của Suy tim gồm những gì?",
+    "input": "",
+    "output": "Khó thở khi gắng sức hoặc khi nằm; Khó thở kịch phát về đêm; Mệt mỏi kéo dài; Phù chân và mắt cá chân; Ho kéo dài hoặc ho có bọt hồng; Tim đập nhanh hoặc loạn nhịp; Chóng mặt hoặc ngất; Ăn kém, buồn nôn; Tăng cân do giữ nước; Gan to và tĩnh mạch cổ nổi"
+  },
+  {
+    "instruction": "Phân loại của Nhức đầu như thế nào?",
+    "input": "",
+    "output": "Nhức đầu nguyên phát (không do bệnh lý nền); Nhức đầu thứ phát (do bệnh lý khác gây ra)"
+  },
+  {
+    "instruction": "Những nhóm người nào có nguy cơ cao mắc Tăng huyết áp?",
+    "input": "",
+    "output": "Người lớn tuổi; Nam giới; Phụ nữ sau mãn kinh; Người béo phì; Người có tiền sử gia đình; Người ít vận động"
+  },
+  {
+    "instruction": "Làm thế nào để phòng ngừa Rối loạn hỗn hợp lo âu và trầm cảm?",
+    "input": "",
+    "output": "Học kỹ năng quản lý cảm xúc và đối phó với stress hiệu quả; Duy trì lối sống năng động và mạng lưới hỗ trợ xã hội tích cực; Hạn chế sử dụng rượu bia, thuốc lá và các chất kích thích thần kinh; Khám sức khỏe định kỳ và tầm soát sớm các vấn đề tâm lý khi có dấu hiệu bất ổn; Tạo lập môi trường sống và làm việc lành mạnh, ít áp lực tiêu cực"
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ nếu bị Tiêu chảy?",
+    "input": "",
+    "output": "Tiêu chảy kéo dài trên 2–3 ngày; Có dấu hiệu mất nước nặng; Phân có máu; Sốt cao không giảm; Nôn liên tục; Trẻ lừ đừ, bỏ bú"
+  },
+  {
+    "instruction": "Rối loạn lo âu là gì?",
+    "input": "",
+    "output": "Rối loạn lo âu là một nhóm các rối loạn tâm thần đặc trưng bởi cảm giác lo âu và sợ hãi quá mức, kéo dài và không tương xứng với mức độ đe dọa thực tế. Bệnh lý này gây suy giảm đáng kể khả năng thích nghi, ảnh hưởng trực tiếp đến sinh hoạt, công việc và chất lượng cuộc sống, thường đi kèm với các phản ứng thần kinh thực vật hệ thống."
+  },
+  {
+    "instruction": "Những lưu ý quan trọng khi xử trí Viêm phổi là gì?",
+    "input": "",
+    "output": "Tuân thủ đúng phác đồ kháng sinh để tránh kháng thuốc và tái phát; Dinh dưỡng cần bổ sung Vitamin C, A và Kẽm để tăng đề kháng; Hạn chế đồ ăn cay nóng, chiên xào và nước ngọt có gas; Nên chia nhỏ bữa ăn nếu người bệnh mệt mỏi, chán ăn"
+  },
+  {
+    "instruction": "Những lưu ý quan trọng khi xử trí Tăng huyết áp là gì?",
+    "input": "",
+    "output": "Theo dõi huyết áp thường xuyên; Uống thuốc đều đặn theo chỉ định; Không tự ý ngưng thuốc; Ăn nhạt (<5g muối/ngày); Duy trì lối sống lành mạnh; Kiểm tra sức khỏe định kỳ"
+  },
+  {
+    "instruction": "Sốt là gì?",
+    "input": "",
+    "output": "Sốt là tình trạng nhiệt độ cơ thể tăng cao hơn mức bình thường do trung tâm điều nhiệt ở vùng dưới đồi thiết lập lại điểm nhiệt độ cao hơn. Đây không phải là một bệnh lý riêng biệt mà là một đáp ứng bảo vệ của hệ miễn dịch trước các tác nhân gây hại."
+  },
+  {
+    "instruction": "Làm thế nào để chẩn đoán Viêm dạ dày?",
+    "input": "",
+    "output": "Thăm khám lâm sàng và khai thác tiền sử; Kiểm tra xác định vi khuẩn Hp (K29); Xác định các thể đặc hiệu (qua nội soi, sinh thiết); Phân biệt với u hạt hoặc ung thư dạ dày"
+  },
+  {
+    "instruction": "Triệu chứng của Mất ngủ gồm những gì?",
+    "input": "",
+    "output": "Khó đi vào giấc ngủ; Thức giấc nhiều lần trong đêm; Thức dậy quá sớm; Không cảm thấy nghỉ ngơi sau khi ngủ; Mệt mỏi ban ngày; Buồn ngủ và giảm tập trung; Khó ghi nhớ; Cáu gắt, lo âu hoặc thay đổi tâm trạng; Tăng nguy cơ sai sót và tai nạn; Lo lắng kéo dài về giấc ngủ"
+  },
+  {
+    "instruction": "Làm thế nào để phòng ngừa Tiêu chảy?",
+    "input": "",
+    "output": "Rửa tay thường xuyên; Ăn chín uống sôi; Sử dụng nước sạch; Tiêm vaccine rotavirus (trẻ em); Tránh thực phẩm không đảm bảo vệ sinh; Vệ sinh môi trường sống"
+  },
+  {
+    "instruction": "Cách chăm sóc và điều trị ban đầu cho Đái tháo đường là gì?",
+    "input": "",
+    "output": "Chế độ ăn cân bằng: Tăng xơ, giảm đường đơn và tinh bột nhanh; Duy trì hoạt động thể lực ít nhất 150 phút/tuần; Giảm cân và kiểm soát chỉ số BMI ở mức lý tưởng; Theo dõi đường huyết định kỳ tại nhà; Tiêm phòng cúm và phế cầu hàng năm để tránh nhiễm trùng nặng"
+  },
+  {
+    "instruction": "Đặc điểm dịch tễ của Viêm họng là gì?",
+    "input": "",
+    "output": "Bệnh phổ biến ở mọi lứa tuổi, thường gặp nhất vào mùa lạnh; Dễ lây lan qua tiếp xúc đồ vật cá nhân hoặc ăn uống chung; Tỉ lệ mắc bệnh cao trong thời điểm giao mùa"
+  },
+  {
+    "instruction": "Triệu chứng của Viêm dạ dày tá tràng gồm những gì?",
+    "input": "",
+    "output": "Đau vùng thượng vị (trên rốn hoặc dưới xương ức); Nóng rát lồng ngực dọc theo xương ức; Ợ hơi, ợ chua; Buồn nôn, nôn khan hoặc nôn ra thức ăn lẫn dịch vị; Xuất huyết tiêu hóa (nôn máu, đi ngoài phân đen, nát, mùi khắm); Mệt mỏi, chán ăn, đầy hơi; Biểu hiện khó tiêu, đầy bụng âm ỉ"
+  },
+  {
+    "instruction": "Làm thế nào để phòng ngừa Mất ngủ?",
+    "input": "",
+    "output": "Duy trì giờ ngủ và thức cố định; Tăng hoạt động thể chất; Hạn chế caffeine, rượu và nicotine; Tránh ngủ trưa quá dài; Không ăn quá no hoặc uống nhiều trước khi ngủ; Thiết lập thói quen thư giãn trước ngủ"
+  },
+  {
+    "instruction": "Biến chứng của Sốt ở người lớn là gì?",
+    "input": "",
+    "output": "Mất nước và rối loạn điện giải nặng; Co giật do sốt (ít gặp ở người lớn hơn trẻ em nhưng vẫn có thể xảy ra); Mê sảng, ảo giác và rối loạn ý thức; Suy đa cơ quan (nếu sốt cực cao hoặc do nhiễm khuẩn huyết); Sốc nhiễm khuẩn"
+  },
+  {
+    "instruction": "Triệu chứng của Mất ngủ gồm những gì?",
+    "input": "",
+    "output": "Khó đi vào giấc ngủ; Thức giấc nhiều lần trong đêm; Thức dậy quá sớm; Không cảm thấy nghỉ ngơi sau khi ngủ; Mệt mỏi ban ngày; Buồn ngủ, giảm tập trung; Khó ghi nhớ; Cáu gắt, lo âu hoặc trầm cảm; Tăng nguy cơ sai sót và tai nạn; Lo lắng kéo dài về giấc ngủ"
+  },
+  {
+    "instruction": "Gout (gút) là gì?",
+    "input": "",
+    "output": "Gout là bệnh viêm khớp do tăng acid uric trong máu, dẫn đến lắng đọng tinh thể urat tại khớp gây đau, sưng và viêm."
+  },
+  {
+    "instruction": "Biến chứng của Suy tim là gì?",
+    "input": "",
+    "output": "Phù phổi cấp; Rối loạn nhịp tim nguy hiểm; Đột tử do tim; Đột quỵ do huyết khối; Suy đa cơ quan; Giảm chất lượng sống; Tăng nguy cơ tử vong"
+  },
+  {
+    "instruction": "Nguyên nhân gây Tiêu chảy cấp tính và mạn tính là gì?",
+    "input": "",
+    "output": "Cấp tính: Nhiễm virus (rotavirus, norovirus); Nhiễm vi khuẩn (salmonella, shigella, E. coli, C. difficile); Nhiễm ký sinh trùng (giardia, entamoeba histolytica, cryptosporidium); Ngộ độc thực phẩm; Thuốc nhuận tràng hoặc kháng sinh; Thực phẩm, nước bị ô nhiễm. Mạn tính: Hội chứng ruột kích thích; Bệnh Crohn; Viêm loét đại tràng; Bệnh celiac; Không dung nạp lactose; Hội chứng kém hấp thu; Phẫu thuật đường tiêu hóa; Khối u đường tiêu hóa; U nội tiết (VIPoma, gastrinoma); Cường giáp; Đái tháo đường; Xơ nang; Thiếu kẽm."
+  },
+  {
+    "instruction": "Thuốc thường dùng để điều trị Tiêu chảy gồm những gì?",
+    "input": "",
+    "output": "Dung dịch bù nước và điện giải (ORS); Thuốc kháng sinh khi có nhiễm khuẩn theo chỉ định; Thuốc chống ký sinh trùng; Probiotic hỗ trợ hệ vi sinh; Loperamide (không dùng khi tiêu chảy có máu hoặc nhiễm trùng nặng); Truyền dịch trong trường hợp mất nước nặng"
+  },
+  {
+    "instruction": "Viêm phổi là gì?",
+    "input": "",
+    "output": "Viêm phổi là tình trạng nhiễm trùng nhu mô phổi (sưng) bao gồm phế nang, túi phế nang, ống phế nang, tổ chức liên kết khe kẽ và tiểu phế quản tận cùng. Bệnh gây ra do vi khuẩn, virus hoặc nấm, khiến đường dẫn khí chứa đầy dịch nhầy hoặc mủ."
+  },
+  {
+    "instruction": "Triệu chứng của Suy thận gồm những gì?",
+    "input": "",
+    "output": "Mệt mỏi, suy nhược; Buồn nôn, nôn; Chán ăn; Rối loạn giấc ngủ; Tiểu bất thường (ít, nhiều, tiểu đêm); Nước tiểu có bọt hoặc có máu; Phù chân, tay, mặt; Ngứa da; Tăng huyết áp; Khó thở; Co giật cơ, chuột rút; Hơi thở có mùi ure"
+  },
+  {
+    "instruction": "Suy tim là gì?",
+    "input": "",
+    "output": "Suy tim là tình trạng tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể. Đây là hậu quả cuối cùng của nhiều bệnh tim mạch, làm giảm chất lượng sống và có thể gây tử vong nếu tiến triển nặng. Bệnh gồm suy tim cấp và suy tim mạn, trong đó nội dung chủ yếu tập trung vào suy tim mạn."
+  },
+  {
+    "instruction": "Thuốc thường dùng để điều trị Viêm dạ dày gồm những gì?",
+    "input": "",
+    "output": "Thuốc kháng sinh diệt vi khuẩn HP (phối hợp nhóm Imidazol và các nhóm khác); Thuốc kháng acid dịch vị (trung hòa acid, giảm đau nhanh); Thuốc ức chế bơm proton PPI (như Omeprazol) giúp kiểm soát tiết acid"
+  },
+  {
+    "instruction": "Biến chứng của Táo bón là gì?",
+    "input": "",
+    "output": "Viêm trực tràng; Trĩ nội; Trĩ ngoại; Nứt kẽ hậu môn; Sa trực tràng; Nguy cơ ung thư đại tràng (hiếm, kéo dài)"
+  },
+  {
+    "instruction": "Cách chăm sóc và điều trị ban đầu cho Viêm phổi là gì?",
+    "input": "",
+    "output": "Nghỉ ngơi đầy đủ, vận động hợp lý; Uống nhiều nước để làm loãng đờm; Giữ ấm cơ thể, đặc biệt vùng cổ và ngực; Vệ sinh mũi họng bằng nước muối sinh lý"
+  },
+  {
+    "instruction": "Cách chăm sóc và điều trị ban đầu cho Mất ngủ là gì?",
+    "input": "",
+    "output": "Duy trì giờ ngủ cố định; Tập thể dục đều đặn; Tránh thiết bị điện tử trước ngủ; Tạo môi trường ngủ yên tĩnh, tối và mát; Hạn chế ngủ trưa dài; Giảm stress bằng thư giãn, thiền, yoga; Tránh caffeine, rượu bia và nicotine; Không ăn quá no trước khi ngủ"
+  },
+  {
+    "instruction": "Cách chăm sóc và điều trị ban đầu cho Mất ngủ là gì?",
+    "input": "",
+    "output": "Duy trì giờ ngủ cố định; Hạn chế thiết bị điện tử trước ngủ; Tập thể dục nhẹ nhàng; Thiền, yoga, thư giãn; Ngâm chân nước ấm; Tối ưu môi trường ngủ yên tĩnh, tối và mát; Tránh ngủ trưa quá dài"
+  },
+  {
+    "instruction": "Cách chăm sóc và điều trị ban đầu cho Suy thận là gì?",
+    "input": "",
+    "output": "Kiểm soát huyết áp và đường huyết; Chế độ ăn giảm muối, giảm đạm; Uống đủ nước theo hướng dẫn; Tập thể dục đều đặn; Không hút thuốc lá; Duy trì cân nặng hợp lý"
+  },
+  {
+    "instruction": "Nguồn thông tin chính về Ho nhiều từ đâu?",
+    "input": "",
+    "output": "Nguồn: Medlatec. Tham khảo: https://medlatec.vn/tin-tuc/ho-nhieu-la-dau-hieu-canh-bao-nhung-benh-gi-s195-n18155"
+  },
+  {
+    "instruction": "Những lưu ý quan trọng khi xử trí Mất ngủ là gì?",
+    "input": "",
+    "output": "Mất ngủ thường do nhiều nguyên nhân phối hợp; Ưu tiên điều chỉnh lối sống trước khi dùng thuốc; Không tự ý sử dụng thuốc ngủ kéo dài; CBT-I là phương pháp điều trị hiệu quả lâu dài; Cần theo dõi và điều trị đúng nguyên nhân"
+  },
+  {
+    "instruction": "Viêm dạ dày là gì?",
+    "input": "",
+    "output": "Viêm dạ dày là tình trạng niêm mạc dạ dày bị tổn thương, gây sưng hoặc viêm. Bệnh có thể xảy ra bất ngờ (cấp tính) hoặc diễn ra âm ỉ (mãn tính), gây ra nhiều triệu chứng khó chịu và có nguy cơ dẫn đến các biến chứng nguy hiểm nếu không điều trị kịp thời."
+  },
+  {
+    "instruction": "Nguồn thông tin chính về Tăng huyết áp từ đâu?",
+    "input": "",
+    "output": "Nguồn: Nhà thuốc Long Châu. Tham khảo: https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html"
+  },
+  {
+    "instruction": "Làm thế nào để phòng ngừa Trầm cảm?",
+    "input": "",
+    "output": "Hỗ trợ tâm lý kịp thời khi gặp sang chấn; Duy trì môi trường sống tích cực; Giảm áp lực học tập và công việc; Phát hiện sớm dấu hiệu trầm cảm; Khám chuyên khoa tâm thần khi có triệu chứng; Xây dựng lối sống lành mạnh"
+  },
+  {
+    "instruction": "Phân loại của Suy thận như thế nào?",
+    "input": "",
+    "output": "Suy thận cấp; Suy thận mạn; Giai đoạn 1 CKD; Giai đoạn 2 CKD; Giai đoạn 3a CKD; Giai đoạn 3b CKD; Giai đoạn 4 CKD; Giai đoạn 5 CKD (giai đoạn cuối)"
+  },
+  {
+    "instruction": "Nguồn thông tin chính về Táo bón từ đâu?",
+    "input": "",
+    "output": "Nguồn: Nhà thuốc Long Châu. Tham khảo: https://nhathuoclongchau.com.vn/benh/tao-bon-246.html"
+  },
+  {
+    "instruction": "Khi nào cần đi khám bác sĩ nếu bị Rối loạn lo âu?",
+    "input": "",
+    "output": "Lo âu kéo dài trên 6 tháng; Cơn hoảng sợ tái diễn; Ảnh hưởng nghiêm trọng đến sinh hoạt; Khó ngủ kéo dài; Có hành vi cưỡng chế hoặc ám ảnh mạnh; Kèm trầm cảm hoặc ý nghĩ tiêu cực"
+  },
+  {
+    "instruction": "Đặc điểm dịch tễ của Suy tim là gì?",
+    "input": "",
+    "output": "Là bệnh tim mạch phổ biến; Tỷ lệ tăng theo tuổi; Liên quan đến tăng huyết áp và bệnh mạch vành; Có xu hướng gia tăng trong cộng đồng; Ảnh hưởng lớn đến chất lượng sống"
+  },
+  {
+    "instruction": "Những lưu ý quan trọng khi xử trí Viêm xoang (Viêm mũi xoang) là gì?",
+    "input": "",
+    "output": "Sử dụng thuốc kháng sinh phải có sự hướng dẫn của bác sĩ chuyên khoa để tránh kháng thuốc.; Bệnh khó kiểm soát nếu yếu tố dị ứng vẫn tồn tại trong môi trường sống.; Cần tuân thủ tuyệt đối các nguyên tắc điều trị và phòng bệnh để tránh tái phát."
+  }
+]

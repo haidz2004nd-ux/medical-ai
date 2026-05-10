@@ -1,0 +1,131 @@
+{
+  "title": "Táo bón",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Táo bón là tình trạng đi đại tiện không thường xuyên hoặc gặp khó khăn khi đi tiêu, thường dưới 3 lần mỗi tuần, phân cứng và phải rặn nhiều khi đi đại tiện. Tình trạng này có thể xảy ra tạm thời hoặc kéo dài và ảnh hưởng đến chất lượng cuộc sống.",
+  "classification": [
+    "Táo bón cấp tính",
+    "Táo bón mạn tính",
+    "Táo bón chức năng",
+    "Táo bón do chế độ ăn",
+    "Táo bón do thuốc",
+    "Táo bón ở trẻ em",
+    "Táo bón do bệnh lý hậu môn - trực tràng"
+  ],
+  "pathophysiology": [
+    "Giảm nhu động ruột",
+    "Tăng hấp thu nước tại đại tràng làm phân khô cứng",
+    "Rối loạn phản xạ đi đại tiện",
+    "Tắc nghẽn cơ học đường tiêu hóa",
+    "Rối loạn thần kinh chi phối đại tràng",
+    "Mất cân bằng chế độ ăn và nước"
+  ],
+  "causes": {
+    "acute": [
+      "Thay đổi chế độ ăn đột ngột",
+      "Mất nước cấp tính",
+      "Stress tạm thời",
+      "Thay đổi môi trường sống hoặc thói quen"
+    ],
+    "chronic": [
+      "Chế độ ăn thiếu chất xơ",
+      "Uống không đủ nước",
+      "Ít vận động",
+      "Nhịn đi đại tiện",
+      "Tác dụng phụ của thuốc",
+      "Dị ứng sữa bò",
+      "Bệnh lý hậu môn - trực tràng",
+      "Rối loạn nhu động ruột",
+      "Tiền sử gia đình táo bón"
+    ]
+  },
+  "symptoms": [
+    "Đi đại tiện dưới 3 lần mỗi tuần",
+    "Phân cứng, khô và khó đi",
+    "Đau khi đi đại tiện",
+    "Phải rặn nhiều khi đi tiêu",
+    "Đau bụng",
+    "Máu dính trên phân",
+    "Cảm giác đi tiêu không hết",
+    "Trẻ em có biểu hiện nhịn đi vệ sinh, co chân hoặc khó chịu"
+  ],
+  "complications": [
+    "Nứt hậu môn",
+    "Trĩ",
+    "Sa trực tràng",
+    "Tắc phân",
+    "Đau bụng kéo dài",
+    "Ảnh hưởng chất lượng sống",
+    "Viêm nhiễm hậu môn"
+  ],
+  "diagnosis": [
+    "Khai thác tiền sử bệnh và chế độ ăn",
+    "Khám hậu môn trực tràng",
+    "Xét nghiệm phân tìm máu ẩn",
+    "X-quang bụng",
+    "Chụp X-quang cản quang",
+    "Đo áp lực hậu môn trực tràng",
+    "Sinh thiết trực tràng (trường hợp đặc biệt)",
+    "Xét nghiệm máu"
+  ],
+  "risk_groups": [
+    "Trẻ em",
+    "Người ít vận động",
+    "Người ăn ít chất xơ",
+    "Người uống ít nước",
+    "Người dùng thuốc gây táo bón",
+    "Người có bệnh lý hậu môn - trực tràng",
+    "Người có tiền sử gia đình táo bón"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Tăng cường chất xơ trong chế độ ăn",
+      "Uống đủ nước mỗi ngày",
+      "Tăng vận động thể chất",
+      "Tạo thói quen đi đại tiện đúng giờ",
+      "Không nhịn đi vệ sinh",
+      "Điều chỉnh thói quen sinh hoạt"
+    ],
+    "medication": [
+      "Thuốc làm mềm phân",
+      "Thuốc nhuận tràng",
+      "Thuốc đạn glycerin",
+      "Thực phẩm chức năng bổ sung chất xơ",
+      "Thụt tháo trong trường hợp nặng theo chỉ định bác sĩ"
+    ]
+  },
+  "prevention": [
+    "Ăn nhiều rau xanh và trái cây",
+    "Bổ sung chất xơ đầy đủ",
+    "Uống đủ nước mỗi ngày",
+    "Tập thể dục thường xuyên",
+    "Tạo thói quen đi vệ sinh đều đặn",
+    "Không nhịn đi đại tiện",
+    "Theo dõi và điều chỉnh thuốc nếu gây táo bón"
+  ],
+  "when_to_see_doctor": [
+    "Táo bón kéo dài hơn 2 tuần",
+    "Có máu trong phân",
+    "Đau bụng dữ dội",
+    "Sốt hoặc nôn kèm theo táo bón",
+    "Bụng chướng",
+    "Sụt cân không rõ nguyên nhân",
+    "Nghi ngờ sa trực tràng"
+  ],
+  "care_notes": [
+    "Táo bón thường không nguy hiểm nhưng có thể gây biến chứng nếu kéo dài",
+    "Trẻ em dễ bị táo bón do thói quen sinh hoạt",
+    "Điều chỉnh chế độ ăn là yếu tố quan trọng nhất",
+    "Không tự ý dùng thuốc nhuận tràng kéo dài",
+    "Cần theo dõi nếu triệu chứng kéo dài hoặc nặng lên"
+  ],
+  "epidemiology": [
+    "Táo bón là tình trạng phổ biến ở cả trẻ em và người lớn",
+    "Tỷ lệ cao hơn ở trẻ em và người cao tuổi",
+    "Liên quan đến chế độ ăn ít chất xơ và lối sống ít vận động",
+    "Phổ biến ở các nhóm dân cư đô thị",
+    "Thường mang tính tạm thời nhưng có thể chuyển thành mạn tính"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/tao-bon-3001"
+}

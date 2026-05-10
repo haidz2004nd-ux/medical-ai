@@ -1,0 +1,138 @@
+{
+  "title": "Trầm cảm",
+  "type": "disease",
+  "topic": "tâm thần - thần kinh",
+  "definition": "Trầm cảm là một rối loạn khí sắc nghiêm trọng đặc trưng bởi trạng thái buồn bã kéo dài hoặc mất hứng thú với các hoạt động thường ngày, kèm theo giảm năng lượng, rối loạn nhận thức, hành vi và suy giảm chức năng xã hội. Bệnh có thể gặp ở mọi lứa tuổi và ảnh hưởng đáng kể đến chất lượng cuộc sống, thậm chí có nguy cơ dẫn đến hành vi tự sát nếu không được điều trị kịp thời.",
+  "classification": [
+    "Trầm cảm nhẹ",
+    "Trầm cảm vừa",
+    "Trầm cảm nặng",
+    "Trầm cảm có loạn thần",
+    "Trầm cảm nội sinh",
+    "Trầm cảm sau sang chấn",
+    "Trầm cảm sau sinh",
+    "Trầm cảm điển hình"
+  ],
+  "pathophysiology": [
+    "Rối loạn chất dẫn truyền thần kinh như serotonin, dopamine và norepinephrine",
+    "Rối loạn chức năng các vùng não liên quan đến cảm xúc và động lực",
+    "Rối loạn trục hạ đồi - tuyến yên - tuyến thượng thận (HPA axis)",
+    "Yếu tố di truyền làm tăng nguy cơ mắc bệnh",
+    "Tác động của stress kéo dài gây thay đổi cấu trúc và chức năng não"
+  ],
+  "causes": {
+    "acute": [
+      "Mất người thân",
+      "Chia tay hoặc ly hôn",
+      "Sang chấn tâm lý đột ngột",
+      "Áp lực học tập hoặc công việc cấp tính",
+      "Tai nạn hoặc chấn thương não"
+    ],
+    "chronic": [
+      "Stress kéo dài",
+      "Môi trường sống tiêu cực",
+      "Áp lực công việc hoặc học tập lâu dài",
+      "Bệnh lý mạn tính (tim mạch, tiểu đường, ung thư...)",
+      "Yếu tố di truyền",
+      "Thiếu hỗ trợ xã hội"
+    ]
+  },
+  "symptoms": [
+    "Buồn bã kéo dài gần như cả ngày",
+    "Mất hứng thú với các hoạt động từng yêu thích",
+    "Mệt mỏi, giảm năng lượng",
+    "Rối loạn giấc ngủ (mất ngủ hoặc ngủ quá nhiều)",
+    "Thay đổi cân nặng hoặc khẩu vị",
+    "Khó tập trung, giảm khả năng ra quyết định",
+    "Cảm giác vô dụng hoặc tội lỗi quá mức",
+    "Bi quan, tuyệt vọng",
+    "Thu mình, giảm giao tiếp xã hội",
+    "Ý nghĩ hoặc hành vi tự sát"
+  ],
+  "complications": [
+    "Tự sát hoặc hành vi tự hại",
+    "Suy giảm chức năng xã hội và nghề nghiệp",
+    "Giảm chất lượng cuộc sống nghiêm trọng",
+    "Rối loạn lo âu đi kèm",
+    "Suy kiệt thể chất",
+    "Mất khả năng tự chăm sóc bản thân"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng lâm sàng",
+    "Đánh giá thời gian triệu chứng ≥ 2 tuần",
+    "Áp dụng tiêu chuẩn DSM-5 hoặc ICD-10",
+    "Đánh giá mức độ nhẹ, vừa, nặng",
+    "Loại trừ nguyên nhân thực thể hoặc bệnh lý khác"
+  ],
+  "risk_groups": [
+    "Người chịu stress kéo dài",
+    "Người có tiền sử gia đình mắc trầm cảm",
+    "Người trải qua mất mát hoặc sang chấn",
+    "Phụ nữ sau sinh",
+    "Học sinh, sinh viên chịu áp lực cao",
+    "Người mắc bệnh mạn tính",
+    "Người thiếu hỗ trợ xã hội"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Duy trì lối sống lành mạnh",
+      "Tập thể dục thường xuyên",
+      "Ngủ đủ giấc và đúng giờ",
+      "Hạn chế rượu bia và chất kích thích",
+      "Tham gia hoạt động xã hội",
+      "Tìm kiếm hỗ trợ tâm lý từ người thân"
+    ],
+    "medication": [
+      "Thuốc chống trầm cảm nhóm SSRI (lựa chọn đầu tay)",
+      "SNRI, bupropion hoặc mirtazapine (lựa chọn thay thế)",
+      "Thuốc chống trầm cảm 3 vòng (TCA) trong một số trường hợp",
+      "Theo dõi tác dụng phụ và tuân thủ điều trị",
+      "Không tự ý ngưng thuốc"
+    ],
+    "psychotherapy": [
+      "Liệu pháp nhận thức hành vi (CBT)",
+      "Liệu pháp tâm lý cá nhân",
+      "Liệu pháp gia đình hoặc cặp đôi",
+      "Liệu pháp nhóm hỗ trợ"
+    ],
+    "advanced": [
+      "Liệu pháp sốc điện (ECT) trong trường hợp nặng hoặc kháng trị",
+      "Kích thích từ trường xuyên sọ (rTMS)",
+      "Kích thích dây thần kinh phế vị (VNS)",
+      "Liệu pháp ánh sáng trong trầm cảm theo mùa"
+    ]
+  },
+  "prevention": [
+    "Duy trì lối sống lành mạnh",
+    "Tập thể dục đều đặn",
+    "Quản lý stress hiệu quả",
+    "Giữ kết nối xã hội tích cực",
+    "Chia sẻ khó khăn với người tin cậy",
+    "Phát hiện và điều trị sớm các dấu hiệu trầm cảm"
+  ],
+  "when_to_see_doctor": [
+    "Buồn bã hoặc mất hứng thú kéo dài trên 2 tuần",
+    "Mất chức năng sinh hoạt hằng ngày",
+    "Rối loạn giấc ngủ nghiêm trọng",
+    "Có ý nghĩ hoặc hành vi tự sát",
+    "Lo âu và tuyệt vọng tăng dần",
+    "Suy giảm khả năng học tập hoặc làm việc"
+  ],
+  "care_notes": [
+    "Trầm cảm là bệnh lý có thể điều trị được",
+    "Điều trị sớm giúp cải thiện tiên lượng",
+    "Cần phối hợp thuốc và liệu pháp tâm lý",
+    "Gia đình và xã hội đóng vai trò quan trọng",
+    "Không tự ý dùng hoặc ngưng thuốc"
+  ],
+  "epidemiology": [
+    "Gặp ở mọi lứa tuổi",
+    "Thường khởi phát ở tuổi trưởng thành",
+    "Nữ giới có tỷ lệ mắc cao hơn nam giới",
+    "Tỷ lệ ngày càng gia tăng trong xã hội hiện đại",
+    "Nguy cơ tái phát cao nếu không điều trị đầy đủ"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/tram-cam-79.html"
+
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Táo bón",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Táo bón là tình trạng rối loạn tiêu hóa khiến người bệnh đi đại tiện khó khăn, phân khô cứng, phải rặn mạnh và số lần đi ngoài ít hơn bình thường (thường dưới 3 lần/tuần).",
+  "classification": [
+    "Táo bón nhẹ",
+    "Táo bón nặng",
+    "Táo bón cấp",
+    "Táo bón mạn",
+    "Táo bón cơ năng",
+    "Táo bón thực thể"
+  ],
+  "pathophysiology": [
+    "Giảm nhu động ruột làm phân di chuyển chậm",
+    "Tăng hấp thu nước tại ruột gây phân khô cứng",
+    "Rối loạn phản xạ đại tiện",
+    "Ứ đọng phân trong trực tràng",
+    "Rối loạn co bóp cơ hậu môn"
+  ],
+  "causes": {
+    "lifestyle": [
+      "Ăn thiếu chất xơ",
+      "Uống không đủ nước",
+      "Ít vận động",
+      "Thói quen nhịn đi đại tiện",
+      "Ăn nhiều đồ ăn nhanh, nhiều dầu mỡ"
+    ],
+    "pathological": [
+      "Bệnh đại tràng",
+      "Suy giáp",
+      "Tăng canxi máu",
+      "Nhiễm độc chì",
+      "Ung thư đại trực tràng",
+      "Bệnh trĩ",
+      "Nứt kẽ hậu môn"
+    ],
+    "drug_induced": [
+      "Thuốc giảm đau nhóm opioid",
+      "Thuốc chống trầm cảm",
+      "Thuốc kháng cholinergic",
+      "Thuốc lợi tiểu",
+      "Thuốc chống co giật"
+    ]
+  },
+  "symptoms": [
+    "Đi ngoài ít hơn 3 lần/tuần",
+    "Phân cứng, khô",
+    "Phải rặn mạnh khi đi đại tiện",
+    "Đau rát hậu môn khi đi ngoài",
+    "Chướng bụng, căng tức bụng",
+    "Cảm giác đi chưa hết phân",
+    "Mệt mỏi, khó ngủ",
+    "Có thể có máu trong phân"
+  ],
+  "severity_signs": [
+    "Có máu trong phân",
+    "Nứt kẽ hậu môn",
+    "Trĩ tiến triển",
+    "Tắc ruột",
+    "Đau bụng dữ dội"
+  ],
+  "complications": [
+    "Trĩ nội và trĩ ngoại",
+    "Nứt kẽ hậu môn",
+    "Chảy máu khi đi cầu",
+    "Sa trực tràng",
+    "Tắc ruột"
+  ],
+  "risk_groups": [
+    "Người cao tuổi",
+    "Phụ nữ mang thai và sau sinh",
+    "Trẻ em và trẻ sơ sinh",
+    "Người ít vận động",
+    "Nhân viên văn phòng",
+    "Người ăn ít chất xơ"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng và tiền sử",
+    "Khám lâm sàng",
+    "Nội soi đại tràng",
+    "Chụp X-quang hoặc MRI ổ bụng",
+    "Xét nghiệm máu",
+    "Đánh giá chức năng tuyến giáp"
+  ],
+  "treatment": {
+    "mild": [
+      "Ăn nhiều chất xơ",
+      "Uống đủ nước",
+      "Tập thể dục thường xuyên",
+      "Tạo thói quen đi đại tiện đúng giờ"
+    ],
+    "medical": [
+      "Thuốc làm mềm phân",
+      "Thuốc nhuận tràng thẩm thấu",
+      "Thuốc kích thích nhu động ruột",
+      "Thuốc bôi trơn hậu môn"
+    ],
+    "severe": [
+      "Thụt tháo theo chỉ định bác sĩ",
+      "Điều trị nguyên nhân nền",
+      "Can thiệp y khoa nếu có tắc ruột"
+    ]
+  },
+  "prevention": [
+    "Ăn nhiều rau xanh và trái cây",
+    "Uống đủ 1.5–2 lít nước mỗi ngày",
+    "Tập thể dục ít nhất 30 phút/ngày",
+    "Không nhịn đi đại tiện",
+    "Hạn chế rượu bia và cà phê",
+    "Tạo thói quen đi vệ sinh đều đặn"
+  ],
+  "when_to_see_doctor": [
+    "Táo bón kéo dài không cải thiện",
+    "Có máu trong phân",
+    "Đau bụng dữ dội",
+    "Sụt cân không rõ nguyên nhân",
+    "Sốt hoặc nôn",
+    "Nghi ngờ tắc ruột"
+  ],
+  "source": "Bệnh viện Đa khoa Lãnh Bình Thăng",
+  "url": "https://benhviendakhoalanhbinhthang.vn/giao-duc-suc-khoe/tao-bon-dau-hieu-nguyen-nhan-dieu-tri-hieu-qua-o-nguoi-lon-tre-em-n3388.html"
+}

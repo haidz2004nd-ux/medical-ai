@@ -1,0 +1,111 @@
+{
+  "title": "Tăng huyết áp",
+  "type": "disease",
+  "topic": "bệnh tim mạch",
+  "definition": "Tăng huyết áp là tình trạng huyết áp động mạch tăng mạn tính khi huyết áp tâm thu ≥ 140 mmHg và/hoặc huyết áp tâm trương ≥ 90 mmHg, đo tại phòng khám trong điều kiện chuẩn.",
+  "pathophysiology": [
+    "Tăng sức cản ngoại vi do co hẹp tiểu động mạch",
+    "Tim phải tăng lực co bóp để duy trì lưu lượng máu",
+    "Dày và xơ cứng thành mạch",
+    "Giảm độ đàn hồi của mạch máu",
+    "Tăng áp lực kéo dài gây tổn thương cơ quan đích"
+  ],
+  "causes": {
+    "primary": [
+      "Không rõ nguyên nhân",
+      "Yếu tố di truyền",
+      "Ăn mặn",
+      "Béo phì",
+      "Ít vận động",
+      "Stress kéo dài"
+    ],
+    "secondary": [
+      "Bệnh thận mạn",
+      "Hẹp động mạch thận",
+      "Rối loạn nội tiết",
+      "Thuốc (NSAID, corticoid, thuốc tránh thai)",
+      "Ngưng thở khi ngủ"
+    ]
+  },
+  "symptoms": [
+    "Thường không triệu chứng",
+    "Đau đầu",
+    "Chóng mặt",
+    "Ù tai",
+    "Đau ngực",
+    "Khó thở",
+    "Nhìn mờ"
+  ],
+  "complications": [
+    "Đột quỵ",
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Suy thận",
+    "Tổn thương võng mạc",
+    "Xơ vữa động mạch",
+    "Phình động mạch"
+  ],
+  "diagnosis": [
+    "Đo huyết áp lặp lại ≥ 140/90 mmHg tại phòng khám",
+    "Đo huyết áp tại nhà ≥ 135/85 mmHg",
+    "Theo dõi huyết áp 24 giờ (Holter)",
+    "Xét nghiệm máu",
+    "Điện tim (ECG)",
+    "Siêu âm tim",
+    "Xét nghiệm chức năng thận",
+    "Tầm soát rối loạn nội tiết"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn giảm muối",
+      "Tăng rau xanh và trái cây",
+      "Tập thể dục đều đặn",
+      "Giảm cân nếu thừa cân",
+      "Bỏ thuốc lá",
+      "Hạn chế rượu bia",
+      "Giảm stress"
+    ],
+    "medication": [
+      "Thuốc lợi tiểu",
+      "Thuốc ức chế men chuyển (ACE inhibitors)",
+      "Thuốc chẹn thụ thể angiotensin II (ARB)",
+      "Thuốc chẹn kênh canxi",
+      "Thuốc chẹn beta"
+    ]
+  },
+  "risk_groups": [
+    "Người lớn tuổi",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người có tiền sử gia đình",
+    "Người stress kéo dài",
+    "Người mắc bệnh thận hoặc rối loạn nội tiết"
+  ],
+  "prevention": [
+    "Ăn giảm muối",
+    "Tăng rau xanh",
+    "Tập thể dục thường xuyên",
+    "Duy trì cân nặng hợp lý",
+    "Bỏ thuốc lá",
+    "Hạn chế rượu bia",
+    "Giảm stress"
+  ],
+  "when_to_see_doctor": [
+    "Huyết áp ≥ 180/120 mmHg",
+    "Đau ngực",
+    "Khó thở",
+    "Đau đầu dữ dội",
+    "Nhìn mờ",
+    "Chóng mặt nghiêm trọng",
+    "Ngất xỉu"
+  ],
+  "care_notes": [
+    "Theo dõi huyết áp thường xuyên",
+    "Tuân thủ điều trị theo chỉ định",
+    "Không tự ý ngưng thuốc",
+    "Duy trì chế độ ăn nhạt (<5g muối/ngày)",
+    "Tái khám định kỳ"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html"
+}

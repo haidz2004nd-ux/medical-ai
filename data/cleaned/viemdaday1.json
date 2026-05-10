@@ -1,0 +1,125 @@
+{
+  "title": "Viêm dạ dày",
+  "type": "disease",
+  "topic": "tiêu hóa - dạ dày",
+  "definition": "Viêm dạ dày là tình trạng niêm mạc dạ dày bị viêm hoặc kích ứng, có thể xảy ra cấp tính hoặc mạn tính, gây đau, khó tiêu và ảnh hưởng đến chức năng tiêu hóa.",
+  "classification": [
+    "Viêm dạ dày cấp tính",
+    "Viêm dạ dày mạn tính",
+    "Viêm dạ dày do H. pylori",
+    "Viêm dạ dày do thuốc NSAID",
+    "Viêm dạ dày tự miễn",
+    "Viêm dạ dày ăn mòn"
+  ],
+  "pathophysiology": [
+    "Tổn thương hàng rào niêm mạc dạ dày làm giảm chất nhầy bảo vệ",
+    "Tăng tiết acid dịch vị gây kích ứng niêm mạc",
+    "Nhiễm vi khuẩn Helicobacter pylori gây viêm mạn tính",
+    "Tổn thương miễn dịch trong viêm dạ dày tự miễn",
+    "Tác động kéo dài của thuốc NSAID làm suy yếu lớp bảo vệ dạ dày"
+  ],
+  "causes": {
+    "acute": [
+      "Uống rượu bia nhiều",
+      "Dùng thuốc NSAID liều cao",
+      "Ăn thực phẩm cay nóng gây kích ứng",
+      "Stress cấp tính",
+      "Nhiễm trùng cấp đường tiêu hóa"
+    ],
+    "chronic": [
+      "Nhiễm Helicobacter pylori kéo dài",
+      "Dùng NSAID lâu dài",
+      "Viêm dạ dày tự miễn",
+      "Stress kéo dài",
+      "Trào ngược dịch mật",
+      "Bệnh lý mạn tính như Crohn, HIV"
+    ]
+  },
+  "symptoms": [
+    "Đau vùng thượng vị",
+    "Cảm giác nóng rát dạ dày",
+    "Đầy bụng sau ăn",
+    "Buồn nôn hoặc nôn",
+    "Nôn ra máu trong trường hợp nặng",
+    "Đi ngoài phân đen hoặc có máu",
+    "Chán ăn, khó tiêu"
+  ],
+  "complications": [
+    "Loét dạ dày",
+    "Xuất huyết tiêu hóa",
+    "Thủng dạ dày",
+    "Thiếu máu do mất máu kéo dài",
+    "Ung thư dạ dày (trong viêm mạn tính kéo dài)",
+    "Suy giảm chất lượng cuộc sống"
+  ],
+  "diagnosis": [
+    "Nội soi dạ dày",
+    "Xét nghiệm Helicobacter pylori (hơi thở, phân, máu)",
+    "Xét nghiệm máu tìm thiếu máu hoặc viêm",
+    "Xét nghiệm máu ẩn trong phân",
+    "Chụp X-quang đường tiêu hóa",
+    "Sinh thiết niêm mạc dạ dày khi cần"
+  ],
+  "risk_groups": [
+    "Người sử dụng NSAID dài ngày",
+    "Người uống rượu bia thường xuyên",
+    "Người nhiễm Helicobacter pylori",
+    "Người cao tuổi",
+    "Người bị stress kéo dài",
+    "Người có bệnh tự miễn",
+    "Bệnh nhân sau hóa trị hoặc xạ trị"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Tránh rượu bia và thuốc lá",
+      "Ăn uống đúng giờ, dễ tiêu",
+      "Giảm căng thẳng tinh thần",
+      "Tránh thực phẩm cay nóng và dầu mỡ",
+      "Theo dõi và tái khám định kỳ"
+    ],
+    "medication": [
+      "Thuốc ức chế bơm proton (PPI) như omeprazole, esomeprazole",
+      "Thuốc chẹn H2 như famotidine",
+      "Thuốc kháng acid",
+      "Kháng sinh diệt H. pylori nếu có nhiễm khuẩn",
+      "Vitamin B12 trong trường hợp thiếu máu ác tính"
+    ],
+    "psychotherapy": [
+      "Hỗ trợ tâm lý giảm stress",
+      "Tư vấn thay đổi lối sống",
+      "Giáo dục sức khỏe tiêu hóa"
+    ]
+  },
+  "prevention": [
+    "Hạn chế rượu bia và thuốc lá",
+    "Không tự ý dùng NSAID kéo dài",
+    "Ăn uống lành mạnh, tránh đồ cay nóng",
+    "Giữ vệ sinh ăn uống để phòng H. pylori",
+    "Quản lý stress hiệu quả",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau bụng thượng vị kéo dài",
+    "Nôn ra máu hoặc đi ngoài phân đen",
+    "Đau bụng dữ dội kèm chóng mặt",
+    "Chán ăn, sụt cân không rõ nguyên nhân",
+    "Triệu chứng không cải thiện sau điều trị",
+    "Nghi ngờ biến chứng tiêu hóa"
+  ],
+  "care_notes": [
+    "Viêm dạ dày có thể điều trị khỏi nếu phát hiện sớm",
+    "Cần tuân thủ điều trị của bác sĩ",
+    "Không tự ý dùng thuốc kéo dài",
+    "Chế độ ăn uống ảnh hưởng lớn đến bệnh",
+    "Tái phát có thể xảy ra nếu không điều trị triệt để H. pylori"
+  ],
+  "epidemiology": [
+    "Là bệnh tiêu hóa phổ biến trên toàn thế giới",
+    "Tỷ lệ nhiễm H. pylori cao ở nhiều quốc gia đang phát triển",
+    "Gia tăng ở người sử dụng NSAID kéo dài",
+    "Phổ biến ở người trưởng thành và người cao tuổi",
+    "Có liên quan đến nguy cơ ung thư dạ dày trong trường hợp mạn tính"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/viem-da-day-137.html"
+}

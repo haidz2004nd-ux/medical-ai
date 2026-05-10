@@ -1,0 +1,118 @@
+{
+  "title": "Mất ngủ",
+  "type": "disease",
+  "topic": "thần kinh - tâm thần - giấc ngủ",
+  "definition": "Mất ngủ là rối loạn giấc ngủ khiến người bệnh khó đi vào giấc ngủ, ngủ không sâu, dễ tỉnh giấc giữa đêm hoặc thức dậy quá sớm và không thể ngủ lại, dẫn đến mệt mỏi và suy giảm chức năng ban ngày.",
+  "classification": [
+    "Mất ngủ cấp tính (kéo dài < 1 tháng)",
+    "Mất ngủ mạn tính (≥ 1 tháng, tái diễn nhiều lần)",
+    "Khó vào giấc ngủ",
+    "Khó duy trì giấc ngủ",
+    "Thức dậy sớm"
+  ],
+  "pathophysiology": [
+    "Rối loạn điều hòa chu kỳ ngủ - thức (circadian rhythm)",
+    "Mất cân bằng chất dẫn truyền thần kinh liên quan giấc ngủ (serotonin, melatonin, GABA)",
+    "Tăng hoạt động hệ thần kinh giao cảm do stress",
+    "Giảm chất lượng giấc ngủ sâu (slow-wave sleep)",
+    "Rối loạn trung tâm điều khiển giấc ngủ tại não"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn tâm lý (stress, lo âu, trầm cảm)",
+      "Rối loạn giấc ngủ nguyên phát"
+    ],
+    "secondary": [
+      "Thói quen ngủ không khoa học (ngủ không giờ giấc, dùng thiết bị điện tử trước ngủ)",
+      "Sử dụng caffeine, nicotine, rượu bia",
+      "Ăn quá no buổi tối",
+      "Thay đổi múi giờ hoặc làm việc ca đêm",
+      "Bệnh lý (trào ngược dạ dày, tim mạch, hen suyễn, đau mạn tính, tuyến giáp)",
+      "Thuốc (thuốc chống trầm cảm, giảm đau, thuốc hen)",
+      "Tuổi cao",
+      "Ít vận động thể chất"
+    ]
+  },
+  "symptoms": [
+    "Khó ngủ hoặc mất nhiều thời gian để ngủ",
+    "Thức giấc nhiều lần trong đêm",
+    "Thức dậy sớm và không ngủ lại được",
+    "Mệt mỏi sau khi ngủ dậy",
+    "Buồn ngủ ban ngày",
+    "Giảm tập trung và suy giảm trí nhớ",
+    "Cáu gắt, lo âu, thay đổi tâm trạng",
+    "Giảm hiệu suất làm việc"
+  ],
+  "complications": [
+    "Suy giảm miễn dịch",
+    "Tăng nguy cơ tim mạch (tăng huyết áp, nhồi máu cơ tim, đột quỵ)",
+    "Rối loạn chuyển hóa (tiểu đường, tăng cân)",
+    "Tăng nguy cơ tai nạn",
+    "Rối loạn lo âu và trầm cảm",
+    "Suy giảm chất lượng cuộc sống",
+    "Lão hóa da sớm"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng lâm sàng",
+    "Đánh giá thời gian và chất lượng giấc ngủ",
+    "Theo dõi nhật ký giấc ngủ",
+    "Đo đa ký giấc ngủ (polysomnography) khi cần",
+    "Loại trừ bệnh lý nền gây mất ngủ"
+  ],
+  "risk_groups": [
+    "Người cao tuổi",
+    "Người bị stress hoặc rối loạn tâm lý",
+    "Phụ nữ (kinh nguyệt, thai kỳ, mãn kinh)",
+    "Người làm ca đêm",
+    "Người có bệnh mạn tính",
+    "Người sử dụng chất kích thích",
+    "Người có lối sống thiếu khoa học"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Duy trì giờ ngủ cố định",
+      "Hạn chế thiết bị điện tử trước ngủ",
+      "Tập thể dục nhẹ nhàng",
+      "Thiền, yoga, thư giãn",
+      "Ngâm chân nước ấm",
+      "Tối ưu môi trường ngủ yên tĩnh, tối và mát",
+      "Tránh ngủ trưa quá dài"
+    ],
+    "medication": [
+      "Thuốc hỗ trợ giấc ngủ theo chỉ định bác sĩ",
+      "Điều trị bệnh nền gây mất ngủ",
+      "Liệu pháp hành vi nhận thức (CBT-I)",
+      "Thuốc an thần hoặc điều hòa giấc ngủ trong trường hợp cần thiết"
+    ]
+  },
+  "prevention": [
+    "Ngủ đúng giờ và đủ giấc",
+    "Hạn chế caffeine, rượu bia, nicotine",
+    "Không ăn quá no buổi tối",
+    "Tăng vận động thể chất",
+    "Giảm stress",
+    "Thiết lập thói quen ngủ lành mạnh"
+  ],
+  "when_to_see_doctor": [
+    "Mất ngủ ≥ 3 lần/tuần kéo dài trên 1 tháng",
+    "Ảnh hưởng rõ đến sinh hoạt ban ngày",
+    "Mệt mỏi kéo dài không cải thiện",
+    "Nghi ngờ bệnh lý nền",
+    "Mất ngủ kèm lo âu hoặc trầm cảm"
+  ],
+  "care_notes": [
+    "Mất ngủ có thể là triệu chứng của bệnh lý tiềm ẩn",
+    "Không tự ý dùng thuốc ngủ kéo dài",
+    "Cần kết hợp thay đổi lối sống và điều trị y khoa",
+    "Theo dõi thói quen ngủ để đánh giá hiệu quả điều trị",
+    "Điều trị sớm giúp cải thiện tiên lượng"
+  ],
+  "epidemiology": [
+    "Khoảng 10–30% người trưởng thành gặp mất ngủ",
+    "Tỷ lệ cao hơn ở người cao tuổi",
+    "Phụ nữ có tỷ lệ mắc cao hơn nam giới",
+    "Xu hướng gia tăng do stress và lối sống hiện đại"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/mat-ngu/"
+}

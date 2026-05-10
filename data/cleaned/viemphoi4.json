@@ -1,0 +1,94 @@
+{
+  "title": "Viêm phổi",
+  "type": "disease",
+  "topic": "hô hấp - phổi",
+  "definition": "Viêm phổi là tình trạng nhiễm trùng xảy ra ở một hoặc cả hai bên phổi do vi khuẩn, virus hoặc nấm gây ra. Bệnh ảnh hưởng đến khoảng 450 triệu người mỗi năm và có thể gây tử vong cao, đặc biệt ở trẻ em dưới 5 tuổi và người trên 75 tuổi.",
+  "classification": [
+    "Theo thùy phổi: Viêm phổi thùy hoặc viêm phổi đa thùy",
+    "Theo căn nguyên: Vi khuẩn, virus, nấm, vi khuẩn không điển hình (M. pneumoniae)",
+    "Theo mức độ: Nhẹ, trung bình, nặng"
+  ],
+  "pathophysiology": [
+    "Túi khí trong phổi tăng chất nhầy, làm suy giảm lượng oxy cung cấp cho máu",
+    "Vi khuẩn lây lan theo đường phế quản gây tổn thương nhu mô",
+    "Tình trạng viêm có thể lan rộng đến màng phổi hoặc màng tim"
+  ],
+  "causes": {
+    "acute": [
+      "Vi khuẩn: Streptococcus pneumoniae (Phế cầu), M. pneumoniae",
+      "Virus và nấm",
+      "Yếu tố thúc đẩy: Ăn uống nước lạnh, sử dụng điều hòa quá lạnh và liên tục trong mùa hè"
+    ],
+    "chronic": [
+      "Bội nhiễm vi khuẩn sau khi nhiễm virus",
+      "Các bệnh lý mạn tính kèm theo: Hen phế quản, suy tim, tiểu đường"
+    ]
+  },
+  "symptoms": [
+    "Ho: Triệu chứng sớm, ho có đờm (vàng, xanh, rỉ sắt, có mùi hôi) hoặc ho khan",
+    "Sốt: Sốt cao đột ngột 40-41°C kèm rét run hoặc sốt nhẹ. Có thể hạ thân nhiệt ở người già/trẻ nhỏ",
+    "Khó thở: Thở nhanh nông, co kéo cơ hô hấp, co rút lồng ngực (ở trẻ nhỏ)",
+    "Đau ngực: Đau tức vùng tổn thương, có thể đau dữ dội khi ho",
+    "Dấu hiệu nặng: Môi khô, da nóng đỏ, tím môi, tím đầu chi (suy hô hấp)",
+    "Dấu hiệu khác: Mệt mỏi, chán ăn, buồn nôn, đau đầu, lưỡi bẩn, hơi thở hôi, ban xuất huyết"
+  ],
+  "complications": [
+    "Suy hô hấp",
+    "Sốc nhiễm khuẩn",
+    "Tử vong",
+    "Lan sang màng phổi, màng tim",
+    "Rối loạn ý thức (trường hợp nặng hoặc trẻ em)"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng: Đánh giá biểu hiện ho, sốt, khó thở",
+    "Chụp X-quang phổi: Xác định vị trí và mức độ tổn thương",
+    "Xét nghiệm máu: Đếm số lượng bạch cầu, định lượng yếu tố chỉ thị viêm, cấy máu tìm căn nguyên",
+    "Xét nghiệm đờm: Cấy tìm vi khuẩn gây bệnh"
+  ],
+  "risk_groups": [
+    "Trẻ em dưới 5 tuổi",
+    "Người cao tuổi (đặc biệt trên 75 tuổi)",
+    "Người bị ức chế hoặc suy giảm miễn dịch",
+    "Người có bệnh lý nền mạn tính (hen, tim mạch, tiểu đường)"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi hoàn toàn theo hướng dẫn",
+      "Ăn đầy đủ dinh dưỡng, chia nhỏ bữa ăn",
+      "Uống nhiều nước để làm loãng đờm, giúp khạc đờm dễ dàng",
+      "Giữ vệ sinh tay bằng xà phòng thường xuyên"
+    ],
+    "medication": [
+      "Kháng sinh: Chỉ định cho viêm phổi do vi khuẩn hoặc bội nhiễm",
+      "Thuốc kháng virus: Dùng cho trường hợp do virus",
+      "Điều trị triệu chứng: Thuốc hạ sốt, thuốc giảm đau"
+    ],
+    "surgery": [
+      "Thở oxy hoặc thông khí nhân tạo (trong trường hợp nặng)",
+      "Điều trị các biến chứng cấp tính"
+    ]
+  },
+  "prevention": [
+    "Tiêm vaccine phòng phế cầu và phòng cúm",
+    "Lối sống lành mạnh, tập luyện nâng cao thể lực",
+    "Không hút thuốc lá, tránh xa rượu bia",
+    "Kiểm soát tốt các bệnh lý mạn tính hiện có",
+    "Hành vi vệ sinh: Che miệng bằng khăn giấy khi ho/hắt hơi, rửa tay trước khi ăn"
+  ],
+  "when_to_see_doctor": [
+    "Khi xuất hiện các dấu hiệu nghi ngờ như ho, sốt, đau ngực",
+    "Dấu hiệu cấp cứu: Tím môi, tím đầu chi, co rút lồng ngực, rối loạn ý thức"
+  ],
+  "care_notes": [
+    "Viêm phổi không thể tự chữa tại nhà, cần đến cơ sở y tế",
+    "Viêm phổi nhẹ điều trị ngoại trú, trung bình đến nặng cần nhập viện",
+    "Khỏi bệnh sau 1 tuần (ca nhẹ) hoặc hơn 1 tháng (ca nặng)",
+    "Rửa tay sau khi sờ vào mũi miệng để tránh lây lan mầm bệnh"
+  ],
+  "epidemiology": [
+    "Tỷ lệ tử vong cao nhất ở nhóm dưới 5 tuổi và trên 75 tuổi",
+    "Mùa hè nắng nóng tăng nguy cơ do lạm dụng điều hòa và nước lạnh"
+  ],
+  "source": "Trung tâm Y tế quận Gò Vấp",
+  "url": "https://trungtamytegovap.medinet.gov.vn/ban-tin-truyen-thong/dau-hieu-cho-biet-ban-da-mac-viem-phoi-va-cach-xu-tri-cmobile14393-102180.aspx"
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Viêm phổi",
+  "type": "disease",
+  "topic": "hô hấp - phổi",
+  "definition": "Viêm phổi là tình trạng nhiễm trùng nhu mô phổi (sưng) bao gồm phế nang, túi phế nang, ống phế nang, tổ chức liên kết khe kẽ và tiểu phế quản tận cùng. Bệnh gây ra do vi khuẩn, virus hoặc nấm, khiến đường dẫn khí chứa đầy dịch nhầy hoặc mủ.",
+  "classification": [
+    "Viêm phổi mắc phải cộng đồng (CAP)",
+    "Viêm phổi bệnh viện (HAP): xảy ra sau 48 giờ nhập viện, thường do thở máy",
+    "Viêm phổi liên quan chăm sóc y tế: xảy ra ở người chạy thận, dưỡng lão hoặc mới điều trị hóa trị",
+    "Viêm phổi do hít thở: hít phải dị vật, thức ăn, axit dịch vị"
+  ],
+  "pathophysiology": [
+    "Nhiễm trùng gây sưng và viêm các túi khí (phế nang)",
+    "Tích tụ dịch nhầy, mủ và xuất tiết dịch đường hô hấp",
+    "Gây vỡ hồng cầu và chết tế bào (đặc biệt do phế cầu khuẩn)",
+    "Hội chứng suy hô hấp cấp tính (ARDS) gây hỏng phế nang và tích tụ chất lỏng"
+  ],
+  "causes": {
+    "acute": [
+      "Vi khuẩn: Streptococcus pneumoniae (Phế cầu - phổ biến nhất), Haemophilus influenzae, Mycoplasma pneumoniae",
+      "Virus (chiếm 30%): SARS-CoV-2 (nguy hiểm nhất), RSV (virus hợp bào hô hấp), cúm mùa, cảm lạnh",
+      "Nấm: Hít phải bào tử nấm (thường gặp ở người suy giảm miễn dịch)",
+      "Hóa chất: Phơi nhiễm chất độc hại (hiếm gặp nhưng tử vong cao)"
+    ],
+    "chronic": [
+      "Viêm phổi mạn tính: tình trạng bệnh kéo dài quá 6 tuần",
+      "Vi khuẩn kháng thuốc: phế cầu khuẩn có độc lực mạnh, đề kháng kháng sinh cao"
+    ]
+  },
+  "symptoms": [
+    "Đau ngực khi thở hoặc ho",
+    "Ho khan, ho có đờm, thậm chí ho ra máu",
+    "Sốt trên 38 độ C, đổ mồ hôi và ớn lạnh",
+    "Thở nhanh, khó thở khi gắng sức hoặc thở rít",
+    "Mệt mỏi, uể oải, chán ăn",
+    "Buồn nôn, nôn mửa hoặc tiêu chảy",
+    "Ở người già: lú lẫn, thay đổi ý thức"
+  ],
+  "complications": [
+    "Nhiễm trùng huyết",
+    "Suy hô hấp nặng (cần can thiệp ECMO, thở máy)",
+    "Tràn dịch màng phổi",
+    "Áp xe phổi hoặc áp xe não",
+    "Viêm màng ngoài tim, viêm nội tâm mạc",
+    "Viêm màng não, viêm khớp, viêm phúc mạc"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng: đếm nhịp thở, nghe phổi",
+    "Chụp X-quang phổi: đánh giá tổn thương nhu mô và phế nang",
+    "Chụp CT: phát hiện đám mờ nhỏ mà X-quang bỏ sót",
+    "Xét nghiệm máu: kiểm tra bạch cầu tăng cao",
+    "Soi cấy đờm/máu: tìm tác nhân gây nhiễm trùng",
+    "Đo nồng độ Oxy và CO2 trong máu: đánh giá mức độ suy hô hấp",
+    "Nội soi phế quản: quan sát đường thở và lấy mẫu mô"
+  ],
+  "risk_groups": [
+    "Trẻ em dưới 5 tuổi (đặc biệt dưới 2 tháng tuổi)",
+    "Người cao tuổi trên 65 tuổi (có bệnh nền COPD, tim mạch, tiểu đường)",
+    "Phụ nữ mang thai (hệ miễn dịch suy yếu, nguy cơ sảy thai/sinh non)",
+    "Bệnh nhân nằm hồi sức cấp cứu (ICU) hoặc thở máy",
+    "Người nhiễm HIV/AIDS hoặc đang hóa trị ung thư",
+    "Người nghiện thuốc lá, rượu bia"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi đầy đủ, vận động hợp lý",
+      "Uống nhiều nước để làm loãng đờm",
+      "Giữ ấm cơ thể, đặc biệt vùng cổ và ngực",
+      "Vệ sinh mũi họng bằng nước muối sinh lý"
+    ],
+    "medication": [
+      "Kháng sinh: dùng cho vi khuẩn (phối hợp 2-3 loại nếu nhiễm phế cầu kháng thuốc)",
+      "Thuốc hạ sốt/giảm đau: Paracetamol, Ibuprofen, Aspirin",
+      "Thuốc chống nấm: chỉ định cho viêm phổi do nấm",
+      "Thuốc ho, thuốc long đờm, thuốc giãn phế quản"
+    ],
+    "surgery": [
+      "Can thiệp ECMO (tim - phổi nhân tạo) cho ca suy hô hấp nặng",
+      "Dẫn lưu dịch màng phổi hoặc ổ áp xe"
+    ]
+  },
+  "prevention": [
+    "Tiêm chủng vắc xin: Phế cầu (Prevenar 13, Synflorix), Cúm, Não mô cầu, Ho gà - Bạch hầu",
+    "Vắc xin RSV: Abrysvo, Arexvy",
+    "Rửa tay thường xuyên bằng xà phòng diệt khuẩn",
+    "Đeo khẩu trang và hạn chế tiếp xúc người bệnh hô hấp",
+    "Bổ sung dinh dưỡng giàu vitamin (rau xanh, trái cây, thịt cá)",
+    "Tránh khói thuốc lá và môi trường ô nhiễm"
+  ],
+  "when_to_see_doctor": [
+    "Trẻ dưới 2 tháng tuổi có dấu hiệu viêm phổi (phải nhập viện ngay)",
+    "Trẻ 2-5 tuổi co giật, ngủ li bì, khó đánh thức hoặc thở rít",
+    "Sốt cao không hạ, khó thở nặng, tím tái",
+    "Người già suy giảm nhận thức hoặc lú lẫn đột ngột"
+  ],
+  "care_notes": [
+    "Phế cầu khuẩn có thể lây lan ngay cả từ người khỏe mạnh mang trùng",
+    "Không tự ý mua thuốc kháng sinh vì biểu hiện ban đầu rất giống cảm cúm thông thường",
+    "Viêm phổi bệnh viện thường khó chẩn đoán và chi phí điều trị cực kỳ tốn kém",
+    "Thời gian ủ bệnh tùy thuộc cá thể, dạng cấp tính kéo dài dưới 6 tuần",
+    "Viêm phổi do Covid-19 có xu hướng nặng hơn và để lại biến chứng kéo dài"
+  ],
+  "epidemiology": [
+    "Việt Nam nằm trong nhóm 15 quốc gia chịu hiểm họa bệnh nặng nhất thế giới",
+    "Cứ 20 giây có 1 trẻ em tử vong do viêm phổi trên thế giới",
+    "Phế cầu khuẩn gây ra 20-45% ca bệnh ở trẻ em",
+    "Viêm phổi giết chết nhiều trẻ em hơn AIDS, sốt rét và sởi cộng lại"
+  ],
+  "source": "Hệ thống tiêm chủng VNVC",
+  "url": "https://vnvc.vn/viem-phoi/"
+}

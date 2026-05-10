@@ -1,0 +1,130 @@
+{
+  "title": "Trầm cảm",
+  "type": "disease",
+  "topic": "tâm thần - thần kinh",
+  "definition": "Trầm cảm là một rối loạn tâm thần phổ biến, đặc trưng bởi trạng thái buồn bã kéo dài, mất hứng thú hoặc khoái cảm, cảm giác tội lỗi hoặc tự hạ thấp giá trị bản thân, kèm theo rối loạn giấc ngủ, ăn uống và giảm khả năng tập trung.",
+  "classification": [
+    "Trầm cảm nhẹ",
+    "Trầm cảm vừa",
+    "Trầm cảm nặng",
+    "Trầm cảm tái diễn",
+    "Trầm cảm khởi phát sớm",
+    "Trầm cảm tuổi học đường"
+  ],
+  "pathophysiology": [
+    "Rối loạn chất dẫn truyền thần kinh như serotonin và dopamine",
+    "Thay đổi cấu trúc và chức năng não bộ",
+    "Rối loạn nội tiết và hormone",
+    "Yếu tố di truyền làm tăng nguy cơ mắc bệnh",
+    "Tác động của stress và sang chấn kéo dài lên hệ thần kinh"
+  ],
+  "causes": {
+    "acute": [
+      "Mất người thân",
+      "Cha mẹ ly hôn",
+      "Chứng kiến sự kiện sang chấn mạnh",
+      "Áp lực học tập hoặc thi cử đột ngột",
+      "Biến cố gia đình hoặc xã hội"
+    ],
+    "chronic": [
+      "Stress kéo dài từ học tập hoặc công việc",
+      "Mâu thuẫn gia đình kéo dài",
+      "Thiếu hỗ trợ xã hội",
+      "Khó khăn kinh tế",
+      "Lối sống không lành mạnh",
+      "Áp lực xã hội và kỳ vọng cao"
+    ]
+  },
+  "symptoms": [
+    "Mất hứng thú hoặc sở thích",
+    "Ăn ít hoặc giảm cân",
+    "Rối loạn giấc ngủ",
+    "Giảm năng lượng và khí sắc",
+    "Rối loạn hoạt động tâm thần vận động",
+    "Cảm giác vô dụng hoặc tội lỗi",
+    "Khó tập trung hoặc ra quyết định",
+    "Bi quan, buồn bã kéo dài",
+    "Thu mình, giảm giao tiếp xã hội",
+    "Ý nghĩ hoặc hành vi tự sát"
+  ],
+  "complications": [
+    "Tăng nguy cơ tự sát",
+    "Giảm hiệu suất học tập và làm việc",
+    "Suy giảm chất lượng cuộc sống",
+    "Ảnh hưởng đến quan hệ gia đình và xã hội",
+    "Nguy cơ nghỉ việc hoặc bỏ học",
+    "Suy giảm sức khỏe thể chất"
+  ],
+  "diagnosis": [
+    "Đánh giá lâm sàng dựa trên triệu chứng",
+    "Xác định thời gian kéo dài triệu chứng",
+    "Áp dụng tiêu chuẩn ICD-10 hoặc DSM-5",
+    "Khai thác tiền sử tâm lý - xã hội",
+    "Đánh giá nguy cơ tự sát",
+    "Loại trừ các bệnh lý cơ thể khác"
+  ],
+  "risk_groups": [
+    "Trẻ em và thanh thiếu niên",
+    "Người chịu áp lực học tập cao",
+    "Người có tiền sử sang chấn tâm lý",
+    "Người có yếu tố di truyền",
+    "Người sống trong môi trường gia đình bất ổn",
+    "Người thiếu sự hỗ trợ xã hội",
+    "Người trải qua biến cố lớn trong cuộc sống"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Duy trì lối sống lành mạnh",
+      "Ngủ đủ giấc và đúng giờ",
+      "Tập thể dục thường xuyên",
+      "Giảm stress trong học tập và công việc",
+      "Tăng cường kết nối xã hội",
+      "Tránh cô lập bản thân"
+    ],
+    "medication": [
+      "Thuốc chống trầm cảm theo chỉ định bác sĩ",
+      "Theo dõi chặt chẽ tác dụng phụ",
+      "Điều trị kéo dài theo phác đồ",
+      "Không tự ý ngưng thuốc"
+    ],
+    "psychotherapy": [
+      "Liệu pháp nhận thức hành vi (CBT)",
+      "Liệu pháp hỗ trợ tâm lý cá nhân",
+      "Trị liệu gia đình",
+      "Tư vấn tâm lý học đường"
+    ]
+  },
+  "prevention": [
+    "Giảm áp lực học tập và xã hội",
+    "Xây dựng môi trường gia đình tích cực",
+    "Phát hiện sớm dấu hiệu tâm lý bất thường",
+    "Tăng cường hỗ trợ tinh thần cho trẻ em và thanh thiếu niên",
+    "Duy trì lối sống lành mạnh",
+    "Giáo dục kỹ năng ứng phó stress"
+  ],
+  "when_to_see_doctor": [
+    "Buồn bã kéo dài và mất hứng thú",
+    "Rối loạn giấc ngủ và ăn uống rõ rệt",
+    "Giảm chức năng học tập hoặc làm việc",
+    "Có ý nghĩ về cái chết hoặc tự sát",
+    "Thay đổi hành vi bất thường kéo dài",
+    "Khí sắc giảm kéo dài nhiều ngày"
+  ],
+  "care_notes": [
+    "Trầm cảm là bệnh lý nghiêm trọng nhưng có thể điều trị",
+    "Cần phát hiện sớm để giảm nguy cơ biến chứng",
+    "Gia đình đóng vai trò quan trọng trong hỗ trợ điều trị",
+    "Không nên chủ quan với dấu hiệu tự sát",
+    "Cần kết hợp điều trị y khoa và tâm lý"
+  ],
+  "epidemiology": [
+    "Ước tính hơn 300 triệu người mắc trên toàn thế giới",
+    "Là nguyên nhân hàng đầu gây tàn tật toàn cầu",
+    "Thường khởi phát ở tuổi vị thành niên và người trẻ",
+    "Tỷ lệ mắc ở nữ cao hơn nam",
+    "Gia tăng do áp lực xã hội hiện đại",
+    "Có liên quan đến tỷ lệ tự sát cao"
+  ],
+  "source": "Bệnh viện Bạch Mai",
+  "url": "https://bachmai.gov.vn/bai-viet/tram-cam-nguyen-nhan-va-dau-hieu-nhan-biet"
+}

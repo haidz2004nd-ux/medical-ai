@@ -1,0 +1,146 @@
+{
+  "title": "Suy tim",
+  "type": "disease",
+  "topic": "tim mạch - tuần hoàn",
+  "definition": "Suy tim là tình trạng tim không đủ khả năng bơm máu để đáp ứng nhu cầu hoạt động của cơ thể. Đây là hậu quả cuối cùng của nhiều bệnh tim mạch, làm giảm chất lượng sống và có thể gây tử vong nếu tiến triển nặng. Bệnh gồm suy tim cấp và suy tim mạn, trong đó nội dung chủ yếu tập trung vào suy tim mạn.",
+  "classification": [
+    "Suy tim trái",
+    "Suy tim phải",
+    "Suy tim toàn bộ",
+    "Suy tim độ 1 (NYHA I)",
+    "Suy tim độ 2 (NYHA II)",
+    "Suy tim độ 3 (NYHA III)",
+    "Suy tim độ 4 (NYHA IV)"
+  ],
+  "pathophysiology": [
+    "Giảm khả năng co bóp của tim",
+    "Giảm cung lượng tim",
+    "Ứ máu tuần hoàn phổi hoặc hệ thống",
+    "Hoạt hóa hệ thần kinh giao cảm và RAAS",
+    "Giãn buồng tim và tái cấu trúc cơ tim",
+    "Giảm tưới máu cơ quan"
+  ],
+  "causes": {
+    "left_heart_failure": [
+      "Tăng huyết áp",
+      "Bệnh tim thiếu máu cục bộ (nhồi máu cơ tim, mạch vành)",
+      "Bệnh van tim (hẹp/hở van động mạch chủ, hở van hai lá)",
+      "Bệnh cơ tim",
+      "Bệnh tim bẩm sinh (còn ống động mạch, hẹp eo động mạch chủ)"
+    ],
+    "right_heart_failure": [
+      "Bệnh phổi mạn tính (COPD, giãn phế quản, xơ phổi)",
+      "Tăng áp lực động mạch phổi",
+      "Hẹp van hai lá",
+      "Suy tim trái tiến triển"
+    ],
+    "total_heart_failure": [
+      "Suy tim trái kéo dài tiến triển thành suy tim toàn bộ",
+      "Bệnh cơ tim giãn"
+    ]
+  },
+  "symptoms": [
+    "Khó thở khi gắng sức",
+    "Khó thở kịch phát về đêm",
+    "Cơn hen tim",
+    "Phù phổi cấp",
+    "Đau ngực",
+    "Mệt mỏi, giảm khả năng hoạt động",
+    "Tiểu ít",
+    "Chóng mặt, hoa mắt",
+    "Phù chân",
+    "Gan to",
+    "Tĩnh mạch cổ nổi",
+    "Tràn dịch màng"
+  ],
+  "complications": [
+    "Phù phổi cấp đe dọa tính mạng",
+    "Rối loạn nhịp tim",
+    "Đột tử do tim",
+    "Suy đa cơ quan",
+    "Suy thận thứ phát",
+    "Suy gan do ứ trệ",
+    "Giảm chất lượng sống nghiêm trọng",
+    "Tử vong nếu không điều trị"
+  ],
+  "diagnosis": [
+    "Siêu âm tim Doppler",
+    "Điện tâm đồ (ECG)",
+    "X-quang ngực",
+    "NT-proBNP / BNP",
+    "Xét nghiệm chức năng gan thận",
+    "Đánh giá mỡ máu và đường huyết",
+    "Đánh giá phân suất tống máu (EF)",
+    "Chẩn đoán nguyên nhân (van tim, mạch vành, bẩm sinh)"
+  ],
+  "risk_groups": [
+    "Người tăng huyết áp",
+    "Người đái tháo đường",
+    "Người rối loạn lipid máu",
+    "Người hút thuốc lá",
+    "Người cao tuổi",
+    "Nam giới",
+    "Người bệnh van tim hoặc tim bẩm sinh",
+    "Người mắc COPD hoặc bệnh phổi mạn",
+    "Người ít vận động"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn giảm muối",
+      "Ăn nhiều rau xanh và trái cây",
+      "Hạn chế mỡ động vật",
+      "Tập thể dục đều đặn",
+      "Bỏ thuốc lá",
+      "Kiểm soát cân nặng",
+      "Hạn chế stress"
+    ],
+    "medical": [
+      "Thuốc ức chế men chuyển (ACEi) hoặc ARB",
+      "Chẹn beta giao cảm",
+      "Lợi tiểu (đặc biệt lợi tiểu quai)",
+      "Kháng aldosterone",
+      "Digoxin",
+      "Sacubitril/Valsartan",
+      "Cấy máy CRT (tái đồng bộ tim)",
+      "Cấy máy ICD (phá rung)",
+      "Ghép tim trong giai đoạn cuối",
+      "Điều trị nguyên nhân (mạch vành, van tim)"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát huyết áp",
+    "Kiểm soát đường huyết",
+    "Kiểm soát mỡ máu",
+    "Không hút thuốc",
+    "Tập thể dục thường xuyên",
+    "Ăn uống lành mạnh",
+    "Giảm muối",
+    "Khám tim mạch định kỳ",
+    "Điều trị sớm bệnh tim nền"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở tăng dần",
+    "Khó thở khi nằm hoặc về đêm",
+    "Phù chân hoặc toàn thân",
+    "Đau ngực kéo dài",
+    "Mệt mỏi nhiều",
+    "Ngất hoặc chóng mặt",
+    "Nghi ngờ suy tim tiến triển"
+  ],
+  "care_notes": [
+    "Suy tim là bệnh tiến triển mạn tính",
+    "Điều trị giúp cải thiện triệu chứng và kéo dài sống",
+    "Tuân thủ thuốc rất quan trọng",
+    "Cần theo dõi lâu dài",
+    "Giai đoạn nặng có nguy cơ tử vong cao"
+  ],
+  "epidemiology": [
+    "Tỷ lệ tăng theo tuổi",
+    "Phổ biến ở người có bệnh tăng huyết áp và mạch vành",
+    "Gia tăng do dân số già hóa",
+    "Là nguyên nhân nhập viện tim mạch hàng đầu",
+    "Tỷ lệ tử vong cao nếu không điều trị"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/suy-tim-3262"
+}

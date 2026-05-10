@@ -1,0 +1,142 @@
+{
+  "title": "Suy tim",
+  "type": "disease",
+  "topic": "tim mạch",
+  "definition": "Suy tim là tình trạng tim suy yếu không đủ khả năng tiếp nhận và bơm máu đi nuôi cơ thể do tổn thương thực thể hoặc rối loạn chức năng tim. Người bệnh thường gặp triệu chứng khó thở, mệt mỏi và giảm khả năng gắng sức.",
+  "classification": [
+    "Suy tim trái",
+    "Suy tim phải",
+    "Suy tim toàn bộ",
+    "Suy tim cấp",
+    "Suy tim mạn",
+    "Suy tim tâm thu",
+    "Suy tim tâm trương"
+  ],
+  "pathophysiology": [
+    "Giảm khả năng co bóp hoặc giãn nở của tim",
+    "Giảm cung lượng tim",
+    "Ứ máu trong tuần hoàn phổi hoặc ngoại biên",
+    "Tăng áp lực tĩnh mạch và mao mạch",
+    "Hoạt hóa cơ chế bù trừ thần kinh – nội tiết gây giữ muối nước"
+  ],
+  "causes": {
+    "acute": [
+      "Nhồi máu cơ tim cấp",
+      "Viêm cơ tim cấp",
+      "Rối loạn nhịp tim nặng",
+      "Phù phổi cấp",
+      "Cơn tăng huyết áp cấp"
+    ],
+    "chronic": [
+      "Bệnh mạch vành",
+      "Tăng huyết áp mạn tính",
+      "Bệnh van tim (hẹp hoặc hở van)",
+      "Bệnh cơ tim",
+      "Bệnh tim bẩm sinh",
+      "Viêm cơ tim do virus (bao gồm COVID-19)",
+      "Rối loạn nhịp tim mạn tính",
+      "Đái tháo đường",
+      "Thiếu máu",
+      "Nhiễm độc rượu hoặc thuốc"
+    ]
+  },
+  "symptoms": [
+    "Khó thở khi gắng sức hoặc khi nằm",
+    "Khó thở về đêm",
+    "Đau tức ngực hoặc đau thắt ngực",
+    "Tim đập nhanh, hồi hộp",
+    "Phù chân, mắt cá chân",
+    "Ho khan kéo dài",
+    "Ho có thể kèm đờm hoặc bọt hồng",
+    "Mệt mỏi, giảm khả năng vận động",
+    "Chóng mặt, giảm tập trung",
+    "Tăng cân do ứ dịch"
+  ],
+  "complications": [
+    "Phù phổi cấp",
+    "Suy tim tiến triển nặng",
+    "Rối loạn nhịp tim nguy hiểm",
+    "Đột tử do tim",
+    "Giảm chất lượng sống nghiêm trọng",
+    "Suy đa cơ quan"
+  ],
+  "diagnosis": [
+    "Điện tâm đồ (ECG) phát hiện rối loạn nhịp và giãn buồng tim",
+    "X-quang tim phổi đánh giá tim to và ứ dịch phổi",
+    "Siêu âm tim đánh giá cấu trúc và chức năng tim",
+    "Chụp MRI tim đánh giá chi tiết cấu trúc tim",
+    "Xét nghiệm máu tổng quát",
+    "Đánh giá chức năng tim qua các chỉ số sinh học"
+  ],
+  "risk_groups": [
+    "Người tăng huyết áp",
+    "Người mắc bệnh mạch vành",
+    "Người bệnh van tim",
+    "Người có bệnh cơ tim",
+    "Người bị đái tháo đường",
+    "Người cao tuổi",
+    "Người hút thuốc lá",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người có tiền sử tim bẩm sinh"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Tập thể dục nhẹ nhàng thường xuyên",
+      "Không hút thuốc lá",
+      "Không uống rượu bia",
+      "Không lao động gắng sức",
+      "Giữ tinh thần thoải mái",
+      "Ăn uống hạn chế chất béo",
+      "Kiểm soát lượng muối",
+      "Theo dõi cân nặng"
+    ],
+    "medication": [
+      "Thuốc ức chế men chuyển (ACE inhibitors)",
+      "Thuốc chẹn thụ thể angiotensin II (ARB)",
+      "Thuốc chẹn beta",
+      "Thuốc lợi tiểu",
+      "Thuốc đối kháng aldosterone",
+      "Digoxin",
+      "Thuốc tăng co bóp cơ tim (trường hợp nặng)",
+      "Thuốc điều trị bệnh nền tim mạch"
+    ]
+  },
+  "prevention": [
+    "Khám sức khỏe định kỳ",
+    "Kiểm soát huyết áp",
+    "Kiểm soát mỡ máu",
+    "Kiểm soát đường huyết",
+    "Ăn uống lành mạnh",
+    "Hạn chế muối và chất béo",
+    "Tập thể dục đều đặn",
+    "Không hút thuốc lá",
+    "Hạn chế rượu bia",
+    "Duy trì cân nặng hợp lý"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở tăng dần",
+    "Khó thở khi nghỉ",
+    "Đau ngực kéo dài",
+    "Phù chân hoặc toàn thân",
+    "Tăng cân nhanh bất thường",
+    "Ho kéo dài không rõ nguyên nhân",
+    "Mệt mỏi nặng ảnh hưởng sinh hoạt"
+  ],
+  "care_notes": [
+    "Suy tim là bệnh mạn tính cần theo dõi lâu dài",
+    "Điều trị giúp cải thiện triệu chứng và chất lượng sống",
+    "Phát hiện sớm giúp kiểm soát tiến triển bệnh",
+    "Cần tuân thủ điều trị của bác sĩ",
+    "Theo dõi định kỳ giúp giảm biến chứng"
+  ],
+  "epidemiology": [
+    "Là bệnh tim mạch phổ biến",
+    "Tỷ lệ tăng theo tuổi",
+    "Liên quan đến tăng huyết áp và bệnh mạch vành",
+    "Có xu hướng gia tăng trong cộng đồng",
+    "Ảnh hưởng lớn đến chất lượng sống"
+  ],
+  "source": "Bệnh viện Việt Pháp Hà Nội",
+  "url": "https://www.hfh.com.vn/tin-tuc/suy-tim-la-hien-tuong-gi-cac-dau-hieu-suy-tim-khong-the-bo-qua/"
+}

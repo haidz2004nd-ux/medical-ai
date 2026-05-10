@@ -1,0 +1,135 @@
+{
+  "title": "Vị trí đau đầu cảnh báo bệnh",
+  "type": "medical_mapping",
+  "topic": "thần kinh",
+  "definition": "Vị trí đau đầu có thể giúp gợi ý nguyên nhân gây đau, từ các yếu tố lành tính như căng thẳng đến các bệnh lý nghiêm trọng như viêm mạch, đột quỵ hoặc nhiễm trùng.",
+  "classification": {
+    "primary_headache": [
+      "Đau nửa đầu (Migraine)",
+      "Đau đầu do căng cơ",
+      "Đau đầu từng cụm",
+      "Đau đầu do gắng sức",
+      "Đau đầu do rối loạn giấc ngủ"
+    ],
+    "secondary_headache": [
+      "Bệnh thần kinh",
+      "Bệnh mạch máu não",
+      "Tăng áp lực nội sọ",
+      "Nhiễm trùng",
+      "Say nắng, say nóng",
+      "Bệnh mắt, tai mũi họng, răng",
+      "Bệnh tim mạch",
+      "Rối loạn nội tiết"
+    ]
+  },
+  "pain_location_mapping": [
+    {
+      "location": "Vùng trán",
+      "characteristics": [
+        "Cảm giác đè nặng hoặc siết chặt",
+        "Có thể lan ra thái dương, cổ, vai gáy"
+      ],
+      "possible_causes": [
+        "Căng mắt do dùng máy tính, điện thoại",
+        "Thiếu ánh sáng khi đọc sách",
+        "Đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "location": "Thái dương",
+      "characteristics": [
+        "Đau nhức từng cơn",
+        "Có thể kèm sốt hoặc thay đổi thị lực"
+      ],
+      "possible_causes": [
+        "Stress",
+        "Migraine",
+        "Viêm động mạch thái dương"
+      ]
+    },
+    {
+      "location": "Sau đầu",
+      "characteristics": [
+        "Đau vùng gáy lan lên đầu",
+        "Có thể kèm cứng cổ"
+      ],
+      "possible_causes": [
+        "Căng cơ cổ",
+        "Bệnh cột sống cổ",
+        "Di chứng chấn thương",
+        "Rối loạn mạch máu"
+      ]
+    },
+    {
+      "location": "Đau nửa đầu (một bên)",
+      "characteristics": [
+        "Đau một bên trái hoặc phải",
+        "Nhạy cảm ánh sáng, âm thanh",
+        "Buồn nôn"
+      ],
+      "possible_causes": [
+        "Migraine",
+        "Viêm động mạch vùng đầu",
+        "Tổn thương dây thần kinh chẩm",
+        "Nguy cơ đột quỵ"
+      ]
+    },
+    {
+      "location": "Sau mắt",
+      "characteristics": [
+        "Đau sâu phía sau hốc mắt",
+        "Có thể kèm nghẹt mũi, sốt"
+      ],
+      "possible_causes": [
+        "Viêm xoang",
+        "Nhiễm trùng đường hô hấp"
+      ]
+    }
+  ],
+  "symptoms": [
+    "Đau khu trú hoặc lan tỏa",
+    "Nhạy cảm ánh sáng, âm thanh",
+    "Buồn nôn",
+    "Sốt",
+    "Rối loạn thị lực",
+    "Mất thăng bằng"
+  ],
+  "risk_signs": [
+    "Đau đầu đột ngột dữ dội",
+    "Đau tăng dần",
+    "Kèm sốt cao",
+    "Rối loạn ý thức",
+    "Yếu liệt",
+    "Nhìn mờ"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn uống khoa học",
+      "Ngủ đủ giấc",
+      "Tập thể dục thường xuyên",
+      "Uống đủ nước",
+      "Giảm stress",
+      "Nghỉ ngơi khi làm việc lâu"
+    ],
+    "supportive": [
+      "Bổ sung dưỡng chất như việt quất (blueberry)",
+      "Bạch quả (ginkgo)",
+      "Hạn chế rượu bia, caffeine"
+    ]
+  },
+  "when_to_see_doctor": [
+    "Đau đầu dữ dội đột ngột",
+    "Đau kéo dài hoặc nặng dần",
+    "Sau chấn thương đầu",
+    "Kèm sốt, cứng cổ",
+    "Rối loạn thần kinh"
+  ],
+  "care_notes": [
+    "Không tự ý dùng thuốc giảm đau",
+    "Theo dõi vị trí và tính chất đau",
+    "Khám sớm nếu có dấu hiệu nguy hiểm",
+    "Duy trì lối sống lành mạnh"
+  ],
+  "source": "Sở Y tế Hà Tĩnh",
+  "url": "https://soyte.hatinh.gov.vn/tin-tuc-su-kien/thong-tin-y-te/vi-tri-dau-dau-canh-bao-benh-gi-.html"
+}

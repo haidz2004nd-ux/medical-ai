@@ -1,0 +1,108 @@
+{
+  "title": "Viêm xoang",
+  "type": "disease",
+  "topic": "bệnh lý tai mũi họng",
+  "definition": "Viêm xoang (hay viêm mũi xoang) là tình trạng viêm niêm mạc hô hấp lót trong các xoang cạnh mũi. Khi niêm mạc bị phù nề do các tác nhân gây hại, nó gây tăng tiết dịch nhầy và làm tắc nghẽn các lỗ thông xoang, dẫn đến tình trạng nhiễm trùng và tích tụ mủ.",
+  "classification": [
+    "Viêm xoang cấp tính: Triệu chứng diễn tiến và tự khỏi trong thời gian ngắn (dưới 4 tuần)",
+    "Viêm xoang mạn tính: Tình trạng viêm kéo dài dai dẳng không dứt (trên 3 tháng)"
+  ],
+  "pathophysiology": [
+    "Sự xâm nhập của tác nhân gây hại gây tổn thương tế bào lông chuyển ở niêm mạc xoang",
+    "Phù nề niêm mạc gây hẹp hoặc bít tắc các lỗ thông xoang tự nhiên",
+    "Ứ đọng chất nhầy tạo môi trường kỵ khí thuận lợi cho vi khuẩn phát triển",
+    "Áp lực trong xoang tăng lên do dịch mủ gây đau nhức các vùng hốc mặt"
+  ],
+  "causes": {
+    "primary": [
+      "Nhiễm khuẩn (vi khuẩn, virus, nấm)",
+      "Cơ địa dị ứng (phấn hoa, hóa chất, lông động vật, bụi bẩn)",
+      "Bất thường cấu trúc mũi (lệch vách ngăn, polyp mũi kích thước lớn)",
+      "Chấn thương vùng mũi xoang (gãy xương, tụ máu gây bít tắc lỗ thông)"
+    ],
+    "secondary": [
+      "Sức đề kháng suy yếu không ngăn chặn được tác nhân bên ngoài",
+      "Thói quen vệ sinh cá nhân kém, ít rửa tay, rửa mặt",
+      "Môi trường bơi lội (chất clo trong hồ bơi làm sưng tấy niêm mạc mũi)",
+      "Môi trường sống ô nhiễm, khói bụi"
+    ]
+  },
+  "symptoms": [
+    "Đau nhức vùng mặt: Đau vùng trán, thái dương hoặc gò má",
+    "Chảy dịch mũi: Dịch chảy xuống họng, màu xanh hoặc vàng, có thể có mùi hôi",
+    "Nghẹt mũi, tắc mũi ở một hoặc cả hai bên",
+    "Suy giảm hoặc mất khứu giác (khó ngửi mùi)",
+    "Ho dai dẳng, kéo dài và thường nặng hơn vào ban đêm",
+    "Hơi thở có mùi hôi và cảm giác đau răng hàm trên",
+    "Ngứa mũi, hắt hơi liên tục (đặc biệt trong thể dị ứng)",
+    "Sưng đau vùng quanh mắt, hạn chế tầm nhìn và có thể kèm sốt"
+  ],
+  "complications": [
+    "Viêm ổ mắt, chèn ép dây thần kinh thị giác gây giảm thị lực",
+    "Viêm màng não, áp xe não (biến chứng nội sọ nguy hiểm)",
+    "Viêm họng mạn tính, viêm amidan do dịch mủ chảy xuống họng",
+    "Viêm tai giữa",
+    "Viêm phế quản, hen suyễn kịch phát"
+  ],
+  "diagnosis": [
+    "Khai thác tiền sử bệnh lý và các triệu chứng lâm sàng",
+    "Nội soi mũi xoang để kiểm tra tình trạng niêm mạc, mủ và polyp",
+    "Chụp X-quang hoặc CT-scan mũi xoang (để phát hiện tổn thương sâu)",
+    "Xét nghiệm dịch mũi tìm tác nhân gây bệnh (vi khuẩn, nấm)"
+  ],
+  "risk_groups": [
+    "Người có cơ địa dị ứng hoặc mắc các bệnh dị ứng đường hô hấp",
+    "Người có cấu trúc mũi bất thường (lệch vách ngăn)",
+    "Người có hệ miễn dịch suy giảm (trẻ em, người già, người mắc bệnh mạn tính)",
+    "Vận động viên bơi lội hoặc người thường xuyên lặn",
+    "Người làm việc trong môi trường khói bụi, hóa chất ô nhiễm"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Rửa mũi bằng nước muối sinh lý thường xuyên để làm sạch dịch nhầy",
+      "Vệ sinh cá nhân sạch sẽ, thường xuyên rửa tay và rửa mặt",
+      "Đeo khẩu trang khi ra đường hoặc khi tiếp xúc với khói bụi",
+      "Uống nhiều nước để làm loãng chất nhầy",
+      "Tránh tiếp xúc với các tác nhân gây dị ứng đã biết"
+    ],
+    "medication": [
+      "Thuốc kháng sinh (khi có bằng chứng nhiễm khuẩn)",
+      "Thuốc chống viêm, kháng dị ứng (antihistamine)",
+      "Thuốc co mạch chống xuất tiết giúp thông thoáng lỗ thông xoang",
+      "Thuốc xịt mũi chứa corticosteroid (theo chỉ định bác sĩ)"
+    ],
+    "surgery": [
+      "Phẫu thuật nội soi mũi xoang (FESS) khi điều trị nội khoa không hiệu quả",
+      "Phẫu thuật chỉnh hình vách ngăn mũi",
+      "Phẫu thuật cắt polyp mũi"
+    ]
+  },
+  "prevention": [
+    "Điều trị triệt để các đợt cảm cúm, viêm mũi dị ứng ban đầu",
+    "Giữ ấm vùng cổ và mũi khi thời tiết chuyển lạnh",
+    "Tránh xa môi trường ô nhiễm và khói thuốc lá",
+    "Tăng cường sức đề kháng bằng chế độ ăn uống và vận động",
+    "Khám tai mũi họng định kỳ nếu có cơ địa viêm xoang"
+  ],
+  "when_to_see_doctor": [
+    "Đau nhức vùng đầu và mặt kéo dài không giảm",
+    "Dịch mũi có mủ vàng xanh, mùi hôi khó chịu",
+    "Thị lực suy giảm hoặc sưng nề vùng mắt",
+    "Sốt cao kèm theo các triệu chứng viêm xoang cấp",
+    "Triệu chứng không cải thiện sau 7-10 ngày tự chăm sóc"
+  ],
+  "care_notes": [
+    "Tuyệt đối tuân thủ liều lượng kháng sinh để tránh hiện tượng nhờn thuốc",
+    "Không tự ý mua thuốc xịt mũi co mạch dùng lâu ngày (dễ gây viêm mũi do thuốc)",
+    "Nên chọn cơ sở y tế uy tín có chuyên khoa Tai - Mũi - Họng để điều trị",
+    "Viêm xoang mạn tính cần kiên trì điều trị theo lộ trình của bác sĩ"
+  ],
+  "epidemiology": [
+    "Là bệnh lý tai mũi họng phổ biến hàng đầu tại Việt Nam do khí hậu nhiệt đới gió mùa",
+    "Bệnh không giới hạn độ tuổi, xuất hiện ở cả trẻ em và người lớn",
+    "Tỷ lệ tái phát cao nếu không kiểm soát tốt môi trường sống và cơ địa dị ứng",
+    "Khoảng 10-15% dân số thế giới gặp các vấn đề về viêm mũi xoang ít nhất một lần trong đời"
+  ],
+  "source": "Bệnh viện Đa khoa MEDLATEC",
+  "url": "https://medlatec.vn/tin-tuc/viem-xoang-nguyen-nhan-trieu-chung-va-cach-dieu-tri-s156-n18704"
+}

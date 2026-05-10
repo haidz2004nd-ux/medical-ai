@@ -1,0 +1,108 @@
+{
+  "title": "Tăng huyết áp",
+  "aliases": ["Huyết áp cao", "Hypertension"],
+  "type": "disease",
+  "topic": "bệnh tim mạch",
+  "definition": "Tăng huyết áp là tình trạng áp lực máu trong động mạch tăng cao kéo dài, khiến tim phải làm việc nhiều hơn và làm tăng nguy cơ biến chứng tim mạch, não, thận và mắt.",
+  "pathophysiology": [
+    "Tăng sức cản mạch ngoại vi",
+    "Co hẹp tiểu động mạch",
+    "Tim phải tăng lực bơm máu",
+    "Dày thành mạch máu",
+    "Giảm đàn hồi mạch máu",
+    "Tăng áp lực máu kéo dài gây tổn thương cơ quan đích"
+  ],
+  "causes": {
+    "primary": [
+      "Không rõ nguyên nhân",
+      "Yếu tố di truyền",
+      "Ăn nhiều muối",
+      "Béo phì",
+      "Ít vận động",
+      "Stress kéo dài",
+      "Hút thuốc lá",
+      "Uống rượu bia nhiều"
+    ],
+    "secondary": [
+      "Bệnh thận",
+      "Rối loạn nội tiết",
+      "Hẹp động mạch thận",
+      "Tác dụng phụ của thuốc"
+    ]
+  },
+  "symptoms": [
+    "Thường không có triệu chứng",
+    "Đau đầu",
+    "Chóng mặt",
+    "Hồi hộp",
+    "Đau ngực",
+    "Mệt mỏi"
+  ],
+  "complications": [
+    "Đột quỵ",
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Suy thận",
+    "Tổn thương võng mạc",
+    "Xơ vữa động mạch"
+  ],
+  "diagnosis": [
+    "Đo huyết áp ≥ 140/90 mmHg tại cơ sở y tế",
+    "Đo huyết áp tại nhà ≥ 135/85 mmHg",
+    "Theo dõi huyết áp 24 giờ (Holter)",
+    "Xét nghiệm máu và nước tiểu",
+    "Điện tâm đồ",
+    "Siêu âm tim"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn nhạt giảm muối",
+      "Tập thể dục đều đặn",
+      "Giảm cân nếu thừa cân",
+      "Không hút thuốc",
+      "Hạn chế rượu bia",
+      "Giảm căng thẳng"
+    ],
+    "medication": [
+      "Thuốc lợi tiểu",
+      "Thuốc ức chế men chuyển (ACE inhibitors)",
+      "Thuốc chẹn thụ thể angiotensin II (ARB)",
+      "Thuốc chẹn kênh canxi",
+      "Thuốc chẹn beta"
+    ]
+  },
+  "risk_groups": [
+    "Người lớn tuổi",
+    "Nam giới",
+    "Phụ nữ sau mãn kinh",
+    "Người béo phì",
+    "Người có tiền sử gia đình",
+    "Người ít vận động"
+  ],
+  "prevention": [
+    "Ăn nhạt giảm muối",
+    "Tập thể dục đều đặn",
+    "Duy trì cân nặng hợp lý",
+    "Không hút thuốc",
+    "Hạn chế rượu bia",
+    "Giảm căng thẳng",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Huyết áp ≥ 180/120 mmHg",
+    "Đau ngực",
+    "Khó thở",
+    "Đau đầu dữ dội",
+    "Chóng mặt nghiêm trọng",
+    "Ngất xỉu"
+  ],
+  "care_notes": [
+    "Theo dõi huyết áp thường xuyên",
+    "Tuân thủ điều trị theo chỉ định",
+    "Không tự ý ngưng thuốc",
+    "Duy trì chế độ ăn nhạt",
+    "Tái khám định kỳ"
+  ],
+  "source": "Texas Heart Institute + tổng hợp y khoa",
+  "url": "https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html"
+}

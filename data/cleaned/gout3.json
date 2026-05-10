@@ -1,0 +1,113 @@
+{
+  "title": "Gout (gút)",
+  "type": "disease",
+  "topic": "cơ xương khớp - chuyển hóa",
+  "definition": "Gout là bệnh viêm khớp do tăng acid uric trong máu, dẫn đến hình thành tinh thể urat lắng đọng ở khớp gây đau, sưng và viêm.",
+  "classification": [
+    "Giai đoạn tăng acid uric không triệu chứng",
+    "Gout cấp tính",
+    "Giai đoạn giữa các đợt",
+    "Gout mạn tính có tophi"
+  ],
+  "pathophysiology": [
+    "Tăng acid uric do rối loạn chuyển hóa purin",
+    "Giảm đào thải acid uric qua thận",
+    "Hình thành tinh thể urat",
+    "Lắng đọng tại khớp và mô",
+    "Gây phản ứng viêm cấp",
+    "Tổn thương khớp kéo dài"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn chuyển hóa acid uric",
+      "Yếu tố di truyền"
+    ],
+    "secondary": [
+      "Ăn nhiều thực phẩm giàu purin",
+      "Lạm dụng rượu bia",
+      "Suy giảm chức năng thận",
+      "Béo phì",
+      "Sử dụng thuốc (aspirin, lợi tiểu)",
+      "Bệnh tim mạch"
+    ]
+  },
+  "symptoms": [
+    "Đau khớp dữ dội, thường về đêm",
+    "Sưng đỏ và nóng khớp",
+    "Đau tăng khi chạm",
+    "Hạn chế vận động",
+    "Cơn đau kéo dài 5-7 ngày",
+    "Sốt nhẹ",
+    "Ớn lạnh",
+    "Mệt mỏi"
+  ],
+  "complications": [
+    "Phá hủy khớp",
+    "Biến dạng khớp",
+    "Hình thành hạt tophi",
+    "Sỏi tiết niệu",
+    "Tổn thương thận",
+    "Giảm khả năng vận động"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Xét nghiệm acid uric máu",
+    "Đánh giá triệu chứng",
+    "Theo dõi diễn tiến bệnh"
+  ],
+  "risk_groups": [
+    "Nam giới 30-60 tuổi",
+    "Người béo phì",
+    "Người uống nhiều rượu bia",
+    "Người ăn nhiều đạm",
+    "Người có bệnh thận",
+    "Người có tiền sử gia đình gout",
+    "Người dùng thuốc làm tăng acid uric"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống đủ nước",
+      "Ăn uống lành mạnh",
+      "Hạn chế purin",
+      "Giảm cân",
+      "Tập thể dục",
+      "Tránh rượu bia",
+      "Ăn nhiều rau và trái cây"
+    ],
+    "medical": [
+      "Thuốc chống viêm",
+      "Thuốc giảm đau",
+      "Thuốc hạ acid uric",
+      "Thuốc tăng đào thải acid uric"
+    ]
+  },
+  "prevention": [
+    "Hạn chế thực phẩm giàu purin",
+    "Không lạm dụng rượu bia",
+    "Uống nhiều nước",
+    "Duy trì cân nặng hợp lý",
+    "Theo dõi sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau khớp dữ dội đột ngột",
+    "Khớp sưng đỏ kéo dài",
+    "Đau tái phát nhiều lần",
+    "Xuất hiện hạt tophi",
+    "Có dấu hiệu biến chứng"
+  ],
+  "care_notes": [
+    "Gout dễ tái phát nếu không kiểm soát",
+    "Chế độ ăn đóng vai trò quan trọng",
+    "Cần tuân thủ điều trị",
+    "Không tự ý dùng thuốc",
+    "Theo dõi acid uric định kỳ"
+  ],
+  "epidemiology": [
+    "Nam giới mắc nhiều hơn nữ",
+    "Thường gặp sau 30 tuổi",
+    "Tỷ lệ đang tăng và trẻ hóa",
+    "Liên quan đến lối sống hiện đại"
+  ],
+  "source": "Medlatec",
+  "url": "https://medlatec.vn/tin-tuc/gout-la-gi-benh-ly-nay-dieu-tri-co-phuc-tap-hay-khong"
+}

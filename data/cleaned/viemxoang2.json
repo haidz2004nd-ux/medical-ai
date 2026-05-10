@@ -1,0 +1,86 @@
+{
+  "title": "Viêm xoang (Viêm mũi xoang)",
+  "type": "disease",
+  "topic": "Tai Mũi Họng",
+  "definition": "Viêm xoang là tình trạng viêm niêm mạc hô hấp lót trong các xoang cạnh mũi. Tình trạng này gây phù nề và tăng tiết nhầy, dẫn đến tắc nghẽn các xoang.",
+  "classification": [
+    "Viêm xoang cấp tính: Diễn ra trong thời gian ngắn, khỏi dưới 4 tuần.",
+    "Viêm xoang mạn tính: Bệnh không được điều trị đúng cách, kéo dài dai dẳng trên 3 tháng."
+  ],
+  "pathophysiology": [
+    "Phù nề niêm mạc gây tăng tiết dịch nhầy",
+    "Tắc nghẽn các lỗ thông xoang",
+    "Lưu thông mũi xoang kém dẫn đến viêm nhiễm"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus, vi khuẩn: Làm tổn thương tế bào lông chuyển ở lớp niêm mạc xoang.",
+      "Yếu tố dị ứng: Thời tiết lạnh, phấn hoa, môi trường khói bụi.",
+      "Tiếp xúc qua đường hô hấp với các tác nhân gây bệnh."
+    ],
+    "chronic": [
+      "Viêm xoang cấp tính không được điều trị triệt để.",
+      "Bất thường giải phẫu (hiếm gặp): Lệch vách ngăn mũi, polyp mũi, phì đại cuốn mũi."
+    ]
+  },
+  "symptoms": [
+    "Khởi đầu: Hắt hơi, sổ mũi giống nhiễm cúm thông thường.",
+    "Điển hình: Nghẹt mũi và chảy nước mũi (dịch trong hoặc màu vàng xanh).",
+    "Nặng: Sốt, ho, nặng mặt, đau nhức đầu vùng trán, thái dương hoặc gò má.",
+    "Khứu giác: Giảm khả năng cảm nhận mùi hoặc không ngửi thấy mùi."
+  ],
+  "complications": [
+    "Viêm xoang mạn tính tái đi tái lại nhiều lần.",
+    "Viêm ổ mắt.",
+    "Chèn ép vào dây thần kinh thị giác."
+  ],
+  "diagnosis": [
+    "Nội soi tai mũi họng: Thấy dịch vàng xanh chảy ra từ các khe mũi xoang, niêm mạc phù nề, viêm đỏ.",
+    "Chụp cắt lớp vi tính (CT Scan): Chỉ định khi khó chẩn đoán hoặc trước phẫu thuật. Thấy hình ảnh dịch trong hốc xoang, phù nề niêm mạc hoặc bất thường giải phẫu."
+  ],
+  "risk_groups": [
+    "Mọi lứa tuổi (bệnh phổ biến tại Việt Nam).",
+    "Người có cơ địa mẫn cảm, dễ dị ứng.",
+    "Người sống trong môi trường ô nhiễm khói bụi.",
+    "Người có bất thường về cấu trúc giải phẫu mũi."
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Giữ gìn vệ sinh mũi họng sạch sẽ.",
+      "Giữ ấm vùng mũi họng thường xuyên, đặc biệt khi gặp thời tiết lạnh.",
+      "Vệ sinh môi trường sống sạch sẽ, giảm khói bụi.",
+      "Hạn chế tiếp xúc với các yếu tố gây dị ứng."
+    ],
+    "medication": [
+      "Thuốc kháng sinh, thuốc chống viêm.",
+      "Thuốc chống dị ứng.",
+      "Thuốc co mạch chống xuất tiết.",
+      "Thủ thuật: Rửa xoang, bơm thuốc tại cơ sở y tế uy tín."
+    ],
+    "surgery": [
+      "Phẫu thuật nội soi mũi xoang: Áp dụng khi điều trị nội khoa không hiệu quả sau nhiều năm.",
+      "Phẫu thuật giải quyết căn nguyên: Chỉnh lệch vách ngăn, cắt polyp mũi quá to.",
+      "Can thiệp khi có biến chứng ổ mắt hoặc thần kinh thị giác."
+    ]
+  },
+  "prevention": [
+    "Tránh các tác nhân gây bệnh và dị ứng.",
+    "Sử dụng các biện pháp bảo vệ khi tiếp xúc với khói bụi, ô nhiễm.",
+    "Điều trị triệt để các đợt viêm mũi cấp để tránh chuyển sang mạn tính."
+  ],
+  "when_to_see_doctor": [
+    "Khi có triệu chứng sốt, ho, nặng mặt kèm đau nhức đầu vùng trán.",
+    "Khi nghẹt mũi kéo dài kèm dịch mũi vàng xanh.",
+    "Trước khi có ý định phẫu thuật để khảo sát giải phẫu."
+  ],
+  "care_notes": [
+    "Sử dụng thuốc kháng sinh phải có sự hướng dẫn của bác sĩ chuyên khoa để tránh kháng thuốc.",
+    "Bệnh khó kiểm soát nếu yếu tố dị ứng vẫn tồn tại trong môi trường sống.",
+    "Cần tuân thủ tuyệt đối các nguyên tắc điều trị và phòng bệnh để tránh tái phát."
+  ],
+  "epidemiology": [
+    "Bệnh lý thường gặp ở các nước khí hậu nhiệt đới gió mùa như Việt Nam."
+  ],
+  "source": "Bệnh viện Đa khoa Quốc tế Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/viem-xoang-2953"
+}

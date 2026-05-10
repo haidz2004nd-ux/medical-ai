@@ -1,0 +1,88 @@
+{
+  "title": "Hen suyễn (Hen phế quản)",
+  "type": "disease",
+  "topic": "Hô hấp",
+  "definition": "Hen suyễn là một bệnh viêm mãn tính của đường hô hấp. Khi lên cơn hen, niêm mạc ống phế quản sưng viêm, co thắt làm đường dẫn khí thu hẹp, gây cản trở lưu lượng không khí ra vào phổi.",
+  "classification": [
+    "Cơn hen nhẹ từng cơn: Triệu chứng < 2 lần/tuần, triệu chứng đêm < 2 lần/tháng.",
+    "Hen suyễn dai dẳng nhẹ: Triệu chứng 3-6 lần/tuần, triệu chứng đêm 3-4 lần/tháng.",
+    "Cơn hen dai dẳng vừa phải: Triệu chứng hàng ngày, triệu chứng đêm > 1 lần/tuần, ảnh hưởng hoạt động.",
+    "Cơn hen dai dẳng nặng: Triệu chứng liên tục cả ngày và đêm, hạn chế hoạt động thể chất."
+  ],
+  "pathophysiology": [
+    "Viêm và phù nề niêm mạc ống phế quản",
+    "Co thắt cơ trơn phế quản",
+    "Tăng tiết đờm nhầy làm bít tắc đường thở"
+  ],
+  "causes": {
+    "infection": [
+      "Viêm xoang, cảm lạnh, cúm"
+    ],
+    "allergens": [
+      "Phấn hoa, nấm mốc, lông thú cưng, mạt bụi",
+      "Dị ứng thực phẩm (sulfites trong tôm, dưa chua, bia rượu, trái cây khô...)",
+      "Dị ứng thuốc"
+    ],
+    "triggers": [
+      "Chất kích ứng: Khói thuốc, mùi mạnh (nước hoa, dung dịch vệ sinh), ô nhiễm không khí",
+      "Thời tiết: Không khí lạnh, thay đổi độ ẩm",
+      "Cảm xúc: Lo lắng, stress, cười lớn, giận dữ",
+      "Bệnh lý kèm theo: Trào ngược dạ dày thực quản (GERD)"
+    ]
+  },
+  "symptoms": [
+    "Ho: Đặc biệt vào ban đêm hoặc sáng sớm",
+    "Thở khò khè: Có tiếng rít khi thở",
+    "Hụt hơi và khó thở",
+    "Đau hoặc tức nặng ngực",
+    "Khó ngủ do các vấn đề hô hấp"
+  ],
+  "complications": [
+    "Suy hô hấp cấp tính",
+    "Tử vong nếu không được cứu chữa kịp thời khi lên cơn hen nặng"
+  ],
+  "diagnosis": [
+    "Phép đo xoắn ốc (Spirometry): Đo lượng và tốc độ khí thổi ra",
+    "Lưu lượng đỉnh (Peak Flow): Theo dõi hiệu quả điều trị",
+    "Thử nghiệm oxit nitric thở ra (FeNO): Đo mức độ viêm đường thở",
+    "Chẩn đoán hình ảnh: X-quang phổi, CT scanner lồng ngực để loại trừ bệnh khác",
+    "Xét nghiệm khác: Thử nghiệm dị ứng (máu/da), kiểm tra bạch cầu ái toan trong đờm"
+  ],
+  "risk_groups": [
+    "Người có tiền sử gia đình bị hen suyễn",
+    "Người có cơ địa dị ứng",
+    "Người làm việc trong môi trường ô nhiễm hoặc tiếp xúc hóa chất"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Tránh các tác nhân gây kích ứng đã biết",
+      "Tập thể dục đều đặn và duy trì cân nặng hợp lý",
+      "Thực hiện các bài tập thở chuyên dụng",
+      "Cân nhắc các liệu pháp bổ trợ (Yoga, châm cứu) sau khi tham khảo ý kiến bác sĩ"
+    ],
+    "medication": [
+      "Kiểm soát dài hạn: Corticoid dạng hít (Budesonide, Fluticasone), thuốc kháng Leukotriene (Montelukast), Theophyllin",
+      "Cắt cơn nhanh (Cứu hộ): Thuốc chủ vận beta tác dụng ngắn, thuốc kháng cholinergic (Ipratropium)",
+      "Điều trị phối hợp: Ống hít kết hợp (Corticoid + Beta tác dụng kéo dài)",
+      "Trường hợp nặng: Corticosteroid đường uống hoặc tiêm tĩnh mạch (Methylprednisolone)"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát môi trường sống (vệ sinh mạt bụi, nấm mốc)",
+    "Hạn chế tiếp xúc với khói thuốc và các chất mùi mạnh",
+    "Giữ ấm đường thở khi thời tiết thay đổi",
+    "Tuân thủ kế hoạch hành động hen suyễn của bác sĩ"
+  ],
+  "when_to_see_doctor": [
+    "Triệu chứng khẩn cấp: Thở nhanh, mặt/môi/móng tay xanh tím, da vùng xương sườn co kéo khi hít vào",
+    "Khó thở đến mức không thể đi lại hoặc nói chuyện",
+    "Thuốc cắt cơn không còn tác dụng"
+  ],
+  "care_notes": [
+    "Tâm lý sợ hãi, lo âu có thể làm bệnh nặng hơn",
+    "Kế hoạch hành động hen suyễn cá nhân hóa là chìa khóa để kiểm soát bệnh",
+    "Cần lưu ý chất bảo quản sulfites trong thực phẩm vì có thể kích hoạt cơn hen"
+  ],
+  "source": "Bệnh viện Đa khoa Quốc tế Vinmec",
+  "url": "https://www.vinmec.com/vie/bai-viet/benh-hen-suyen-nhung-dieu-can-biet-vi"
+}

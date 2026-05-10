@@ -1,0 +1,110 @@
+{
+  "title": "Viêm họng",
+  "type": "disease",
+  "topic": "hô hấp - tai mũi họng",
+  "definition": "Viêm họng là một dạng bệnh viêm nhiễm trùng phổ biến gây đau cổ họng. Người bệnh sẽ cảm thấy khó chịu, nóng hoặc rát vùng họng, đặc biệt là khi nuốt. Thông thường bệnh sẽ tự khỏi hẳn sau một tuần mà không để lại tổn thương hay di chứng.",
+  "classification": [
+    "Viêm họng cấp tính",
+    "Viêm họng mãn tính (thường gặp ở người nhiễm HIV hoặc tái phát do nhiễm trùng)",
+    "Viêm họng do virus",
+    "Viêm họng do vi khuẩn"
+  ],
+  "pathophysiology": [
+    "Niêm mạc vách họng xung huyết, đỏ thẫm",
+    "Xuất hiện các mụn nhỏ ở vùng vách họng sau, mạch máu nổi rõ",
+    "Tiết dịch nhầy hoặc mủ trên bề mặt niêm mạc họng",
+    "Căng cơ trong cổ họng do nói chuyện quá mức hoặc hét lớn",
+    "Axit dạ dày tràn vào thực quản gây kích ứng cổ họng (trong GERD)"
+  ],
+  "causes": {
+    "acute": [
+      "Virus cảm lạnh, virus cảm cúm, Mononucleosis, sởi, đậu mùa",
+      "Vi khuẩn Streptococcus pyogenes và Streptococcus nhóm A",
+      "Thời tiết thay đổi, đặc biệt là vào mùa lạnh",
+      "Căng cơ họng do hét lớn, nói chuyện ầm ĩ kéo dài"
+    ],
+    "chronic": [
+      "Dị ứng với gia vị, nấm, bụi và phấn hoa",
+      "Không khí trong phòng bí và nóng, thở bằng miệng khi nghẹt mũi",
+      "Ô nhiễm không khí, khói thuốc lá, hóa chất",
+      "Bệnh trào ngược dạ dày thực quản (GERD)",
+      "Nhiễm HIV làm suy yếu hệ miễn dịch",
+      "Khối u ở cổ họng, lưỡi và thanh quản"
+    ]
+  },
+  "symptoms": [
+    "Đau họng, nóng rát vùng cổ họng",
+    "Ngứa, khô và sưng vướng họng, ho",
+    "Nuốt khó, nuốt đau (kể cả khi uống nước hay nuốt nước bọt)",
+    "Tiết dịch họng (ban đầu trong, sau đặc và tối màu)",
+    "Khàn tiếng hoặc mất tiếng",
+    "Buồn nôn do họng mẫn cảm",
+    "Sốt nhẹ, đau đầu, ù tai, nhức tai",
+    "Niêm mạc họng xung huyết, đỏ thẫm, có mụn nhỏ hoặc mủ"
+  ],
+  "complications": [
+    "Sốt thấp khớp (do vi khuẩn Streptococcus ở trẻ em)",
+    "Viêm thận (do vi khuẩn Streptococcus ở trẻ em)",
+    "Lây lan vi khuẩn sang các bộ phận khác của cơ thể",
+    "Viêm thanh quản",
+    "Khàn giọng mãn tính"
+  ],
+  "diagnosis": [
+    "Soi họng kiểm tra niêm mạc vách họng",
+    "Kiểm tra tình trạng xung huyết và dịch tiết",
+    "Đánh giá các triệu chứng đi kèm như sốt, khàn tiếng",
+    "Phân biệt với cảm cúm và các bệnh lý hô hấp khác"
+  ],
+  "risk_groups": [
+    "Người có hệ miễn dịch suy yếu (HIV)",
+    "Trẻ em (dễ nhiễm trùng đường hô hấp)",
+    "Vận động viên thể thao, người thường xuyên phải nói lớn",
+    "Người hút thuốc lá hoặc thường xuyên tiếp xúc khói thuốc",
+    "Người mắc bệnh trào ngược dạ dày thực quản"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Súc miệng nước muối ấm (5g muối pha với 237ml nước lọc)",
+      "Uống trà ấm pha mật ong và chanh",
+      "Sử dụng đồ uống nóng (nước chanh nóng, cà phê, trà)",
+      "Tắm nước nóng và hít hơi ẩm (xông hơi họng)",
+      "Sử dụng các bài thuốc dân gian: nước vỏ xoài, dấm trắng mật ong, bột quế hạt tiêu, bột nghệ",
+      "Dùng gừng trộn mật ong sau đó uống sữa nóng"
+    ],
+    "medication": [
+      "Sử dụng kháng sinh theo đơn kê của bác sĩ (khi bệnh nặng do vi khuẩn)",
+      "Tuân thủ đúng lịch trình kháng sinh ngay cả khi triệu chứng đã cải thiện để tránh kháng thuốc"
+    ],
+    "psychotherapy": [
+      "Nghỉ ngơi, tránh căng thẳng cơ họng (ngừng nói lớn/hét)",
+      "Tư vấn về việc lạm dụng kháng sinh và tình trạng kháng kháng sinh"
+    ]
+  },
+  "prevention": [
+    "Rửa tay sạch sau khi đi vệ sinh hoặc tiếp xúc đồ vật công cộng",
+    "Tránh dùng chung đồ ăn, nước uống và đồ dùng cá nhân",
+    "Không hút thuốc và tránh xa khói thuốc lá",
+    "Tránh các nguồn gây dị ứng",
+    "Vệ sinh tay trước khi ăn và sau khi tiếp xúc bệnh nhân"
+  ],
+  "when_to_see_doctor": [
+    "Đau họng và khàn tiếng kéo dài nhiều ngày không giảm",
+    "Đau họng dữ dội gây khó thở",
+    "Xuất hiện máu trong nước bọt hoặc đờm",
+    "Sốt cao trên 39 độ C"
+  ],
+  "care_notes": [
+    "Lạm dụng kháng sinh làm tăng nguy cơ kháng kháng sinh",
+    "Viêm họng thường tự khỏi sau 1 tuần nếu điều chỉnh chế độ sinh hoạt",
+    "Súc miệng nước muối ít nhất mỗi giờ một lần khi bị đau rát họng",
+    "Tránh uống nước lạnh, nước có đá trong quá trình điều trị",
+    "Cần tuyệt đối không dùng chung đồ dùng sinh hoạt khi bị bệnh để tránh lây lan"
+  ],
+  "epidemiology": [
+    "Bệnh phổ biến ở mọi lứa tuổi, thường gặp nhất vào mùa lạnh",
+    "Dễ lây lan qua tiếp xúc đồ vật cá nhân hoặc ăn uống chung",
+    "Tỉ lệ mắc bệnh cao trong thời điểm giao mùa"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/bai-viet/dieu-tri-viem-hong-khong-can-dung-khang-sinh-vi"
+}

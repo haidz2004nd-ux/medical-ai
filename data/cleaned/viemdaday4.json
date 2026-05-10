@@ -1,0 +1,108 @@
+{
+  "title": "Viêm dạ dày",
+  "type": "disease",
+  "topic": "tiêu hóa - dạ dày",
+  "definition": "Viêm dạ dày là tình trạng niêm mạc dạ dày bị tổn thương, gây sưng hoặc viêm. Bệnh có thể xảy ra bất ngờ (cấp tính) hoặc diễn ra âm ỉ (mãn tính), gây ra nhiều triệu chứng khó chịu và có nguy cơ dẫn đến các biến chứng nguy hiểm nếu không điều trị kịp thời.",
+  "classification": [
+    "Viêm dạ dày cấp tính (Viêm loét, thể ăn mòn, xuất huyết, nhiễm khuẩn)",
+    "Viêm dạ dày mạn tính (Vùng thân vị, vùng hang vị)",
+    "Viêm dạ dày thể đặc hiệu (Tăng bạch cầu ái toan, dạng nốt/thủy đậu, u hạt, lao dạ dày, bệnh Crohn, thể giả u lympho)"
+  ],
+  "pathophysiology": [
+    "Niêm mạc dạ dày bị tổn thương, sưng tấy hoặc phù nề",
+    "Hoại tử niêm mạc tại chỗ trong thể ăn mòn",
+    "Dịch rỉ viêm gây mưng mủ vách niêm mạc và thành dạ dày trong thể nhiễm khuẩn",
+    "Thâm nhiễm bạch cầu ái toan hoặc lympho vào thành dạ dày",
+    "Mất cân bằng axit dịch vị dẫn đến bào mòn lớp bảo vệ"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm khuẩn cấp tính hoặc virus",
+      "Ăn phải chất kích ứng mạnh",
+      "Tác động liên tục của chất kích thích lên niêm mạc",
+      "Sử dụng thuốc giảm đau và kháng viêm đột ngột liều cao"
+    ],
+    "chronic": [
+      "Vi khuẩn Helicobacter pylori (Hp) - nguyên nhân phổ biến nhất",
+      "Rối loạn tiêu hóa hoặc rối loạn chức năng tiêu hóa kéo dài",
+      "Phản ứng tự miễn của cơ thể",
+      "Lạm dụng rượu bia, thuốc lá thường xuyên",
+      "Stress kéo dài và thức khuya"
+    ]
+  },
+  "symptoms": [
+    "Đau thượng vị (cơn đau dữ dội bất chợt hoặc âm ỉ)",
+    "Đầy bụng, khó tiêu, ợ hơi, ợ chua",
+    "Buồn nôn, nôn mửa (có thể nôn ra máu)",
+    "Ăn không ngon miệng",
+    "Phân có màu đen",
+    "Khó thở, thở dốc (do đau kéo dài gây mệt mỏi)",
+    "Sốt (có thể kèm nhức đầu, run, mất nước)"
+  ],
+  "complications": [
+    "Xuất huyết dạ dày",
+    "Thủng dạ dày",
+    "Viêm phúc mạc (do nhiễm khuẩn nặng)",
+    "Ung thư dạ dày",
+    "Nhiễm trùng huyết (từ biến chứng viêm phúc mạc)"
+  ],
+  "diagnosis": [
+    "Thăm khám lâm sàng và khai thác tiền sử",
+    "Kiểm tra xác định vi khuẩn Hp (K29)",
+    "Xác định các thể đặc hiệu (qua nội soi, sinh thiết)",
+    "Phân biệt với u hạt hoặc ung thư dạ dày"
+  ],
+  "risk_groups": [
+    "Trẻ em (đặc biệt trẻ sơ sinh và trẻ 2 tuổi bị nhiễm Hp từ người lớn)",
+    "Người thường xuyên stress, thức khuya",
+    "Người lạm dụng rượu bia và thuốc lá",
+    "Người sử dụng thuốc kháng viêm, giảm đau không kiểm soát",
+    "Phụ nữ mang thai (do thay đổi nội tiết và áp lực sinh lý)"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ngủ đúng giờ, đủ giấc, hạn chế căng thẳng",
+      "Ăn đúng bữa, không ăn quá no hoặc quá đói",
+      "Không vận động mạnh hay tắm gội ngay sau khi ăn",
+      "Kiêng đồ cay nóng, đồ ăn nhanh, rượu bia và đồ uống có gas"
+    ],
+    "medication": [
+      "Thuốc trung hòa axit dạ dày (như Yumangel)",
+      "Thuốc ức chế bơm proton (PPI)",
+      "Thuốc ức chế thụ thể H2",
+      "Kháng sinh (điều trị viêm dạ dày tá tràng K29 do vi khuẩn Hp)"
+    ],
+    "psychotherapy": [
+      "Kiểm soát stress và các rối loạn tâm lý",
+      "Tư vấn điều chỉnh hành vi ăn uống và sinh hoạt"
+    ]
+  },
+  "prevention": [
+    "Không hút thuốc lá",
+    "Hạn chế sử dụng rượu bia",
+    "Duy trì chế độ ăn uống khoa học, hợp vệ sinh",
+    "Tránh lây nhiễm chéo vi khuẩn Hp trong gia đình",
+    "Sử dụng nghệ để hỗ trợ bảo vệ niêm mạc"
+  ],
+  "when_to_see_doctor": [
+    "Có dấu hiệu nôn ra máu hoặc đi ngoài phân đen",
+    "Sốt cao từ 39-41 độ kèm co giật, ảo giác",
+    "Cơn đau dữ dội không thuyên giảm",
+    "Trẻ em có triệu chứng rối loạn tiêu hóa kéo dài",
+    "Triệu chứng viêm dạ dày ở mẹ bầu"
+  ],
+  "care_notes": [
+    "Có thể điều trị bằng thuốc Nam (cây lược vàng, lá nhọ nồi) hoặc Đông y nhưng cần chỉ định của thầy thuốc",
+    "Người đau dạ dày có thể uống sữa lượng vừa phải nhưng không nên uống nước cam",
+    "Nghệ (Curcumin) rất tốt trong việc trung hòa axit và diệt vi khuẩn Hp",
+    "Việc điều trị Hp thường kéo dài 10-14 ngày kháng sinh và 4-8 tuần thuốc triệu chứng",
+    "Trẻ em dùng thuốc phải tuyệt đối tuân thủ chỉ dẫn để tránh kháng thuốc"
+  ],
+  "epidemiology": [
+    "Là một trong những bệnh lý dạ dày phổ biến nhất",
+    "Tỷ lệ trẻ em bị viêm dạ dày do nhiễm Hp từ người lớn đang gia tăng",
+    "Viêm dạ dày mạn tính thường là hệ quả của các rối loạn tiêu hóa kéo dài"
+  ],
+  "source": "Trạm Y tế phường Tân Thạnh (theo tytphuongtanthanh.medinet.gov.vn)",
+  "url": "https://tytphuongtanthanh.medinet.gov.vn/chuyen-muc/benh-viem-da-day-la-gi-nguyen-nhan-va-chua-viem-da-day-hieu-qua-cmobile12662-85772.aspx"
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Tiêu chảy",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc phân nước từ 3 lần/ngày trở lên, thường do nhiễm trùng, rối loạn tiêu hóa hoặc các bệnh lý đường ruột, có thể tự khỏi hoặc kéo dài tùy nguyên nhân.",
+  "classification": [
+    "Tiêu chảy cấp",
+    "Tiêu chảy mạn tính",
+    "Tiêu chảy thẩm thấu",
+    "Tiêu chảy xuất tiết",
+    "Tiêu chảy do thuốc",
+    "Tiêu chảy do nhiễm trùng"
+  ],
+  "pathophysiology": [
+    "Tăng nhu động ruột làm thức ăn di chuyển nhanh",
+    "Giảm hấp thu nước tại ruột gây phân lỏng",
+    "Rối loạn hệ vi khuẩn đường ruột",
+    "Tổn thương niêm mạc ruột do vi khuẩn hoặc virus",
+    "Rối loạn hấp thu lactose hoặc chất dinh dưỡng"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus (Rotavirus, Norovirus)",
+      "Nhiễm vi khuẩn (E.coli, Salmonella, Shigella)",
+      "Nhiễm ký sinh trùng (Giardia, amip)",
+      "Ngộ độc thực phẩm",
+      "Thực phẩm ôi thiu hoặc nhiễm độc tố"
+    ],
+    "chronic": [
+      "Hội chứng ruột kích thích",
+      "Bệnh viêm ruột (Crohn, viêm loét đại tràng)",
+      "Bệnh Celiac",
+      "Không dung nạp lactose",
+      "Tác dụng phụ thuốc (kháng sinh, metformin)",
+      "Khối u hoặc ung thư đường ruột",
+      "Rối loạn hấp thu kéo dài"
+    ]
+  },
+  "symptoms": [
+    "Đi ngoài phân lỏng ≥ 3 lần/ngày",
+    "Đau bụng, chuột rút",
+    "Buồn nôn hoặc nôn",
+    "Đầy hơi",
+    "Sốt",
+    "Mệt mỏi",
+    "Dấu hiệu mất nước (khô miệng, tiểu ít, khát nước)",
+    "Phân có thể có máu hoặc chất nhầy"
+  ],
+  "complications": [
+    "Mất nước nặng",
+    "Rối loạn điện giải",
+    "Trụy mạch",
+    "Suy thận cấp",
+    "Co giật do rối loạn điện giải",
+    "Suy dinh dưỡng (đặc biệt ở trẻ em)"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng lâm sàng",
+    "Xét nghiệm phân",
+    "Xét nghiệm máu",
+    "Định lượng điện giải",
+    "Xét nghiệm tìm vi khuẩn hoặc ký sinh trùng",
+    "Nội soi tiêu hóa khi cần"
+  ],
+  "risk_groups": [
+    "Trẻ em",
+    "Người cao tuổi",
+    "Người có miễn dịch yếu",
+    "Người dùng thực phẩm không an toàn",
+    "Người đi du lịch vùng vệ sinh kém",
+    "Người dùng thuốc kháng sinh kéo dài"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống nhiều nước và dung dịch điện giải (ORESOL)",
+      "Ăn thực phẩm dễ tiêu",
+      "Bổ sung probiotic (sữa chua)",
+      "Tránh đồ uống có caffeine và rượu bia",
+      "Hạn chế thực phẩm nhiều dầu mỡ",
+      "Nghỉ ngơi đầy đủ"
+    ],
+    "medication": [
+      "Dung dịch bù nước và điện giải",
+      "Thuốc cầm tiêu chảy (loperamide khi phù hợp)",
+      "Kháng sinh khi có nhiễm khuẩn theo chỉ định",
+      "Thuốc hấp phụ (diosmectite)",
+      "Men vi sinh (probiotics)"
+    ]
+  },
+  "prevention": [
+    "Ăn chín uống sôi",
+    "Rửa tay thường xuyên",
+    "Sử dụng nguồn nước sạch",
+    "Tránh thực phẩm ôi thiu",
+    "Tiêm phòng rotavirus cho trẻ em",
+    "Giữ vệ sinh cá nhân và môi trường"
+  ],
+  "when_to_see_doctor": [
+    "Tiêu chảy kéo dài",
+    "Có máu hoặc chất nhầy trong phân",
+    "Sốt cao",
+    "Đau bụng dữ dội",
+    "Dấu hiệu mất nước nặng",
+    "Nôn nhiều không kiểm soát"
+  ],
+  "care_notes": [
+    "Bù nước là ưu tiên hàng đầu",
+    "Không tự ý dùng thuốc cầm tiêu chảy khi nghi nhiễm trùng",
+    "Theo dõi dấu hiệu mất nước",
+    "Đi khám nếu triệu chứng nặng hoặc kéo dài",
+    "Kết hợp chăm sóc dinh dưỡng và y tế"
+  ],
+  "epidemiology": [
+    "Tiêu chảy rất phổ biến toàn cầu",
+    "Tỷ lệ tử vong cao ở trẻ em tại nước đang phát triển",
+    "Thường gặp vào mùa nóng hoặc môi trường vệ sinh kém",
+    "Phần lớn là tiêu chảy cấp"
+  ],
+  "source": "Medlatec",
+  "url": "https://medlatec.vn/tin-tuc/mach-ban-7-cach-cam-tieu-chay-nhanh-nhat-cho-nguoi-lon-an-toan"
+}

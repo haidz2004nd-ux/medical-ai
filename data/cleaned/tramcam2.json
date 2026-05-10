@@ -1,0 +1,124 @@
+{
+  "title": "Trầm cảm",
+  "type": "disease",
+  "topic": "tâm thần - thần kinh",
+  "definition": "Trầm cảm là một rối loạn tâm thần phổ biến, đặc trưng bởi khí sắc buồn kéo dài, mất hứng thú, giảm năng lượng, rối loạn giấc ngủ, suy giảm chức năng sống và có thể kèm theo ý nghĩ hoặc hành vi tự sát, ảnh hưởng nghiêm trọng đến tinh thần và thể chất người bệnh.",
+  "classification": [
+    "Trầm cảm điển hình",
+    "Trầm cảm nhẹ",
+    "Trầm cảm vừa",
+    "Trầm cảm nặng",
+    "Trầm cảm có loạn thần",
+    "Trầm cảm nội sinh",
+    "Trầm cảm sau sang chấn",
+    "Trầm cảm sau sinh"
+  ],
+  "pathophysiology": [
+    "Rối loạn chất dẫn truyền thần kinh như serotonin và norepinephrine",
+    "Suy giảm hoạt động vùng não điều khiển cảm xúc",
+    "Rối loạn trục stress (HPA axis)",
+    "Yếu tố di truyền làm tăng nguy cơ mắc bệnh",
+    "Tác động tâm lý kéo dài gây thay đổi chức năng não"
+  ],
+  "causes": {
+    "acute": [
+      "Mất người thân",
+      "Ly hôn hoặc đổ vỡ tình cảm",
+      "Sang chấn tâm lý đột ngột",
+      "Áp lực học tập hoặc công việc cấp tính",
+      "Tai biến hoặc chấn thương não"
+    ],
+    "chronic": [
+      "Stress kéo dài",
+      "Áp lực công việc và cuộc sống",
+      "Bệnh lý thần kinh mạn tính",
+      "Yếu tố di truyền",
+      "Môi trường sống tiêu cực",
+      "Thiếu hỗ trợ xã hội"
+    ]
+  },
+  "symptoms": [
+    "Khí sắc trầm buồn kéo dài",
+    "Mất hứng thú với hoạt động",
+    "Mệt mỏi, giảm năng lượng",
+    "Rối loạn giấc ngủ",
+    "Ăn ít hoặc ăn nhiều bất thường",
+    "Giảm tập trung",
+    "Cảm giác tội lỗi hoặc vô dụng",
+    "Bi quan về tương lai",
+    "Thu mình, giảm giao tiếp",
+    "Có ý nghĩ tự sát"
+  ],
+  "complications": [
+    "Tự sát",
+    "Suy giảm chức năng xã hội",
+    "Suy giảm khả năng lao động",
+    "Rối loạn lo âu đi kèm",
+    "Suy kiệt cơ thể",
+    "Mất khả năng tự chăm sóc bản thân"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng lâm sàng",
+    "Đánh giá thời gian kéo dài ≥ 2 tuần",
+    "Tiêu chuẩn ICD-10",
+    "Tiêu chuẩn DSM",
+    "Đánh giá mức độ nặng nhẹ",
+    "Loại trừ bệnh lý cơ thể khác"
+  ],
+  "risk_groups": [
+    "Người chịu stress kéo dài",
+    "Người mất người thân",
+    "Người ly hôn hoặc phá sản",
+    "Học sinh, sinh viên áp lực cao",
+    "Phụ nữ sau sinh",
+    "Người có bệnh lý thần kinh"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Tăng chia sẻ và hỗ trợ tâm lý",
+      "Duy trì sinh hoạt điều độ",
+      "Tập thể dục thường xuyên",
+      "Tránh rượu bia và chất kích thích",
+      "Duy trì giấc ngủ hợp lý",
+      "Tham gia hoạt động xã hội"
+    ],
+    "medication": [
+      "Thuốc chống trầm cảm theo chỉ định bác sĩ",
+      "Thuốc an thần trong trường hợp cần thiết",
+      "Theo dõi tác dụng phụ thuốc",
+      "Không tự ý ngưng thuốc"
+    ]
+  },
+  "prevention": [
+    "Tạo môi trường sống lành mạnh",
+    "Chia sẻ và hỗ trợ tâm lý kịp thời",
+    "Giảm stress trong cuộc sống",
+    "Khám sớm khi có dấu hiệu bất thường",
+    "Duy trì hoạt động xã hội tích cực",
+    "Tránh lạm dụng rượu bia"
+  ],
+  "when_to_see_doctor": [
+    "Buồn chán kéo dài trên 2 tuần",
+    "Mất hứng thú hoàn toàn",
+    "Có ý nghĩ hoặc hành vi tự sát",
+    "Mất ngủ nghiêm trọng",
+    "Suy giảm chức năng sinh hoạt",
+    "Lo âu và tuyệt vọng tăng dần"
+  ],
+  "care_notes": [
+    "Trầm cảm là bệnh có thể điều trị",
+    "Cần phát hiện sớm để tránh biến chứng",
+    "Gia đình đóng vai trò quan trọng",
+    "Không tự ý dùng thuốc",
+    "Điều trị cần kết hợp thuốc và tâm lý"
+  ],
+  "epidemiology": [
+    "Phổ biến trên toàn thế giới",
+    "Phụ nữ mắc nhiều hơn nam giới",
+    "Tỷ lệ ngày càng gia tăng",
+    "Tỷ lệ điều trị còn thấp",
+    "Nguy cơ tự sát cao nếu không điều trị"
+  ],
+  "source": "Trung tâm Y tế dự phòng",
+  "url": "https://tytphuongtamphu.medinet.gov.vn/giao-duc-suc-khoe/tram-cam-nguyen-nhan-bieu-hien-cach-dieu-tri-va-phong-benh-cmobile8168-180400.aspx"
+}

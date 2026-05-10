@@ -1,0 +1,109 @@
+{
+  "title": "Gout (gút)",
+  "type": "disease",
+  "topic": "cơ xương khớp - chuyển hóa",
+  "definition": "Gout là bệnh viêm khớp do tăng acid uric máu, dẫn đến hình thành tinh thể urat lắng đọng trong khớp gây đau, sưng và viêm.",
+  "classification": [
+    "Gout cấp tính",
+    "Gout tái phát",
+    "Gout mạn tính có tophi"
+  ],
+  "pathophysiology": [
+    "Tăng acid uric do chuyển hóa purin",
+    "Giảm thải acid uric qua thận",
+    "Hình thành tinh thể urat trong máu",
+    "Lắng đọng tinh thể tại khớp",
+    "Kích hoạt phản ứng viêm cấp"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn chuyển hóa purin",
+      "Yếu tố di truyền"
+    ],
+    "secondary": [
+      "Chế độ ăn giàu purin",
+      "Uống nhiều rượu bia",
+      "Suy giảm chức năng thận",
+      "Thuốc lợi tiểu",
+      "Thuốc hóa trị",
+      "Thuốc ức chế miễn dịch"
+    ]
+  },
+  "symptoms": [
+    "Đau khớp đột ngột, dữ dội",
+    "Đau thường xuất hiện ban đêm",
+    "Đau đạt đỉnh trong 4-12 giờ",
+    "Sưng, đỏ, nóng khớp",
+    "Khớp nhạy cảm khi chạm",
+    "Cứng khớp",
+    "Giảm vận động khớp",
+    "Khó chịu kéo dài sau cơn cấp"
+  ],
+  "complications": [
+    "Phá hủy khớp",
+    "Biến dạng khớp",
+    "Sỏi thận",
+    "Tổn thương thận",
+    "Tăng nguy cơ bệnh tim mạch"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Xét nghiệm acid uric máu",
+    "Chọc hút dịch khớp tìm tinh thể urat",
+    "X-quang khớp",
+    "Siêu âm khớp"
+  ],
+  "risk_groups": [
+    "Nam giới trên 40 tuổi",
+    "Phụ nữ sau mãn kinh",
+    "Người béo phì",
+    "Người uống nhiều rượu bia",
+    "Người ăn nhiều thịt đỏ và hải sản",
+    "Người có bệnh thận",
+    "Người có tiền sử gia đình gout"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống nhiều nước",
+      "Giảm cân",
+      "Tập thể dục",
+      "Hạn chế thực phẩm giàu purin",
+      "Tránh rượu bia"
+    ],
+    "medical": [
+      "NSAIDs",
+      "Colchicine",
+      "Corticosteroid",
+      "Allopurinol",
+      "Febuxostat",
+      "Probenecid"
+    ]
+  },
+  "prevention": [
+    "Ăn uống ít purin",
+    "Hạn chế rượu bia",
+    "Uống đủ nước",
+    "Duy trì cân nặng hợp lý",
+    "Tập thể dục đều đặn"
+  ],
+  "when_to_see_doctor": [
+    "Đau khớp đột ngột, dữ dội",
+    "Khớp sưng đỏ, nóng",
+    "Đau kéo dài hoặc tái phát",
+    "Sốt kèm đau khớp"
+  ],
+  "care_notes": [
+    "Gout là bệnh mạn tính có thể kiểm soát",
+    "Cơn gout có thể tái phát nếu không điều trị",
+    "Chế độ ăn rất quan trọng",
+    "Không tự ý ngừng thuốc",
+    "Theo dõi acid uric định kỳ"
+  ],
+  "epidemiology": [
+    "Nam giới mắc nhiều hơn nữ",
+    "Thường gặp ở người trên 40 tuổi",
+    "Tỷ lệ tăng theo lối sống hiện đại"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/gut-564.html"
+}

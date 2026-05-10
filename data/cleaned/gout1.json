@@ -1,0 +1,113 @@
+{
+  "title": "Gout (gút)",
+  "type": "disease",
+  "topic": "cơ xương khớp - chuyển hóa",
+  "definition": "Gout là bệnh rối loạn chuyển hóa purin, làm tăng acid uric máu và hình thành tinh thể urat lắng đọng tại khớp, gây viêm, sưng và đau khớp tái phát.",
+  "classification": [
+    "Gout không triệu chứng (tăng acid uric máu)",
+    "Gout cấp tính",
+    "Gout mạn tính (có tophi)"
+  ],
+  "pathophysiology": [
+    "Tăng sản xuất acid uric từ chuyển hóa purin",
+    "Giảm đào thải acid uric qua thận",
+    "Kết tinh tinh thể monosodium urate trong khớp",
+    "Phản ứng viêm tại khớp do tinh thể urat",
+    "Lắng đọng urat tại mô mềm và thận"
+  ],
+  "causes": {
+    "primary": [
+      "Rối loạn chuyển hóa purin (không rõ nguyên nhân)",
+      "Yếu tố di truyền"
+    ],
+    "secondary": [
+      "Suy thận",
+      "Bệnh máu (bạch cầu)",
+      "Dùng thuốc lợi tiểu",
+      "Dùng thuốc hóa trị",
+      "Thuốc kháng lao (ethambutol, pyrazinamid)",
+      "Chế độ ăn giàu purin"
+    ]
+  },
+  "symptoms": [
+    "Đau khớp đột ngột, dữ dội (thường về đêm)",
+    "Sưng, nóng, đỏ khớp",
+    "Đau tăng khi chạm vào",
+    "Thường gặp ở khớp ngón chân cái",
+    "Có thể ảnh hưởng đầu gối, cổ chân, cổ tay",
+    "Xuất hiện hạt tophi dưới da (giai đoạn muộn)"
+  ],
+  "complications": [
+    "Biến dạng khớp",
+    "Tổn thương khớp vĩnh viễn",
+    "Sỏi thận",
+    "Suy thận",
+    "Nhiễm trùng tại tophi"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Xét nghiệm acid uric máu",
+    "Chọc hút dịch khớp tìm tinh thể urat",
+    "X-quang khớp",
+    "Siêu âm khớp",
+    "CT khớp"
+  ],
+  "risk_groups": [
+    "Nam giới 30-60 tuổi",
+    "Phụ nữ sau mãn kinh",
+    "Người béo phì",
+    "Người uống nhiều rượu bia",
+    "Người ăn nhiều thịt đỏ, hải sản",
+    "Người có bệnh thận",
+    "Người có tiền sử gia đình gout"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Giảm cân nếu thừa cân",
+      "Uống nhiều nước (2-3 lít/ngày)",
+      "Hạn chế thực phẩm giàu purin",
+      "Tránh rượu bia",
+      "Tập thể dục đều đặn"
+    ],
+    "medical": [
+      "Thuốc kháng viêm (NSAIDs, colchicine)",
+      "Thuốc giảm acid uric (allopurinol, febuxostat)",
+      "Thuốc tăng thải acid uric",
+      "Điều trị bệnh nền"
+    ],
+    "surgical": [
+      "Cắt bỏ hạt tophi khi biến chứng",
+      "Xử lý biến dạng khớp"
+    ]
+  },
+  "prevention": [
+    "Ăn uống hợp lý, ít purin",
+    "Hạn chế rượu bia",
+    "Uống đủ nước",
+    "Kiểm soát cân nặng",
+    "Điều trị sớm tăng acid uric máu",
+    "Theo dõi định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau khớp dữ dội đột ngột",
+    "Khớp sưng đỏ, nóng",
+    "Đau tái phát nhiều lần",
+    "Xuất hiện hạt tophi",
+    "Có dấu hiệu sỏi thận"
+  ],
+  "care_notes": [
+    "Gout là bệnh mạn tính nhưng kiểm soát được",
+    "Cần điều trị lâu dài để tránh tái phát",
+    "Không tự ý ngừng thuốc",
+    "Chế độ ăn đóng vai trò quan trọng",
+    "Theo dõi acid uric định kỳ"
+  ],
+  "epidemiology": [
+    "Tỷ lệ khoảng 1/200 người trưởng thành",
+    "Nam giới mắc nhiều hơn nữ",
+    "Tăng theo tuổi",
+    "Liên quan lối sống và chế độ ăn"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/gout-gut-3052"
+}

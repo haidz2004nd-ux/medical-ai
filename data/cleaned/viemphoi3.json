@@ -1,0 +1,104 @@
+{
+  "title": "Viêm phổi",
+  "type": "disease",
+  "topic": "hô hấp - phổi",
+  "definition": "Viêm phổi (pneumonia) là một bệnh lý hô hấp xảy ra khi các túi khí trong phổi (phế nang) bị viêm và tích tụ dịch hoặc mủ. Tình trạng này làm cản trở khả năng trao đổi oxy, dẫn đến khó thở và có thể gây suy hô hấp.",
+  "classification": [
+    "Theo tác nhân gây bệnh: Vi khuẩn, virus, nấm, hóa chất độc hại",
+    "Theo môi trường mắc bệnh: Viêm phổi cộng đồng (ngoài bệnh viện), Viêm phổi bệnh viện (sau 48h nhập viện)"
+  ],
+  "pathophysiology": [
+    "Tác nhân xâm nhập đường hô hấp dưới gây phản ứng viêm",
+    "Phá vỡ cấu trúc mô phổi bình thường",
+    "Tích tụ dịch/mủ trong phế nang cản trở trao đổi khí"
+  ],
+  "causes": {
+    "acute": [
+      "Vi khuẩn: Streptococcus pneumoniae (phổ biến nhất), Haemophilus influenzae, Staphylococcus aureus, Klebsiella pneumoniae",
+      "Virus: Cúm, virus hợp bào hô hấp (RSV), adenovirus, coronavirus",
+      "Nấm: Pneumocystis jirovecii, Aspergillus spp (thường gặp ở người suy giảm miễn dịch)",
+      "Viêm phổi hít: Hít phải dị vật, thức ăn hoặc dịch tiêu hóa"
+    ],
+    "chronic": [
+      "Vi khuẩn đa kháng thuốc trong môi trường bệnh viện: Pseudomonas aeruginosa, Acinetobacter spp., Enterobacteriaceae"
+    ]
+  },
+  "symptoms": [
+    "Sốt cao hoặc sốt nhẹ kéo dài",
+    "Ho khan hoặc ho có đờm vàng/xanh, đôi khi kèm máu",
+    "Khó thở, hụt hơi, thở nhanh",
+    "Đau ngực (tăng khi hít sâu hoặc ho)",
+    "Ớn lạnh, đổ mồ hôi ban đêm",
+    "Mệt mỏi, chán ăn, đau cơ, buồn nôn",
+    "Trẻ em: Thở rút lõm ngực, bỏ bú, quấy khóc, tím tái môi lưỡi"
+  ],
+  "complications": [
+    "Tràn mủ màng phổi (empyema)",
+    "Áp xe phổi",
+    "Suy hô hấp cấp",
+    "Nhiễm khuẩn huyết (nhiễm trùng máu)",
+    "Tổn thương đa cơ quan"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng: Nghe phổi tìm ran ẩm, ran nổ",
+    "X-quang ngực: Phát hiện vùng phổi bị viêm",
+    "Xét nghiệm máu: Công thức máu (bạch cầu), CRP, Procalcitonin",
+    "Cấy đờm: Tìm tác nhân và làm kháng sinh đồ",
+    "Xét nghiệm PCR/Test nhanh: Xác định virus cúm hoặc SARS-CoV-2"
+  ],
+  "risk_groups": [
+    "Trẻ sơ sinh và trẻ nhỏ",
+    "Người cao tuổi (trên 65 tuổi)",
+    "Người mắc bệnh mãn tính: Đái tháo đường, hen suyễn, COPD, suy tim",
+    "Người bị suy giảm miễn dịch",
+    "Người hút thuốc lá, uống rượu nhiều"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi đầy đủ (ngủ 7-8 tiếng/đêm), tránh làm việc gắng sức",
+      "Giữ môi trường sống thông thoáng, sạch sẽ, độ ẩm phù hợp",
+      "Luyện tập thể dục nhẹ nhàng (đi bộ, yoga, hít thở sâu) khi qua giai đoạn cấp",
+      "Tăng cường nước uống và súp loãng để làm loãng đờm"
+    ],
+    "medication": [
+      "Kháng sinh: Macrolid (azithromycin), cephalosporin, quinolon (cho vi khuẩn)",
+      "Thuốc hạ sốt, giảm đau: Paracetamol, Ibuprofen",
+      "Thuốc long đờm, giãn phế quản",
+      "Oxy liệu pháp: Khi SpO2 giảm, khó thở nặng",
+      "Truyền dịch: Khi mất nước hoặc nôn nhiều"
+    ],
+    "psychotherapy": [],
+    "surgery": [
+      "Dẫn lưu tràn mủ màng phổi",
+      "Phẫu thuật áp xe phổi lớn không đáp ứng nội khoa",
+      "Cắt bỏ phần phổi tổn thương nặng"
+    ]
+  },
+  "prevention": [
+    "Tiêm chủng vắc xin: Phế cầu (Synflorix, Prevenar 13/20, Vaxneuvance, Pneumovax 23), Cúm (Vaxigrip Tetra), Não mô cầu, Hib",
+    "Giữ vệ sinh cá nhân, rửa tay thường xuyên bằng xà phòng",
+    "Đeo khẩu trang nơi đông người, tránh tiếp xúc người bệnh hô hấp",
+    "Thông gió nơi ở, tránh tình trạng ẩm thấp",
+    "Không hút thuốc lá và tránh khói thuốc thụ động"
+  ],
+  "when_to_see_doctor": [
+    "Sốt cao không giảm sau vài ngày điều trị",
+    "Ho ra máu, khó thở nhiều",
+    "Đau ngực tăng khi hít thở",
+    "Môi hoặc đầu ngón tay tím tái",
+    "Lú lẫn, mất ý thức (đặc biệt ở người già)"
+  ],
+  "care_notes": [
+    "Tuân thủ đúng phác đồ kháng sinh để tránh kháng thuốc và tái phát",
+    "Dinh dưỡng cần bổ sung Vitamin C, A và Kẽm để tăng đề kháng",
+    "Hạn chế đồ ăn cay nóng, chiên xào và nước ngọt có gas",
+    "Nên chia nhỏ bữa ăn nếu người bệnh mệt mỏi, chán ăn"
+  ],
+  "epidemiology": [
+    "Bệnh phổ biến có thể dẫn đến suy hô hấp nếu không điều trị sớm",
+    "Người già và trẻ em là hai nhóm đối tượng có tỷ lệ tử vong cao nhất",
+    "Môi trường ô nhiễm và thiếu dinh dưỡng là yếu tố thúc đẩy bệnh phát triển"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html"
+}

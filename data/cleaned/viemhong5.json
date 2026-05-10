@@ -1,0 +1,103 @@
+{
+  "title": "Viêm họng",
+  "type": "disease",
+  "topic": "hô hấp - tai mũi họng",
+  "definition": "Viêm họng là một bệnh về họng phổ biến ở mọi đối tượng, đặc trưng bởi các triệu chứng điển hình như sốt, đau họng, ngứa cổ họng và khó nuốt. Bệnh thường xuất hiện vào giai đoạn chuyển mùa hoặc mùa lạnh.",
+  "classification": [
+    "Viêm họng do virus (phổ biến nhất)",
+    "Viêm họng do vi khuẩn (ít phổ biến hơn)",
+    "Viêm họng liên cầu khuẩn (do khuẩn Streptococcus nhóm A)"
+  ],
+  "pathophysiology": [
+    "Viêm nhiễm niêm mạc vùng hầu họng",
+    "Sưng tấy và đỏ niêm mạc họng",
+    "Xuất hiện các mảng trắng hoặc xám trên bề mặt họng",
+    "Sưng hạch bạch huyết vùng cổ do phản ứng miễn dịch",
+    "Ủ bệnh trước khi khởi phát triệu chứng rõ rệt"
+  ],
+  "causes": {
+    "acute": [
+      "Virus: Rhinovirus, Coronavirus, HPIV, Adenovirus (gây đau mắt đỏ), Influenza (cúm)",
+      "Virus Epstein-Barr (gây bệnh bạch cầu đơn nhân)",
+      "Vi khuẩn: Streptococcus nhóm A, C, G",
+      "Vi khuẩn khác: Chlamydia, Mycoplasma pneumoniae, Neisseria gonorrhoeae (lậu)"
+    ],
+    "chronic": [
+      "Có tiền sử dị ứng hoặc viêm xoang thường xuyên",
+      "Hút thuốc lá hoặc tiếp xúc khói thuốc thụ động",
+      "Trào ngược axit dạ dày kéo dài"
+    ]
+  },
+  "symptoms": [
+    "Đau họng, ngứa rát họng, khô họng",
+    "Khó nuốt, đau khi nói hoặc nuốt",
+    "Sốt (cảm lạnh thường sốt nhẹ, cảm cúm sốt cao hơn)",
+    "Hắt xì, sổ mũi, ho, đau đầu",
+    "Mệt mỏi cực độ, nhức mỏi cơ thể, ớn lạnh",
+    "Sưng hạch bạch huyết, phát ban, ăn mất ngon",
+    "Cổ họng tấy đỏ có mảng trắng hoặc xám",
+    "Có vị lạ trong miệng, buồn nôn"
+  ],
+  "complications": [
+    "Nhiễm trùng tai",
+    "Viêm xoang",
+    "Áp xe gần amidan"
+  ],
+  "diagnosis": [
+    "Khám sức khỏe tổng quát: Kiểm tra mảng trắng, đỏ và sưng hạch cổ",
+    "Nuôi cấy mẫu mô: Quét dịch tiết cổ họng tìm liên cầu khuẩn (kết quả sau vài phút hoặc 24 giờ)",
+    "Xét nghiệm máu: Xác định bệnh bạch cầu đơn nhân hoặc các nguyên nhân khác"
+  ],
+  "risk_groups": [
+    "Trẻ em (đối tượng chính của viêm họng liên cầu khuẩn)",
+    "Thanh thiếu niên và người trẻ tuổi (đối tượng chính của bệnh bạch cầu đơn nhân)",
+    "Người có tiền sử dị ứng, viêm xoang",
+    "Người hút thuốc lá",
+    "Người thường xuyên dùng chung đồ dùng cá nhân với người bệnh"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống nhiều nước để tránh mất nước",
+      "Ưu tiên uống nước ấm, tránh đồ lạnh",
+      "Súc miệng bằng nước muối ấm thường xuyên",
+      "Sử dụng máy tạo độ ẩm không khí",
+      "Nghỉ ngơi tuyệt đối cho đến khi khỏe lại",
+      "Dùng kẹo ngậm trị đau họng để làm dịu niêm mạc"
+    ],
+    "medication": [
+      "Thuốc hạ sốt, giảm đau không kê đơn: Paracetamol, Ibuprofen",
+      "Thuốc kháng virus (cho trường hợp nhiễm virus cúm)",
+      "Kháng sinh: Chỉ dùng cho liên cầu khuẩn, Chlamydia hoặc lậu (duy trì đến 24 giờ sau khi hết triệu chứng)"
+    ],
+    "psychotherapy": [
+      "Tránh căng thẳng dây thanh âm (không la hét hoặc nói quá nhiều)"
+    ]
+  },
+  "prevention": [
+    "Tránh dùng chung đồ ăn, thức uống và dụng cụ ăn uống",
+    "Hạn chế tiếp xúc gần với người đang bị bệnh",
+    "Rửa tay thường xuyên bằng xà phòng hoặc nước rửa tay chứa cồn",
+    "Vệ sinh tay sau khi ho, hắt hơi hoặc tiếp xúc nơi công cộng",
+    "Tránh hút thuốc và hít khói thuốc lá"
+  ],
+  "when_to_see_doctor": [
+    "Triệu chứng đau họng kèm sốt kéo dài hơn 10 ngày",
+    "Cảm giác cực kỳ đau hoặc không thể nuốt",
+    "Khó thở, phát ban kèm theo đau họng"
+  ],
+  "care_notes": [
+    "Kháng sinh không có tác dụng với viêm họng do virus",
+    "Bệnh rất dễ lây qua dịch tiết đường hô hấp hoặc đồ vật nhiễm bẩn",
+    "Người bệnh có thể lây nhiễm cho người khác ngay cả trong thời gian ủ bệnh",
+    "Nhiễm liên cầu khuẩn cần dùng kháng sinh đủ liều để tránh biến chứng",
+    "Cần phân biệt viêm họng với viêm amidan (có nốt trắng/vàng trên amidan) hoặc loét họng"
+  ],
+  "epidemiology": [
+    "Nhiễm virus là nguyên nhân phổ biến nhất",
+    "Virus thường lây mạnh qua nước bọt và dịch tiết",
+    "Liên cầu khuẩn nhóm A là nguyên nhân chủ yếu ở trẻ em",
+    "Thời gian hồi phục do virus thường từ 7-10 ngày"
+  ],
+  "source": "Hello Bacsi",
+  "url": "https://hellobacsi.com/benh-tai-mui-hong/benh-ve-hong/viem-hong/"
+}

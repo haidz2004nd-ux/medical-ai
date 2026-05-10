@@ -1,0 +1,105 @@
+{
+  "title": "Viêm xoang (Viêm mũi xoang)",
+  "type": "disease",
+  "topic": "Tai Mũi Họng",
+  "definition": "Viêm xoang là tình trạng viêm lớp niêm mạc hô hấp lót trong các hốc rỗng cạnh mũi (xoang). Khi bị kích ứng hoặc nhiễm trùng, niêm mạc này phù nề và tăng tiết dịch nhầy, gây bít tắc các lỗ thông xoang, dẫn đến ứ đọng dịch và tạo điều kiện cho vi sinh vật phát triển gây nhiễm trùng.",
+  "classification": [
+    "Viêm xoang cấp tính: Triệu chứng diễn ra đột ngột và kéo dài dưới 4 tuần",
+    "Viêm xoang bán cấp: Kéo dài từ 4 đến 12 tuần",
+    "Viêm xoang mạn tính: Tình trạng viêm kéo dài dai dẳng trên 3 tháng (12 tuần)",
+    "Viêm xoang tái phát: Xuất hiện ≥ 3 đợt cấp tính trở lên trong vòng một năm",
+    "Phân loại theo vị trí: Viêm xoang hàm, xoang sàng, xoang trán, xoang bướm và viêm đa xoang"
+  ],
+  "pathophysiology": [
+    "Phù nề niêm mạc do các tác nhân kích ứng (dị ứng, hóa chất) hoặc vi sinh vật",
+    "Rối loạn chức năng hệ thống lông chuyển dẫn đến giảm khả năng tự làm sạch",
+    "Tắc nghẽn các lỗ thông xoang (ostia) tạo môi trường kỵ khí nội xoang",
+    "Tăng tiết dịch nhầy quá mức và tích tụ mủ gây áp lực lên các thành xoang",
+    "Lan truyền phản ứng viêm sang các cơ quan lân cận (mắt, não, đường hô hấp dưới)"
+  ],
+  "causes": {
+    "acute": [
+      "Virus (chiếm đa số): Rhinovirus, Adenovirus, Enterovirus, Influenza",
+      "Vi khuẩn (khoảng 10% trường hợp): H. influenzae, S. pneumoniae, tụ cầu, liên cầu",
+      "Thay đổi áp suất không khí đột ngột (Barotrauma): Do đi máy bay hoặc lặn sâu"
+    ],
+    "chronic": [
+      "Nấm (thường là Aspergillus): Phổ biến ở người suy giảm miễn dịch hoặc dùng kháng sinh kéo dài",
+      "Polyp mũi: Các khối u lành tính cản trở lưu thông dịch nhầy",
+      "Bất thường cấu trúc: Lệch vách ngăn mũi, phì đại cuốn mũi",
+      "Dị ứng kéo dài: Phản ứng với phấn hoa, bụi nhà, nấm mốc hoặc lông thú nuôi"
+    ]
+  },
+  "symptoms": [
+    "Chảy dịch mũi: Dịch trong, đục hoặc có mủ vàng/xanh kèm mùi hôi",
+    "Nghẹt mũi: Gây khó thở bằng mũi, giảm hoặc mất khứu giác",
+    "Đau nhức vùng mặt: Đau khu trú tại hàm trên, trán, giữa hai mắt hoặc vùng chẩm tùy vị trí xoang viêm",
+    "Ho có đờm: Thường tăng nặng về đêm do dịch mũi chảy xuống họng (post-nasal drip)",
+    "Hơi thở có mùi hôi và cảm giác đau nhức răng hàm trên",
+    "Toàn thân: Sốt, ớn lạnh, mệt mỏi, nặng đầu",
+    "Dấu hiệu cảnh báo nặng: Lú lẫn, sưng đỏ quanh mắt, đau đầu dữ dội không đáp ứng thuốc giảm đau"
+  ],
+  "complications": [
+    "Biến chứng mắt: Viêm mô tế bào ổ mắt, áp xe ổ mắt, viêm thị thần kinh hậu nhãn cầu (nguy cơ mù lòa)",
+    "Biến chứng nội sọ: Viêm màng não, áp xe não, viêm tắc tĩnh mạch xoang hang",
+    "Biến chứng hô hấp: Viêm họng mạn tính, viêm tai giữa, viêm thanh quản, viêm phế quản mạn",
+    "Biến chứng xương: Viêm cốt tủy xương trán hoặc xương hàm"
+  ],
+  "diagnosis": [
+    "Nội soi Tai Mũi Họng: Phương pháp thường quy đánh giá dịch mủ và niêm mạc",
+    "Chẩn đoán hình ảnh: Chụp cắt lớp vi tính (CT Scan) là 'tiêu chuẩn vàng' để quan sát cấu trúc xoang",
+    "X-quang xoang (tư thế Blondeau, Hirtz): Ít dùng hơn so với CT nhưng vẫn có giá trị sàng lọc",
+    "Xét nghiệm vi sinh: Nuôi cấy dịch mũi tìm vi khuẩn và làm kháng sinh đồ",
+    "Xét nghiệm máu: Đánh giá tình trạng nhiễm trùng toàn thân (tăng bạch cầu, CRP)"
+  ],
+  "risk_groups": [
+    "Người có bất thường giải phẫu mũi xoang (lệch vách ngăn, polyp)",
+    "Người có cơ địa dị ứng, hen suyễn hoặc viêm mũi vận mạch",
+    "Bệnh nhân suy giảm miễn dịch (HIV, tiểu đường, hóa trị)",
+    "Người gặp các vấn đề về răng miệng (nhiễm trùng răng hàm trên)",
+    "Người thường xuyên tiếp xúc với khói thuốc, hóa chất hoặc ô nhiễm không khí"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Rửa mũi bằng nước muối sinh lý đẳng trương đúng cách để loại bỏ dịch mủ",
+      "Uống nhiều nước để làm loãng chất nhầy, bổ sung rau quả giàu vitamin C",
+      "Xông hơi bằng tinh dầu hoặc đắp khăn ấm lên vùng xoang bị đau",
+      "Giữ vệ sinh môi trường sống, sử dụng máy tạo độ ẩm khi thời tiết khô hanh"
+    ],
+    "medication": [
+      "Kháng sinh: Amoxicillin/Clavulanate (lựa chọn 1); Doxycycline hoặc Fluoroquinolon (nếu dị ứng Penicilin)",
+      "Thuốc giảm đau: Paracetamol hoặc Ibuprofen để hạ sốt và giảm áp lực hốc mặt",
+      "Thuốc co mạch tại chỗ (Oxymetazoline): Dùng tối đa 5 ngày để tránh viêm mũi do thuốc",
+      "Thuốc co mạch toàn thân: Pseudoephedrine giúp giảm sung huyết niêm mạc",
+      "Corticosteroid dạng xịt mũi: Giúp giảm viêm tại chỗ lâu dài"
+    ],
+    "surgery": [
+      "Phẫu thuật nội soi mũi xoang chức năng (FESS): Loại bỏ polyp, chỉnh vách ngăn hoặc mở rộng lỗ thông xoang"
+    ]
+  },
+  "prevention": [
+    "Tiêm vắc-xin cúm hàng năm và vắc-xin phế cầu khuẩn",
+    "Điều trị triệt để các bệnh lý dị ứng và răng miệng",
+    "Giữ ấm vùng mũi họng, thường xuyên rửa tay bằng xà phòng",
+    "Tránh xa khói thuốc lá và hạn chế bơi lội trong hồ bơi có nồng độ Clo cao"
+  ],
+  "when_to_see_doctor": [
+    "Triệu chứng viêm xoang kéo dài trên 10-15 ngày không thuyên giảm",
+    "Sốt cao kịch phát (> 39°C) hoặc có dấu hiệu cổ cứng, lú lẫn",
+    "Xuất hiện sưng nề đỏ vùng mắt, đau khi vận động nhãn cầu hoặc nhìn mờ",
+    "Đau đầu dữ dội vùng trán hoặc sau gáy không giảm khi dùng thuốc"
+  ],
+  "care_notes": [
+    "Không lạm dụng thuốc xịt co mạch quá 5 ngày vì có thể gây hiện tượng sung huyết phản hồi (rhinitis medicamentosa)",
+    "Người cao tuổi (> 65 tuổi) cần thận trọng khi dùng kháng sinh do nguy cơ kháng thuốc và tác dụng phụ cao",
+    "Cần phân biệt đau do viêm xoang cấp (thường dữ dội) với đau âm ỉ trong viêm xoang mạn tính"
+  ],
+  "epidemiology": [
+    "Viêm xoang là một trong những bệnh lý phổ biến nhất, chiếm khoảng 15-20% dân số Việt Nam",
+    "Tỷ lệ mắc bệnh tăng cao vào giai đoạn chuyển mùa và tại các đô thị có mức độ ô nhiễm bụi mịn cao",
+    "Là nguyên nhân hàng đầu dẫn đến việc kê đơn kháng sinh không hợp lý trong y tế cộng đồng",
+    "Tỷ lệ tái phát sau điều trị nội khoa hoặc phẫu thuật có xu hướng tăng ở bệnh nhân có cơ địa dị ứng"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html"
+}

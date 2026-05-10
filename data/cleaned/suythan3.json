@@ -1,0 +1,144 @@
+{
+  "title": "Suy thận",
+  "type": "disease",
+  "topic": "thận - tiết niệu - chuyển hóa",
+  "definition": "Suy thận là tình trạng thận suy giảm hoặc mất khả năng lọc máu, loại bỏ chất thải và điều hòa nước - điện giải, khiến độc tố tích tụ trong cơ thể. Bệnh có thể diễn tiến cấp tính (xảy ra nhanh, có thể hồi phục) hoặc mạn tính (tiến triển lâu dài, không hồi phục hoàn toàn).",
+  "classification": [
+    "Suy thận cấp (tổn thương thận cấp - AKI)",
+    "Suy thận mạn (bệnh thận mạn - CKD)",
+    "Suy thận mạn giai đoạn 5 (giai đoạn cuối)",
+    "Giai đoạn 1 CKD",
+    "Giai đoạn 2 CKD",
+    "Giai đoạn 3a CKD",
+    "Giai đoạn 3b CKD",
+    "Giai đoạn 4 CKD"
+  ],
+  "pathophysiology": [
+    "Giảm mức lọc cầu thận (GFR)",
+    "Tổn thương nephron",
+    "Rối loạn cân bằng nước - điện giải",
+    "Tích tụ ure, creatinine và độc chất trong máu",
+    "Rối loạn điều hòa nội tiết của thận (renin, erythropoietin)"
+  ],
+  "causes": {
+    "acute": [
+      "Giảm tưới máu thận (mất nước, sốc, suy tim)",
+      "Tổn thương nhu mô thận do nhiễm trùng hoặc thuốc độc thận",
+      "Tắc nghẽn đường tiết niệu (sỏi, phì đại tuyến tiền liệt, khối u)"
+    ],
+    "chronic": [
+      "Đái tháo đường",
+      "Tăng huyết áp",
+      "Viêm cầu thận mạn",
+      "Bệnh thận đa nang",
+      "Viêm thận - bể thận tái phát",
+      "Tắc nghẽn đường tiết niệu kéo dài",
+      "Trào ngược bàng quang - niệu quản",
+      "Lão hóa thận theo tuổi"
+    ]
+  },
+  "symptoms": [
+    "Giảm lượng nước tiểu",
+    "Phù mắt cá chân, bàn chân",
+    "Khó thở",
+    "Đau hoặc tức ngực",
+    "Mệt mỏi, buồn ngủ, uể oải",
+    "Chán ăn, buồn nôn, nôn kéo dài",
+    "Sụt cân",
+    "Ngứa da",
+    "Co rút cơ (đặc biệt ở chân)",
+    "Co giật",
+    "Hôn mê (giai đoạn nặng)",
+    "Thiếu máu"
+  ],
+  "complications": [
+    "Thiếu máu",
+    "Rối loạn khoáng xương và tăng phosphat máu",
+    "Bệnh tim mạch",
+    "Tăng kali máu nguy hiểm",
+    "Phù và ứ dịch toàn thân",
+    "Rối loạn thần kinh",
+    "Suy đa cơ quan",
+    "Tử vong nếu không điều trị"
+  ],
+  "diagnosis": [
+    "Siêu âm thận đánh giá cấu trúc và kích thước",
+    "Chụp CT scan đánh giá nguyên nhân và tổn thương",
+    "Chụp MRI trong trường hợp cần khảo sát chuyên sâu",
+    "Xét nghiệm chức năng thận (creatinine, ure, GFR)",
+    "Xét nghiệm nước tiểu",
+    "Xạ hình thận đánh giá chức năng bài tiết",
+    "Sinh thiết thận khi cần xác định nguyên nhân hoặc tổn thương đặc hiệu"
+  ],
+  "risk_groups": [
+    "Người mắc đái tháo đường",
+    "Người tăng huyết áp",
+    "Người bệnh tim mạch",
+    "Người cao tuổi",
+    "Người béo phì",
+    "Người hút thuốc lá",
+    "Người có tiền sử gia đình bệnh thận",
+    "Người dùng thuốc độc thận kéo dài",
+    "Người có bệnh lý tự miễn"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Kiểm soát huyết áp",
+      "Kiểm soát đường huyết",
+      "Ăn giảm muối",
+      "Hạn chế đạm theo chỉ định",
+      "Uống nước hợp lý",
+      "Tập thể dục thường xuyên",
+      "Duy trì cân nặng hợp lý",
+      "Tránh thuốc độc thận không cần thiết"
+    ],
+    "medication": [
+      "Điều trị nguyên nhân nền",
+      "Thuốc kiểm soát huyết áp",
+      "Thuốc điều chỉnh đường huyết",
+      "Điều trị thiếu máu",
+      "Điều chỉnh rối loạn điện giải",
+      "Chạy thận nhân tạo (hemodialysis)",
+      "Thẩm phân phúc mạc (peritoneal dialysis)",
+      "Ghép thận",
+      "Điều trị biến chứng tim mạch và chuyển hóa"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát tốt bệnh tiểu đường",
+    "Kiểm soát huyết áp",
+    "Hạn chế thuốc giảm đau không kê đơn dùng kéo dài",
+    "Uống đủ nước",
+    "Ăn uống lành mạnh, giảm muối và chất béo xấu",
+    "Không hút thuốc",
+    "Hạn chế rượu bia",
+    "Tập thể dục đều đặn",
+    "Duy trì cân nặng hợp lý",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Tiểu ít rõ rệt",
+    "Phù chân, mặt hoặc toàn thân",
+    "Khó thở không rõ nguyên nhân",
+    "Đau hoặc tức ngực",
+    "Buồn nôn, nôn kéo dài",
+    "Mệt mỏi kéo dài không rõ nguyên nhân",
+    "Nghi ngờ suy thận cấp hoặc mạn"
+  ],
+  "care_notes": [
+    "Suy thận mạn không thể chữa khỏi hoàn toàn",
+    "Phát hiện sớm giúp làm chậm tiến triển bệnh",
+    "Kiểm soát bệnh nền là yếu tố quan trọng nhất",
+    "Điều trị cần phối hợp nhiều phương pháp",
+    "Giai đoạn cuối cần điều trị thay thế thận"
+  ],
+  "epidemiology": [
+    "Tỷ lệ tăng theo tuổi",
+    "Liên quan chặt chẽ với đái tháo đường và tăng huyết áp",
+    "Gia tăng trong cộng đồng do lối sống hiện đại",
+    "Gánh nặng bệnh lớn trên toàn cầu",
+    "Phổ biến ở người cao tuổi và nhóm bệnh chuyển hóa"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/suy-than/"
+}

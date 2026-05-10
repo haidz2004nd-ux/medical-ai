@@ -1,0 +1,120 @@
+{
+  "title": "Sốt",
+  "type": "symptom",
+  "topic": "triệu chứng",
+  "definition": "Sốt là tình trạng nhiệt độ cơ thể tăng cao hơn mức bình thường (thường trên 37,5°C ở nách), xảy ra khi vùng dưới đồi trong não điều chỉnh tăng 'điểm nhiệt' của cơ thể. Đây là một phản ứng bảo vệ của hệ miễn dịch chống lại các tác nhân xâm nhập.",
+  "classification": [
+    "Sốt nhẹ: 37.5–38°C",
+    "Sốt vừa: 38–39°C",
+    "Sốt cao: 39–40°C",
+    "Sốt rất cao: >40°C",
+    "Sốt cấp tính (dưới 7 ngày)",
+    "Sốt kéo dài (trên 2 tuần)"
+  ],
+  "pathophysiology": [
+    "Tác nhân gây bệnh kích thích tế bào miễn dịch",
+    "Giải phóng các cytokine gây sốt (nội sinh)",
+    "Tác động lên vùng dưới đồi làm tăng điểm điều nhiệt",
+    "Cơ thể tăng sinh nhiệt (run rẩy, co mạch) và giảm tỏa nhiệt",
+    "Duy trì nhiệt độ cơ thể ở mức cao mới"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus (Cúm, sốt xuất huyết, COVID-19)",
+      "Nhiễm vi khuẩn (Viêm họng, viêm amidan, nhiễm trùng tiết niệu)",
+      "Nhiễm trùng cấp tính nặng (Viêm màng não, nhiễm khuẩn huyết)",
+      "Phản ứng sau tiêm chủng",
+      "Say nắng, say nóng"
+    ],
+    "chronic": [
+      "Lao (Lao phổi, lao hạch)",
+      "Bệnh tự miễn (Lupus ban đỏ, viêm khớp dạng thấp)",
+      "Bệnh lý ác tính (Ung thư, Lymphoma)",
+      "Nhiễm ký sinh trùng (Sốt rét mạn tính)",
+      "Rối loạn nội tiết (Cường giáp)"
+    ]
+  },
+  "symptoms": [
+    "Thân nhiệt tăng cao",
+    "Rét run hoặc ớn lạnh",
+    "Vã mồ hôi khi hạ sốt",
+    "Đau đầu, đau mỏi cơ khớp",
+    "Da nóng, đỏ mặt",
+    "Mệt mỏi, chán ăn",
+    "Khát nước, tiểu ít",
+    "Rối loạn ý thức, mê sảng (khi sốt quá cao)",
+    "Co giật (đặc biệt ở trẻ em)"
+  ],
+  "complications": [
+    "Mất nước và điện giải",
+    "Co giật do sốt cao (thường gặp ở trẻ từ 6 tháng - 5 tuổi)",
+    "Suy nhược cơ thể kéo dài",
+    "Sốc nhiễm khuẩn (nếu do nhiễm trùng nặng)",
+    "Tổn thương thần kinh (khi sốt cực cao trên 41-42°C)"
+  ],
+  "diagnosis": [
+    "Đo nhiệt độ (nách, miệng, hậu môn hoặc tai)",
+    "Khám lâm sàng tìm ổ nhiễm khuẩn",
+    "Công thức máu (tìm dấu hiệu nhiễm trùng, ký sinh trùng)",
+    "Xét nghiệm nước tiểu",
+    "Cấy máu hoặc dịch cơ thể tìm vi khuẩn",
+    "Chẩn đoán hình ảnh (X-quang phổi, siêu âm) khi cần tìm nguyên nhân"
+  ],
+  "risk_groups": [
+    "Trẻ sơ sinh và trẻ nhỏ",
+    "Người cao tuổi",
+    "Người bị suy giảm miễn dịch (HIV, đang hóa trị)",
+    "Người mắc bệnh mạn tính (Tiểu đường, tim mạch)",
+    "Người làm việc trong môi trường nắng nóng"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi tuyệt đối tại nơi thoáng mát",
+      "Mặc quần áo mỏng, thấm mồ hôi",
+      "Uống nhiều nước (nước lọc, nước trái cây)",
+      "Lau người bằng nước ấm (nhiệt độ nước thấp hơn thân nhiệt 2°C)",
+      "Ăn thức ăn lỏng, dễ tiêu (cháo, súp)",
+      "Chia nhỏ bữa ăn trong ngày"
+    ],
+    "medication": [
+      "Thuốc hạ sốt Paracetamol (liều 10-15mg/kg mỗi 4-6 giờ)",
+      "Thuốc hạ sốt nhóm NSAIDs (Ibuprofen - cần chỉ định của bác sĩ)",
+      "Dung dịch bù nước và điện giải (Oresol)",
+      "Kháng sinh (chỉ dùng khi xác định do vi khuẩn)",
+      "Thuốc điều trị nguyên nhân gốc (kháng virus, đặc trị ký sinh trùng)"
+    ]
+  },
+  "prevention": [
+    "Tiêm chủng vaccine đầy đủ",
+    "Rửa tay thường xuyên bằng xà phòng",
+    "Ăn chín, uống sôi",
+    "Tránh tiếp xúc gần với người đang bị bệnh truyền nhiễm",
+    "Giữ ấm cơ thể khi thời tiết thay đổi",
+    "Tăng cường dinh dưỡng nâng cao sức đề kháng"
+  ],
+  "when_to_see_doctor": [
+    "Sốt cao trên 39°C không đáp ứng thuốc hạ sốt",
+    "Trẻ em dưới 3 tháng tuổi bị sốt",
+    "Sốt kèm co giật hoặc nôn mửa liên tục",
+    "Có dấu hiệu cứng cổ, đau đầu dữ dội",
+    "Xuất hiện phát ban bất thường",
+    "Khó thở, đau ngực",
+    "Sốt kéo dài quá 3 ngày không rõ nguyên nhân"
+  ],
+  "care_notes": [
+    "Sốt là triệu chứng, không phải là bệnh đơn thuần",
+    "Cần theo dõi nhiệt độ thường xuyên (mỗi 1-2 giờ)",
+    "Tuyệt đối không đắp chăn kín hoặc mặc quá nhiều áo khi đang sốt",
+    "Không tự ý dùng kháng sinh khi chưa có chỉ định",
+    "Bù dịch là ưu tiên hàng đầu để tránh kiệt sức"
+  ],
+  "epidemiology": [
+    "Là triệu chứng phổ biến nhất trong y khoa",
+    "Tần suất cao ở trẻ em (trung bình 4-6 đợt/năm)",
+    "Gia tăng mạnh vào các thời điểm giao mùa",
+    "Liên quan mật thiết đến các dịch bệnh lưu hành (Cúm, Sốt xuất huyết)",
+    "Tỷ lệ nhập viện cao hơn ở các nhóm đối tượng nhạy cảm"
+  ],
+  "source": "Sức khỏe & Đời sống",
+  "url": "https://suckhoedoisong.vn/sot-cach-xu-tri-va-truong-hop-nao-can-nhap-vien-169220124004159107.htm"
+}

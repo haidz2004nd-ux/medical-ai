@@ -1,0 +1,127 @@
+{
+  "title": "Trầm cảm",
+  "type": "disease",
+  "topic": "tâm thần - thần kinh",
+  "definition": "Trầm cảm là một rối loạn tâm thần đặc trưng bởi khí sắc buồn kéo dài, mất hứng thú, giảm năng lượng, rối loạn giấc ngủ, thay đổi ăn uống và có thể kèm theo ý nghĩ hoặc hành vi tự sát, ảnh hưởng nghiêm trọng đến suy nghĩ, hành vi và chất lượng cuộc sống.",
+  "classification": [
+    "Trầm cảm điển hình",
+    "Trầm cảm không điển hình",
+    "Trầm cảm nhẹ",
+    "Trầm cảm vừa",
+    "Trầm cảm nặng",
+    "Trầm cảm mạn tính",
+    "Trầm cảm sau sinh",
+    "Trầm cảm nội sinh",
+    "Trầm cảm do stress"
+  ],
+  "pathophysiology": [
+    "Rối loạn các chất dẫn truyền thần kinh như serotonin, dopamine và norepinephrine",
+    "Rối loạn trục hạ đồi - tuyến yên - tuyến thượng thận (HPA axis) do stress kéo dài",
+    "Suy giảm hoạt động của các vùng não liên quan đến cảm xúc và động lực",
+    "Yếu tố di truyền và cơ địa làm tăng nguy cơ mắc bệnh",
+    "Tác động tâm lý kéo dài gây thay đổi cấu trúc và chức năng não bộ"
+  ],
+  "causes": {
+    "acute": [
+      "Sang chấn tâm lý như mất người thân",
+      "Phá sản, thất nghiệp đột ngột",
+      "Ly hôn hoặc đổ vỡ quan hệ",
+      "Áp lực học tập hoặc công việc cấp tính",
+      "Trầm cảm sau sinh",
+      "Chấn thương sọ não hoặc tổn thương não cấp tính"
+    ],
+    "chronic": [
+      "Căng thẳng kéo dài trong công việc và cuộc sống",
+      "Yếu tố di truyền",
+      "Môi trường sống tiêu cực",
+      "Bệnh lý não mạn tính",
+      "Rối loạn nhân cách hoặc khí sắc kéo dài",
+      "Thiếu hỗ trợ xã hội",
+      "Lạm dụng rượu hoặc chất kích thích"
+    ]
+  },
+  "symptoms": [
+    "Khí sắc buồn kéo dài",
+    "Mất hứng thú với mọi hoạt động",
+    "Rối loạn giấc ngủ (mất ngủ hoặc ngủ quá nhiều)",
+    "Giảm hoặc tăng cân bất thường",
+    "Mệt mỏi, giảm năng lượng",
+    "Khó tập trung",
+    "Cảm giác tội lỗi hoặc vô dụng",
+    "Lo âu vô cớ, dễ kích thích",
+    "Thu mình, ít giao tiếp",
+    "Ý nghĩ hoặc hành vi tự sát"
+  ],
+  "complications": [
+    "Tự sát hoặc hành vi tự sát",
+    "Suy giảm chất lượng cuộc sống nghiêm trọng",
+    "Suy giảm chức năng xã hội và nghề nghiệp",
+    "Lạm dụng rượu hoặc chất kích thích",
+    "Suy kiệt cơ thể",
+    "Rối loạn lo âu đi kèm"
+  ],
+  "diagnosis": [
+    "Khai thác bệnh sử và triệu chứng lâm sàng",
+    "Tiêu chuẩn ICD-10",
+    "Tiêu chuẩn DSM-IV",
+    "Đánh giá thời gian triệu chứng (≥ 2 tuần)",
+    "Đánh giá mức độ khí sắc và chức năng",
+    "Loại trừ các bệnh lý nội khoa và thần kinh khác"
+  ],
+  "risk_groups": [
+    "Người sau sang chấn tâm lý",
+    "Phụ nữ sau sinh",
+    "Học sinh, sinh viên chịu áp lực học tập",
+    "Người thất nghiệp hoặc phá sản",
+    "Người ly hôn hoặc mất người thân",
+    "Người có bệnh lý não hoặc chấn thương sọ não"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Hỗ trợ tâm lý và chia sẻ cảm xúc",
+      "Duy trì hoạt động xã hội tích cực",
+      "Giảm stress và áp lực cuộc sống",
+      "Tập thể dục nhẹ nhàng",
+      "Duy trì giấc ngủ hợp lý",
+      "Tránh rượu bia và chất kích thích"
+    ],
+    "medication": [
+      "Thuốc chống trầm cảm theo chỉ định bác sĩ",
+      "Thuốc điều chỉnh khí sắc",
+      "Theo dõi tác dụng phụ của thuốc",
+      "Không tự ý ngừng thuốc"
+    ]
+  },
+  "prevention": [
+    "Hỗ trợ tâm lý kịp thời khi gặp sang chấn",
+    "Duy trì môi trường sống tích cực",
+    "Giảm áp lực học tập và công việc",
+    "Phát hiện sớm dấu hiệu trầm cảm",
+    "Khám chuyên khoa tâm thần khi có triệu chứng",
+    "Xây dựng lối sống lành mạnh"
+  ],
+  "when_to_see_doctor": [
+    "Buồn bã kéo dài trên 2 tuần",
+    "Mất hứng thú hoàn toàn với cuộc sống",
+    "Có ý nghĩ hoặc hành vi tự sát",
+    "Mất ngủ nghiêm trọng kéo dài",
+    "Suy giảm chức năng sinh hoạt hằng ngày",
+    "Lo âu và tuyệt vọng tăng dần"
+  ],
+  "care_notes": [
+    "Trầm cảm là bệnh có thể điều trị được",
+    "Cần phát hiện sớm để giảm nguy cơ tự sát",
+    "Không tự ý dùng hoặc ngừng thuốc",
+    "Điều trị cần kết hợp thuốc và tâm lý",
+    "Gia đình đóng vai trò quan trọng trong hỗ trợ người bệnh"
+  ],
+  "epidemiology": [
+    "Phụ nữ mắc nhiều hơn nam giới",
+    "Tỷ lệ khoảng 2 nữ : 1 nam",
+    "Tỷ lệ mắc tăng trong xã hội hiện đại",
+    "Hàng năm có hàng trăm nghìn ca tử vong liên quan tự sát",
+    "Tỷ lệ điều trị kịp thời còn thấp"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/tram-cam-2982"
+}

@@ -1,0 +1,148 @@
+{
+  "title": "Suy tim",
+  "type": "disease",
+  "topic": "tim mạch",
+  "definition": "Suy tim là tình trạng trong đó cơ tim không thể bơm đủ máu để đáp ứng nhu cầu của cơ thể, dẫn đến các triệu chứng như khó thở, mệt mỏi do giảm cung cấp máu và oxy cho các cơ quan. Đây là bệnh lý tiến triển mạn tính với nhiều nguyên nhân khác nhau.",
+  "classification": [
+    "Suy tim trái",
+    "Suy tim phải",
+    "Suy tim toàn bộ",
+    "Suy tim cấp",
+    "Suy tim mạn",
+    "Suy tim tâm thu",
+    "Suy tim tâm trương",
+    "Suy tim có giảm phân suất tống máu",
+    "Suy tim phân suất tống máu bảo tồn",
+    "Suy tim phân suất tống máu trung gian"
+  ],
+  "pathophysiology": [
+    "Giảm khả năng co bóp hoặc giãn nở của cơ tim",
+    "Giảm cung lượng tim",
+    "Ứ máu tuần hoàn phổi hoặc hệ thống ngoại biên",
+    "Hoạt hóa hệ thần kinh giao cảm",
+    "Hoạt hóa hệ renin-angiotensin-aldosterone",
+    "Giữ muối và nước gây phù"
+  ],
+  "causes": {
+    "acute": [
+      "Nhồi máu cơ tim cấp",
+      "Phù phổi cấp",
+      "Cơn tăng huyết áp cấp",
+      "Rối loạn nhịp tim nặng",
+      "Viêm cơ tim cấp"
+    ],
+    "chronic": [
+      "Tăng huyết áp mạn tính",
+      "Bệnh mạch vành",
+      "Bệnh van tim",
+      "Bệnh cơ tim giãn",
+      "Bệnh tim bẩm sinh",
+      "Bệnh phổi mạn tính (COPD)",
+      "Đái tháo đường",
+      "Rối loạn nhịp tim mạn tính",
+      "Thiếu máu kéo dài"
+    ]
+  },
+  "symptoms": [
+    "Khó thở khi gắng sức hoặc khi nằm",
+    "Khó thở kịch phát về đêm",
+    "Mệt mỏi kéo dài",
+    "Phù chân và mắt cá chân",
+    "Ho kéo dài hoặc ho có bọt hồng",
+    "Tim đập nhanh hoặc loạn nhịp",
+    "Chóng mặt hoặc ngất",
+    "Ăn kém, buồn nôn",
+    "Tăng cân do giữ nước",
+    "Gan to và tĩnh mạch cổ nổi"
+  ],
+  "complications": [
+    "Phù phổi cấp",
+    "Rối loạn nhịp tim nguy hiểm",
+    "Đột tử do tim",
+    "Đột quỵ do huyết khối",
+    "Suy đa cơ quan",
+    "Giảm chất lượng sống",
+    "Tăng nguy cơ tử vong"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng (khó thở, phù, ran phổi)",
+    "Điện tâm đồ (ECG)",
+    "X-quang ngực",
+    "Siêu âm tim",
+    "Xét nghiệm BNP hoặc NT-proBNP",
+    "Holter ECG 24 giờ",
+    "Chụp CT hoặc MRI tim",
+    "Xét nghiệm máu (mỡ máu, đường huyết, điện giải, chức năng thận)"
+  ],
+  "risk_groups": [
+    "Người tăng huyết áp",
+    "Người mắc bệnh mạch vành",
+    "Người đái tháo đường",
+    "Người bệnh van tim",
+    "Người COPD",
+    "Người cao tuổi",
+    "Người hút thuốc lá",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người có tiền sử gia đình bệnh tim"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Giảm muối trong ăn uống",
+      "Hạn chế chất béo xấu",
+      "Tập thể dục nhẹ nhàng",
+      "Bỏ thuốc lá và hạn chế rượu bia",
+      "Kiểm soát cân nặng",
+      "Giảm stress",
+      "Tuân thủ điều trị và tái khám"
+    ],
+    "medication": [
+      "ACE inhibitors",
+      "ARB",
+      "Beta-blocker",
+      "Thuốc lợi tiểu",
+      "Thuốc kháng aldosterone",
+      "ARNI (sacubitril/valsartan)",
+      "Digoxin",
+      "Ivabradine",
+      "Thuốc điều trị bệnh nền"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát huyết áp",
+    "Kiểm soát đường huyết",
+    "Ăn uống lành mạnh",
+    "Tập thể dục thường xuyên",
+    "Không hút thuốc",
+    "Hạn chế rượu bia",
+    "Kiểm soát cân nặng",
+    "Khám sức khỏe định kỳ",
+    "Điều trị sớm bệnh tim mạch",
+    "Tránh lạm dụng thuốc gây hại tim"
+  ],
+  "when_to_see_doctor": [
+    "Khó thở tăng dần hoặc khi nghỉ",
+    "Phù chân hoặc toàn thân",
+    "Tăng cân nhanh do giữ nước",
+    "Đau ngực",
+    "Ngất hoặc chóng mặt",
+    "Tim đập nhanh kéo dài",
+    "Ho nhiều kèm khó thở"
+  ],
+  "care_notes": [
+    "Suy tim là bệnh mạn tính cần theo dõi lâu dài",
+    "Điều trị giúp cải thiện triệu chứng và kéo dài tuổi thọ",
+    "Phát hiện sớm giúp làm chậm tiến triển bệnh",
+    "Tuân thủ điều trị rất quan trọng",
+    "Giai đoạn nặng có thể cần thiết bị hỗ trợ hoặc ghép tim"
+  ],
+  "epidemiology": [
+    "Bệnh tim mạch phổ biến toàn cầu",
+    "Tăng theo tuổi",
+    "Liên quan tăng huyết áp và bệnh mạch vành",
+    "Gánh nặng y tế lớn",
+    "Gia tăng do lối sống ít vận động"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/suy-tim-314.html"
+}

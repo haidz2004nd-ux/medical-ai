@@ -1,0 +1,109 @@
+{
+  "title": "Viêm họng",
+  "type": "disease",
+  "topic": "hô hấp - tai mũi họng",
+  "definition": "Viêm họng là tình trạng viêm nhiễm niêm mạc họng và hầu. Bệnh gây ra cảm giác đau rát cổ họng, đặc biệt là khi nuốt, có thể tồn tại ở dạng cấp tính hoặc mãn tính.",
+  "classification": [
+    "Viêm họng cấp tính",
+    "Viêm họng mãn tính",
+    "Viêm họng do vi khuẩn (liên cầu khuẩn)",
+    "Viêm họng do virus"
+  ],
+  "pathophysiology": [
+    "Viêm nhiễm và sưng nề niêm mạc họng và hầu",
+    "Xung huyết mạch máu vùng họng",
+    "Sưng hạch bạch huyết ở cổ do phản ứng miễn dịch",
+    "Thay đổi tính chất và số lượng dịch tiết niêm mạc",
+    "Kích ứng lớp lót niêm mạc do axit dạ dày hoặc tác nhân hóa học"
+  ],
+  "causes": {
+    "acute": [
+      "Virus cúm A và B, Coronavirus, Parainfluenza virus",
+      "Vi khuẩn: phế cầu, tụ cầu, liên cầu khuẩn β tan huyết nhóm A",
+      "Thay đổi nhiệt độ đột ngột (sử dụng điều hòa quá nhiều)",
+      "Thời tiết hanh khô vào mùa đông"
+    ],
+    "chronic": [
+      "Hệ miễn dịch suy yếu (như nhiễm HIV) gây nhiễm trùng tái phát",
+      "Bệnh trào ngược dạ dày thực quản (GERD)",
+      "Tiếp xúc thường xuyên với chất kích thích: khói bụi, thuốc lá, rượu bia",
+      "Đồ ăn cay nóng hoặc hóa chất xịt",
+      "Khối u tồn tại ở cổ họng hoặc lưỡi"
+    ]
+  },
+  "symptoms": [
+    "Đau rát cổ họng, khó khăn khi nuốt",
+    "Niêm mạc họng sưng đỏ, xung huyết, nổi mụn nhỏ ở vách họng",
+    "Sưng hạch bạch huyết ở cổ",
+    "Dịch tiết họng nhiều, đặc và sẫm màu",
+    "Khan tiếng hoặc mất tiếng",
+    "Ho khạc, hắng giọng thường xuyên",
+    "Cảm giác buồn nôn, mẫn cảm vùng họng",
+    "Sốt nhẹ và đau đầu, có thể ù tai, nhức tai"
+  ],
+  "complications": [
+    "Viêm amidan",
+    "Áp xe vùng họng (hình thành khối mủ)",
+    "Nhiễm khuẩn huyết (gây viêm tim, viêm thận do liên cầu khuẩn)",
+    "Viêm xoang, viêm tai giữa cấp",
+    "Viêm phế quản, viêm phổi thùy, áp xe phổi"
+  ],
+  "diagnosis": [
+    "Soi họng quan sát niêm mạc và dịch tiết",
+    "Khám lâm sàng vùng hạch cổ",
+    "Chẩn đoán phân biệt với các bệnh sởi, ho gà, cúm",
+    "Thăm khám bác sĩ chuyên khoa"
+  ],
+  "risk_groups": [
+    "Người có hệ miễn dịch suy yếu (HIV/AIDS)",
+    "Người thường xuyên hút thuốc lá, uống rượu bia",
+    "Người làm việc trong môi trường khói bụi, hóa chất",
+    "Người mắc bệnh trào ngược dạ dày thực quản",
+    "Người có thói quen sử dụng điều hòa nhiệt độ thấp đột ngột"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Súc miệng bằng nước muối ấm (1 thìa muối pha với 237ml nước)",
+      "Uống trà gừng mật ong và chanh giúp kháng khuẩn, tiêu đờm",
+      "Sử dụng máy tạo độ ẩm và lọc không khí trong phòng",
+      "Bổ sung dưỡng chất, nghỉ ngơi hợp lý",
+      "Tránh các tác nhân kích thích (thuốc lá, rượu bia, đồ cay nóng)"
+    ],
+    "medication": [
+      "Thuốc kháng sinh (Penicillin, Amoxicillin...) theo chỉ định của bác sĩ",
+      "Sử dụng thuốc điều trị theo nguyên nhân (ví dụ: thuốc kháng virus hoặc thuốc trị trào ngược)"
+    ],
+    "psychotherapy": [
+      "Giáo dục sức khỏe về phòng ngừa bệnh lý hô hấp",
+      "Tư vấn thay đổi thói quen sinh hoạt và bảo vệ họng"
+    ]
+  },
+  "prevention": [
+    "Giữ ấm cổ họng khi thời tiết chuyển lạnh",
+    "Vệ sinh răng miệng sạch sẽ mỗi ngày",
+    "Hạn chế sử dụng rượu bia, thuốc lá",
+    "Tập luyện thể dục thể thao nâng cao sức đề kháng",
+    "Tránh thay đổi nhiệt độ môi trường quá đột ngột"
+  ],
+  "when_to_see_doctor": [
+    "Sốt cao không hạ",
+    "Khó thở, cứng cổ hoặc chảy nước dãi không kiểm soát",
+    "Có máu trong dịch đờm hoặc nước bọt",
+    "Bệnh kéo dài trên một tuần không thuyên giảm",
+    "Đau họng dữ dội gây cản trở ăn uống hoàn toàn"
+  ],
+  "care_notes": [
+    "Thông thường bệnh tự khỏi sau một tuần nếu chăm sóc đúng cách",
+    "Súc miệng nước muối nên thực hiện ít nhất một lần mỗi giờ khi đau rát",
+    "Cần tuyệt đối tuân thủ liều lượng kháng sinh của bác sĩ để tránh kháng thuốc",
+    "Bệnh có thể đi kèm với các bệnh truyền nhiễm như sởi, ho gà",
+    "Viêm họng do liên cầu tan huyết cần đặc biệt chú ý vì dễ gây biến chứng tim, thận"
+  ],
+  "epidemiology": [
+    "Chứng bệnh thường gặp nhất vào mùa đông khi trời hanh khô",
+    "80% trường hợp viêm họng do virus gây ra",
+    "Phổ biến ở mọi lứa tuổi, đặc biệt là người nhạy cảm với thời tiết"
+  ],
+  "source": "MEDLATEC",
+  "url": "https://medlatec.vn/tin-tuc/viem-hong-la-gi-nguyen-nhan-va-chua-tri-s195-n17712"
+}

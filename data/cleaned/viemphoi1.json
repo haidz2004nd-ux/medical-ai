@@ -1,0 +1,104 @@
+{
+  "title": "Viêm phổi",
+  "type": "disease",
+  "topic": "hô hấp - phổi",
+  "definition": "Viêm phổi là hiện tượng viêm nhiễm của nhu mô phổi bao gồm phế nang, túi phế nang, ống phế nang, tổ chức liên kết khe kẽ và tiểu phế quản tận cùng. Tình trạng này khiến các phế nang chứa đầy chất lỏng hoặc mủ, gây cản trở hô hấp.",
+  "classification": [
+    "Theo nguyên nhân: Vi khuẩn, virus, nấm, hóa chất",
+    "Theo nguồn lây: Viêm phổi cộng đồng, viêm phổi bệnh viện",
+    "Theo bệnh cảnh đặc biệt: Viêm phổi hít (do hóa chất)"
+  ],
+  "pathophysiology": [
+    "Viêm phế nang và đường dẫn khí",
+    "Tích tụ chất lỏng hoặc mủ trong túi phế nang",
+    "Tổn thương nhu mô và mô kẽ phổi",
+    "Phản ứng viêm lan tỏa gây suy giảm khả năng trao đổi oxy"
+  ],
+  "causes": {
+    "acute": [
+      "Vi khuẩn: Streptococcus pneumoniae (phổ biến nhất ở cộng đồng), P. aeruginosa, S. aureus, Haemophillus spp",
+      "Virus: SARS-CoV-2 (nguy hiểm nhất), virus cúm, virus gây cảm lạnh",
+      "Nấm: Do hít phải bào tử nấm (thường gặp ở người suy giảm miễn dịch)",
+      "Hóa chất: Viêm phổi hít do tiếp xúc hóa chất độc hại"
+    ],
+    "chronic": [
+      "Tái phát nhiều lần do hệ miễn dịch yếu",
+      "Hệ quả từ bệnh phổi tắc nghẽn mãn tính (COPD) hoặc tim mạch",
+      "Nhiễm trùng bệnh viện sau 48 giờ nhập viện"
+    ]
+  },
+  "symptoms": [
+    "Đau ngực khi thở hoặc ho",
+    "Ho, ho có đờm hoặc mủ",
+    "Mệt mỏi, sốt, đổ mồ hôi và ớn lạnh",
+    "Khó thở, thở nhanh gắng sức",
+    "Buồn nôn, nôn mửa hoặc tiêu chảy",
+    "Ở người già: Lú lẫn, có thể không sốt",
+    "Ở trẻ nhỏ: Rút lõm lồng ngực, tím tái, li bì, bỏ bú, co giật (khi sốt cao)"
+  ],
+  "complications": [
+    "Nhiễm trùng huyết (gây suy đa tạng)",
+    "Suy hô hấp cấp (cần máy thở)",
+    "Tràn dịch màng phổi (tích tụ dịch gây khó thở)",
+    "Áp xe phổi (hình thành ổ mủ trong phổi)"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng: Đếm nhịp thở, nghe phổi tìm ran ẩm/ran nổ",
+    "X-quang ngực: Tìm tổn thương nhu mô, đám mờ phế nang",
+    "Chụp CT ngực: Phát hiện tổn thương nhỏ mà X-quang bỏ sót",
+    "Xét nghiệm máu: Kiểm tra số lượng bạch cầu",
+    "Nuôi cấy đờm: Định danh vi khuẩn/nấm để làm kháng sinh đồ",
+    "Nội soi phế quản: Quan sát đường thở và lấy mẫu mô/dịch"
+  ],
+  "risk_groups": [
+    "Trẻ em dưới 5 tuổi (đặc biệt dưới 2 tháng tuổi)",
+    "Người lớn tuổi (trên 65 tuổi)",
+    "Phụ nữ mang thai (hệ miễn dịch suy giảm)",
+    "Người mắc bệnh mãn tính: Hen suyễn, COPD, bệnh tim",
+    "Người suy giảm miễn dịch: HIV/AIDS, ghép tạng, hóa trị",
+    "Người hút thuốc lá"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi hoàn toàn tại nhà (mức độ nhẹ)",
+      "Uống nhiều nước để làm loãng đờm",
+      "Vệ sinh môi trường sống sạch sẽ, thay chăn ga thường xuyên",
+      "Kiêng thực phẩm nhiều muối, thịt đỏ, tinh bột tinh chế"
+    ],
+    "medication": [
+      "Thuốc kháng sinh: Điều trị viêm phổi do vi khuẩn (thường dùng 7-20 ngày tùy mức độ)",
+      "Thuốc hạ sốt/giảm đau: Paracetamol (Acetaminophen), Ibuprofen",
+      "Thuốc kháng virus: Chỉ định cho các trường hợp do virus (như cúm, SARS-CoV-2)"
+    ],
+    "surgery": [
+      "Chọc hút hoặc dẫn lưu dịch màng phổi",
+      "Dẫn lưu hoặc phẫu thuật ổ áp xe phổi"
+    ]
+  },
+  "prevention": [
+    "Tiêm phòng: Vắc xin phế cầu (Synflorix), vắc xin cúm, vắc xin Covid-19",
+    "Tăng cường vệ sinh: Rửa tay thường xuyên, đeo khẩu trang, súc miệng nước muối",
+    "Không hút thuốc lá (chủ động và thụ động)",
+    "Duy trì lối sống lành mạnh: Ngủ đủ giấc, tập thể dục, ăn uống đủ chất"
+  ],
+  "when_to_see_doctor": [
+    "Đau họng sốt kéo dài trên 10 ngày hoặc khó thở",
+    "Trẻ dưới 2 tháng tuổi có dấu hiệu ho, sốt, bỏ bú (bắt buộc nhập viện)",
+    "Trẻ 2-5 tuổi li bì, khó đánh thức, co giật, thở rít",
+    "Người lớn sốt cao không hạ, tức ngực dữ dội, tím tái"
+  ],
+  "care_notes": [
+    "Mọi trường hợp viêm phổi ở trẻ dưới 2 tháng tuổi đều được xem là nặng",
+    "Không tự ý ngưng kháng sinh sớm ngay cả khi triệu chứng đã giảm",
+    "Cần phân biệt viêm phổi với ung thư phổi (ho dai dẳng >2 tuần, ho ra máu)",
+    "Dịch tiết từ ho/hắt hơi là nguồn lây nhiễm chính trong cộng đồng",
+    "Phụ nữ mang thai mắc viêm phổi có nguy cơ sinh non hoặc sẩy thai"
+  ],
+  "epidemiology": [
+    "Nguyên nhân tử vong hàng đầu ở trẻ em dưới 5 tuổi",
+    "Bùng phát mạnh khi thời tiết chuyển mùa hoặc mùa mưa",
+    "Đại dịch Covid-19 là loại viêm phổi virus nguy hiểm nhất hiện nay"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/viem-phoi/"
+}

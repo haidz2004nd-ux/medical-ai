@@ -1,0 +1,110 @@
+{
+  "title": "Ho nhiều",
+  "type": "symptom",
+  "topic": "hô hấp",
+  "definition": "Ho nhiều là tình trạng ho kéo dài hoặc xuất hiện thường xuyên, có thể là phản xạ bảo vệ của cơ thể hoặc dấu hiệu cảnh báo các bệnh lý hô hấp từ nhẹ đến nghiêm trọng.",
+  "classification": [
+    "Ho cấp tính",
+    "Ho bán cấp",
+    "Ho mạn tính"
+  ],
+  "pathophysiology": [
+    "Kích thích thụ thể ho trong đường hô hấp",
+    "Phản xạ ho nhằm tống xuất dị vật và dịch tiết",
+    "Viêm nhiễm làm tăng tiết đờm",
+    "Tổn thương niêm mạc hô hấp",
+    "Rối loạn chức năng đường dẫn khí"
+  ],
+  "causes": {
+    "primary": [
+      "Dị ứng",
+      "Trào ngược dạ dày thực quản",
+      "Viêm phế quản",
+      "Nhiễm virus đường hô hấp"
+    ],
+    "secondary": [
+      "Ho gà",
+      "Viêm phổi",
+      "Lao phổi",
+      "Ung thư phổi"
+    ]
+  },
+  "symptoms": [
+    "Ho kéo dài hoặc ho nhiều lần",
+    "Ho khan hoặc ho có đờm",
+    "Ho tăng về đêm",
+    "Sốt",
+    "Đau tức ngực",
+    "Khó thở",
+    "Mệt mỏi",
+    "Khản tiếng",
+    "Ho ra máu"
+  ],
+  "complications": [
+    "Viêm phổi nặng",
+    "Áp xe phổi",
+    "Tràn mủ màng phổi",
+    "Suy hô hấp",
+    "Tổn thương phổi kéo dài",
+    "Nguy cơ tử vong nếu không điều trị"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Khai thác thời gian và tính chất ho",
+    "Xét nghiệm máu",
+    "Chụp X-quang phổi",
+    "Xét nghiệm đờm"
+  ],
+  "risk_groups": [
+    "Trẻ sơ sinh và trẻ nhỏ",
+    "Người cao tuổi",
+    "Người suy giảm miễn dịch",
+    "Người mắc bệnh nền",
+    "Người hút thuốc",
+    "Người sống trong môi trường ô nhiễm"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Uống đủ nước",
+      "Giữ ấm cơ thể",
+      "Tránh khói bụi",
+      "Tăng cường dinh dưỡng",
+      "Tập luyện nâng cao sức đề kháng"
+    ],
+    "medical": [
+      "Thuốc giảm ho",
+      "Thuốc long đờm",
+      "Kháng sinh khi có nhiễm khuẩn",
+      "Điều trị nguyên nhân gây bệnh"
+    ]
+  },
+  "prevention": [
+    "Đeo khẩu trang khi ra ngoài",
+    "Rửa tay thường xuyên",
+    "Tránh tiếp xúc nguồn lây",
+    "Tiêm phòng đầy đủ",
+    "Duy trì lối sống lành mạnh"
+  ],
+  "when_to_see_doctor": [
+    "Ho kéo dài trên 2 tuần",
+    "Ho ngày càng nặng",
+    "Ho ra máu",
+    "Khó thở",
+    "Đau tức ngực",
+    "Sốt cao kéo dài"
+  ],
+  "care_notes": [
+    "Không chủ quan với ho kéo dài",
+    "Không tự ý dùng thuốc",
+    "Theo dõi triệu chứng đi kèm",
+    "Cần khám sớm nếu nghi ngờ bệnh nặng"
+  ],
+  "epidemiology": [
+    "Ho là triệu chứng phổ biến",
+    "Gặp ở mọi lứa tuổi",
+    "Tăng vào mùa lạnh và giao mùa",
+    "Liên quan đến ô nhiễm môi trường"
+  ],
+  "source": "Medlatec",
+  "url": "https://medlatec.vn/tin-tuc/ho-nhieu-la-dau-hieu-canh-bao-nhung-benh-gi-s195-n18155"
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Bệnh viêm xoang (Viêm các xoang cạnh mũi)",
+  "type": "disease",
+  "topic": "Tai Mũi Họng",
+  "definition": "Viêm xoang là tình trạng viêm niêm mạc lót trong các hốc rỗng cạnh mũi (xoang). Khi niêm mạc bị phù nề, dịch nhầy tích tụ gây bít tắc các lỗ thông xoang, tạo môi trường kỵ khí thuận lợi cho các tác nhân như virus, vi khuẩn hoặc nấm phát triển, dẫn đến phản ứng nhiễm trùng và gây áp lực lên các hốc mặt.",
+  "classification": [
+    "Viêm xoang cấp tính: Triệu chứng khởi phát đột ngột, kéo dài từ 1 – 4 tuần",
+    "Viêm xoang bán cấp: Giai đoạn chuyển tiếp, kéo dài từ 4 – 12 tuần",
+    "Viêm xoang mạn tính: Tình trạng viêm kéo dài dai dẳng trên 12 tuần",
+    "Viêm xoang tái phát: Xuất hiện ≥ 4 đợt viêm cấp tính trong vòng một năm",
+    "Phân loại theo vị trí: Viêm xoang hàm, xoang sàng (trước/sau), xoang trán, xoang bướm và viêm đa xoang"
+  ],
+  "pathophysiology": [
+    "Sự phù nề niêm mạc gây hẹp hoặc tắc nghẽn phức hợp lỗ thông khe (osteomeatal complex)",
+    "Rối loạn hệ thống lông chuyển làm giảm khả năng vận chuyển dịch nhầy ra ngoài",
+    "Tích tụ dịch tiết gây tăng áp lực trong xoang, dẫn đến các cơn đau nhức đặc trưng",
+    "Sự thay đổi độ pH trong lòng xoang tạo điều kiện cho vi sinh vật tăng sinh",
+    "Dịch viêm chảy xuống họng gây kích ứng và viêm nhiễm đường hô hấp dưới"
+  ],
+  "causes": {
+    "acute": [
+      "Virus (phổ biến nhất): Rhinovirus, Influenza, thường khởi phát sau cảm lạnh",
+      "Vi khuẩn: Thường là bội nhiễm sau nhiễm virus (S. pneumoniae, H. influenzae)",
+      "Thay đổi áp suất đột ngột (đi máy bay, lặn sâu)"
+    ],
+    "chronic": [
+      "Bất thường giải phẫu: Lệch vách ngăn mũi, phì đại cuốn mũi, đường dẫn lưu hẹp",
+      "Polyp mũi: Các khối u lành tính gây cản trở dẫn lưu dịch",
+      "Nấm (Aspergillus): Thường gặp ở người suy giảm miễn dịch hoặc do vệ sinh mũi kém",
+      "Ô nhiễm môi trường: Khói thuốc lá, hóa chất công nghiệp, chất Clo trong hồ bơi"
+    ]
+  },
+  "symptoms": [
+    "Đau nhức vùng mặt: Đau tại trán, hai bên cánh mũi, hàm trên hoặc giữa hai mắt",
+    "Chảy dịch mũi: Dịch đặc màu xanh, vàng hoặc trắng đục; có thể chảy ngược xuống họng gây ho đờm",
+    "Nghẹt mũi, tắc mũi: Gây khó thở bằng mũi, suy giảm khứu giác và vị giác",
+    "Đau đầu: Cảm giác nặng đầu tăng lên khi cúi người hoặc vào sáng sớm",
+    "Hơi thở có mùi hôi (halitosis) do dịch mủ tích tụ",
+    "Các triệu chứng đi kèm: Sốt nhẹ, mệt mỏi, đau tai, đau răng hàm trên, sưng nề nhẹ vùng mặt"
+  ],
+  "complications": [
+    "Biến chứng mắt: Viêm mô tế bào ổ mắt, áp xe mí mắt, viêm dây thần kinh thị giác gây mù lòa",
+    "Biến chứng nội sọ: Viêm màng não, áp xe não, viêm tắc tĩnh mạch xoang hang (cực kỳ nguy hiểm)",
+    "Biến chứng xương: Viêm tủy xương trán hoặc các xương mặt",
+    "Biến chứng hô hấp: Viêm họng mạn tính, viêm phế quản, hen suyễn kịch phát"
+  ],
+  "diagnosis": [
+    "Thăm khám lâm sàng chuyên khoa Tai Mũi Họng (ENT)",
+    "Nội soi mũi xoang: Quan sát trực tiếp mủ, polyp và tình trạng niêm mạc",
+    "Chẩn đoán hình ảnh: Chụp CT Scan hoặc MRI vùng mũi xoang để đánh giá chi tiết cấu trúc và mức độ viêm",
+    "Xét nghiệm dịch mũi: Nuôi cấy vi khuẩn làm kháng sinh đồ (nếu điều trị nội khoa thất bại)",
+    "Xét nghiệm dị ứng: Xác định các tác nhân gây kích ứng nếu nghi ngờ viêm xoang dị ứng"
+  ],
+  "risk_groups": [
+    "Người mắc bệnh viêm mũi dị ứng hoặc hen suyễn",
+    "Người có cấu trúc mũi bất thường (lệch vách ngăn, polyp mũi)",
+    "Bệnh nhân nhiễm trùng răng miệng (sâu răng hàm trên)",
+    "Người suy giảm miễn dịch (HIV, đái tháo đường, đang hóa trị)",
+    "Người làm việc trong môi trường khói bụi, ô nhiễm hoặc thường xuyên bơi lội"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Vệ sinh mũi bằng nước muối sinh lý thường xuyên (Rửa mũi xoang)",
+      "Nghỉ ngơi tại nơi thoáng mát, giữ ấm cơ thể khi thời tiết thay đổi",
+      "Kê cao gối khi ngủ để hỗ trợ dẫn lưu dịch và giảm ho ban đêm",
+      "Sử dụng máy tạo độ ẩm và uống đủ nước để làm loãng chất nhầy"
+    ],
+    "medication": [
+      "Thuốc giảm đau, hạ sốt: Paracetamol, Ibuprofen",
+      "Thuốc kháng sinh: Chỉ sử dụng khi xác định nhiễm khuẩn (theo đơn bác sĩ)",
+      "Corticosteroid dạng xịt: Giảm viêm niêm mạc hiệu quả",
+      "Thuốc co mạch mũi: Dùng ngắn hạn (dưới 5 ngày) để tránh viêm mũi do thuốc"
+    ],
+    "surgery": [
+      "Phẫu thuật nội soi mũi xoang chức năng (FESS): Mở rộng lỗ thông, dẫn lưu mủ",
+      "Phẫu thuật chỉnh hình vách ngăn hoặc loại bỏ polyp mũi"
+    ]
+  },
+  "prevention": [
+    "Tiêm chủng vắc-xin cúm hằng năm và vắc-xin phế cầu khuẩn",
+    "Đeo khẩu trang khi ra ngoài hoặc tiếp xúc với môi trường ô nhiễm",
+    "Rửa tay thường xuyên, hạn chế tiếp xúc gần với người đang mắc cảm cúm",
+    "Quản lý tốt các bệnh lý dị ứng và răng miệng"
+  ],
+  "when_to_see_doctor": [
+    "Sốt cao kéo dài (> 38.5°C), cổ cứng hoặc có dấu hiệu co giật",
+    "Rối loạn thị lực: Mắt sưng đỏ, nhìn mờ, đau khi cử động nhãn cầu",
+    "Đau đầu dữ dội không đáp ứng với thuốc giảm đau thông thường",
+    "Triệu chứng cảm lạnh kéo dài trên 10 ngày hoặc tái phát liên tục"
+  ],
+  "care_notes": [
+    "Cảnh giác đặc biệt với viêm xoang bướm vì vị trí gần nền sọ, dễ gây biến biến chứng tử vong",
+    "Lạm dụng thuốc xịt thông mũi có thể gây hiện tượng 'nhờn thuốc' và hoại tử niêm mạc",
+    "Virus gây bệnh có tính lây lan qua giọt bắn nhưng viêm xoang không phải là bệnh truyền nhiễm trực tiếp"
+  ],
+  "epidemiology": [
+    "Là bệnh lý tai mũi họng phổ biến hàng đầu tại các nước nhiệt đới như Việt Nam",
+    "Ước tính khoảng 15-20% dân số mắc viêm xoang ở các mức độ khác nhau",
+    "Chi phí điều trị và giảm năng suất lao động do viêm xoang gây gánh nặng kinh tế lớn",
+    "Tỷ lệ mắc bệnh đang tăng dần do ô nhiễm bụi mịn (PM2.5) tại các đô thị lớn"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/benh-viem-xoang/"
+}

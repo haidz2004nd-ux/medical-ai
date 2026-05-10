@@ -1,0 +1,135 @@
+{
+  "title": "Đau ngực",
+  "type": "disease",
+  "topic": "bệnh tim mạch - hô hấp - tiêu hóa",
+  "definition": "Đau ngực là cảm giác đau, tức, nặng hoặc khó chịu ở vùng ngực từ ngang vai đến trên cơ hoành, có thể xuất hiện đột ngột hoặc tái diễn, với mức độ từ nhẹ đến dữ dội, có thể kèm khó thở, vã mồ hôi, chóng mặt hoặc buồn nôn.",
+  "classification": [
+    "Đau ngực do tim",
+    "Đau ngực do phổi",
+    "Đau ngực do tiêu hóa",
+    "Đau ngực do cơ xương khớp",
+    "Đau ngực do thần kinh - tâm lý"
+  ],
+  "pathophysiology": [
+    "Thiếu máu cơ tim do tắc nghẽn động mạch vành",
+    "Giảm trao đổi khí do tổn thương phổi",
+    "Trào ngược acid gây kích thích niêm mạc thực quản",
+    "Viêm hoặc tổn thương cơ, xương, sụn vùng ngực",
+    "Rối loạn thần kinh thực vật",
+    "Phản ứng viêm kích thích thụ thể đau"
+  ],
+  "causes": {
+    "primary": [
+      "Nhồi máu cơ tim",
+      "Thuyên tắc phổi",
+      "Bóc tách động mạch chủ",
+      "Tràn khí màng phổi"
+    ],
+    "secondary": [
+      "Viêm phổi",
+      "Viêm màng phổi",
+      "Trào ngược dạ dày - thực quản",
+      "Viêm sụn sườn",
+      "Căng cơ thành ngực",
+      "Rối loạn lo âu hoặc hoảng loạn"
+    ]
+  },
+  "symptoms": [
+    "Đau tức, đè nặng hoặc đau nhói vùng ngực",
+    "Đau lan ra cổ, hàm, vai hoặc tay trái",
+    "Khó thở",
+    "Vã mồ hôi",
+    "Chóng mặt hoặc choáng váng",
+    "Buồn nôn",
+    "Tim đập nhanh hoặc loạn nhịp",
+    "Đau tăng khi hít sâu hoặc vận động"
+  ],
+  "complications": [
+    "Nhồi máu cơ tim",
+    "Sốc tim",
+    "Suy tim",
+    "Suy hô hấp",
+    "Tắc mạch phổi",
+    "Ngừng tim",
+    "Tử vong"
+  ],
+  "diagnosis": [
+    "Khám lâm sàng",
+    "Điện tâm đồ (ECG)",
+    "Siêu âm tim",
+    "Chụp X-quang ngực",
+    "Chụp CT ngực hoặc CT mạch vành",
+    "Xét nghiệm máu (Troponin, CK-MB, D-dimer)",
+    "Chụp mạch vành",
+    "Nội soi thực quản - dạ dày (khi nghi tiêu hóa)"
+  ],
+  "prediabetes": [],
+  "screening": [
+    "Người có nguy cơ tim mạch (tăng huyết áp, đái tháo đường)",
+    "Người hút thuốc lá",
+    "Người có triệu chứng đau ngực tái phát",
+    "Người có bệnh phổi mạn tính",
+    "Người stress kéo dài"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi khi có cơn đau",
+      "Tránh gắng sức",
+      "Giảm stress",
+      "Ăn uống lành mạnh",
+      "Bỏ thuốc lá",
+      "Hạn chế rượu bia",
+      "Tập thể dục phù hợp"
+    ],
+    "medication": [
+      "Thuốc giãn mạch vành",
+      "Thuốc chống đông hoặc kháng kết tập tiểu cầu",
+      "Thuốc giảm đau",
+      "Thuốc ức chế acid dạ dày",
+      "Thuốc điều trị bệnh phổi",
+      "Thuốc an thần (khi do lo âu)"
+    ]
+  },
+  "risk_groups": [
+    "Người lớn tuổi",
+    "Người có bệnh tim mạch",
+    "Người hút thuốc",
+    "Người béo phì",
+    "Người ít vận động",
+    "Người stress kéo dài",
+    "Người có bệnh phổi hoặc tiêu hóa"
+  ],
+  "prevention": [
+    "Không hút thuốc",
+    "Tập thể dục đều đặn",
+    "Ăn uống lành mạnh",
+    "Kiểm soát huyết áp, đường huyết, mỡ máu",
+    "Giảm stress",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Đau ngực đột ngột, dữ dội",
+    "Đau kéo dài trên 15 phút",
+    "Đau lan ra tay trái, hàm hoặc lưng",
+    "Khó thở hoặc thở nhanh",
+    "Choáng váng hoặc ngất",
+    "Vã mồ hôi lạnh",
+    "Nghi ngờ nhồi máu cơ tim"
+  ],
+  "care_notes": [
+    "Không chủ quan với đau ngực",
+    "Ưu tiên loại trừ nguyên nhân tim mạch nguy hiểm",
+    "Đi khám sớm khi có triệu chứng",
+    "Tuân thủ điều trị của bác sĩ",
+    "Không tự ý dùng thuốc",
+    "Theo dõi tần suất và mức độ đau"
+  ],
+  "epidemiology": [
+    "Đau ngực là triệu chứng phổ biến trong cấp cứu",
+    "Nguyên nhân đa dạng từ nhẹ đến nguy hiểm",
+    "Tim mạch là nguyên nhân cần loại trừ đầu tiên",
+    "Tỷ lệ tử vong cao nếu liên quan nhồi máu cơ tim"
+  ],
+  "source": "Tổng hợp y khoa (Vinmec, Medlatec)",
+  "url": "https://www.vinmec.com/vie/bai-viet/11-nguyen-nhan-gay-dau-nguc-cac-xet-nghiem-co-lam-vi"
+}

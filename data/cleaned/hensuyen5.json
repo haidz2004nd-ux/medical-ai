@@ -1,0 +1,82 @@
+{
+  "title": "Hen suyễn (Hen phế quản)",
+  "type": "disease",
+  "topic": "Tai Mũi Họng - Hô hấp",
+  "author": "ThS.BS Trần Thanh Long",
+  "definition": "Hen suyễn là tình trạng mạn tính gây viêm và hẹp đường dẫn khí trong phổi, làm cản trở luồng không khí lưu thông, đặc biệt là khi thở ra.",
+  "statistics": {
+    "vietnam": "Khoảng 3,9% dân số (hơn 4 triệu người) mắc bệnh (số liệu 2022).",
+    "usa": "Tỷ lệ mắc bệnh chiếm 1/13 dân số."
+  },
+  "classification": [
+    "Hen suyễn dị ứng: Kích hoạt bởi phấn hoa, nấm mốc, lông động vật.",
+    "Hen suyễn không dị ứng: Do virus, chất kích thích không khí, thời tiết.",
+    "Hen suyễn nghề nghiệp: Liên quan đến hóa chất, bụi gỗ, sơn, bột bánh tại nơi làm việc.",
+    "Co thắt phế quản do tập thể dục (EIB): Tệ hơn trong không khí lạnh và khô.",
+    "Hen suyễn do Aspirin (AIA): Nhạy cảm với Aspirin và thuốc chống viêm không steroid (NSAID).",
+    "Hen suyễn về đêm: Triệu chứng xuất hiện khi ngủ, gây mệt mỏi vào ban ngày."
+  ],
+  "symptoms": {
+    "typical": [
+      "Thở khò khè, khó thở.",
+      "Căng ngực (cảm giác bị quấn chặt quanh ngực).",
+      "Ho tái phát thường xuyên, nặng hơn về đêm và sáng sớm."
+    ],
+    "atypical": [
+      "Chỉ tức ngực hoặc chỉ ho.",
+      "Ho có đờm.",
+      "Hội chứng tăng thông khí (thở nhanh)."
+    ],
+    "emergency_signs": [
+      "Khó khăn trong việc ăn, nói hoặc ngủ.",
+      "Nhịp tim đập rất nhanh.",
+      "Môi hoặc ngón tay tím tái (màu xanh).",
+      "Kiệt sức, chóng mặt hoặc ngất xỉu.",
+      "Ống hít cắt cơn không còn tác dụng."
+    ]
+  },
+  "causes": [
+    "Nhiễm trùng: Cảm lạnh, cảm cúm.",
+    "Dị ứng: Phấn hoa, mạt bụi, lông động vật.",
+    "Môi trường: Khói thuốc, ô nhiễm, nấm mốc, thời tiết thay đổi đột ngột.",
+    "Thuốc: Ibuprofen, Aspirin.",
+    "Tâm lý: Căng thẳng, tiếng cười lớn.",
+    "Vận động: Tập thể dục quá sức."
+  ],
+  "risk_groups": [
+    "Người có người thân (cha mẹ, anh chị em) mắc hen.",
+    "Người bị chàm, viêm mũi dị ứng.",
+    "Trẻ em sinh non, nhẹ cân hoặc thường xuyên tiếp xúc khói thuốc.",
+    "Người thừa cân, béo phì.",
+    "Người làm việc trong môi trường hóa chất, bụi gỗ, thực phẩm."
+  ],
+  "complications": [
+    "Mệt mỏi kéo dài, gián đoạn công việc/giải trí.",
+    "Căng thẳng, lo lắng, trầm cảm.",
+    "Nhiễm trùng phổi (viêm phổi).",
+    "Chậm phát triển hoặc chậm dậy thì ở trẻ em.",
+    "Đe dọa tính mạng (tử vong) nếu không xử lý kịp thời."
+  ],
+  "diagnosis": [
+    "Xét nghiệm FeNO: Đo mức độ oxit nitric để phát hiện viêm phổi.",
+    "Phép đo phế dung: Đo tốc độ và lượng khí tích trữ trong phổi.",
+    "Kiểm tra lưu lượng đỉnh: Theo dõi tốc độ thở ra hàng ngày.",
+    "Chẩn đoán bổ trợ: Chụp X-quang ngực, xét nghiệm dị ứng."
+  ],
+  "treatment": {
+    "goal": "Hiện chưa thể chữa khỏi hoàn toàn; mục tiêu là cải thiện triệu chứng và chất lượng sống.",
+    "methods": [
+      "Ống hít (Inhaler): Gồm loại cắt cơn (khi bộc phát) và loại phòng ngừa (ngăn chặn viêm).",
+      "Thuốc uống: Thuốc đối kháng thụ thể leukotriene (LTRA)."
+    ]
+  },
+  "prevention": [
+    "Xác định và tránh các tác nhân gây hen cá nhân.",
+    "Tiêm phòng cúm hàng năm.",
+    "Vệ sinh nhà cửa, giặt chăn ga bằng nước ấm thường xuyên để diệt mạt bụi.",
+    "Tránh khói thuốc lá, nhang, nến.",
+    "Sử dụng thuốc phòng ngừa định kỳ theo chỉ định của bác sĩ."
+  ],
+  "source": "YouMed",
+  "url": "https://youmed.vn/tin-tuc/hen-suyen-nguyen-nhan-kha-nang-chua-khoi-va-huong-dieu-tri/"
+}

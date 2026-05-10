@@ -1,0 +1,137 @@
+{
+  "title": "Táo bón",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Táo bón là một dạng rối loạn tiêu hóa, đặc trưng bởi giảm tần suất đi đại tiện (dưới 3 lần/tuần), phân khô cứng và cảm giác đi ngoài không hết phân hoặc phải rặn nhiều khi đại tiện.",
+  "classification": [
+    "Táo bón cấp",
+    "Táo bón mạn",
+    "Táo bón cơ năng",
+    "Táo bón thực thể",
+    "Táo bón do thuốc",
+    "Táo bón do rối loạn thần kinh",
+    "Táo bón do rối loạn chuyển hóa"
+  ],
+  "pathophysiology": [
+    "Giảm nhu động ruột làm phân di chuyển chậm",
+    "Tăng hấp thu nước tại đại tràng gây phân khô cứng",
+    "Rối loạn phản xạ đại tiện",
+    "Rối loạn chức năng cơ sàn chậu",
+    "Ứ đọng phân trong trực tràng gây khó tống phân"
+  ],
+  "causes": {
+    "acute": [
+      "Tắc ruột do xoắn ruột",
+      "Thoát vị gây tắc ruột",
+      "Dính ruột",
+      "Liệt ruột do viêm phúc mạc",
+      "Nhiễm khuẩn nặng",
+      "Chấn thương sọ não hoặc cột sống"
+    ],
+    "chronic": [
+      "Chế độ ăn thiếu chất xơ",
+      "Uống không đủ nước",
+      "Ít vận động",
+      "Nhịn đi đại tiện",
+      "Thay đổi thói quen sinh hoạt",
+      "Lạm dụng thuốc nhuận tràng",
+      "Thuốc kháng cholinergic",
+      "Thuốc opioid",
+      "Thuốc chẹn kênh canxi",
+      "Đái tháo đường",
+      "Suy giáp",
+      "Bệnh Parkinson",
+      "Xơ cứng bì",
+      "Hội chứng ruột kích thích",
+      "U đại tràng"
+    ]
+  },
+  "symptoms": [
+    "Đi đại tiện ít hơn 3 lần/tuần",
+    "Phân khô cứng",
+    "Phải rặn mạnh khi đi ngoài",
+    "Đau khi đại tiện",
+    "Đau bụng",
+    "Đầy bụng, chướng bụng",
+    "Cảm giác đi ngoài không hết phân",
+    "Có thể phải dùng tay hỗ trợ lấy phân",
+    "Có thể có máu trong phân",
+    "Nôn hoặc buồn nôn trong trường hợp nặng"
+  ],
+  "complications": [
+    "Viêm trực tràng",
+    "Trĩ nội",
+    "Trĩ ngoại",
+    "Nứt kẽ hậu môn",
+    "Sa trực tràng",
+    "Nguy cơ ung thư đại tràng (hiếm, kéo dài)"
+  ],
+  "diagnosis": [
+    "Khai thác tiền sử đi đại tiện",
+    "Đánh giá chế độ ăn và lối sống",
+    "Khám trực tràng bằng tay",
+    "Xét nghiệm máu",
+    "Nội soi đại tràng",
+    "X-quang bụng",
+    "CT scan khi nghi tắc ruột",
+    "Đánh giá hormon tuyến giáp",
+    "Kiểm tra điện giải và canxi máu"
+  ],
+  "risk_groups": [
+    "Nhân viên văn phòng ít vận động",
+    "Người cao tuổi",
+    "Phụ nữ mang thai",
+    "Trẻ em",
+    "Người ăn ít chất xơ",
+    "Người uống ít nước",
+    "Người dùng thuốc gây táo bón",
+    "Người có bệnh thần kinh"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn nhiều chất xơ",
+      "Uống đủ nước",
+      "Tập thể dục thường xuyên",
+      "Tạo thói quen đi vệ sinh đúng giờ",
+      "Không nhịn đi đại tiện",
+      "Giảm căng thẳng"
+    ],
+    "medication": [
+      "Chất tạo khối phân (psyllium)",
+      "Thuốc nhuận tràng thẩm thấu (lactulose, PEG)",
+      "Thuốc nhuận tràng kích thích (bisacodyl)",
+      "Thuốc làm mềm phân (docusate)",
+      "Thuốc thụt tháo theo chỉ định bác sĩ"
+    ]
+  },
+  "prevention": [
+    "Ăn nhiều rau xanh và trái cây",
+    "Uống đủ nước mỗi ngày",
+    "Tập thể dục thường xuyên",
+    "Không nhịn đi đại tiện",
+    "Hạn chế caffein",
+    "Duy trì thói quen đi tiêu đều đặn"
+  ],
+  "when_to_see_doctor": [
+    "Táo bón kéo dài không cải thiện",
+    "Có máu trong phân",
+    "Đau bụng dữ dội",
+    "Chướng bụng nặng",
+    "Nôn hoặc buồn nôn",
+    "Sụt cân không rõ nguyên nhân"
+  ],
+  "care_notes": [
+    "Táo bón có thể do nhiều nguyên nhân khác nhau",
+    "Điều trị cần kết hợp thay đổi lối sống và thuốc",
+    "Không nên lạm dụng thuốc nhuận tràng",
+    "Cần theo dõi thói quen đại tiện thường xuyên"
+  ],
+  "epidemiology": [
+    "Táo bón là rối loạn tiêu hóa phổ biến",
+    "Gặp ở mọi lứa tuổi",
+    "Tỷ lệ cao hơn ở người ít vận động",
+    "Liên quan đến chế độ ăn và lối sống"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/tao-bon-246.html"
+}

@@ -1,0 +1,116 @@
+{
+  "title": "Đái tháo đường",
+  "type": "disease",
+  "topic": "bệnh nội tiết - chuyển hóa",
+  "definition": "Đái tháo đường là một bệnh lý rối loạn chuyển hóa mạn tính không lây nhiễm, đặc trưng bởi tình trạng tăng glucose máu kéo dài. Bệnh hệ quả từ việc thiếu hụt sản xuất insulin của tuyến tụy, giảm tác dụng của insulin (kháng insulin), hoặc phối hợp cả hai, dẫn đến tổn thương cấu trúc và chức năng ở nhiều cơ quan, đặc biệt là tim, mạch máu, thận, mắt và thần kinh.",
+  "classification": [
+    "Đái tháo đường type 1 (Do phá hủy tế bào beta, thiếu insulin tuyệt đối)",
+    "Đái tháo đường type 2 (Do kháng insulin và suy giảm chức năng tụy)",
+    "Đái tháo đường thai kỳ (Khởi phát hoặc được phát hiện lần đầu khi mang thai)",
+    "Tiền đái tháo đường (Rối loạn dung nạp glucose hoặc glucose máu lúc đói)",
+    "Đái tháo đường thứ phát (Do thuốc, bệnh lý tụy ngoại tiết hoặc nội tiết khác)"
+  ],
+  "pathophysiology": [
+    "Rối loạn điều hòa glucose do thiếu hụt hoặc đề kháng insulin",
+    "Tăng áp lực thẩm thấu máu do glucose huyết cao kéo dài",
+    "Rối loạn chuyển hóa phức hợp lipid, protein và khoáng chất",
+    "Hoạt hóa các con đường chuyển hóa trung gian gây stress oxy hóa",
+    "Tổn thương hệ thống vi mạch (thận, võng mạc) và đại mạch (tim, não)"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền và đa hình gen",
+      "Cơ chế tự miễn phá hủy đảo tụy (trong type 1)",
+      "Đề kháng insulin tại mô ngoại vi (cơ, gan, mỡ)",
+      "Suy kiệt chức năng tế bào beta tụy theo thời gian"
+    ],
+    "secondary": [
+      "Béo phì, đặc biệt là béo phì trung tâm (mỡ nội tạng)",
+      "Lối sống ít vận động thể chất",
+      "Chế độ ăn dư thừa năng lượng, giàu đường và tinh bột tinh chế",
+      "Rối loạn nội tiết (Hội chứng Cushing, cường giáp, u tủy thượng thận)",
+      "Tăng huyết áp và rối loạn lipid máu mạn tính",
+      "Sử dụng thuốc kéo dài (Corticosteroids, thuốc lợi tiểu thiazide)",
+      "Các biến đổi nội tiết tố trong thai kỳ"
+    ]
+  },
+  "symptoms": [
+    "Ăn nhiều, uống nhiều, tiểu nhiều (tam đa)",
+    "Sụt cân nhanh chóng không rõ lý do (điển hình ở type 1)",
+    "Mệt mỏi, kiệt sức, giảm khả năng lao động",
+    "Nhiễm nấm men hoặc nhiễm trùng da tái phát khó khỏi",
+    "Vết thương, vết loét chậm lành",
+    "Tê bì, châm chích hoặc mất cảm giác ở các đầu chi",
+    "Thị lực mờ, nhìn không rõ",
+    "Khát nước và đi tiểu liên tục ở phụ nữ mang thai"
+  ],
+  "complications": [
+    "Biến chứng mạch máu lớn: Nhồi máu cơ tim, tai biến mạch máu não, tắc mạch chi",
+    "Biến chứng mạch máu nhỏ: Bệnh thận đái tháo đường, bệnh võng mạc, đục thủy tinh thể",
+    "Biến chứng thần kinh: Tổn thương thần kinh ngoại biên, liệt dạ dày, rối loạn cương dương",
+    "Biến chứng bàn chân: Loét nhiễm trùng, hoại tử dẫn đến đoạn chi",
+    "Biến chứng thai kỳ: Tiền sản giật, thai to, hạ đường huyết sau sinh ở trẻ",
+    "Biến chứng cấp tính: Nhiễm toan ceton, tăng áp lực thẩm thấu máu"
+  ],
+  "diagnosis": [
+    "Glucose huyết tương lúc đói (FPG) ≥ 126 mg/dL (7,0 mmol/L)",
+    "Glucose huyết tương 2 giờ sau nghiệm pháp dung nạp glucose (OGTT) ≥ 200 mg/dL (11,1 mmol/L)",
+    "Chỉ số HbA1c ≥ 6,5%",
+    "Glucose huyết tương bất kỳ ≥ 200 mg/dL kèm triệu chứng tăng glucose máu điển hình"
+  ],
+  "risk_groups": [
+    "Người thừa cân, béo phì (BMI ≥ 23 theo chuẩn người Á Đông)",
+    "Người ít vận động, lối sống tĩnh tại",
+    "Người có người thân trực hệ mắc đái tháo đường",
+    "Người có tiền sử tăng huyết áp hoặc rối loạn lipid máu",
+    "Phụ nữ có tiền sử đái tháo đường thai kỳ hoặc sinh con nặng > 4kg",
+    "Người lớn tuổi (trên 45 tuổi)",
+    "Người có hội chứng buồng trứng đa năng (PCOS)"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Chế độ ăn kiểm soát carbohydrate, ưu tiên thực phẩm có chỉ số GI thấp",
+      "Tăng cường chất xơ từ rau xanh và ngũ cốc nguyên hạt",
+      "Tập thể dục cường độ trung bình tối thiểu 150 phút/tuần",
+      "Kiểm soát và duy trì cân nặng lý tưởng",
+      "Tự theo dõi đường huyết tại nhà định kỳ"
+    ],
+    "medication": [
+      "Liệu pháp Insulin (bắt buộc cho type 1, linh hoạt cho type 2 và thai kỳ)",
+      "Thuốc hạ đường huyết đường uống (Metformin, Sulfonylurea, SGLT2i...)",
+      "Thuốc ức chế DPP-4 và đồng vận thụ thể GLP-1",
+      "Điều trị phối hợp kiểm soát huyết áp và mỡ máu",
+      "Sử dụng thuốc ức chế men chuyển để bảo vệ chức năng thận"
+    ]
+  },
+  "prevention": [
+    "Thiết lập lối sống năng động, hạn chế ngồi lâu một chỗ",
+    "Chế độ dinh dưỡng lành mạnh, hạn chế thực phẩm chế biến sẵn",
+    "Khám sức khỏe định kỳ để tầm soát đường huyết sớm",
+    "Duy trì cân nặng ổn định, tránh béo phì",
+    "Hạn chế sử dụng thuốc lá và đồ uống có cồn"
+  ],
+  "when_to_see_doctor": [
+    "Khát nước và đi tiểu đêm thường xuyên",
+    "Sụt cân nhanh mặc dù ăn uống nhiều",
+    "Mệt mỏi kéo dài không giải thích được",
+    "Thị lực suy giảm đột ngột",
+    "Các vết xước hoặc vết loét ở chân lâu lành"
+  ],
+  "care_notes": [
+    "Đái tháo đường là bệnh mạn tính cần tuân thủ phác đồ điều trị suốt đời",
+    "Tự theo dõi đường huyết là yếu tố then chốt để điều chỉnh lối sống",
+    "Không bao giờ tự ý ngưng thuốc khi chưa có chỉ định của bác sĩ",
+    "Kiểm tra và chăm sóc bàn chân hàng ngày để phát hiện sớm các tổn thương",
+    "Tầm soát định kỳ biến chứng mắt, thận và tim mạch mỗi 6-12 tháng"
+  ],
+  "epidemiology": [
+    "Là bệnh lý chuyển hóa có tỷ lệ mắc cao nhất trên thế giới",
+    "Tỷ lệ mắc bệnh tại Việt Nam đang gia tăng nhanh chóng và có xu hướng trẻ hóa",
+    "Khoảng 50% người mắc bệnh trong cộng đồng chưa được chẩn đoán sớm",
+    "Là nguyên nhân hàng đầu gây suy thận giai đoạn cuối và mù lòa ở người trưởng thành",
+    "Liên quan chặt chẽ đến sự gia tăng của đại dịch béo phì toàn cầu"
+  ],
+  "source": "Bệnh viện Đa khoa Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/dai-thao-duong/"
+}

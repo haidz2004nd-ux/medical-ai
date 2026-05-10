@@ -1,0 +1,134 @@
+{
+  "title": "Tiêu chảy",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc phân nước từ 3 lần trở lên trong ngày. Tiêu chảy có thể là cấp tính (kéo dài 1–2 ngày) hoặc mạn tính (kéo dài từ 3–4 tuần trở lên), gây mất nước và rối loạn điện giải.",
+  "classification": [
+    "Tiêu chảy cấp",
+    "Tiêu chảy mạn tính",
+    "Tiêu chảy nhiễm trùng",
+    "Tiêu chảy không nhiễm trùng",
+    "Tiêu chảy do thuốc",
+    "Tiêu chảy do rối loạn hấp thu"
+  ],
+  "pathophysiology": [
+    "Tăng tiết dịch trong lòng ruột gây phân lỏng",
+    "Giảm hấp thu nước và điện giải ở ruột",
+    "Tăng nhu động ruột làm giảm thời gian hấp thu",
+    "Viêm niêm mạc ruột do vi sinh vật hoặc miễn dịch",
+    "Rối loạn hệ vi sinh đường ruột"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus (rotavirus, norovirus)",
+      "Nhiễm vi khuẩn (salmonella, shigella, E. coli, C. difficile)",
+      "Nhiễm ký sinh trùng (giardia, entamoeba histolytica, cryptosporidium)",
+      "Ngộ độc thực phẩm",
+      "Thuốc nhuận tràng hoặc kháng sinh",
+      "Thực phẩm, nước bị ô nhiễm"
+    ],
+    "chronic": [
+      "Hội chứng ruột kích thích",
+      "Bệnh Crohn",
+      "Viêm loét đại tràng",
+      "Bệnh celiac",
+      "Không dung nạp lactose",
+      "Hội chứng kém hấp thu",
+      "Phẫu thuật đường tiêu hóa",
+      "Khối u đường tiêu hóa",
+      "U nội tiết (VIPoma, gastrinoma)",
+      "Cường giáp",
+      "Đái tháo đường",
+      "Xơ nang",
+      "Thiếu kẽm"
+    ]
+  },
+  "symptoms": [
+    "Đi ngoài phân lỏng hoặc nước ≥ 3 lần/ngày",
+    "Đau bụng, chuột rút",
+    "Buồn nôn hoặc nôn",
+    "Sốt",
+    "Đầy hơi",
+    "Mất nước (khô miệng, khát nước)",
+    "Giảm đi tiểu hoặc nước tiểu sẫm màu",
+    "Mệt mỏi",
+    "Phân có máu hoặc mủ (trường hợp nặng)",
+    "Chóng mặt hoặc lâng lâng"
+  ],
+  "complications": [
+    "Mất nước nặng",
+    "Rối loạn điện giải",
+    "Nhiễm toan chuyển hóa",
+    "Hạ kali máu",
+    "Hạ magiê máu",
+    "Trụy mạch",
+    "Sốc giảm thể tích"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng và tiền sử bệnh",
+    "Xét nghiệm phân (nuôi cấy, ký sinh trùng)",
+    "Xét nghiệm máu",
+    "Đánh giá điện giải, ure, creatinine",
+    "Nội soi đại tràng",
+    "Xét nghiệm C. difficile",
+    "Siêu âm hoặc CT ổ bụng",
+    "Xét nghiệm không dung nạp thực phẩm"
+  ],
+  "risk_groups": [
+    "Trẻ em và người già",
+    "Người sống trong môi trường vệ sinh kém",
+    "Người dùng nước hoặc thực phẩm không an toàn",
+    "Người đi du lịch vùng dịch",
+    "Người suy giảm miễn dịch",
+    "Người suy dinh dưỡng"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Bù nước và điện giải đầy đủ",
+      "Uống oresol đúng hướng dẫn",
+      "Ăn thức ăn dễ tiêu hóa",
+      "Tránh thực phẩm nhiều dầu mỡ",
+      "Duy trì bú mẹ ở trẻ nhỏ",
+      "Giữ vệ sinh tay sạch sẽ"
+    ],
+    "medication": [
+      "Dung dịch bù nước và điện giải (ORS)",
+      "Thuốc kháng sinh khi có nhiễm khuẩn theo chỉ định",
+      "Thuốc chống ký sinh trùng",
+      "Probiotic hỗ trợ hệ vi sinh",
+      "Loperamide (không dùng khi tiêu chảy có máu hoặc nhiễm trùng nặng)",
+      "Truyền dịch trong trường hợp mất nước nặng"
+    ]
+  },
+  "prevention": [
+    "Rửa tay thường xuyên",
+    "Ăn chín uống sôi",
+    "Sử dụng nước sạch",
+    "Tiêm vaccine rotavirus (trẻ em)",
+    "Tránh thực phẩm không đảm bảo vệ sinh",
+    "Vệ sinh môi trường sống"
+  ],
+  "when_to_see_doctor": [
+    "Tiêu chảy kéo dài hoặc nặng lên",
+    "Có dấu hiệu mất nước",
+    "Phân có máu hoặc mủ",
+    "Sốt cao",
+    "Nôn liên tục",
+    "Trẻ lừ đừ hoặc bỏ bú"
+  ],
+  "care_notes": [
+    "Tiêu chảy thường do nhiễm trùng đường ruột",
+    "Mất nước là biến chứng nguy hiểm nhất",
+    "Cần ưu tiên bù nước và điện giải",
+    "Không tự ý dùng thuốc cầm tiêu chảy ở trẻ nhỏ",
+    "Theo dõi tình trạng phân và lượng nước tiểu"
+  ],
+  "epidemiology": [
+    "Tiêu chảy là bệnh phổ biến toàn cầu",
+    "Nguyên nhân hàng đầu gây tử vong ở trẻ nhỏ tại các nước đang phát triển",
+    "Thường liên quan đến vệ sinh thực phẩm và nước uống",
+    "Có thể bùng phát thành dịch"
+  ],
+  "source": "Nhà thuốc Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html"
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Đái tháo đường",
+  "type": "disease",
+  "topic": "bệnh nội tiết - chuyển hóa",
+  "definition": "Đái tháo đường là một bệnh rối loạn chuyển hóa mạn tính không lây nhiễm, đặc trưng bởi tình trạng tăng glucose máu kéo dài. Bệnh hệ quả từ việc thiếu hụt sản xuất insulin của tụy, giảm tác dụng của insulin trong cơ thể (kháng insulin), hoặc cả hai, dẫn đến tổn thương cấu trúc và chức năng ở nhiều cơ quan, đặc biệt là tim, mạch máu, thận, mắt và thần kinh.",
+  "classification": [
+    "Đái tháo đường type 1 (Phá hủy tế bào beta, thiếu insulin tuyệt đối)",
+    "Đái tháo đường type 2 (Kháng insulin và suy giảm tiết insulin tương đối)",
+    "Đái tháo đường thai kỳ (Phát hiện lần đầu trong quá trình mang thai)",
+    "Đái tháo đường thứ phát (Do thuốc, bệnh tụy ngoại tiết, hoặc bệnh nội tiết khác)",
+    "Tiền đái tháo đường (Rối loạn dung nạp glucose hoặc glucose máu lúc đói)"
+  ],
+  "pathophysiology": [
+    "Khiếm khuyết bài tiết insulin từ tế bào beta đảo tụy",
+    "Giảm nhạy cảm của các mô ngoại vi (cơ, gan, mỡ) với insulin",
+    "Tăng sản xuất glucose tại gan và giảm sử dụng glucose ở mô",
+    "Rối loạn chuyển hóa carbohydrate, lipid và protein hệ thống",
+    "Tăng áp lực thẩm thấu và tổn thương vi mạch, mạch máu lớn do tăng đường huyết kéo dài"
+  ],
+  "causes": {
+    "primary": [
+      "Di truyền và tiền sử gia đình",
+      "Khiếm khuyết gen chức năng tế bào beta",
+      "Cơ chế tự miễn (phổ biến trong type 1)",
+      "Lão hóa tự nhiên của cơ thể"
+    ],
+    "secondary": [
+      "Béo phì, đặc biệt là béo bụng (tăng đề kháng insulin)",
+      "Lối sống ít vận động (sedentary lifestyle)",
+      "Chế độ ăn giàu tinh bột tinh chế và đường",
+      "Sử dụng thuốc kéo dài (Corticosteroid, thuốc lợi tiểu thiazide)",
+      "Các bệnh lý tuyến tụy (Viêm tụy mạn, u tụy)",
+      "Rối loạn nội tiết khác (Hội chứng Cushing, cường giáp)",
+      "Rối loạn lipid máu và tăng huyết áp mạn tính"
+    ]
+  },
+  "symptoms": [
+    "Ăn nhiều nhưng sụt cân không rõ nguyên nhân",
+    "Uống nhiều (khát nước liên tục)",
+    "Tiểu nhiều (đặc biệt là tiểu đêm)",
+    "Mệt mỏi, suy nhược cơ thể kéo dài",
+    "Nhìn mờ, giảm thị lực",
+    "Tê bì, châm chích hoặc đau rát ở bàn tay, bàn chân",
+    "Vết thương, vết loét chậm lành hoặc dễ nhiễm trùng",
+    "Ngứa da hoặc thường xuyên bị nhiễm nấm"
+  ],
+  "complications": [
+    "Biến chứng mạch máu lớn: Nhồi máu cơ tim, đột quỵ, bệnh mạch máu ngoại biên",
+    "Biến chứng mạch máu nhỏ: Bệnh võng mạc (gây mù lòa), bệnh thận (gây suy thận mạn)",
+    "Biến chứng thần kinh: Bàn chân đái tháo đường, liệt dạ dày, rối loạn cương dương",
+    "Biến chứng cấp tính: Hôn mê do nhiễm toan ceton hoặc tăng áp lực thẩm thấu",
+    "Nhiễm trùng nặng và nguy cơ đoạn chi"
+  ],
+  "diagnosis": [
+    "Glucose huyết tương lúc đói (FPG) ≥ 126 mg/dL (7,0 mmol/L)",
+    "Glucose huyết tương sau 2 giờ làm nghiệm pháp dung nạp (OGTT) ≥ 200 mg/dL (11,1 mmol/L)",
+    "HbA1c ≥ 6,5% (được thực hiện bằng phương pháp chuẩn quốc tế)",
+    "Glucose huyết tương bất kỳ ≥ 200 mg/dL kèm triệu chứng kinh điển (4T)"
+  ],
+  "risk_groups": [
+    "Người thừa cân, béo phì (BMI ≥ 23 tại Việt Nam)",
+    "Người trên 45 tuổi",
+    "Người ít vận động thể lực",
+    "Người có người thân trực hệ (bố, mẹ, anh chị em) mắc đái tháo đường",
+    "Phụ nữ có tiền sử đái tháo đường thai kỳ hoặc sinh con > 4kg",
+    "Người có tiền sử tăng huyết áp hoặc rối loạn lipid máu"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Thiết lập chế độ ăn lành mạnh (tăng chất xơ, giảm tinh bột nhanh)",
+      "Tập thể dục cường độ trung bình tối thiểu 150 phút/tuần",
+      "Giảm cân và duy trì chỉ số khối cơ thể (BMI) lý tưởng",
+      "Không hút thuốc lá và hạn chế rượu bia",
+      "Quản lý căng thẳng và ngủ đủ giấc"
+    ],
+    "medication": [
+      "Thuốc hạ đường huyết đường uống (Metformin, Sulfonylurea, SGLT2i, DPP4i...)",
+      "Liệu pháp Insulin (bắt buộc cho type 1 và một số giai đoạn type 2)",
+      "Thuốc kiểm soát huyết áp và mỡ máu đi kèm",
+      "Sử dụng thuốc ức chế men chuyển hoặc đối kháng thụ thể để bảo vệ thận"
+    ]
+  },
+  "prevention": [
+    "Khám sàng lọc và kiểm tra đường huyết định kỳ",
+    "Duy trì lối sống năng động, tránh ngồi lâu một chỗ",
+    "Hạn chế thực phẩm chế biến sẵn và đồ uống có đường",
+    "Kiểm soát tốt cân nặng từ sớm",
+    "Theo dõi các chỉ số huyết áp và mỡ máu"
+  ],
+  "when_to_see_doctor": [
+    "Có các triệu chứng 4T (Ăn nhiều, uống nhiều, tiểu nhiều, gầy nhiều)",
+    "Vết thương ở chân bị loét, sưng đỏ hoặc lâu lành",
+    "Thường xuyên thấy hoa mắt, chóng mặt hoặc vã mồ hôi lạnh",
+    "Thị lực suy giảm đột ngột",
+    "Tê bì chi ảnh hưởng đến đi lại"
+  ],
+  "care_notes": [
+    "Đái tháo đường là bệnh mạn tính cần điều trị và theo dõi suốt đời",
+    "Tự theo dõi đường huyết tại nhà là chìa khóa để điều chỉnh lối sống",
+    "Cần chăm sóc bàn chân hàng ngày để tránh nguy cơ đoạn chi",
+    "Luôn mang theo đường hoặc kẹo để xử trí kịp thời khi hạ đường huyết",
+    "Tuân thủ lịch tái khám để tầm soát biến chứng định kỳ"
+  ],
+  "epidemiology": [
+    "Tỷ lệ mắc bệnh đang tăng nhanh trên toàn cầu và tại Việt Nam",
+    "Bệnh có xu hướng trẻ hóa (gia tăng ở trẻ em và thanh thiếu niên)",
+    "Liên quan chặt chẽ với đại dịch béo phì và đô thị hóa",
+    "Là nguyên nhân hàng đầu gây suy thận và mù lòa ở người trưởng thành",
+    "Tỉ lệ người mắc bệnh nhưng chưa được chẩn đoán trong cộng đồng còn cao"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/bai-viet/tong-quan-ve-benh-dai-thao-duong-vi"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Bệnh hen suyễn (Hen phế quản)",
+  "type": "disease",
+  "topic": "Hô hấp",
+  "definition": "Hen suyễn là tình trạng viêm đường hô hấp mạn tính do phản ứng quá mức của niêm mạc đường thở với các tác nhân gây dị ứng, dẫn đến co thắt phế quản và tăng tiết dịch nhầy.",
+  "classification": [
+    "Hen nội sinh: Xuất hiện khi đường hô hấp bị nhiễm khuẩn, không liên quan đến di truyền.",
+    "Hen ngoại sinh: Do tiếp xúc với dị nguyên, thường gặp ở người trẻ và có yếu tố di truyền."
+  ],
+  "pathophysiology": [
+    "Tăng độ nhạy phế quản",
+    "Co thắt cơ trơn phế quản liên tục",
+    "Gia tăng tiết dịch nhầy gây bít tắc đường thở"
+  ],
+  "danger_level": {
+    "status": "Nguy hiểm cao",
+    "reasons": [
+      "Chưa có phương pháp chữa khỏi hoàn toàn, phải duy trì thuốc suốt đời.",
+      "Cơn hen cấp tính gây phù nề, co thắt mạnh làm gián đoạn oxy.",
+      "Nguy cơ lịm, hôn mê và tử vong nhanh chóng nếu không được thông đường thở kịp thời."
+    ]
+  },
+  "common_mistakes": [
+    "Chủ quan với các triệu chứng nhẹ (ho, khó thở thoáng qua).",
+    "Tự ý dùng thuốc giãn phế quản mà bỏ qua thuốc kiểm soát viêm.",
+    "Lạm dụng thuốc cắt cơn thay vì điều trị căn nguyên lâu dài.",
+    "Tin tưởng vào các phương pháp thay thế không khoa học (mẹo dân gian, thảo dược).",
+    "Không có kế hoạch dự phòng cho các cơn hen cấp tính."
+  ],
+  "prevention_and_care": {
+    "avoidance": "Tránh bụi bẩn, nấm mốc, phấn hoa, lông động vật, khói thuốc.",
+    "nutrition": [
+      "Uống ít nhất 2 - 3 lít nước/ngày giúp làm loãng dịch nhầy.",
+      "Tránh thực phẩm chứa Sulphite (trái cây khô, rượu vang, đồ uống có cồn).",
+      "Không uống rượu bia vì cồn gây sinh nhiệt và kích ứng niêm mạc hô hấp."
+    ],
+    "lifestyle": [
+      "Nghỉ ngơi hợp lý, không làm việc gắng sức.",
+      "Giữ ấm cơ thể, bảo vệ đường thở khi trời lạnh.",
+      "Tránh các cảm xúc mạnh (xúc động, hồi hộp quá mức)."
+    ],
+    "emergency_readiness": [
+      "Luôn mang theo thuốc xịt/thuốc uống hạ cơn bên mình.",
+      "Khi lên cơn: Ngồi xuống nghỉ ngơi, tuyệt đối không được nằm để tránh dịch nhầy bít đường thở."
+    ]
+  },
+  "source": "Hệ thống Y tế MEDLATEC",
+  "url": "https://medlatec.vn/tin-tuc/benh-hen-suyen-co-nguy-hiem-khong-dieu-tri-bang-cach-nao-s64-n31433"
+}

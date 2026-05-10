@@ -1,0 +1,60 @@
+{
+  "title": "Bệnh hen suyễn (Hen phế quản)",
+  "type": "disease",
+  "topic": "Hô hấp",
+  "definition": "Hen suyễn là bệnh mãn tính của hệ hô hấp. Khi cơn hen xuất hiện, niêm mạc ống phế quản sưng viêm, co thắt làm đường dẫn khí thu hẹp, giảm lưu lượng không khí ra vào phổi, gây khò khè và khó thở.",
+  "classification": [
+    {
+      "type": "Hen suyễn dị ứng",
+      "symptoms": "Chảy nước mũi, hắt hơi, sưng mũi, có đờm, ngứa họng.",
+      "causes": "Phấn hoa, lông vật nuôi, bụi, khói thuốc, ô nhiễm, không khí lạnh."
+    },
+    {
+      "type": "Suyễn do tập thể dục",
+      "symptoms": "Bắt đầu sau 5-10 phút vận động, trầm trọng hơn sau khi ngừng tập.",
+      "causes": "Cơ đường hô hấp nhạy cảm với thay đổi nhiệt độ và độ ẩm khi vận động."
+    },
+    {
+      "type": "Ho hen suyễn",
+      "symptoms": "Ho khan không có đờm.",
+      "causes": "Dị nguyên, thuốc Beta-blockers, dị ứng Aspirin."
+    },
+    {
+      "type": "Hen suyễn nghề nghiệp",
+      "symptoms": "Triệu chứng xuất hiện tại nơi làm việc (ho, nghẹt mũi, kích ứng mắt).",
+      "causes": "Hóa chất, bụi gỗ, thuốc nhuộm (thợ mộc, họa sĩ, thợ làm tóc)."
+    },
+    {
+      "type": "Hen suyễn ban đêm",
+      "symptoms": "Khò khè, ho, khó thở về đêm. Tỷ lệ tử vong cao nhất.",
+      "causes": "Tư thế nằm, ợ nóng, thay đổi hormone, không khí lạnh về đêm."
+    }
+  ],
+  "symptoms": [
+    "Ho kéo dài, đặc biệt vào ban đêm.",
+    "Thở khò khè (tiếng rít khi không khí qua phế quản bị phù nề).",
+    "Khó thở, hơi thở nhanh và gấp (nặng hơn khi vận động).",
+    "Đau thắt ngực, cảm giác có vật đè nặng lên ngực.",
+    "Mặt nhợt nhạt, mồ hôi, mệt mỏi do thiếu oxy."
+  ],
+  "complications": [
+    "Ảnh hưởng đời sống: Mất ngủ, mệt mỏi, giảm chất lượng học tập/làm việc.",
+    "Biến chứng nguy hiểm: Viêm phế quản, khí phế thũng, suy hô hấp, tràn khí màng phổi, tổn thương não.",
+    "Đối với thai phụ: Sản giật, xuất huyết âm đạo, sinh non, trẻ nhẹ cân."
+  ],
+  "risk_groups": [
+    "Trẻ em (đối tượng phổ biến nhất).",
+    "Người có tiền sử gia đình (bố, mẹ) mắc bệnh.",
+    "Người bị dị ứng, chàm hoặc nhiễm trùng đường hô hấp.",
+    "Người làm việc trong môi trường ô nhiễm (giáo viên, công nhân xây dựng, thợ mỏ)."
+  ],
+  "prevention_and_treatment": {
+    "medication": "Tuân thủ phác đồ của bác sĩ; cẩn trọng với Aspirin và thuốc giảm đau không steroid.",
+    "avoidance": "Tránh lông thú nuôi, phấn hoa, khói thuốc; đeo khẩu trang; kiêng thực phẩm dễ dị ứng (tôm, cua).",
+    "lifestyle": "Vệ sinh nhà cửa thường xuyên; tập thể dục hợp lý; bổ sung Vitamin C tăng đề kháng.",
+    "protection": "Giữ ấm cơ thể (khăn, mũ, áo khoác) khi thời tiết trở lạnh.",
+    "diagnosis": "Thực hiện tầm soát hen và COPD (chụp X-quang, đo hô hấp ký)."
+  },
+  "source": "CarePlus International Clinics",
+  "url": "https://careplusvn.com/vi/benh-hen-suyen-dau-hieu-nguyen-nhan-va-cach-phong-ngua"
+}

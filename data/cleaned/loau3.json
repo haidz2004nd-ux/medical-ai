@@ -1,0 +1,115 @@
+{
+  "title": "Rối loạn hỗn hợp lo âu và trầm cảm",
+  "type": "disorder",
+  "topic": "tâm thần - tâm lý",
+  "definition": "Rối loạn hỗn hợp lo âu và trầm cảm là một tình trạng bệnh lý tâm thần trong đó người bệnh biểu hiện đồng thời các triệu chứng của cả lo âu và trầm cảm, nhưng không có nhóm triệu chứng nào đủ mạnh hoặc riêng biệt để chẩn đoán xác định là rối loạn lo âu hay rối loạn trầm cảm đơn thuần. Tình trạng này gây ra sự suy giảm chức năng đáng kể và đòi hỏi một phương pháp tiếp cận điều trị toàn diện.",
+  "classification": [
+    "Rối loạn hỗn hợp lo âu và trầm cảm (Mã ICD-10: F41.2)",
+    "Rối loạn khí sắc hỗn hợp",
+    "Trầm cảm không điển hình kèm lo âu"
+  ],
+  "pathophysiology": [
+    "Sự suy giảm nồng độ các chất dẫn truyền thần kinh tại khe synap, đặc biệt là Serotonin và Norepinephrine",
+    "Rối loạn điều hòa trục Hạ đồi - Tuyến yên - Tuyến thượng thận (HPA) gây tăng nồng độ Cortisol mạn tính",
+    "Sự thay đổi độ nhạy của các thụ thể thần kinh đối với các tín hiệu cảm xúc tiêu cực",
+    "Giảm tính dẻo thần kinh (neuroplasticity) tại vùng hồi hải mã và vỏ não trước trán",
+    "Tương tác cộng hưởng giữa các vòng lặp tư duy lo âu và trạng thái ức chế của trầm cảm làm trầm trọng hóa bệnh cảnh"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền (đa hình gen liên quan đến vận chuyển serotonin)",
+      "Đặc điểm nhân cách dễ tổn thương, hướng nội hoặc nhạy cảm quá mức",
+      "Rối loạn cấu trúc hoặc chức năng các vùng não điều soát khí sắc (hệ viền)",
+      "Nhạy cảm bẩm sinh với các tác nhân stress từ môi trường"
+    ],
+    "secondary": [
+      "Stress và căng thẳng tâm lý kéo dài không được giải tỏa",
+      "Sang chấn tâm lý mạnh (mất mát, tai nạn, lạm dụng)",
+      "Áp lực xã hội, kỳ vọng công việc và khó khăn tài chính",
+      "Biến đổi nội tiết tố (giai đoạn dậy thì, sau sinh, mãn kinh)",
+      "Bệnh lý mạn tính gây đau đớn hoặc hạn chế chức năng cơ thể",
+      "Lạm dụng rượu, chất gây nghiện hoặc cai chất",
+      "Tác dụng phụ của một số loại thuốc điều trị nội khoa (Corticosteroids, thuốc tim mạch)"
+    ]
+  },
+  "symptoms": [
+    "Lo lắng quá mức về những vấn đề nhỏ nhặt trong đời sống",
+    "Khí sắc buồn bã, chán nản, giảm hứng thú với các hoạt động yêu thích",
+    "Mệt mỏi, suy nhược cơ thể kéo dài không liên quan đến vận động",
+    "Rối loạn giấc ngủ (khó ngủ, thức giấc sớm hoặc ngủ quá nhiều)",
+    "Khó tập trung, suy giảm trí nhớ tạm thời, hay quên",
+    "Dễ cáu gắt, bứt rứt hoặc dễ xúc động (hay khóc)",
+    "Cảm giác bi quan, tuyệt vọng về tương lai, tự ti về bản thân",
+    "Các triệu chứng cơ thể: Hồi hộp, tim đập nhanh, rối loạn tiêu hóa, căng đau cơ",
+    "Cảm giác lo sợ mơ hồ về những nguy hiểm sắp xảy đến"
+  ],
+  "complications": [
+    "Suy nhược cơ thể nặng và rối loạn thần kinh thực vật hệ thống",
+    "Mất ngủ mạn tính gây suy giảm miễn dịch và tăng nguy cơ nhiễm trùng",
+    "Gia tăng nguy cơ mắc các bệnh lý tim mạch và nội tiết (tăng huyết áp, đái tháo đường)",
+    "Làm nặng thêm các bệnh lý mạn tính hiện có do giảm khả năng tuân thủ điều trị",
+    "Sụt giảm năng suất lao động, cô lập xã hội và mất các mối quan hệ quan trọng",
+    "Nguy cơ cao dẫn đến hành vi tự hủy hoại hoặc tự sát"
+  ],
+  "diagnosis": [
+    "Đánh giá lâm sàng tâm lý dựa trên tiêu chuẩn ICD-10 (Mã F41.2)",
+    "Sử dụng các thang điểm đánh giá mức độ (HAD - Hospital Anxiety and Depression Scale)",
+    "Khai thác tiền sử gia đình và các biến cố sang chấn tâm lý gần đây",
+    "Loại trừ các bệnh lý thực thể có biểu hiện tương tự (Cường giáp, thiếu máu, u não)",
+    "Đánh giá thời gian triệu chứng (thường kéo dài ít nhất 2 tuần đến 1 tháng)",
+    "Xét nghiệm máu và cận lâm sàng để đánh giá tình trạng sức khỏe tổng quát"
+  ],
+  "risk_groups": [
+    "Người chịu áp lực công việc hoặc gia đình kéo dài",
+    "Người có tiền sử gia đình mắc các rối loạn tâm thần, khí sắc",
+    "Phụ nữ trong giai đoạn nhạy cảm nội tiết (sau sinh, tiền mãn kinh)",
+    "Người cao tuổi sống đơn độc hoặc có bệnh lý mạn tính kèm theo",
+    "Thanh thiếu niên gặp khó khăn trong việc thích nghi và định hướng",
+    "Người lạm dụng chất kích thích hoặc thường xuyên thức đêm"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Vận động thể chất đều đặn ít nhất 30 phút/ngày (Yoga, đi bộ, bơi lội)",
+      "Thực hành thiền định, chánh niệm và các bài tập thở thư giãn cơ",
+      "Thiết lập vệ sinh giấc ngủ khoa học, tránh sử dụng thiết bị điện tử trước khi ngủ",
+      "Xây dựng chế độ dinh dưỡng cân bằng, giàu Omega-3 và vitamin nhóm B",
+      "Tham gia các hoạt động xã hội tích cực để giảm cảm giác cô lập"
+    ],
+    "medication": [
+      "Thuốc chống trầm cảm nhóm SSRI (Sertraline, Escitalopram) hoặc SNRI",
+      "Thuốc giải lo âu hỗ trợ trong giai đoạn cấp tính",
+      "Thuốc hỗ trợ ổn định thần kinh thực vật và cải thiện giấc ngủ",
+      "Liệu pháp tâm lý: Nhận thức hành vi (CBT) hoặc liệu pháp gia đình"
+    ]
+  },
+  "prevention": [
+    "Học kỹ năng quản lý cảm xúc và đối phó với stress hiệu quả",
+    "Duy trì lối sống năng động và mạng lưới hỗ trợ xã hội tích cực",
+    "Hạn chế sử dụng rượu bia, thuốc lá và các chất kích thích thần kinh",
+    "Khám sức khỏe định kỳ và tầm soát sớm các vấn đề tâm lý khi có dấu hiệu bất ổn",
+    "Tạo lập môi trường sống và làm việc lành mạnh, ít áp lực tiêu cực"
+  ],
+  "when_to_see_doctor": [
+    "Lo âu hoặc buồn bã kéo dài trên 2 tuần không thuyên giảm",
+    "Mất ngủ nghiêm trọng ảnh hưởng đến hoạt động ban ngày",
+    "Có ý nghĩ tiêu cực về bản thân hoặc ý nghĩ tự gây hại",
+    "Cảm giác tuyệt vọng, mất kiểm soát cảm xúc thường xuyên",
+    "Sức khỏe cơ thể suy giảm rõ rệt (sụt cân, đau mỏi) mà không rõ nguyên nhân"
+  ],
+  "care_notes": [
+    "Rối loạn này có thể điều trị thành công hoàn toàn nếu can thiệp sớm và đúng cách",
+    "Cần kết hợp chặt chẽ giữa dùng thuốc và trị liệu tâm lý để đạt hiệu quả tối ưu",
+    "Bệnh nhân tuyệt đối không được tự ý ngưng thuốc vì nguy cơ triệu chứng tái phát nặng hơn",
+    "Sự hỗ trợ, thấu hiểu từ gia đình là yếu tố sống còn trong quá trình hồi phục",
+    "Tránh việc tự ý sử dụng các thuốc an thần không theo đơn của bác sĩ chuyên khoa"
+  ],
+  "epidemiology": [
+    "Là một trong những rối loạn tâm lý phổ biến nhất tại các cơ sở chăm sóc sức khỏe ban đầu",
+    "Tỷ lệ mắc bệnh trong cộng đồng ước tính khoảng 10% và đang có xu hướng gia tăng",
+    "Tỷ lệ phụ nữ mắc bệnh cao gấp đôi so với nam giới",
+    "Thường gặp ở độ tuổi lao động (25-45 tuổi) gây thiệt hại lớn về kinh tế xã hội",
+    "Hơn 50% trường hợp không được chẩn đoán đúng ngay từ đầu do triệu chứng chồng chéo"
+  ],
+  "source": "Bệnh viện Đa khoa Vinmec",
+  "url": "https://www.vinmec.com/vie/bai-viet/benh-roi-loan-hon-hop-lo-au-va-tram-cam-vi"
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Suy thận",
+  "type": "disease",
+  "topic": "thận - tiết niệu - chuyển hóa",
+  "definition": "Suy thận là tình trạng suy giảm chức năng thận khiến thận không còn khả năng lọc máu, loại bỏ chất thải và cân bằng nước - điện giải hiệu quả, dẫn đến tích tụ độc chất trong cơ thể.",
+  "classification": [
+    "Suy thận cấp (tổn thương thận cấp - AKI)",
+    "Suy thận mạn (bệnh thận mạn - CKD)",
+    "Suy thận giai đoạn cuối",
+    "Suy giảm GFR nhẹ",
+    "Suy giảm GFR trung bình",
+    "Suy giảm GFR nặng"
+  ],
+  "pathophysiology": [
+    "Giảm mức lọc cầu thận (GFR)",
+    "Tổn thương nephron (đơn vị chức năng thận)",
+    "Rối loạn cân bằng nước và điện giải",
+    "Tích tụ ure và creatinine trong máu",
+    "Rối loạn nội tiết thận (erythropoietin, renin)"
+  ],
+  "causes": {
+    "acute": [
+      "Giảm tưới máu thận (mất nước, sốc, mất máu)",
+      "Tổn thương nhu mô thận (nhiễm trùng huyết, thuốc độc thận)",
+      "Tắc nghẽn đường tiết niệu (sỏi, phì đại tuyến tiền liệt)"
+    ],
+    "chronic": [
+      "Đái tháo đường",
+      "Tăng huyết áp",
+      "Viêm cầu thận mạn",
+      "Bệnh thận đa nang",
+      "Viêm đài bể thận tái phát",
+      "Tắc nghẽn đường tiểu kéo dài",
+      "Trào ngược bàng quang - niệu quản"
+    ]
+  },
+  "symptoms": [
+    "Mệt mỏi, suy nhược",
+    "Buồn nôn, nôn",
+    "Chán ăn",
+    "Rối loạn giấc ngủ",
+    "Tiểu bất thường (ít, nhiều, tiểu đêm)",
+    "Nước tiểu có bọt hoặc có máu",
+    "Phù chân, tay, mặt",
+    "Ngứa da",
+    "Tăng huyết áp",
+    "Khó thở",
+    "Co giật cơ, chuột rút",
+    "Hơi thở có mùi ure"
+  ],
+  "complications": [
+    "Phù phổi cấp",
+    "Tăng kali máu đe dọa tính mạng",
+    "Bệnh tim mạch",
+    "Thiếu máu",
+    "Loãng xương",
+    "Rối loạn thần kinh (co giật, giảm tập trung)",
+    "Giảm miễn dịch",
+    "Suy đa cơ quan",
+    "Tử vong nếu không điều trị"
+  ],
+  "diagnosis": [
+    "Đo huyết áp",
+    "Xét nghiệm creatinine máu và GFR",
+    "Xét nghiệm albumin niệu",
+    "Xét nghiệm nước tiểu tổng quát",
+    "Siêu âm thận",
+    "Chẩn đoán hình ảnh (CT/MRI khi cần)",
+    "Sinh thiết thận trong trường hợp đặc biệt"
+  ],
+  "risk_groups": [
+    "Người mắc đái tháo đường",
+    "Người tăng huyết áp",
+    "Người cao tuổi",
+    "Người béo phì",
+    "Người hút thuốc lá",
+    "Người có bệnh tim mạch",
+    "Người có tiền sử gia đình bệnh thận",
+    "Người có cholesterol cao",
+    "Người mắc bệnh gan mạn tính",
+    "Người từng bị tổn thương thận cấp"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Kiểm soát huyết áp",
+      "Kiểm soát đường huyết",
+      "Chế độ ăn giảm muối và đạm",
+      "Uống đủ nước theo khuyến cáo",
+      "Tập thể dục đều đặn",
+      "Không hút thuốc lá",
+      "Duy trì cân nặng hợp lý"
+    ],
+    "medication": [
+      "Điều trị nguyên nhân gây bệnh",
+      "Thuốc kiểm soát huyết áp và đường huyết",
+      "Thuốc lợi tiểu khi cần",
+      "Chạy thận nhân tạo",
+      "Thẩm phân phúc mạc",
+      "Ghép thận",
+      "Điều trị biến chứng (thiếu máu, tăng kali máu)"
+    ]
+  },
+  "prevention": [
+    "Kiểm soát huyết áp mục tiêu",
+    "Kiểm soát đường huyết",
+    "Chế độ ăn lành mạnh",
+    "Uống đủ nước",
+    "Không hút thuốc",
+    "Tập thể dục thường xuyên",
+    "Giảm muối, giảm đạm hợp lý",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Tiểu ít hoặc không tiểu",
+    "Phù nhiều toàn thân",
+    "Khó thở không rõ nguyên nhân",
+    "Tăng huyết áp khó kiểm soát",
+    "Mệt mỏi kéo dài",
+    "Nước tiểu có máu hoặc bọt nhiều",
+    "Nghi ngờ suy thận cấp hoặc mạn"
+  ],
+  "care_notes": [
+    "Suy thận mạn không thể hồi phục hoàn toàn",
+    "Phát hiện sớm giúp làm chậm tiến triển bệnh",
+    "Kiểm soát bệnh nền là yếu tố then chốt",
+    "Chế độ ăn đóng vai trò quan trọng",
+    "Giai đoạn cuối cần điều trị thay thế thận"
+  ],
+  "epidemiology": [
+    "Tỷ lệ tăng theo tuổi",
+    "Thường gặp ở người có bệnh chuyển hóa (đái tháo đường, tăng huyết áp)",
+    "Gia tăng trong dân số già hóa",
+    "Liên quan mạnh đến lối sống hiện đại",
+    "Gánh nặng bệnh cao ở nhóm nguy cơ tim mạch"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/suy-than-3075"
+}

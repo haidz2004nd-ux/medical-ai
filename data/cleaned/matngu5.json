@@ -1,0 +1,131 @@
+{
+  "title": "Mất ngủ",
+  "type": "disease",
+  "topic": "thần kinh - tâm thần - giấc ngủ",
+  "definition": "Mất ngủ là rối loạn giấc ngủ đặc trưng bởi khó đi vào giấc ngủ, khó duy trì giấc ngủ hoặc thức dậy sớm và không thể ngủ lại, dẫn đến mệt mỏi và giảm chức năng ban ngày.",
+  "classification": [
+    "Mất ngủ cấp tính (dưới 1 tháng)",
+    "Mất ngủ mạn tính (≥ 1 tháng)",
+    "Khó vào giấc ngủ",
+    "Khó duy trì giấc ngủ",
+    "Thức dậy sớm"
+  ],
+  "pathophysiology": [
+    "Rối loạn điều hòa nhịp sinh học (circadian rhythm)",
+    "Tăng hoạt hóa hệ thần kinh giao cảm do stress",
+    "Giảm hoạt động hệ GABA và serotonin liên quan giấc ngủ",
+    "Rối loạn chu kỳ ngủ - thức",
+    "Giảm chất lượng giấc ngủ sâu (slow-wave sleep)"
+  ],
+  "causes": {
+    "primary": [
+      "Stress tâm lý kéo dài",
+      "Rối loạn lo âu",
+      "Trầm cảm",
+      "Sang chấn tâm lý"
+    ],
+    "secondary": [
+      "Thói quen ngủ kém (giờ giấc thất thường, dùng thiết bị điện tử trước ngủ)",
+      "Lịch làm việc ca kíp hoặc thay đổi múi giờ",
+      "Ăn quá nhiều vào buổi tối hoặc ăn sát giờ ngủ",
+      "Caffeine, nicotine, rượu",
+      "Thuốc (chống trầm cảm, thuốc huyết áp, thuốc hen, thuốc giảm đau, thuốc kích thích)",
+      "Bệnh lý (tim mạch, đái tháo đường, đau mạn tính, GERD, cường giáp, Parkinson, Alzheimer, ung thư)",
+      "Rối loạn giấc ngủ (ngưng thở khi ngủ, hội chứng chân không yên)",
+      "Môi trường ngủ không phù hợp"
+    ]
+  },
+  "symptoms": [
+    "Khó đi vào giấc ngủ",
+    "Thức giấc giữa đêm",
+    "Thức dậy quá sớm",
+    "Cảm giác không nghỉ ngơi sau khi ngủ",
+    "Mệt mỏi ban ngày",
+    "Buồn ngủ, giảm tập trung",
+    "Dễ cáu gắt, lo âu hoặc trầm cảm",
+    "Giảm trí nhớ",
+    "Tăng sai sót và tai nạn",
+    "Lo lắng về giấc ngủ"
+  ],
+  "complications": [
+    "Giảm hiệu suất lao động và học tập",
+    "Tăng nguy cơ tai nạn giao thông",
+    "Rối loạn tâm thần (trầm cảm, lo âu)",
+    "Lạm dụng chất kích thích",
+    "Tăng nguy cơ bệnh tim mạch",
+    "Tăng huyết áp",
+    "Suy giảm miễn dịch",
+    "Giảm chất lượng cuộc sống"
+  ],
+  "diagnosis": [
+    "Khai thác bệnh sử giấc ngủ",
+    "Đánh giá thói quen ngủ",
+    "Khám lâm sàng",
+    "Xét nghiệm loại trừ bệnh nội khoa",
+    "Nhật ký giấc ngủ",
+    "Đa ký giấc ngủ (polysomnography) nếu nghi ngờ rối loạn phức tạp"
+  ],
+  "risk_groups": [
+    "Người cao tuổi",
+    "Phụ nữ (kinh nguyệt, mang thai, mãn kinh)",
+    "Người làm việc ca đêm",
+    "Người stress kéo dài",
+    "Người có bệnh mạn tính",
+    "Người rối loạn tâm thần",
+    "Người dùng chất kích thích",
+    "Người ít vận động",
+    "Người thay đổi múi giờ thường xuyên"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Thiết lập giờ ngủ cố định",
+      "Tránh thiết bị điện tử trước ngủ",
+      "Giảm caffeine và rượu",
+      "Tập thể dục đều đặn",
+      "Tối ưu môi trường ngủ (yên tĩnh, tối, mát)",
+      "Hạn chế ngủ trưa dài",
+      "Giảm stress bằng thư giãn hoặc thiền",
+      "Không ăn quá no trước khi ngủ"
+    ],
+    "medication": [
+      "Liệu pháp nhận thức hành vi (CBT-I)",
+      "Thuốc ngủ theo chỉ định bác sĩ",
+      "Điều trị bệnh lý nền",
+      "Kỹ thuật thư giãn (thở, giãn cơ)",
+      "Liệu pháp kiểm soát kích thích",
+      "Liệu pháp hạn chế giấc ngủ",
+      "Liệu pháp ánh sáng trong rối loạn nhịp sinh học"
+    ]
+  },
+  "prevention": [
+    "Giữ giờ ngủ - thức cố định",
+    "Duy trì vận động thể chất",
+    "Hạn chế caffeine, nicotine, rượu",
+    "Không ăn nhiều trước ngủ",
+    "Tạo thói quen thư giãn trước ngủ",
+    "Không sử dụng giường cho hoạt động khác ngoài ngủ"
+  ],
+  "when_to_see_doctor": [
+    "Mất ngủ kéo dài ảnh hưởng ban ngày",
+    "Mất ngủ ≥ 3 lần/tuần",
+    "Kéo dài hơn 1 tháng",
+    "Có dấu hiệu rối loạn tâm thần",
+    "Nghi ngờ rối loạn giấc ngủ nguyên phát"
+  ],
+  "care_notes": [
+    "Mất ngủ thường do nhiều yếu tố phối hợp",
+    "Ưu tiên điều chỉnh lối sống trước thuốc",
+    "CBT-I là phương pháp điều trị nền tảng",
+    "Thuốc ngủ chỉ nên dùng ngắn hạn",
+    "Cần theo dõi tái phát lâu dài"
+  ],
+  "epidemiology": [
+    "Rất phổ biến ở người trưởng thành",
+    "Tăng theo tuổi",
+    "Nữ giới mắc nhiều hơn nam giới",
+    "Tỷ lệ tăng do stress xã hội hiện đại",
+    "Có thể gặp ở mọi nhóm tuổi"
+  ],
+  "source": "Bệnh viện Lão khoa Trung ương",
+  "url": "https://benhvienlaokhoa.vn/-1-2-3"
+}

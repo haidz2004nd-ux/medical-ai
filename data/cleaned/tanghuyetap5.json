@@ -1,0 +1,119 @@
+{
+  "title": "Tăng huyết áp",
+  "aliases": ["Huyết áp cao", "Hypertension"],
+  "type": "disease",
+  "topic": "bệnh tim mạch",
+  "definition": "Tăng huyết áp là tình trạng áp lực máu lên thành động mạch tăng liên tục, thường được chẩn đoán khi huyết áp ≥ 140/90 mmHg. Bệnh tiến triển âm thầm nhưng có thể gây biến chứng nghiêm trọng như đột quỵ, nhồi máu cơ tim và suy thận.",
+  "pathophysiology": [
+    "Thu hẹp tiểu động mạch làm tăng sức cản ngoại vi",
+    "Tim phải làm việc nhiều hơn để bơm máu",
+    "Xơ cứng và dày thành động mạch",
+    "Tăng áp lực máu kéo dài gây tổn thương cơ quan đích"
+  ],
+  "causes": {
+    "primary": [
+      "Không rõ nguyên nhân (90–95% trường hợp)",
+      "Yếu tố di truyền",
+      "Ăn nhiều muối",
+      "Ít vận động",
+      "Stress kéo dài",
+      "Béo phì",
+      "Hút thuốc lá",
+      "Uống rượu bia nhiều"
+    ],
+    "secondary": [
+      "Bệnh thận mạn",
+      "Hẹp động mạch thận",
+      "U tuyến thượng thận",
+      "Rối loạn tuyến giáp",
+      "Hội chứng Cushing",
+      "Thuốc (NSAIDs, corticosteroid, thuốc tránh thai)",
+      "Ngưng thở khi ngủ"
+    ]
+  },
+  "symptoms": [
+    "Đau đầu",
+    "Chóng mặt",
+    "Ù tai",
+    "Đỏ mặt",
+    "Khó thở",
+    "Đau ngực",
+    "Tim đập nhanh",
+    "Chảy máu mũi",
+    "Mờ mắt",
+    "Mệt mỏi"
+  ],
+  "complications": [
+    "Đột quỵ",
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Suy thận",
+    "Tổn thương võng mạc",
+    "Xơ vữa động mạch",
+    "Phình động mạch chủ",
+    "Tắc mạch ngoại biên"
+  ],
+  "diagnosis": [
+    "Đo huyết áp ≥ 140/90 mmHg tại phòng khám",
+    "Đo huyết áp tại nhà ≥ 135/85 mmHg",
+    "Theo dõi huyết áp 24 giờ (ABPM ≥ 130/80 mmHg)",
+    "Xét nghiệm máu và nước tiểu",
+    "Điện tâm đồ",
+    "Siêu âm tim",
+    "Khám đáy mắt"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Ăn nhạt giảm muối",
+      "Tăng rau xanh và trái cây",
+      "Tập thể dục đều đặn",
+      "Giảm cân nếu béo phì",
+      "Hạn chế rượu bia",
+      "Bỏ thuốc lá",
+      "Giảm stress"
+    ],
+    "medication": [
+      "Thuốc ức chế men chuyển (ACE inhibitors)",
+      "Thuốc chẹn thụ thể angiotensin II (ARB)",
+      "Thuốc chẹn kênh canxi",
+      "Thuốc lợi tiểu",
+      "Thuốc chẹn beta"
+    ]
+  },
+  "risk_groups": [
+    "Người trên 55 tuổi",
+    "Người béo phì",
+    "Người hút thuốc lá",
+    "Người ít vận động",
+    "Người có tiền sử gia đình",
+    "Người mắc tiểu đường",
+    "Người stress kéo dài"
+  ],
+  "prevention": [
+    "Duy trì cân nặng hợp lý",
+    "Ăn uống lành mạnh",
+    "Tập thể dục thường xuyên",
+    "Hạn chế muối",
+    "Không hút thuốc",
+    "Uống rượu có kiểm soát",
+    "Khám sức khỏe định kỳ"
+  ],
+  "when_to_see_doctor": [
+    "Huyết áp ≥ 180/120 mmHg",
+    "Đau ngực dữ dội",
+    "Khó thở",
+    "Mờ mắt",
+    "Đau đầu nặng",
+    "Ngất xỉu",
+    "Chảy máu cam nhiều"
+  ],
+  "care_notes": [
+    "Theo dõi huyết áp thường xuyên",
+    "Tuân thủ điều trị theo chỉ định",
+    "Không tự ý ngưng thuốc",
+    "Duy trì chế độ ăn nhạt",
+    "Tái khám định kỳ"
+  ],
+  "source": "Bệnh viện Tâm Anh",
+  "url": "https://tamanhhospital.vn/benh/tang-huyet-ap/"
+}

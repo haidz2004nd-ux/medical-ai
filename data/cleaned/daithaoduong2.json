@@ -1,0 +1,112 @@
+{
+  "title": "Đái tháo đường",
+  "type": "disease",
+  "topic": "bệnh nội tiết - chuyển hóa",
+  "definition": "Đái tháo đường là một bệnh rối loạn chuyển hóa mạn tính không lây nhiễm, đặc trưng bởi tình trạng tăng glucose máu kéo dài. Bệnh là hệ quả của việc thiếu hụt sản xuất insulin của tuyến tụy, giảm tác dụng của insulin (kháng insulin), hoặc cả hai, dẫn đến tổn thương cấu trúc và chức năng ở nhiều cơ quan, đặc biệt là tim, mạch máu, thận, mắt và thần kinh.",
+  "classification": [
+    "Đái tháo đường type 1 (Phá hủy tế bào beta, thiếu insulin tuyệt đối)",
+    "Đái tháo đường type 2 (Kháng insulin và giảm tiết insulin tương đối)",
+    "Đái tháo đường thai kỳ (Phát hiện lần đầu trong quá trình mang thai)",
+    "Đái tháo đường thứ phát (Do thuốc, bệnh tụy ngoại tiết, hoặc bệnh nội tiết khác)"
+  ],
+  "pathophysiology": [
+    "Tăng glucose máu kéo dài do rối loạn chuyển hóa đường",
+    "Kháng insulin tại các mô cơ, gan và mỡ",
+    "Suy giảm chức năng tế bào beta tuyến tụy không cung cấp đủ insulin",
+    "Rối loạn chuyển hóa carbohydrate, lipid và protein hệ thống",
+    "Tổn thương mạch máu nhỏ (vi mạch) và mạch máu lớn (vữa xơ động mạch)"
+  ],
+  "causes": {
+    "primary": [
+      "Yếu tố di truyền (tiền sử gia đình)",
+      "Đột biến gen ảnh hưởng chức năng tế bào beta",
+      "Phản ứng tự miễn phá hủy đảo tụy (trong type 1)",
+      "Lão hóa hệ thống nội tiết"
+    ],
+    "secondary": [
+      "Béo phì, đặc biệt là béo bụng",
+      "Lối sống ít vận động",
+      "Chế độ ăn quá nhiều năng lượng, đường và tinh bột tinh chế",
+      "Sử dụng thuốc kéo dài (Corticosteroid, thuốc lợi tiểu)",
+      "Bệnh lý tuyến tụy (Viêm tụy, u tụy)",
+      "Rối loạn nội tiết (Hội chứng Cushing, cường giáp)",
+      "Thai kỳ (Sự thay đổi hormone gây kháng insulin)"
+    ]
+  },
+  "symptoms": [
+    "Khát nước và uống nước rất nhiều (Đa khát)",
+    "Tiểu nhiều lần, lượng nước tiểu lớn (Đa niệu)",
+    "Ăn nhiều nhưng sụt cân không rõ nguyên nhân (Đa thực)",
+    "Mệt mỏi, suy nhược cơ thể",
+    "Nhìn mờ, thị lực giảm sút",
+    "Tê bì, châm chích ở bàn tay hoặc bàn chân",
+    "Vết thương, vết loét chậm lành",
+    "Nhiễm trùng tái diễn (nấm da, nhiễm trùng tiểu)"
+  ],
+  "complications": [
+    "Biến chứng mạch máu lớn: Nhồi máu cơ tim, đột quỵ, bệnh động mạch ngoại biên",
+    "Biến chứng mạch máu nhỏ: Bệnh thận (suy thận mạn), bệnh võng mạc (mù lòa)",
+    "Biến chứng thần kinh: Loét bàn chân đái tháo đường, rối loạn thần kinh thực vật",
+    "Biến chứng cấp tính: Hôn mê do nhiễm toan ceton hoặc tăng áp lực thẩm thấu",
+    "Nhiễm trùng nặng và nguy cơ phải cắt cụt chi"
+  ],
+  "diagnosis": [
+    "Glucose huyết tương lúc đói (FPG) ≥ 126 mg/dL (7,0 mmol/L)",
+    "Glucose huyết tương 2 giờ sau nghiệm pháp dung nạp (OGTT) ≥ 200 mg/dL (11,1 mmol/L)",
+    "HbA1c ≥ 6,5%",
+    "Glucose huyết tương bất kỳ ≥ 200 mg/dL kèm các triệu chứng kinh điển"
+  ],
+  "risk_groups": [
+    "Người thừa cân, béo phì (BMI ≥ 23 tại Việt Nam)",
+    "Người ít vận động thể lực",
+    "Người có người thân trực hệ mắc đái tháo đường",
+    "Người từ 45 tuổi trở lên",
+    "Người có tiền sử tăng huyết áp hoặc rối loạn lipid máu",
+    "Phụ nữ từng mắc đái tháo đường thai kỳ hoặc sinh con > 4kg"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Chế độ ăn kiểm soát carbohydrate, tăng cường chất xơ",
+      "Tập thể dục cường độ trung bình tối thiểu 150 phút/tuần",
+      "Kiểm soát cân nặng và giảm mỡ bụng",
+      "Ngừng hút thuốc và hạn chế rượu bia",
+      "Theo dõi đường huyết tại nhà"
+    ],
+    "medication": [
+      "Thuốc hạ đường huyết đường uống (Metformin, Sulfonylurea...)",
+      "Liệu pháp Insulin (tiêm dưới da)",
+      "Thuốc ức chế men chuyển hoặc đối kháng thụ thể bảo vệ thận",
+      "Thuốc kiểm soát huyết áp và mỡ máu phối hợp"
+    ]
+  },
+  "prevention": [
+    "Ăn uống lành mạnh, hạn chế đồ uống có đường",
+    "Duy trì hoạt động thể chất đều đặn mỗi ngày",
+    "Kiểm soát cân nặng hợp lý",
+    "Khám sức khỏe định kỳ tầm soát đường huyết",
+    "Quản lý căng thẳng và ngủ đủ giấc"
+  ],
+  "when_to_see_doctor": [
+    "Khát nước và đi tiểu liên tục",
+    "Sụt cân nhanh dù ăn uống bình thường",
+    "Vết thương ở chân bị sưng đỏ, lâu lành",
+    "Nhìn mờ hoặc tê đầu chi",
+    "Thường xuyên hoa mắt, chóng mặt hoặc vã mồ hôi lạnh"
+  ],
+  "care_notes": [
+    "Đái tháo đường là bệnh mạn tính cần tuân thủ điều trị suốt đời",
+    "Không tự ý bỏ thuốc ngay cả khi đường huyết đã về mức bình thường",
+    "Chăm sóc và kiểm tra bàn chân hàng ngày để tránh biến chứng loét",
+    "Dự phòng kẹo hoặc viên đường để xử trí khi có dấu hiệu hạ đường huyết",
+    "Tái khám định kỳ để tầm soát biến chứng mắt, thận và tim mạch"
+  ],
+  "epidemiology": [
+    "Là bệnh lý chuyển hóa phổ biến nhất toàn cầu",
+    "Tỷ lệ mắc bệnh tại Việt Nam đang tăng nhanh và có xu hướng trẻ hóa",
+    "Khoảng 50% người mắc bệnh trong cộng đồng chưa được chẩn đoán",
+    "Là nguyên nhân hàng đầu gây suy thận giai đoạn cuối và đoạn chi không do chấn thương",
+    "Liên quan trực tiếp đến sự gia tăng của lối sống đô thị hóa và béo phì"
+  ],
+  "source": "Trung tâm Y tế Phường 3 Quận 6 (MEDINET)",
+  "url": "https://tytphuong3q6.medinet.gov.vn/quan-ly-benh-man-tinh-khong-lay/tong-quan-benh-dai-thao-duong-nguyen-nhan-dau-hieu-bien-chung-va-cach-dieu-tri-cmobile11565-176190.aspx"
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Tiêu chảy",
+  "type": "disease",
+  "topic": "tiêu hóa",
+  "definition": "Tiêu chảy là tình trạng đi ngoài phân lỏng hoặc phân nước từ 3 lần trở lên trong 24 giờ. Tiêu chảy có thể là cấp tính (dưới 2 tuần) hoặc mạn tính (kéo dài trên 4 tuần), gây mất nước và rối loạn điện giải, đặc biệt nguy hiểm ở trẻ em và người già.",
+  "classification": [
+    "Tiêu chảy cấp",
+    "Tiêu chảy mạn",
+    "Tiêu chảy nhiễm trùng",
+    "Tiêu chảy không nhiễm trùng",
+    "Tiêu chảy thẩm thấu",
+    "Tiêu chảy tiết dịch"
+  ],
+  "pathophysiology": [
+    "Tăng tiết dịch trong lòng ruột gây phân lỏng",
+    "Giảm hấp thu nước và điện giải tại ruột",
+    "Tăng nhu động ruột làm giảm thời gian hấp thu",
+    "Viêm niêm mạc ruột do nhiễm trùng hoặc miễn dịch",
+    "Rối loạn hệ vi sinh đường ruột"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus (rotavirus, norovirus)",
+      "Nhiễm vi khuẩn (salmonella, shigella, E.coli)",
+      "Nhiễm ký sinh trùng (giardia)",
+      "Ngộ độc thực phẩm",
+      "Dùng thực phẩm hoặc nước nhiễm bẩn"
+    ],
+    "chronic": [
+      "Hội chứng ruột kích thích",
+      "Bệnh Crohn",
+      "Viêm loét đại tràng",
+      "Bệnh celiac",
+      "Không dung nạp lactose",
+      "Khối u đường tiêu hóa",
+      "Hội chứng kém hấp thu",
+      "Bệnh Hirschsprung",
+      "Xơ nang",
+      "Rối loạn tiêu hóa bạch cầu ái toan",
+      "Thiếu kẽm"
+    ]
+  },
+  "symptoms": [
+    "Đi ngoài phân lỏng hoặc nước từ 3 lần/ngày",
+    "Đau bụng, quặn bụng",
+    "Buồn nôn hoặc nôn",
+    "Sốt",
+    "Đầy hơi",
+    "Mất nước (khô miệng, ít nước tiểu)",
+    "Chóng mặt",
+    "Mệt mỏi",
+    "Phân có máu hoặc nhầy (trường hợp nặng)",
+    "Da khô, lạnh"
+  ],
+  "complications": [
+    "Mất nước nặng",
+    "Rối loạn điện giải",
+    "Co giật do mất nước",
+    "Suy thận cấp",
+    "Sốc giảm thể tích",
+    "Tử vong (trường hợp nặng không điều trị)"
+  ],
+  "diagnosis": [
+    "Khai thác triệu chứng và tiền sử ăn uống",
+    "Xét nghiệm phân (nuôi cấy, ký sinh trùng)",
+    "Xét nghiệm máu",
+    "Đánh giá điện giải",
+    "Siêu âm ổ bụng",
+    "Nội soi tiêu hóa khi cần",
+    "Xét nghiệm dị ứng hoặc không dung nạp thực phẩm"
+  ],
+  "risk_groups": [
+    "Trẻ em dưới 5 tuổi",
+    "Người cao tuổi",
+    "Người suy dinh dưỡng",
+    "Người sống trong điều kiện vệ sinh kém",
+    "Người không tiêm vaccine rotavirus",
+    "Người đi du lịch vùng kém vệ sinh",
+    "Người suy giảm miễn dịch"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Bù nước và điện giải đầy đủ",
+      "Uống dung dịch oresol đúng cách",
+      "Ăn thức ăn dễ tiêu",
+      "Tiếp tục bú mẹ ở trẻ nhỏ",
+      "Tránh thực phẩm nhiều dầu mỡ",
+      "Vệ sinh tay sạch sẽ"
+    ],
+    "medication": [
+      "Dung dịch bù nước oresol",
+      "Thuốc kháng sinh (khi nhiễm vi khuẩn theo chỉ định)",
+      "Thuốc chống ký sinh trùng",
+      "Probiotic hỗ trợ hệ vi sinh",
+      "Truyền dịch trong trường hợp mất nước nặng"
+    ]
+  },
+  "prevention": [
+    "Rửa tay thường xuyên bằng xà phòng",
+    "Tiêm vaccine rotavirus",
+    "Ăn chín uống sôi",
+    "Tránh thực phẩm không đảm bảo vệ sinh",
+    "Không uống nước chưa đun sôi",
+    "Vệ sinh dụng cụ ăn uống sạch sẽ"
+  ],
+  "when_to_see_doctor": [
+    "Tiêu chảy kéo dài trên 2–3 ngày",
+    "Có dấu hiệu mất nước nặng",
+    "Phân có máu",
+    "Sốt cao không giảm",
+    "Nôn liên tục",
+    "Trẻ lừ đừ, bỏ bú"
+  ],
+  "care_notes": [
+    "Tiêu chảy thường do nhiễm trùng đường ruột",
+    "Mất nước là biến chứng nguy hiểm nhất",
+    "Không tự ý dùng thuốc cầm tiêu chảy ở trẻ nhỏ",
+    "Cần theo dõi lượng nước tiểu và tình trạng mất nước",
+    "Điều trị chủ yếu là bù nước và điều chỉnh nguyên nhân"
+  ],
+  "epidemiology": [
+    "Tiêu chảy là bệnh tiêu hóa phổ biến toàn cầu",
+    "Gây tử vong cao ở trẻ nhỏ tại các nước đang phát triển",
+    "Thường bùng phát theo mùa hoặc theo dịch",
+    "Liên quan chặt chẽ đến vệ sinh môi trường và thực phẩm"
+  ],
+  "source": "Vinmec",
+  "url": "https://www.vinmec.com/vie/benh/tieu-chay-3002"
+}

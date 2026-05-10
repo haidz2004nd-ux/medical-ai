@@ -1,0 +1,116 @@
+{
+  "title": "Sốt",
+  "type": "symptom",
+  "topic": "triệu chứng",
+  "definition": "Sốt là tình trạng nhiệt độ cơ thể tăng cao hơn mức bình thường do trung tâm điều nhiệt ở vùng dưới đồi thiết lập lại điểm nhiệt độ cao hơn. Đây không phải là một bệnh lý riêng biệt mà là một đáp ứng bảo vệ của hệ miễn dịch trước các tác nhân gây hại.",
+  "classification": [
+    "Sốt nhẹ: 37.5–38°C",
+    "Sốt vừa: 38.1–39°C",
+    "Sốt cao: 39.1–40°C",
+    "Sốt rất cao: >40°C (nguy cơ tổn thương não)",
+    "Sốt cấp tính: Kéo dài dưới 7 ngày",
+    "Sốt kéo dài: Kéo dài trên 2 tuần"
+  ],
+  "pathophysiology": [
+    "Tác nhân ngoại lai (vi khuẩn, virus) kích thích hệ miễn dịch",
+    "Giải phóng các cytokine gây sốt nội sinh (IL-1, IL-6, TNF-alpha)",
+    "Tổng hợp Prostaglandin E2 tại vùng dưới đồi",
+    "Nâng mức điểm điều nhiệt (set-point) lên cao hơn",
+    "Cơ thể phản ứng bằng cách co mạch ngoại vi, run rẩy để tăng sinh nhiệt và giảm tỏa nhiệt"
+  ],
+  "causes": {
+    "acute": [
+      "Nhiễm virus đường hô hấp (Cúm, COVID-19, Adenovirus)",
+      "Nhiễm khuẩn cấp tính (Viêm họng, viêm amidan, viêm phổi, nhiễm trùng tiểu)",
+      "Sốt xuất huyết, sốt rét",
+      "Tiêm chủng vaccine",
+      "Sốc nhiệt do môi trường nóng bức",
+      "Mọc răng (ở trẻ em)"
+    ],
+    "chronic": [
+      "Các bệnh nhiễm trùng mạn tính (Lao, HIV/AIDS)",
+      "Bệnh tự miễn và bệnh hệ thống (Lupus ban đỏ, viêm khớp dạng thấp)",
+      "Các bệnh lý ác tính (Ung thư máu, ung thư hạch)",
+      "Rối loạn nội tiết (Cường giáp)",
+      "Áp xe sâu bên trong cơ thể"
+    ]
+  },
+  "symptoms": [
+    "Thân nhiệt tăng cao khi đo bằng nhiệt kế",
+    "Rùng mình, run rẩy hoặc ớn lạnh",
+    "Vã mồ hôi, đỏ bừng mặt",
+    "Đau đầu, đau nhức các cơ và khớp",
+    "Mệt mỏi, lờ đờ, chán ăn",
+    "Nhịp tim nhanh, nhịp thở nhanh",
+    "Dấu hiệu mất nước: Môi khô, lưỡi bẩn, tiểu ít và sẫm màu"
+  ],
+  "complications": [
+    "Mất nước và rối loạn điện giải",
+    "Co giật do sốt cao (đặc biệt ở trẻ em từ 6 tháng đến 5 tuổi)",
+    "Mê sảng, ảo giác và rối loạn ý thức",
+    "Kiệt sức vì nhiệt",
+    "Suy đa cơ quan (nếu sốt cực cao không được kiểm soát)"
+  ],
+  "diagnosis": [
+    "Đo nhiệt độ cơ thể (nách, miệng, hậu môn, tai)",
+    "Khám lâm sàng toàn diện tìm ổ nhiễm trùng",
+    "Công thức máu (WBC, CRP, máu lắng) để xác định tình trạng viêm",
+    "Xét nghiệm nước tiểu, xét nghiệm phân",
+    "Cấy máu hoặc dịch cơ thể nếu nghi ngờ nhiễm khuẩn huyết",
+    "Chẩn đoán hình ảnh (X-quang, siêu âm) khi cần tìm nguyên nhân sâu xa"
+  ],
+  "risk_groups": [
+    "Trẻ sơ sinh và trẻ nhỏ",
+    "Người cao tuổi (trên 65 tuổi)",
+    "Người có bệnh nền mạn tính (Tim mạch, tiểu đường, hen suyễn)",
+    "Người bị suy giảm miễn dịch",
+    "Phụ nữ có thai"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi tuyệt đối trong không gian thoáng đãng",
+      "Uống nhiều nước, bổ sung dung dịch điện giải (Oresol)",
+      "Mặc quần áo mỏng, nhẹ, thấm hút mồ hôi tốt",
+      "Chườm ấm (nhiệt độ nước thấp hơn thân nhiệt 2°C) vào vùng nách, bẹn",
+      "Ăn thức ăn lỏng, dễ tiêu hóa như cháo, súp"
+    ],
+    "medication": [
+      "Thuốc hạ sốt Paracetamol (Acetaminophen) là lựa chọn hàng đầu",
+      "Thuốc nhóm NSAIDs (Ibuprofen) theo chỉ dẫn y tế",
+      "Thuốc kháng sinh hoặc kháng virus (chỉ dùng khi xác định được nguyên nhân)",
+      "Bù dịch qua đường tĩnh mạch nếu có dấu hiệu mất nước nặng"
+    ]
+  },
+  "prevention": [
+    "Rửa tay thường xuyên và giữ vệ sinh cá nhân sạch sẽ",
+    "Tiêm phòng đầy đủ các loại vaccine theo độ tuổi",
+    "Đảm bảo vệ sinh an toàn thực phẩm",
+    "Tránh tiếp xúc với người đang mắc bệnh truyền nhiễm",
+    "Nâng cao sức đề kháng bằng chế độ ăn uống và vận động",
+    "Giữ môi trường sống thông thoáng, sạch sẽ"
+  ],
+  "when_to_see_doctor": [
+    "Sốt cao trên 39°C không giảm sau khi dùng thuốc",
+    "Sốt kéo dài liên tục trên 3 ngày",
+    "Có dấu hiệu co giật, khó thở, đau ngực",
+    "Cứng cổ, đau đầu dữ dội",
+    "Nổi phát ban trên da",
+    "Li bì, khó đánh thức hoặc lú lẫn",
+    "Trẻ nhỏ bỏ bú, quấy khóc không ngừng"
+  ],
+  "care_notes": [
+    "Sốt là một triệu chứng phản ứng của cơ thể, cần điều trị nguyên nhân thay vì chỉ cắt cơn sốt",
+    "Không tự ý sử dụng kháng sinh khi chưa có bằng chứng nhiễm khuẩn",
+    "Không ủ ấm hoặc đắp chăn kín khi đang sốt cao",
+    "Theo dõi sát nhiệt độ mỗi 1-2 giờ/lần",
+    "Duy trì chế độ dinh dưỡng đầy đủ để cơ thể nhanh phục hồi"
+  ],
+  "epidemiology": [
+    "Là lý do phổ biến nhất khiến bệnh nhân đi khám bệnh tại các cơ sở y tế",
+    "Tỷ lệ mắc tăng cao vào các mùa dịch bệnh (mùa đông xuân đối với hô hấp, mùa mưa đối với sốt xuất huyết)",
+    "Ảnh hưởng đến mọi lứa tuổi nhưng tần suất cao nhất ở trẻ em",
+    "Có mối liên quan mật thiết đến điều kiện vệ sinh và mật độ dân cư"
+  ],
+  "source": "Long Châu",
+  "url": "https://nhathuoclongchau.com.vn/benh/sot-618.html"
+}

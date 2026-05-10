@@ -1,0 +1,5 @@
+﻿config,use_rag,bleu_4,rouge_l,bertscore_f1,recall_at_5,n_samples
+"A (Base, No RAG)",False,0.0248,0.2717,0.8353,N/A,50
+"B (Base, RAG)",True,0.1373,0.3993,0.8634,0.84,50
+"C (Fine-tuned, No RAG)",False,0.0475,0.2982,0.8469,N/A,50
+"D (Fine-tuned, RAG)",True,0.2161,0.4167,0.8689,0.84,50

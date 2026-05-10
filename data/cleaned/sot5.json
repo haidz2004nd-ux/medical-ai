@@ -1,0 +1,114 @@
+{
+  "title": "Sốt kéo dài không rõ nguyên nhân",
+  "type": "clinical_syndrome",
+  "topic": "lâm sàng",
+  "definition": "Sốt kéo dài không rõ nguyên nhân (Fever of Unknown Origin - FUO) là tình trạng sốt từ 38,3°C trở lên trong nhiều lần đo, kéo dài trên 3 tuần (hoặc trên 1 tuần đối với bệnh nhân nội trú) mà chưa tìm ra nguyên nhân dù đã thực hiện các thăm khám lâm sàng và xét nghiệm cơ bản.",
+  "classification": [
+    "FUO cổ điển (Classical FUO)",
+    "FUO ở bệnh nhân giảm bạch cầu hạt (Nosocomial FUO)",
+    "FUO ở bệnh nhân suy giảm miễn dịch",
+    "FUO liên quan đến HIV/AIDS"
+  ],
+  "pathophysiology": [
+    "Sự giải phóng liên tục của các cytokine gây sốt (IL-1, IL-6, TNF-alpha)",
+    "Rối loạn trung tâm điều hòa thân nhiệt tại vùng dưới đồi kéo dài",
+    "Phản ứng viêm hệ thống không đặc hiệu",
+    "Hoạt hóa liên tục hệ thống miễn dịch đáp ứng với kháng nguyên tiềm ẩn",
+    "Tăng chuyển hóa cơ bản và tiêu hao năng lượng dự trữ cơ thể"
+  ],
+  "causes": {
+    "infectious": [
+      "Lao (đặc biệt là lao ngoài phổi)",
+      "Viêm nội tâm mạc nhiễm khuẩn",
+      "Áp xe sâu (gan, dưới cơ hoành, hố chậu)",
+      "Nhiễm ký sinh trùng (sốt rét, amip)",
+      "Nhiễm virus mạn tính (EBV, CMV, HIV)"
+    ],
+    "non_infectious": [
+      "Bệnh ác tính (U lympho, lơ-xê-mi, ung thư tế bào thận)",
+      "Bệnh tự miễn/hệ thống (Lupus ban đỏ, viêm khớp dạng thấp, bệnh Still ở người lớn)",
+      "Viêm mạch máu (Viêm đa động mạch nút, viêm động mạch thái dương)",
+      "Do thuốc (Sốt do thuốc)",
+      "Bệnh u hạt (Sarcoidosis)",
+      "Giả vờ sốt (Factitious fever)"
+    ]
+  },
+  "symptoms": [
+    "Sốt kéo dài trên 3 tuần không rõ lý do",
+    "Sốt tái phát theo chu kỳ hoặc không đều",
+    "Sút cân nhanh chóng, suy nhược cơ thể",
+    "Mệt mỏi kéo dài, giảm khả năng gắng sức",
+    "Đổ mồ hôi trộm về đêm",
+    "Chán ăn, ăn không ngon miệng",
+    "Đau cơ, đau khớp di chuyển",
+    "Các triệu chứng đặc hiệu tùy theo nguyên nhân tiềm ẩn (phát ban, hạch to)"
+  ],
+  "complications": [
+    "Suy kiệt cơ thể nặng (Cachexia)",
+    "Rối loạn điện giải và thăng bằng kiềm toan mạn tính",
+    "Suy đa cơ quan do phản ứng viêm hệ thống",
+    "Bỏ lỡ giai đoạn vàng điều trị các bệnh ác tính hoặc nhiễm trùng nguy hiểm",
+    "Ảnh hưởng tâm lý và chất lượng cuộc sống nghiêm trọng"
+  ],
+  "diagnosis": [
+    "Khai thác kỹ tiền sử du lịch, tiếp xúc và dùng thuốc",
+    "Khám lâm sàng tỉ mỉ nhiều lần để tìm các dấu hiệu mới xuất hiện",
+    "Xét nghiệm máu (Công thức máu, tốc độ máu lắng ESR, CRP)",
+    "Cấy máu, cấy nước tiểu, cấy đờm nhiều lần",
+    "Chẩn đoán hình ảnh cao cấp (CT Scan toàn thân, MRI, PET-CT)",
+    "Thăm dò xâm lấn (Chọc hút tủy xương, sinh thiết hạch, sinh thiết gan)",
+    "Xét nghiệm kháng thể và sinh học phân tử (PCR)"
+  ],
+  "risk_groups": [
+    "Người bị suy giảm miễn dịch (HIV, ghép tạng)",
+    "Bệnh nhân ung thư đang điều trị hóa chất",
+    "Người cao tuổi có nhiều bệnh nền",
+    "Người vừa trở về từ vùng dịch tễ (sốt rét, vùng có bệnh lạ)",
+    "Bệnh nhân nằm viện lâu ngày hoặc can thiệp thủ thuật xâm lấn"
+  ],
+  "treatment": {
+    "lifestyle": [
+      "Nghỉ ngơi tại môi trường sạch sẽ, thoáng mát",
+      "Chế độ dinh dưỡng cao năng lượng, giàu protein và vitamin",
+      "Bù nước và điện giải liên tục đường uống hoặc tĩnh mạch",
+      "Theo dõi nhiệt độ và các dấu hiệu sinh tồn sát sao",
+      "Giữ tinh thần ổn định, tránh lo âu quá mức"
+    ],
+    "medication": [
+      "Điều trị thử (Empiric therapy) bằng kháng sinh hoặc thuốc kháng lao (chỉ khi có chỉ định)",
+      "Thuốc hạ sốt và giảm đau (Paracetamol, NSAIDs)",
+      "Corticosteroid (chỉ dùng sau khi đã loại trừ nhiễm trùng)",
+      "Điều trị đích sau khi xác định chính xác nguyên nhân (hóa trị, kháng sinh đặc hiệu)"
+    ]
+  },
+  "prevention": [
+    "Khám sức khỏe định kỳ để phát hiện sớm các bệnh lý tiềm ẩn",
+    "Tiêm chủng phòng ngừa các bệnh truyền nhiễm phổ biến",
+    "Thực hiện an toàn vệ sinh thực phẩm và môi trường sống",
+    "Tuân thủ điều trị các bệnh mạn tính hiện có",
+    "Tránh tự ý sử dụng các loại thuốc không rõ nguồn gốc kéo dài"
+  ],
+  "when_to_see_doctor": [
+    "Sốt kéo dài trên 2 tuần chưa rõ nguyên nhân",
+    "Sốt kèm theo sút cân đáng kể (>5% trọng lượng cơ thể)",
+    "Xuất hiện các dấu hiệu lạ như hạch ngoại vi, vàng da",
+    "Mệt mỏi cực độ ảnh hưởng đến sinh hoạt hàng ngày",
+    "Sốt kèm các rối loạn thần kinh hoặc ý thức"
+  ],
+  "care_notes": [
+    "FUO là một thách thức chẩn đoán, cần sự kiên trì của cả bác sĩ và bệnh nhân",
+    "Không nên tự ý dùng thuốc hạ sốt liều cao làm che lấp triệu chứng",
+    "Ghi chép nhật ký sốt chi tiết (thời điểm, nhiệt độ, triệu chứng đi kèm)",
+    "Cần phối hợp nhiều chuyên khoa để tìm ra nguyên nhân cuối cùng",
+    "Tâm lý trị liệu quan trọng đối với bệnh nhân sốt kéo dài chưa tìm ra bệnh"
+  ],
+  "epidemiology": [
+    "Tỉ lệ gặp khó khăn trong chẩn đoán khoảng 10–25% các trường hợp sốt",
+    "Nguyên nhân nhiễm trùng chiếm khoảng 25–35%",
+    "Bệnh ác tính và bệnh mô liên kết chiếm khoảng 25–40%",
+    "Khoảng 10–15% trường hợp FUO vẫn không tìm được nguyên nhân sau khi xuất viện",
+    "Phân bố nguyên nhân thay đổi tùy theo độ tuổi và vùng địa lý"
+  ],
+  "source": "Bệnh viện Nghệ An",
+  "url": "https://bvnghean.vn/sot-keo-dai-khong-ro-nguyen-nhan/"
+}
